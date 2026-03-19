@@ -116,10 +116,12 @@
     <p>
       <strong>Recent dataset:</strong> earthquakes from the latest rolling recent window used to build the map as CSV. This dataset is updated hourly.
       <br>
-      <a class="button" id="recent-csv-link" href="eq_canada_recent.csv">Download recent dataset CSV</a>
-      <br>
       <strong>Full dataset:</strong> the complete downloadable archive from 1985 to present as either CSV or GZ. This dataset is updated daily.
-      <br>
+    </p>
+
+    <p>
+      <a class="button" id="map-link" href="latest_eq_map.png">Open latest map</a>
+      <a class="button" id="recent-csv-link" href="eq_canada_recent.csv">Download recent dataset CSV</a>
       <a class="button" id="full-gz-link" href="eq_canada_full.csv.gz">Download full dataset compressed GZ (1985 to present)</a>
       <a class="button" id="full-csv-link" href="eq_canada_full.csv">Download full dataset CSV (1985 to present)</a>
     </p>
@@ -179,9 +181,9 @@
 
   document.getElementById("eq-map").src = "latest_eq_map.png?t=" + ts;
   document.getElementById("map-link").href = "latest_eq_map.png?t=" + ts;
-  document.getElementById("full-csv-link").href = "eq_canada_full.csv?t=" + ts;
-  document.getElementById("full-gz-link").href = "eq_canada_full.csv.gz?t=" + ts;
   document.getElementById("recent-csv-link").href = "eq_canada_recent.csv?t=" + ts;
+  document.getElementById("full-gz-link").href = "eq_canada_full.csv.gz?t=" + ts;
+  document.getElementById("full-csv-link").href = "eq_canada_full.csv?t=" + ts;
 
   loadTextFile("last_updated.txt", "last-updated");
   loadTextFile("full_updated.txt", "full-updated");
