@@ -482,4 +482,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260318.1245001,2026-03-18T12:45:39.000Z,51.2341,-130.7073,10.0,Mw',3.22,"232 km WNW of Port Hardy, BC/232 km ONO de Port Hardy, BC"
 20260318.1448001,2026-03-18T14:48:44.000Z,48.9646,-128.3176,10.0,Mw',3.0,"177 km W of Tofino, BC/177 km O de Tofino, BC"
 20260318.1553001,2026-03-18T15:53:17.000Z,48.9484,-128.2802,10.0,Mw',2.99,"175 km W of Tofino, BC/175 km O de Tofino, BC"
+20260318.1559001,2026-03-18T15:59:14.000Z,51.9552,-124.6549,5.0,ML,2.12,"52 km WSW of Redstone Flat 1, BC/52 km OSO de Redstone Flat 1, BC"
+20260318.2250001,2026-03-18T22:50:25.000Z,60.5816,-139.7735,1.0,ML,3.02,"125 km W of Haines Junction, YT/125 km O de Haines Junction, YT"
 20260318.2252001,2026-03-18T22:52:11.000Z,52.7685,-132.3681,19.69,ML,2.87,"57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
