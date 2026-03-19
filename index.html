@@ -56,6 +56,7 @@
       text-decoration: none;
       border-radius: 6px;
       margin-right: 0.75rem;
+      margin-bottom: 0.5rem;
     }
 
     a.button:hover {
@@ -78,6 +79,10 @@
     .meta p {
       margin: 0.35rem 0;
     }
+
+    h2 {
+      margin-top: 0;
+    }
   </style>
 </head>
 
@@ -99,14 +104,19 @@
     </p>
 
     <p>
-      The dataset is refreshed automatically once per hour and contains the most recent
-      earthquake records across Canada. The downloadable CSV file corresponds directly
-      to the dataset used to generate the map.
+      The map below shows earthquakes recorded during the last 30 days in the most recent
+      hourly dataset. Symbol size scales with magnitude and symbol colour represents
+      earthquake depth.
     </p>
 
     <p>
-      The map below shows earthquakes recorded over the last 30 days. Symbol size scales
-      with magnitude and symbol colour represents earthquake depth.
+      Two downloadable datasets are provided:
+    </p>
+
+    <p>
+      <strong>Recent dataset:</strong> earthquakes from the latest rolling recent window used to build the map. This dataset is updated hourly.
+      <br>
+      <strong>Full dataset:</strong> the complete downloadable archive from 1985 to present. This dataset is updated weekly.
     </p>
 
     <p>
@@ -116,11 +126,13 @@
 
     <p>
       <a class="button" id="map-link" href="latest_eq_map.png">Open latest map</a>
-      <a class="button" id="csv-link" href="eq_canada_latest.csv">Download latest CSV</a>
+      <a class="button" id="full-csv-link" href="eq_canada_full.csv">Download full dataset CSV (1985 to present)</a>
+      <a class="button" id="recent-csv-link" href="eq_canada_recent.csv">Download recent dataset CSV</a>
     </p>
 
     <div class="meta">
-      <p><strong>Last updated:</strong> <span id="last-updated">Loading...</span></p>
+      <p><strong>Map / recent dataset last updated:</strong> <span id="last-updated">Loading...</span></p>
+      <p><strong>Full dataset last updated:</strong> <span id="full-updated">Loading...</span></p>
       <p><strong>Mapped earthquakes in last 30 days:</strong> <span id="event-count">Loading...</span></p>
     </div>
 
@@ -132,21 +144,22 @@
       <br>
       Map generated using
       <a href="https://www.generic-mapping-tools.org/" target="_blank" rel="noopener noreferrer">
-      GMT (Generic Mapping Tools)
+        GMT (Generic Mapping Tools)
       </a>.
       <br>
       Depth colours use the
       <a href="https://www.fabiocrameri.ch/colourmaps/" target="_blank" rel="noopener noreferrer">
-      Scientific Colour Maps by Fabio Crameri
+        Scientific Colour Maps by Fabio Crameri
       </a>.
     </p>
 
     <p class="small">
-      This dashboard updates automatically every hour.
+      The recent dataset and map are refreshed hourly. The complete historical dataset is refreshed weekly.
     </p>
   </div>
 
   <div class="card">
+    <h2>Earthquakes in last 30 days</h2>
     <img id="eq-map" src="latest_eq_map.png" alt="Earthquakes in last 30 days">
   </div>
 
@@ -168,9 +181,11 @@
 
   document.getElementById("eq-map").src = "latest_eq_map.png?t=" + ts;
   document.getElementById("map-link").href = "latest_eq_map.png?t=" + ts;
-  document.getElementById("csv-link").href = "eq_canada_latest.csv?t=" + ts;
+  document.getElementById("full-csv-link").href = "eq_canada_full.csv?t=" + ts;
+  document.getElementById("recent-csv-link").href = "eq_canada_recent.csv?t=" + ts;
 
   loadTextFile("last_updated.txt", "last-updated");
+  loadTextFile("full_updated.txt", "full-updated");
   loadTextFile("event_count.txt", "event-count");
 </script>
 
