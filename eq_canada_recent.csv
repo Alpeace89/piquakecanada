@@ -489,3 +489,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260319.1645001,2026-03-19T16:45:38.000Z,54.5462,-118.5524,1.0,MLy,2.09,"Suspected industry-related event, 71 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 71 km SSE de Grande Prairie, AB"
 20260319.1813001,2026-03-19T18:13:22.000Z,60.389,-139.4682,5.0,ML,2.56,"114 km WSW of Haines Junction, YT/114 km OSO de Haines Junction, YT"
 20260319.1950001,2026-03-19T19:50:17.000Z,60.622,-139.8611,5.0,ML,2.17,"129 km W of Haines Junction, YT/129 km O de Haines Junction, YT"
+20260319.2154001,2026-03-19T21:54:50.000Z,54.5116,-118.5486,1.0,MLy,2.07,"Suspected industry-related event, 75 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 75 km SSE de Grande Prairie, AB"
