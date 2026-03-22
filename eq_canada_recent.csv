@@ -1,11 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260204.0308002,2026-02-04T03:08:20.000Z,46.6739,-75.5817,8.63,MwN,1.55,"15 km NNW of Mont-Laurier, QC/15 km NNO de Mont-Laurier, QC"
-20260204.0545001,2026-02-04T05:45:58.000Z,60.0217,-141.468,2.47,ML,2.15,"232 km WSW of Haines Junction, YT/232 km OSO de Haines Junction, YT"
-20260204.0649001,2026-02-04T06:49:01.000Z,47.4556,-70.0589,15.57,MwN,0.92,"10 km N of La Pocatière, QC/10 km N de La Pocatière, QC"
-20260204.0746001,2026-02-04T07:46:28.000Z,52.5794,-132.033,18.71,ML,2.35,"75 km S of Daajing Giids, BC/75 km S de Daajing Giids, BC"
-20260204.1017001,2026-02-04T10:17:31.000Z,47.4561,-70.037,14.24,MwN,0.36,"10 km N of La Pocatière, QC/10 km N de La Pocatière, QC"
-20260204.1334001,2026-02-04T13:34:17.000Z,53.1676,-132.7235,13.94,ML,2.47,"44 km WSW of Daajing Giids, BC/44 km OSO de Daajing Giids, BC"
-20260204.1502003,2026-02-04T15:02:41.000Z,44.46,-76.2496,0.0,MwN,1.23,"Blast, 16 km NNW of Gananoque, ON, felt/Dynamitage, 16 km NNO de Gananoque, ON, ressenti"
 20260205.0124002,2026-02-05T01:24:18.000Z,48.1324,-80.07,1.71,MwN,1.76,"Mining event, 3 km SW of Kirkland Lake, ON/Événement minier, 3 km SO de Kirkland Lake, ON"
 20260205.0148001,2026-02-05T01:48:26.000Z,44.5233,-79.1642,2.0,MwN,0.87,"3 km SSE of Ramara, ON/3 km SSE de Ramara, ON"
 20260205.0748001,2026-02-05T07:48:14.000Z,46.6717,-77.3479,18.0,MwN,0.85,"88 km N of Petawawa, ON/88 km N de Petawawa, ON"
