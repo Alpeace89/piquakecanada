@@ -497,6 +497,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260320.1709001,2026-03-20T17:09:51.000Z,60.7467,-139.8945,5.0,ML,2.9,"83 km SW of Burwash Landing, YT/83 km SO de Burwash Landing, YT"
 20260320.1719001,2026-03-20T17:19:45.000Z,60.6424,-139.9323,5.0,ML,2.82,"94 km SSW of Burwash Landing, YT/94 km SSO de Burwash Landing, YT"
 20260321.0719001,2026-03-21T07:19:23.000Z,44.1096,-75.6162,5.0,MwN,0.63,"28 km ENE of Watertown, NY/28 km ENE de Watertown, NY"
+20260321.1202001,2026-03-21T12:02:31.000Z,68.0718,-136.9167,5.0,ML,3.14,"81 km W of Aklavik, NT/81 km O de Aklavik, NT"
 20260321.1308001,2026-03-21T13:08:03.000Z,43.7143,-76.4734,8.93,MwN,2.71,"66 km S of Kingston, ON/66 km S de Kingston, ON"
 20260321.1606001,2026-03-21T16:06:04.000Z,53.3737,-117.3069,0.0,ML,3.08,"Blast, 17 km ESE of Hinton, AB/Dynamitage, 17 km ESE de Hinton, AB"
 20260322.0516001,2026-03-22T05:16:20.000Z,47.6949,-70.1866,5.11,MwN,0.05,"6 km NNW of La Malbaie, QC/6 km NNO de La Malbaie, QC"
