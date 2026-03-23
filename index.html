@@ -100,7 +100,7 @@
     }
 
     .meta {
-      margin-top: 1rem;
+      margin-top: 0.5rem;
       padding: 0.75rem;
       background: #f8f8f8;
       border: 1px solid #ddd;
@@ -108,7 +108,7 @@
     }
 
     .meta p {
-      margin: 0.35rem 0;
+      margin: 0.6rem 0;
     }
 
     h2 {
@@ -216,6 +216,12 @@
     </p>
 
     <p>
+      The dashboard is updated automatically each hour from a Raspberry Pi system. The recent
+      dataset is refreshed hourly, the full historical dataset is refreshed regularly, and the
+      site publishes the latest summary, event table, and map to GitHub Pages.
+    </p>
+
+    <p>
       The map below shows earthquakes recorded during the last 30 days in the most recent
       hourly dataset. Symbol size scales with magnitude and symbol colour represents
       earthquake depth.
@@ -233,18 +239,22 @@
   </div>
 
   <div class="card">
-    <h2>Hourly deterministic summary</h2>
+    <h2>Dataset status</h2>
+    <div class="meta">
+      <p><strong>Recent updated:</strong> <span id="last-updated" class="loading-note">Loading...</span></p>
+      <p><strong>Full updated:</strong> <span id="full-updated" class="loading-note">Loading...</span></p>
+      <p><strong>Event count:</strong> <span id="event-count" class="loading-note">Loading...</span></p>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>Hourly summary</h2>
     <p class="small">
       This paragraph is generated automatically each hour from the recent earthquake CSV using deterministic summary logic.
     </p>
     <div id="summary-container" class="summary-box">
       <span class="loading-note">Loading summary...</span>
     </div>
-  </div>
-
-  <div class="card">
-    <h2>Latest earthquake map</h2>
-    <img id="eq-map" class="main-map" src="latest_eq_map.png" alt="Latest earthquake map">
   </div>
 
   <div class="card">
@@ -258,12 +268,8 @@
   </div>
 
   <div class="card">
-    <h2>Dataset status</h2>
-    <div class="meta">
-      <p><strong>Recent dataset updated:</strong> <span id="last-updated" class="loading-note">Loading...</span></p>
-      <p><strong>Full dataset updated:</strong> <span id="full-updated" class="loading-note">Loading...</span></p>
-      <p><strong>Current recent event count:</strong> <span id="event-count" class="loading-note">Loading...</span></p>
-    </div>
+    <h2>Latest earthquake map</h2>
+    <img id="eq-map" class="main-map" src="latest_eq_map.png" alt="Latest earthquake map">
   </div>
 
 </main>
