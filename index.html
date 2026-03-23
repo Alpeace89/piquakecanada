@@ -121,7 +121,7 @@
       border-left: 5px solid #b22222;
       border-radius: 6px;
       padding: 1rem;
-      white-space: pre-wrap;
+      white-space: normal;
     }
 
     .recent-table-wrapper {
@@ -222,22 +222,13 @@
     </p>
 
     <p>
-      Three downloadable datasets are provided:
+      Downloadable datasets:
     </p>
 
     <p>
       <a id="recent-csv-link" class="button" href="#">Recent CSV</a>
       <a id="full-csv-link" class="button" href="#">Full CSV</a>
       <a id="full-gz-link" class="button" href="#">Full CSV (gzipped)</a>
-    </p>
-
-    <p>
-      Two deterministic summary outputs are also provided:
-    </p>
-
-    <p>
-      <a id="summary-txt-link" class="button" href="#">Summary TXT</a>
-      <a id="summary-json-link" class="button" href="#">Summary JSON</a>
     </p>
   </div>
 
@@ -283,7 +274,6 @@
 
 <script>
   const ts = Date.now();
-  document.write('<script src="recent_events.js?t=' + ts + '"><\/script>');
 
   function escapeHTML(text) {
     return String(text)
@@ -336,46 +326,64 @@
       });
   }
 
-  function loadRecentEventsTable() {
+  function renderRecentEventsTable(events) {
+    const container = document.getElementById("recent-events-container");
+
+    if (!Array.isArray(events) || events.length === 0) {
+      container.innerHTML =
+        '<div class="error-note">Recent events table failed to load.\n\nrecent_events.js did not provide valid event data.</div>';
+      return;
+    }
+
+    let html = `
+      <table class="recent-events">
+        <thead>
+          <tr>
+            <th>Time (UTC)</th>
+            <th>Magnitude</th>
+            <th>Depth (km)</th>
+            <th>Location</th>
+          </tr>
+        </thead>
+        <tbody>
+    `;
+
+    events.slice(0, 10).forEach(event => {
+      html += `
+        <tr>
+          <td>${escapeHTML(formatUTC(event.time_utc || ""))}</td>
+          <td>${escapeHTML(event.magnitude || "")}</td>
+          <td>${escapeHTML(event.depth_km || "")}</td>
+          <td>${escapeHTML(event.place || "")}</td>
+        </tr>
+      `;
+    });
+
+    html += `
+        </tbody>
+      </table>
+    `;
+
+    container.innerHTML = html;
+  }
+
+  function loadRecentEventsScript() {
+    return new Promise((resolve, reject) => {
+      const script = document.createElement("script");
+      script.src = "recent_events.js?t=" + ts;
+      script.onload = () => resolve(window.recentEvents);
+      script.onerror = () => reject(new Error("Could not load recent_events.js"));
+      document.body.appendChild(script);
+    });
+  }
+
+  async function loadRecentEventsTable() {
     const container = document.getElementById("recent-events-container");
 
     try {
-      const events = window.recentEvents;
-
-      if (!Array.isArray(events) || events.length === 0) {
-        throw new Error("recent_events.js did not provide valid event data.");
-      }
-
-      let html = `
-        <table class="recent-events">
-          <thead>
-            <tr>
-              <th>Time (UTC)</th>
-              <th>Magnitude</th>
-              <th>Depth (km)</th>
-              <th>Location</th>
-            </tr>
-          </thead>
-          <tbody>
-      `;
-
-      events.slice(0, 10).forEach(event => {
-        html += `
-          <tr>
-            <td>${escapeHTML(formatUTC(event.time_utc || ""))}</td>
-            <td>${escapeHTML(event.magnitude || "")}</td>
-            <td>${escapeHTML(event.depth_km || "")}</td>
-            <td>${escapeHTML(event.place || "")}</td>
-          </tr>
-        `;
-      });
-
-      html += `
-          </tbody>
-        </table>
-      `;
-
-      container.innerHTML = html;
+      container.innerHTML = '<div class="loading-note">Loading recent events table...</div>';
+      const events = await loadRecentEventsScript();
+      renderRecentEventsTable(events);
     } catch (err) {
       container.innerHTML =
         '<div class="error-note">Recent events table failed to load.\n\n' + escapeHTML(err.message) + '</div>';
@@ -387,8 +395,6 @@
   document.getElementById("recent-csv-link").href = "eq_canada_recent.csv?t=" + ts;
   document.getElementById("full-gz-link").href = "eq_canada_full.csv.gz?t=" + ts;
   document.getElementById("full-csv-link").href = "eq_canada_full.csv?t=" + ts;
-  document.getElementById("summary-txt-link").href = "recent_summary.txt?t=" + ts;
-  document.getElementById("summary-json-link").href = "recent_summary.json?t=" + ts;
 
   loadTextFile("last_updated.txt", "last-updated");
   loadTextFile("full_updated.txt", "full-updated");
