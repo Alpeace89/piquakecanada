@@ -1,11 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260205.0124002,2026-02-05T01:24:18.000Z,48.1324,-80.07,1.71,MwN,1.76,"Mining event, 3 km SW of Kirkland Lake, ON/Événement minier, 3 km SO de Kirkland Lake, ON"
-20260205.0148001,2026-02-05T01:48:26.000Z,44.5233,-79.1642,2.0,MwN,0.87,"3 km SSE of Ramara, ON/3 km SSE de Ramara, ON"
-20260205.0748001,2026-02-05T07:48:14.000Z,46.6717,-77.3479,18.0,MwN,0.85,"88 km N of Petawawa, ON/88 km N de Petawawa, ON"
-20260205.1000001,2026-02-05T10:00:48.000Z,54.5282,-118.5645,1.0,MLy,2.94,"Suspected industry-related event, 73 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 73 km SSE de Grande Prairie, AB"
-20260205.1146001,2026-02-05T11:46:51.000Z,50.5794,-63.4071,0.0,MwN,2.4,"Suspected blast, 3 km NNE of Lac Tio Mine, QC/Dynamitage soupconné, 3 km NNE de la mine Lac Tio, QC"
-20260205.1523001,2026-02-05T15:23:22.000Z,47.5815,-69.9966,7.47,MwN,0.58,"14 km ESE of La Malbaie, QC/14 km ESE de La Malbaie, QC"
-20260205.2325001,2026-02-05T23:25:39.000Z,60.4836,-139.5658,1.0,ML,3.33,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
 20260206.0052001,2026-02-06T00:52:54.000Z,60.5222,-139.9283,5.0,ML,2.6,"134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"
 20260206.0358001,2026-02-06T03:58:59.000Z,64.1334,-139.9874,5.0,ML,2.77,"28 km WNW of Dawson, YT/28 km ONO de Dawson, YT"
 20260206.0459001,2026-02-06T04:59:59.000Z,60.1395,-140.928,5.0,ML,1.99,"199 km WSW of Haines Junction, YT/199 km OSO de Haines Junction, YT"
