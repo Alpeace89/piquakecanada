@@ -1,62 +1,62 @@
 window.recentEvents = [
   {
-    "time_utc": "2026-03-22T21:09:19.000Z",
-    "magnitude": "1.15",
-    "depth_km": "11.43",
-    "place": "14 km E of Pembroke, ON/14 km E de Pembroke, ON"
+    "time_utc": "2026-03-23T14:44:52.000Z",
+    "magnitude": "1.45",
+    "depth_km": "64.53",
+    "place": "63 km W of Vancouver, BC/63 km O de Vancouver, BC"
   },
   {
-    "time_utc": "2026-03-22T19:23:30.000Z",
-    "magnitude": "4.28",
-    "depth_km": "10.0",
-    "place": "253 km SSW of Port Hardy, BC/253 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-03-22T06:59:27.000Z",
-    "magnitude": "2.89",
+    "time_utc": "2026-03-23T09:18:12.000Z",
+    "magnitude": "2.53",
     "depth_km": "1.0",
-    "place": "7 km S of Waskatenau, AB/7 km S de Waskatenau, AB"
+    "place": "Suspected industry-related event, 27 km NNE of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 27 km NNE de Halfway River 168, BC"
   },
   {
-    "time_utc": "2026-03-22T05:16:20.000Z",
-    "magnitude": "0.05",
-    "depth_km": "5.11",
-    "place": "6 km NNW of La Malbaie, QC/6 km NNO de La Malbaie, QC"
+    "time_utc": "2026-03-23T07:39:46.000Z",
+    "magnitude": "2.53",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 28 km NE of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 28 km NE de Halfway River 168, BC"
   },
   {
-    "time_utc": "2026-03-21T16:06:04.000Z",
-    "magnitude": "3.08",
-    "depth_km": "0.0",
-    "place": "Blast, 17 km ESE of Hinton, AB/Dynamitage, 17 km ESE de Hinton, AB"
-  },
-  {
-    "time_utc": "2026-03-21T13:08:03.000Z",
-    "magnitude": "2.71",
-    "depth_km": "8.93",
-    "place": "66 km S of Kingston, ON/66 km S de Kingston, ON"
-  },
-  {
-    "time_utc": "2026-03-21T07:19:23.000Z",
-    "magnitude": "0.63",
+    "time_utc": "2026-03-23T07:10:45.000Z",
+    "magnitude": "2.13",
     "depth_km": "5.0",
-    "place": "28 km ENE of Watertown, NY/28 km ENE de Watertown, NY"
+    "place": "58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT"
   },
   {
-    "time_utc": "2026-03-20T17:19:45.000Z",
-    "magnitude": "2.82",
+    "time_utc": "2026-03-23T06:59:56.000Z",
+    "magnitude": "2.62",
     "depth_km": "5.0",
-    "place": "94 km SSW of Burwash Landing, YT/94 km SSO de Burwash Landing, YT"
+    "place": "58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT"
   },
   {
-    "time_utc": "2026-03-20T17:09:51.000Z",
-    "magnitude": "2.9",
+    "time_utc": "2026-03-23T03:54:01.000Z",
+    "magnitude": "2.21",
     "depth_km": "5.0",
-    "place": "83 km SW of Burwash Landing, YT/83 km SO de Burwash Landing, YT"
+    "place": "132 km WSW of Haines Junction, YT/132 km OSO de Haines Junction, YT"
   },
   {
-    "time_utc": "2026-03-20T09:09:20.000Z",
-    "magnitude": "2.42",
+    "time_utc": "2026-03-23T02:27:21.000Z",
+    "magnitude": "3.58",
+    "depth_km": "10.0",
+    "place": "234 km SSW of Port Hardy, BC/234 km SSO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-03-23T02:00:47.000Z",
+    "magnitude": "2.6",
     "depth_km": "5.0",
-    "place": "59 km WSW of Burwash Landing, YT/59 km OSO de Burwash Landing, YT"
+    "place": "118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-03-23T01:17:42.000Z",
+    "magnitude": "3.63",
+    "depth_km": "5.0",
+    "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-03-23T01:08:00.000Z",
+    "magnitude": "2.3",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 54 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 54 km S de Grande Prairie, AB"
   }
 ];
