@@ -210,8 +210,8 @@
   </div>
 
   <div class="card">
-    <h2>Five most recent earthquakes</h2>
-    <p class="small">Showing the five most recent events from the current recent dataset.</p>
+    <h2>Ten most recent earthquakes</h2>
+    <p class="small">Showing the ten most recent events from the current recent dataset.</p>
     <div class="recent-table-wrapper">
       <div id="recent-events-container" class="loading-note">Loading recent events...</div>
     </div>
@@ -223,11 +223,12 @@
 
 </main>
 
-<script src="recent_events.js"></script>
-
 <script>
   const ts = new Date().getTime();
+  document.write('<script src="recent_events.js?t=' + ts + '"><\/script>');
+</script>
 
+<script>
   async function loadTextFile(path, elementId) {
     try {
       const response = await fetch(path + "?t=" + ts, { cache: "no-store" });
@@ -277,7 +278,7 @@
           <tbody>
       `;
 
-      events.slice(0, 5).forEach(event => {
+      events.slice(0, 10).forEach(event => {
         html += `
           <tr>
             <td>${escapeHTML(formatUTC(event.time_utc || ""))}</td>
