@@ -200,6 +200,16 @@
   loadTextFile("full_updated.txt", "full-updated");
   loadTextFile("event_count.txt", "event-count");
 </script>
+<p class="small">
+  Visits: <span id="visit-count">Loading...</span>
+</p>
 
+<script>
+fetch('https://api.countapi.xyz/hit/piquake-canada/homepage')
+  .then(res => res.json())
+  .then(res => {
+    document.getElementById('visit-count').textContent = res.value;
+  });
+</script>
 </body>
 </html>
