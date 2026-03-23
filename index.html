@@ -19,7 +19,7 @@
     }
 
     header {
-      background: #b22222;
+      background: #b22222; /* deep red */
       color: white;
       padding: 1rem 1.5rem;
     }
@@ -62,7 +62,7 @@
     a.button {
       display: inline-block;
       padding: 0.6rem 1rem;
-      background: #b22222;
+      background: #b22222; /* red */
       color: white;
       text-decoration: none;
       border-radius: 6px;
@@ -71,7 +71,7 @@
     }
 
     a.button:hover {
-      background: #7f1a1a;
+      background: #7f1a1a; /* darker red */
     }
 
     .small {
@@ -94,49 +94,6 @@
     h2 {
       margin-top: 0;
     }
-
-    .recent-table-wrapper {
-      overflow-x: auto;
-      margin-top: 0.75rem;
-    }
-
-    table.recent-events {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 0.95rem;
-    }
-
-    table.recent-events th,
-    table.recent-events td {
-      border: 1px solid #ddd;
-      padding: 0.55rem 0.65rem;
-      text-align: left;
-      vertical-align: top;
-    }
-
-    table.recent-events th {
-      background: #f3dede;
-      color: #222;
-    }
-
-    table.recent-events tr:nth-child(even) {
-      background: #fafafa;
-    }
-
-    .loading-note {
-      color: #666;
-      font-style: italic;
-    }
-
-    .error-note {
-      color: #8b0000;
-      font-family: Consolas, Monaco, monospace;
-      white-space: pre-wrap;
-      background: #fff3f3;
-      border: 1px solid #e0b4b4;
-      padding: 0.75rem;
-      border-radius: 6px;
-    }
   </style>
 </head>
 
@@ -144,7 +101,7 @@
 
 <header>
   <h1>PiQuake Canada</h1>
-  <h2>The Canada Earthquake Dashboard: Raspberry Pi Powered access to the Earthquakes Canada database</h2>
+  <h2>Raspberry Pi Powered access to the Earthquakes Canada database</h2>
 </header>
 
 <main>
@@ -172,15 +129,17 @@
       <strong>Recent dataset:</strong> earthquakes from the latest rolling recent window used to build the map as CSV. This dataset is updated hourly.
       <br>
       <a class="button" id="recent-csv-link" href="eq_canada_recent.csv">Download recent dataset CSV</a>
-      <br><br>
+      <br>
+      <br>
       <strong>Full dataset:</strong> the complete downloadable archive from 1985 to present as either CSV or GZ. This dataset is updated daily.
       <br>
       <a class="button" id="full-gz-link" href="eq_canada_full.csv.gz">Download full dataset compressed GZ (1985 to present)</a>
       <a class="button" id="full-csv-link" href="eq_canada_full.csv">Download full dataset CSV (1985 to present)</a>
+      <br>
     </p>
 
     <p>
-      Created and maintained by: Dr. Alexander Peace, McMaster University,
+      Created and maintained by: Dr. Alexander Peace, McMaster University, 
       <a href="mailto:peacea2@mcmaster.ca">peacea2@mcmaster.ca</a>.
     </p>
 
@@ -213,14 +172,6 @@
   </div>
 
   <div class="card">
-    <h2>Five most recent earthquakes</h2>
-    <p class="small">Showing the five most recent events from the current recent dataset.</p>
-    <div class="recent-table-wrapper">
-      <div id="recent-events-container" class="loading-note">Loading recent events...</div>
-    </div>
-  </div>
-
-  <div class="card">
     <img id="eq-map" src="latest_eq_map.png" alt="Earthquakes in last 30 days">
   </div>
 
@@ -240,72 +191,6 @@
     }
   }
 
-  function escapeHTML(text) {
-    return String(text)
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#039;");
-  }
-
-  function formatUTC(utcString) {
-    const d = new Date(utcString);
-    if (isNaN(d)) return utcString;
-    return d.toISOString().replace("T", " ").replace(".000Z", " UTC");
-  }
-
-  async function loadRecentEventsTable() {
-    const container = document.getElementById("recent-events-container");
-
-    try {
-      const response = await fetch("recent_events.json?t=" + ts, { cache: "no-store" });
-      if (!response.ok) {
-        throw new Error("Could not fetch recent_events.json (" + response.status + ")");
-      }
-
-      const events = await response.json();
-
-      if (!Array.isArray(events) || events.length === 0) {
-        throw new Error("recent_events.json is empty or invalid.");
-      }
-
-      let html = `
-        <table class="recent-events">
-          <thead>
-            <tr>
-              <th>Time (UTC)</th>
-              <th>Magnitude</th>
-              <th>Depth (km)</th>
-              <th>Location</th>
-            </tr>
-          </thead>
-          <tbody>
-      `;
-
-      events.slice(0, 5).forEach(event => {
-        html += `
-          <tr>
-            <td>${escapeHTML(formatUTC(event.time_utc || ""))}</td>
-            <td>${escapeHTML(event.magnitude || "")}</td>
-            <td>${escapeHTML(event.depth_km || "")}</td>
-            <td>${escapeHTML(event.place || "")}</td>
-          </tr>
-        `;
-      });
-
-      html += `
-          </tbody>
-        </table>
-      `;
-
-      container.innerHTML = html;
-    } catch (err) {
-      container.innerHTML = `<div class="error-note">Recent events table failed to load.\n\n${escapeHTML(err.message)}</div>`;
-      console.error(err);
-    }
-  }
-
   document.getElementById("eq-map").src = "latest_eq_map.png?t=" + ts;
   document.getElementById("recent-csv-link").href = "eq_canada_recent.csv?t=" + ts;
   document.getElementById("full-gz-link").href = "eq_canada_full.csv.gz?t=" + ts;
@@ -314,7 +199,6 @@
   loadTextFile("last_updated.txt", "last-updated");
   loadTextFile("full_updated.txt", "full-updated");
   loadTextFile("event_count.txt", "event-count");
-  loadRecentEventsTable();
 </script>
 
 </body>
