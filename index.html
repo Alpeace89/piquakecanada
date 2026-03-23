@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Canada Earthquakes Dashboard</title>
+  <title>PiQuake Canada</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="refresh" content="3600">
   <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
@@ -19,9 +19,20 @@
     }
 
     header {
-      background: #1f4e79;
+      background: #b22222; /* deep red */
       color: white;
       padding: 1rem 1.5rem;
+    }
+
+    header h1 {
+      margin: 0;
+    }
+
+    header h2 {
+      margin: 0.3rem 0 0 0;
+      font-size: 1rem;
+      font-weight: normal;
+      opacity: 0.9;
     }
 
     main {
@@ -51,7 +62,7 @@
     a.button {
       display: inline-block;
       padding: 0.6rem 1rem;
-      background: #1f4e79;
+      background: #b22222; /* red */
       color: white;
       text-decoration: none;
       border-radius: 6px;
@@ -60,7 +71,7 @@
     }
 
     a.button:hover {
-      background: #163956;
+      background: #7f1a1a; /* darker red */
     }
 
     .small {
@@ -89,7 +100,8 @@
 <body>
 
 <header>
-  <h1>Canada Earthquakes Dashboard</h1>
+  <h1>PiQuake Canada</h1>
+  <h2>The Canada Earthquake Dashboard: Raspberry Pi Powered access to the Earthquakes Canada database</h2>
 </header>
 
 <main>
