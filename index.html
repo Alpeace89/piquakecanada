@@ -33,14 +33,6 @@
     .logo {
       width: 72px;
       height: 72px;
-      object-fit: contain;
-      flex: 0 0 auto;
-      background: transparent;
-      border: none;
-    }
-
-    .title-wrap {
-      min-width: 0;
     }
 
     header h1 {
@@ -52,7 +44,6 @@
       margin: 0.3rem 0 0 0;
       font-size: 1rem;
       font-weight: normal;
-      opacity: 0.95;
     }
 
     main {
@@ -72,11 +63,7 @@
 
     img.main-map {
       max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 0 auto;
       border: 1px solid #bbb;
-      background: white;
     }
 
     a.button {
@@ -86,70 +73,28 @@
       color: white;
       text-decoration: none;
       border-radius: 6px;
-      margin-right: 0.75rem;
-      margin-bottom: 0.5rem;
-    }
-
-    a.button:hover {
-      background: #7f1a1a;
-    }
-
-    .small {
-      font-size: 0.95rem;
-      color: #555;
-    }
-
-    .meta {
-      margin-top: 1rem;
-      padding: 0.75rem;
-      background: #f8f8f8;
-      border: 1px solid #ddd;
-      border-radius: 6px;
-    }
-
-    .meta p {
-      margin: 0.35rem 0;
-    }
-
-    h2 {
-      margin-top: 0;
+      margin-right: 0.5rem;
     }
 
     .summary-box {
       background: #fff7f7;
-      border: 1px solid #e4bcbc;
       border-left: 5px solid #b22222;
-      border-radius: 6px;
       padding: 1rem;
-      white-space: normal;
+      border-radius: 6px;
     }
 
-    .recent-table-wrapper {
-      overflow-x: auto;
-      margin-top: 0.75rem;
-    }
-
-    table.recent-events {
+    table {
       width: 100%;
       border-collapse: collapse;
-      font-size: 0.95rem;
     }
 
-    table.recent-events th,
-    table.recent-events td {
+    th, td {
       border: 1px solid #ddd;
-      padding: 0.55rem 0.65rem;
-      text-align: left;
-      vertical-align: top;
+      padding: 0.5rem;
     }
 
-    table.recent-events th {
+    th {
       background: #f3dede;
-      color: #222;
-    }
-
-    table.recent-events tr:nth-child(even) {
-      background: #fafafa;
     }
 
     .loading-note {
@@ -159,35 +104,6 @@
 
     .error-note {
       color: #8b0000;
-      font-family: Consolas, Monaco, monospace;
-      white-space: pre-wrap;
-      background: #fff3f3;
-      border: 1px solid #e0b4b4;
-      padding: 0.75rem;
-      border-radius: 6px;
-    }
-
-    footer {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 0 1.5rem 1.5rem 1.5rem;
-      color: #555;
-      font-size: 0.9rem;
-    }
-
-    @media (max-width: 700px) {
-      .header-inner {
-        align-items: flex-start;
-      }
-
-      .logo {
-        width: 56px;
-        height: 56px;
-      }
-
-      header h1 {
-        font-size: 1.6rem;
-      }
     }
   </style>
 </head>
@@ -196,8 +112,8 @@
 
 <header>
   <div class="header-inner">
-    <img src="logo.png" alt="PiQuake Canada logo" class="logo" onerror="this.style.display='none';">
-    <div class="title-wrap">
+    <img src="logo.png" class="logo">
+    <div>
       <h1>PiQuake Canada</h1>
       <h2>The Canada Earthquake Dashboard: Raspberry Pi Powered access to the Earthquakes Canada database</h2>
     </div>
@@ -206,201 +122,109 @@
 
 <main>
 
+  <!-- ABOUT -->
   <div class="card">
     <h2>About this dashboard</h2>
+    <p>This site provides access to earthquake data from Earthquakes Canada.</p>
 
     <p>
-      This website provides access to earthquake data from the Earthquakes Canada database,
-      allowing users to download earthquake records without the limitations of the standard
-      search interface.
-    </p>
-
-    <p>
-      The map below shows earthquakes recorded during the last 30 days in the most recent
-      hourly dataset. Symbol size scales with magnitude and symbol colour represents
-      earthquake depth.
-    </p>
-
-    <p>
-      Downloadable datasets:
-    </p>
-
-    <p>
-      <a id="recent-csv-link" class="button" href="#">Recent CSV</a>
-      <a id="full-csv-link" class="button" href="#">Full CSV</a>
-      <a id="full-gz-link" class="button" href="#">Full CSV (gzipped)</a>
+      <a id="recent-csv-link" class="button">Recent CSV</a>
+      <a id="full-csv-link" class="button">Full CSV</a>
+      <a id="full-gz-link" class="button">Full CSV (gz)</a>
     </p>
   </div>
 
+  <!-- DATASET STATUS -->
+  <div class="card">
+    <h2>Dataset status</h2>
+    <p><strong>Recent updated:</strong> <span id="last-updated">...</span></p>
+    <p><strong>Full updated:</strong> <span id="full-updated">...</span></p>
+    <p><strong>Event count:</strong> <span id="event-count">...</span></p>
+  </div>
+
+  <!-- SUMMARY -->
   <div class="card">
     <h2>Hourly deterministic summary</h2>
-    <p class="small">
-      This paragraph is generated automatically each hour from the recent earthquake CSV using deterministic summary logic.
-    </p>
     <div id="summary-container" class="summary-box">
       <span class="loading-note">Loading summary...</span>
     </div>
   </div>
 
-  <div class="card">
-    <h2>Latest earthquake map</h2>
-    <img id="eq-map" class="main-map" src="latest_eq_map.png" alt="Latest earthquake map">
-  </div>
-
+  <!-- TABLE -->
   <div class="card">
     <h2>Latest earthquakes</h2>
-    <p class="small">
-      Showing the ten most recent events from the current recent dataset.
-    </p>
-    <div id="recent-events-container" class="recent-table-wrapper">
-      <div class="loading-note">Loading recent events table...</div>
+    <div id="recent-events-container">
+      <span class="loading-note">Loading table...</span>
     </div>
   </div>
 
+  <!-- MAP -->
   <div class="card">
-    <h2>Dataset status</h2>
-    <div class="meta">
-      <p><strong>Recent dataset updated:</strong> <span id="last-updated" class="loading-note">Loading...</span></p>
-      <p><strong>Full dataset updated:</strong> <span id="full-updated" class="loading-note">Loading...</span></p>
-      <p><strong>Current recent event count:</strong> <span id="event-count" class="loading-note">Loading...</span></p>
-    </div>
+    <h2>Latest earthquake map</h2>
+    <img id="eq-map" class="main-map">
   </div>
 
 </main>
 
-<footer>
-  Data source: Earthquakes Canada / Natural Resources Canada. Built and published automatically from a Raspberry Pi.
-</footer>
-
 <script>
-  const ts = Date.now();
+const ts = Date.now();
 
-  function escapeHTML(text) {
-    return String(text)
-      .replace(/&/g, "&amp;")
-      .replace(/</g, "&lt;")
-      .replace(/>/g, "&gt;")
-      .replace(/"/g, "&quot;")
-      .replace(/'/g, "&#039;");
-  }
+function loadText(file, id) {
+  fetch(file + "?t=" + ts)
+    .then(r => r.text())
+    .then(t => document.getElementById(id).textContent = t)
+}
 
-  function formatUTC(utcString) {
-    const d = new Date(utcString);
-    if (isNaN(d)) return utcString;
-    return d.toISOString().replace("T", " ").replace(".000Z", " UTC");
-  }
+function loadSummary() {
+  fetch("recent_summary.txt?t=" + ts)
+    .then(r => r.text())
+    .then(t => document.getElementById("summary-container").textContent = t)
+}
 
-  function loadTextFile(filename, elementId) {
-    fetch(filename + "?t=" + ts)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error("Could not load " + filename);
-        }
-        return response.text();
-      })
-      .then(text => {
-        document.getElementById(elementId).textContent = text.trim();
-      })
-      .catch(err => {
-        document.getElementById(elementId).innerHTML =
-          '<span class="error-note">' + escapeHTML(err.message) + '</span>';
-      });
-  }
+function loadRecentEventsScript() {
+  return new Promise((resolve, reject) => {
+    const s = document.createElement("script");
+    s.src = "recent_events.js?t=" + ts;
+    s.onload = () => resolve(window.recentEvents);
+    s.onerror = reject;
+    document.body.appendChild(s);
+  });
+}
 
-  function loadSummary() {
-    const container = document.getElementById("summary-container");
+async function loadTable() {
+  try {
+    const data = await loadRecentEventsScript();
+    let html = "<table><tr><th>Time</th><th>Mag</th><th>Depth</th><th>Location</th></tr>";
 
-    fetch("recent_summary.txt?t=" + ts)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error("Could not load recent_summary.txt");
-        }
-        return response.text();
-      })
-      .then(text => {
-        container.textContent = text.trim();
-      })
-      .catch(err => {
-        container.innerHTML =
-          '<div class="error-note">Summary failed to load.\n\n' + escapeHTML(err.message) + '</div>';
-      });
-  }
-
-  function renderRecentEventsTable(events) {
-    const container = document.getElementById("recent-events-container");
-
-    if (!Array.isArray(events) || events.length === 0) {
-      container.innerHTML =
-        '<div class="error-note">Recent events table failed to load.\n\nrecent_events.js did not provide valid event data.</div>';
-      return;
-    }
-
-    let html = `
-      <table class="recent-events">
-        <thead>
-          <tr>
-            <th>Time (UTC)</th>
-            <th>Magnitude</th>
-            <th>Depth (km)</th>
-            <th>Location</th>
-          </tr>
-        </thead>
-        <tbody>
-    `;
-
-    events.slice(0, 10).forEach(event => {
-      html += `
-        <tr>
-          <td>${escapeHTML(formatUTC(event.time_utc || ""))}</td>
-          <td>${escapeHTML(event.magnitude || "")}</td>
-          <td>${escapeHTML(event.depth_km || "")}</td>
-          <td>${escapeHTML(event.place || "")}</td>
-        </tr>
-      `;
+    data.forEach(e => {
+      html += `<tr>
+        <td>${e.time_utc}</td>
+        <td>${e.magnitude}</td>
+        <td>${e.depth_km}</td>
+        <td>${e.place}</td>
+      </tr>`;
     });
 
-    html += `
-        </tbody>
-      </table>
-    `;
+    html += "</table>";
+    document.getElementById("recent-events-container").innerHTML = html;
 
-    container.innerHTML = html;
+  } catch {
+    document.getElementById("recent-events-container").innerHTML =
+      "<div class='error-note'>Failed to load events</div>";
   }
+}
 
-  function loadRecentEventsScript() {
-    return new Promise((resolve, reject) => {
-      const script = document.createElement("script");
-      script.src = "recent_events.js?t=" + ts;
-      script.onload = () => resolve(window.recentEvents);
-      script.onerror = () => reject(new Error("Could not load recent_events.js"));
-      document.body.appendChild(script);
-    });
-  }
+document.getElementById("eq-map").src = "latest_eq_map.png?t=" + ts;
+document.getElementById("recent-csv-link").href = "eq_canada_recent.csv";
+document.getElementById("full-csv-link").href = "eq_canada_full.csv";
+document.getElementById("full-gz-link").href = "eq_canada_full.csv.gz";
 
-  async function loadRecentEventsTable() {
-    const container = document.getElementById("recent-events-container");
+loadText("last_updated.txt", "last-updated");
+loadText("full_updated.txt", "full-updated");
+loadText("event_count.txt", "event-count");
 
-    try {
-      container.innerHTML = '<div class="loading-note">Loading recent events table...</div>';
-      const events = await loadRecentEventsScript();
-      renderRecentEventsTable(events);
-    } catch (err) {
-      container.innerHTML =
-        '<div class="error-note">Recent events table failed to load.\n\n' + escapeHTML(err.message) + '</div>';
-      console.error(err);
-    }
-  }
-
-  document.getElementById("eq-map").src = "latest_eq_map.png?t=" + ts;
-  document.getElementById("recent-csv-link").href = "eq_canada_recent.csv?t=" + ts;
-  document.getElementById("full-gz-link").href = "eq_canada_full.csv.gz?t=" + ts;
-  document.getElementById("full-csv-link").href = "eq_canada_full.csv?t=" + ts;
-
-  loadTextFile("last_updated.txt", "last-updated");
-  loadTextFile("full_updated.txt", "full-updated");
-  loadTextFile("event_count.txt", "event-count");
-  loadSummary();
-  loadRecentEventsTable();
+loadSummary();
+loadTable();
 </script>
 
 </body>
