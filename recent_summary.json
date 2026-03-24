@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-03-24T01:03:01Z",
+  "generated_utc": "2026-03-24T02:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 510,
-  "events_last_24h": 11,
+  "events_last_24h": 7,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 3,
+  "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
     "event_id": "20260323.1444001",
@@ -18,15 +18,15 @@
     "region": "BC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260323.0117001",
-    "time_utc": "2026-03-23T01:17:42.000Z",
-    "latitude": 60.4262,
-    "longitude": -139.5502,
-    "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 3.63,
-    "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT",
-    "region": "YT"
+    "event_id": "20260323.0227001",
+    "time_utc": "2026-03-23T02:27:21.000Z",
+    "latitude": 48.9111,
+    "longitude": -129.1668,
+    "depth_km": 10.0,
+    "mag_type": "Mw'",
+    "magnitude": 3.58,
+    "place": "234 km SSW of Port Hardy, BC/234 km SSO de Port Hardy, BC",
+    "region": "BC"
   },
   "deepest_event_last_24h": {
     "event_id": "20260323.1444001",
@@ -41,17 +41,13 @@
   },
   "top_regions_last_24h": [
     {
-      "region": "YT",
-      "count": 6
-    },
-    {
       "region": "BC",
       "count": 4
     },
     {
-      "region": "AB",
-      "count": 1
+      "region": "YT",
+      "count": 3
     }
   ],
-  "summary_text": "As of 2026-03-24 01:03 UTC, the recent Canada earthquake dataset contains 510 events from the current rolling window. In the last 24 hours, 11 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.63 at 117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT. The deepest event reached 64.53 km at 63 km W of Vancouver, BC/63 km O de Vancouver, BC. The most recent listed event was M1.45 at 63 km W of Vancouver, BC/63 km O de Vancouver, BC at 2026-03-23T14:44:52.000Z. There were 3 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (6) and BC (4)."
+  "summary_text": "As of 2026-03-24 02:03 UTC, the recent Canada earthquake dataset contains 510 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.58 at 234 km SSW of Port Hardy, BC/234 km SSO de Port Hardy, BC. The deepest event reached 64.53 km at 63 km W of Vancouver, BC/63 km O de Vancouver, BC. The most recent listed event was M1.45 at 63 km W of Vancouver, BC/63 km O de Vancouver, BC at 2026-03-23T14:44:52.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and YT (3)."
 }
