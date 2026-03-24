@@ -484,6 +484,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260320.0909001,2026-03-20T09:09:20.000Z,61.1543,-140.0077,5.0,ML,2.42,"59 km WSW of Burwash Landing, YT/59 km OSO de Burwash Landing, YT"
 20260320.1709001,2026-03-20T17:09:51.000Z,60.7467,-139.8945,5.0,ML,2.9,"83 km SW of Burwash Landing, YT/83 km SO de Burwash Landing, YT"
 20260320.1719001,2026-03-20T17:19:45.000Z,60.6424,-139.9323,5.0,ML,2.82,"94 km SSW of Burwash Landing, YT/94 km SSO de Burwash Landing, YT"
+20260320.2336001,2026-03-20T23:36:04.000Z,45.2872,-75.6991,11.87,MwN,0.53,"10 km WSW of Ottawa, ON/10 km OSO de Ottawa, ON"
 20260321.0411001,2026-03-21T04:11:42.000Z,64.9099,-134.076,5.0,ML,2.98,"125 km NNE of Bellekeno Mine, YT/125 km NNE de la mine Bellekeno, YT"
 20260321.0719001,2026-03-21T07:19:23.000Z,44.1096,-75.6162,5.0,MwN,0.63,"28 km ENE of Watertown, NY/28 km ENE de Watertown, NY"
 20260321.1202001,2026-03-21T12:02:31.000Z,68.0718,-136.9167,5.0,ML,3.14,"81 km W of Aklavik, NT/81 km O de Aklavik, NT"
@@ -510,3 +511,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260323.0918001,2026-03-23T09:18:12.000Z,56.6879,-121.6421,1.0,MLy,2.53,"Suspected industry-related event, 27 km NNE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 27 km NNE de Halfway River 168, BC"
 20260323.1444001,2026-03-23T14:44:52.000Z,49.3677,-123.962,64.53,ML1,1.45,"63 km W of Vancouver, BC/63 km O de Vancouver, BC"
 20260323.2219001,2026-03-23T22:19:19.000Z,52.5305,-131.8864,22.35,ML,1.91,"82 km S of Daajing Giids, BC/82 km S de Daajing Giids, BC"
+20260324.0322001,2026-03-24T03:22:45.000Z,54.3806,-117.2332,1.0,MLy,2.64,"Suspected industry-related event, 28 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 28 km O de Fox Creek, AB"

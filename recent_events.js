@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-24T03:22:45.000Z",
+    "magnitude": "2.64",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 28 km W of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 28 km O de Fox Creek, AB"
+  },
+  {
     "time_utc": "2026-03-23T22:19:19.000Z",
     "magnitude": "1.91",
     "depth_km": "22.35",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.6",
     "depth_km": "5.0",
     "place": "118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-03-23T01:17:42.000Z",
-    "magnitude": "3.63",
-    "depth_km": "5.0",
-    "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
   }
 ];
