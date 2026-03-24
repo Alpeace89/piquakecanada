@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-03-24T03:03:01Z",
+  "generated_utc": "2026-03-24T04:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 510,
-  "events_last_24h": 6,
+  "events_last_24h": 5,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -41,13 +41,13 @@
   },
   "top_regions_last_24h": [
     {
-      "region": "YT",
+      "region": "BC",
       "count": 3
     },
     {
-      "region": "BC",
-      "count": 3
+      "region": "YT",
+      "count": 2
     }
   ],
-  "summary_text": "As of 2026-03-24 03:03 UTC, the recent Canada earthquake dataset contains 510 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.62 at 58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT. The deepest event reached 64.53 km at 63 km W of Vancouver, BC/63 km O de Vancouver, BC. The most recent listed event was M1.45 at 63 km W of Vancouver, BC/63 km O de Vancouver, BC at 2026-03-23T14:44:52.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (3) and BC (3)."
+  "summary_text": "As of 2026-03-24 04:03 UTC, the recent Canada earthquake dataset contains 510 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.62 at 58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT. The deepest event reached 64.53 km at 63 km W of Vancouver, BC/63 km O de Vancouver, BC. The most recent listed event was M1.45 at 63 km W of Vancouver, BC/63 km O de Vancouver, BC at 2026-03-23T14:44:52.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and YT (2)."
 }
