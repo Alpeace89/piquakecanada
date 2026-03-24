@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-23T22:19:19.000Z",
+    "magnitude": "1.91",
+    "depth_km": "22.35",
+    "place": "82 km S of Daajing Giids, BC/82 km S de Daajing Giids, BC"
+  },
+  {
     "time_utc": "2026-03-23T14:44:52.000Z",
     "magnitude": "1.45",
     "depth_km": "64.53",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.63",
     "depth_km": "5.0",
     "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-03-23T01:08:00.000Z",
-    "magnitude": "2.3",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 54 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 54 km S de Grande Prairie, AB"
   }
 ];
