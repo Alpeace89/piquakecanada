@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-03-24T06:03:01Z",
+  "generated_utc": "2026-03-24T07:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 510,
-  "events_last_24h": 5,
+  "rolling_window_event_count": 509,
+  "events_last_24h": 4,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -18,15 +18,15 @@
     "region": "BC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260323.0659001",
-    "time_utc": "2026-03-23T06:59:56.000Z",
-    "latitude": 61.1657,
-    "longitude": -139.9986,
-    "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 2.62,
-    "place": "58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT",
-    "region": "YT"
+    "event_id": "20260323.0918001",
+    "time_utc": "2026-03-23T09:18:12.000Z",
+    "latitude": 56.6879,
+    "longitude": -121.6421,
+    "depth_km": 1.0,
+    "mag_type": "MLy",
+    "magnitude": 2.53,
+    "place": "Suspected industry-related event, 27 km NNE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 27 km NNE de Halfway River 168, BC",
+    "region": "BC"
   },
   "deepest_event_last_24h": {
     "event_id": "20260323.1444001",
@@ -46,8 +46,8 @@
     },
     {
       "region": "YT",
-      "count": 2
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-03-24 06:03 UTC, the recent Canada earthquake dataset contains 510 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.62 at 58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT. The deepest event reached 64.53 km at 63 km W of Vancouver, BC/63 km O de Vancouver, BC. The most recent listed event was M1.45 at 63 km W of Vancouver, BC/63 km O de Vancouver, BC at 2026-03-23T14:44:52.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and YT (2)."
+  "summary_text": "As of 2026-03-24 07:03 UTC, the recent Canada earthquake dataset contains 509 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.53 at Suspected industry-related event, 27 km NNE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 27 km NNE de Halfway River 168, BC. The deepest event reached 64.53 km at 63 km W of Vancouver, BC/63 km O de Vancouver, BC. The most recent listed event was M1.45 at 63 km W of Vancouver, BC/63 km O de Vancouver, BC at 2026-03-23T14:44:52.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and YT (1)."
 }
