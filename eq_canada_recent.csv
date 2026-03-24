@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260206.2345001,2026-02-06T23:45:01.000Z,45.0246,-75.0626,4.76,MwN,0.62,"10 km SW of South Stormont, ON/10 km SO de South Stormont, ON"
 20260207.0641001,2026-02-07T06:41:30.000Z,46.474,-81.1861,2.56,MwN,2.78,"Mining event, Creighton Mine, ON/Événement minier, Mine Creighton, ON"
 20260207.0840001,2026-02-07T08:40:27.000Z,46.474,-81.1861,2.35,MwN,2.24,"Mining event, Creighton Mine, ON/Événement minier, Mine Creighton, ON"
 20260208.0442001,2026-02-08T04:42:37.000Z,50.1731,-127.4049,42.25,ML,2.27,"29 km SSE of Port Alice, BC/29 km SSE de Port Alice, BC"

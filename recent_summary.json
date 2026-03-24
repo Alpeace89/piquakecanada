@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-03-23T23:12:24Z",
+  "generated_utc": "2026-03-24T00:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 511,
+  "rolling_window_event_count": 510,
   "events_last_24h": 12,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 3,
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-03-23 23:12 UTC, the recent Canada earthquake dataset contains 511 events from the current rolling window. In the last 24 hours, 12 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.63 at 117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT. The deepest event reached 64.53 km at 63 km W of Vancouver, BC/63 km O de Vancouver, BC. The most recent listed event was M1.45 at 63 km W of Vancouver, BC/63 km O de Vancouver, BC at 2026-03-23T14:44:52.000Z. There were 3 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (7) and BC (4)."
+  "summary_text": "As of 2026-03-24 00:03 UTC, the recent Canada earthquake dataset contains 510 events from the current rolling window. In the last 24 hours, 12 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.63 at 117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT. The deepest event reached 64.53 km at 63 km W of Vancouver, BC/63 km O de Vancouver, BC. The most recent listed event was M1.45 at 63 km W of Vancouver, BC/63 km O de Vancouver, BC at 2026-03-23T14:44:52.000Z. There were 3 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (7) and BC (4)."
 }
