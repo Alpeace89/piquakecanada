@@ -479,6 +479,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260319.1950001,2026-03-19T19:50:17.000Z,60.622,-139.8611,5.0,ML,2.17,"129 km W of Haines Junction, YT/129 km O de Haines Junction, YT"
 20260319.2154001,2026-03-19T21:54:50.000Z,54.5116,-118.5486,1.0,MLy,2.07,"Suspected industry-related event, 75 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 75 km SSE de Grande Prairie, AB"
 20260320.0053001,2026-03-20T00:53:53.000Z,60.5892,-139.9088,5.0,ML,2.12,"99 km SSW of Burwash Landing, YT/99 km SSO de Burwash Landing, YT"
+20260320.0207001,2026-03-20T02:07:53.000Z,50.5659,-65.9767,18.0,MwN,1.07,"42 km NNE of Maliotenam, QC/42 km NNE de Maliotenam, QC"
+20260320.0217001,2026-03-20T02:17:30.000Z,50.7282,-65.9946,18.0,MwN,1.14,"59 km NNE of Maliotenam, QC/59 km NNE de Maliotenam, QC"
 20260320.0433001,2026-03-20T04:33:03.000Z,60.4524,-139.6188,5.0,ML,2.33,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
 20260320.0856001,2026-03-20T08:56:37.000Z,54.5451,-118.5694,1.0,MLy,2.11,"Suspected industry-related event, 71 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 71 km SSE de Grande Prairie, AB"
 20260320.0909001,2026-03-20T09:09:20.000Z,61.1543,-140.0077,5.0,ML,2.42,"59 km WSW of Burwash Landing, YT/59 km OSO de Burwash Landing, YT"
