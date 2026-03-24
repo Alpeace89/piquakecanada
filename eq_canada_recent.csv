@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260207.0840001,2026-02-07T08:40:27.000Z,46.474,-81.1861,2.35,MwN,2.24,"Mining event, Creighton Mine, ON/Événement minier, Mine Creighton, ON"
 20260208.0442001,2026-02-08T04:42:37.000Z,50.1731,-127.4049,42.25,ML,2.27,"29 km SSE of Port Alice, BC/29 km SSE de Port Alice, BC"
 20260209.0324001,2026-02-09T03:24:53.000Z,44.5432,-79.1531,2.0,MwN,1.41,"2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
 20260209.0358001,2026-02-09T03:58:52.000Z,50.7106,-130.5729,10.0,Mw',4.35,"216 km W of Port Hardy, BC/216 km O de Port Hardy, BC"
