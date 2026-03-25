@@ -334,5 +334,11 @@
     "mode": "AI",
     "model": "qwen2.5:3b",
     "summary": "No earthquakes were recorded in the last hour. In the last 24 hours, there have been six earthquakes reported. In the last 24 hours, 6 earthquake(s) were recorded, with the largest event M4.28 at 93 km SSE of Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC at 2026-03-25T13:25:34Z."
+  },
+  {
+    "timestamp_utc": "2026-03-25T19:32:31Z",
+    "mode": "AI",
+    "model": "qwen2.5:3b",
+    "summary": "No earthquakes were recorded in the last hour. In the past day, there have been six recorded earthquakes in Canada, with the largest being a M4.28 near Daajing Giids in British Columbia at a distance of about 93 kilometers south-sse. In the last 24 hours, 6 earthquake(s) were recorded, with the largest event M4.28 at 93 km SSE of Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC at 2026-03-25T13:25:34Z."
   }
 ]
