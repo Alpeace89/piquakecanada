@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-03-25T20:12:25Z",
+  "generated_utc": "2026-03-25T20:19:06Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 534,
-  "events_last_24h": 5,
+  "events_last_24h": 4,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 2,
+  "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 1,
   "latest_event": {
     "event_id": "20260325.1325002",
@@ -42,12 +42,12 @@
   "top_regions_last_24h": [
     {
       "region": "BC",
-      "count": 4
+      "count": 3
     },
     {
       "region": "AB",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-03-25 20:12 UTC, the recent Canada earthquake dataset contains 534 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.28 at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC. The deepest event reached 24.83 km at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC at 2026-03-25T13:25:34.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and AB (1)."
+  "summary_text": "As of 2026-03-25 20:19 UTC, the recent Canada earthquake dataset contains 534 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.28 at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC. The deepest event reached 24.83 km at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC at 2026-03-25T13:25:34.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and AB (1)."
 }
