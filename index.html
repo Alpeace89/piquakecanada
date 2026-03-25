@@ -312,17 +312,27 @@
     }
   }
 
-  async function loadSummary() {
-    const container = document.getElementById("summary-container");
-    try {
-      const response = await fetch("recent_summary.txt?t=" + ts, { cache: "no-store" });
-      if (!response.ok) throw new Error("Failed to load recent_summary.txt");
-      const text = await response.text();
-      container.textContent = text.trim();
-    } catch (err) {
-      container.innerHTML = `<div class="error-note">Summary failed to load.\n\n${escapeHTML(err.message)}</div>`;
+async function loadSummary() {
+  const container = document.getElementById("summary-container");
+
+  try {
+    const aiResponse = await fetch("recent_summary_ai.txt?t=" + ts, { cache: "no-store" });
+    if (aiResponse.ok) {
+      const aiText = await aiResponse.text();
+      if (aiText.trim()) {
+        container.textContent = aiText.trim();
+        return;
+      }
     }
+
+    const fallbackResponse = await fetch("recent_summary.txt?t=" + ts, { cache: "no-store" });
+    if (!fallbackResponse.ok) throw new Error("Failed to load summary files");
+    const fallbackText = await fallbackResponse.text();
+    container.textContent = fallbackText.trim();
+  } catch (err) {
+    container.innerHTML = `<div class="error-note">Summary failed to load.\n\n${escapeHTML(err.message)}</div>`;
   }
+}
 
   function escapeHTML(text) {
     return String(text)
