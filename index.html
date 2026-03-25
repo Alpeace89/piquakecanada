@@ -134,6 +134,10 @@
       color: #666;
     }
 
+    .summary-footnote a {
+      color: inherit;
+    }
+
     .recent-table-wrapper {
       overflow-x: auto;
       margin-top: 0.75rem;
@@ -283,17 +287,12 @@
     </div>
   </div>
 
-<div class="card">
-  <h2>Hourly updated AI summary (beta)</h2>
-
-  <div id="summary-container" class="summary-box">
-    <span class="loading-note">Loading summary...</span>
+  <div class="card">
+    <h2>Hourly updated AI summary (beta)</h2>
+    <div id="summary-container" class="summary-box">
+      <span class="loading-note">Loading summary...</span>
+    </div>
   </div>
-
-  <p class="small" style="margin-top:0.75rem;">
-    <a href="hourly_update_log.html">View hourly update log</a>
-  </p>
-</div>
 
   <div class="card">
     <h2>Ten most recent earthquakes</h2>
@@ -354,13 +353,13 @@
 
     const aiFootnote = `
       <div class="summary-footnote">
-        Model: Qwen2.5 1.5B (local). Falls back to deterministic summary if validation criteria are not met.
+        Model: Qwen2.5 1.5B (local). Falls back to deterministic summary if validation criteria are not met. <a href="hourly_update_log.html">View hourly update log</a>
       </div>
     `;
 
     const deterministicFootnote = `
       <div class="summary-footnote">
-        Deterministic summary shown because AI output was unavailable or did not meet validation criteria.
+        Deterministic summary shown because AI output was unavailable or did not meet validation criteria. <a href="hourly_update_log.html">View hourly update log</a>
       </div>
     `;
 

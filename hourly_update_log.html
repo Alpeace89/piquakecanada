@@ -22,8 +22,24 @@
     }
 
     .header-inner {
-      max-width: 1000px;
+      max-width: 1200px;
       margin: 0 auto;
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .logo {
+      width: 72px;
+      height: 72px;
+      object-fit: contain;
+      flex: 0 0 auto;
+      background: transparent;
+      border: none;
+    }
+
+    .title-wrap {
+      min-width: 0;
     }
 
     header h1 {
@@ -31,13 +47,15 @@
       font-size: 2rem;
     }
 
-    header p {
-      margin: 0.4rem 0 0 0;
+    header h2 {
+      margin: 0.3rem 0 0 0;
+      font-size: 1rem;
+      font-weight: normal;
       opacity: 0.95;
     }
 
     main {
-      max-width: 1000px;
+      max-width: 1200px;
       margin: 0 auto;
       padding: 1.5rem;
     }
@@ -104,14 +122,32 @@
       padding: 0.75rem;
       border-radius: 6px;
     }
+
+    @media (max-width: 700px) {
+      .header-inner {
+        align-items: flex-start;
+      }
+
+      .logo {
+        width: 56px;
+        height: 56px;
+      }
+
+      header h1 {
+        font-size: 1.6rem;
+      }
+    }
   </style>
 </head>
 <body>
 
 <header>
   <div class="header-inner">
-    <h1>Hourly update log</h1>
-    <p>Timestamped summary history for PiQuake Canada.</p>
+    <img src="logo.png" alt="PiQuake Canada logo" class="logo" onerror="this.style.display='none';">
+    <div class="title-wrap">
+      <h1>PiQuake Canada</h1>
+      <h2>The Canada Earthquake Dashboard: Raspberry Pi Powered access to the Earthquakes Canada database</h2>
+    </div>
   </div>
 </header>
 
@@ -120,6 +156,8 @@
     <p>
       <a href="index.html">← Back to main dashboard</a>
     </p>
+    <h2>Hourly update log</h2>
+    <p>Timestamped summary history for PiQuake Canada.</p>
     <p class="small">
       Entries are labelled as AI or deterministic. AI summaries are generated locally and fall back to deterministic text when validation criteria are not met.
     </p>
