@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC"
   },
   {
+    "time_utc": "2026-03-24T20:13:38.000Z",
+    "magnitude": "3.19",
+    "depth_km": "10.0",
+    "place": "216 km SSW of Port Hardy, BC/216 km SSO de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-03-24T20:05:24.000Z",
     "magnitude": "2.65",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.91",
     "depth_km": "22.35",
     "place": "82 km S of Daajing Giids, BC/82 km S de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-03-23T14:44:52.000Z",
-    "magnitude": "1.45",
-    "depth_km": "64.53",
-    "place": "63 km W of Vancouver, BC/63 km O de Vancouver, BC"
   }
 ];
