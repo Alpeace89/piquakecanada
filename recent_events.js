@@ -42,6 +42,12 @@ window.recentEvents = [
     "place": "233 km SSW of Port Hardy, BC/233 km SSO de Port Hardy, BC"
   },
   {
+    "time_utc": "2026-03-24T15:55:17.000Z",
+    "magnitude": "1.93",
+    "depth_km": "18.0",
+    "place": "45 km ENE of La Tuque, QC/45 km ENE de La Tuque, QC"
+  },
+  {
     "time_utc": "2026-03-24T14:25:36.000Z",
     "magnitude": "3.02",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.66",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 59 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km NE de Grande Cache, AB"
-  },
-  {
-    "time_utc": "2026-03-24T07:02:45.000Z",
-    "magnitude": "2.51",
-    "depth_km": "38.47",
-    "place": "87 km S of Daajing Giids, BC/87 km S de Daajing Giids, BC"
   }
 ];
