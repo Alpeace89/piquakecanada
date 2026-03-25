@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>PiQuake Canada - Hourly update log</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f4f4f4;
+      color: #222;
+      line-height: 1.5;
+    }
+
+    header {
+      background: #b22222;
+      color: white;
+      padding: 1rem 1.5rem;
+    }
+
+    .header-inner {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+
+    header p {
+      margin: 0.4rem 0 0 0;
+      opacity: 0.95;
+    }
+
+    main {
+      max-width: 1000px;
+      margin: 0 auto;
+      padding: 1.5rem;
+    }
+
+    .card {
+      background: white;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 1rem;
+      margin-bottom: 1rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+    }
+
+    .entry-meta {
+      font-size: 0.9rem;
+      color: #666;
+      margin-bottom: 0.5rem;
+    }
+
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.45rem;
+      border-radius: 999px;
+      font-size: 0.8rem;
+      font-weight: bold;
+      margin-left: 0.5rem;
+    }
+
+    .badge-ai {
+      background: #f3dede;
+      color: #8b0000;
+    }
+
+    .badge-det {
+      background: #ececec;
+      color: #444;
+    }
+
+    .summary-text {
+      white-space: normal;
+    }
+
+    .small {
+      font-size: 0.85rem;
+      color: #666;
+      margin-top: 0.5rem;
+    }
+
+    a {
+      color: #8b0000;
+    }
+
+    .loading-note {
+      color: #666;
+      font-style: italic;
+    }
+
+    .error-note {
+      color: #8b0000;
+      font-family: Consolas, Monaco, monospace;
+      white-space: pre-wrap;
+      background: #fff3f3;
+      border: 1px solid #e0b4b4;
+      padding: 0.75rem;
+      border-radius: 6px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <h1>Hourly update log</h1>
+    <p>Timestamped summary history for PiQuake Canada.</p>
+  </div>
+</header>
+
+<main>
+  <div class="card">
+    <p>
+      <a href="index.html">← Back to main dashboard</a>
+    </p>
+    <p class="small">
+      Entries are labelled as AI or deterministic. AI summaries are generated locally and fall back to deterministic text when validation criteria are not met.
+    </p>
+  </div>
+
+  <div id="log-container" class="loading-note">Loading hourly update log...</div>
+</main>
+
+<script>
+  const ts = new Date().getTime();
+
+  function escapeHTML(text) {
+    return String(text)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;")
+      .replace(/'/g, "&#039;");
+  }
+
+  function formatUTC(utcString) {
+    const d = new Date(utcString);
+    if (isNaN(d)) return utcString;
+    return d.toISOString().replace("T", " ").replace(".000Z", " UTC");
+  }
+
+  async function loadLog() {
+    const container = document.getElementById("log-container");
+
+    try {
+      const response = await fetch("hourly_summary_log.json?t=" + ts, { cache: "no-store" });
+      if (!response.ok) throw new Error("Failed to load hourly_summary_log.json");
+
+      const entries = await response.json();
+
+      if (!Array.isArray(entries) || entries.length === 0) {
+        container.innerHTML = '<div class="card">No log entries available yet.</div>';
+        return;
+      }
+
+      const reversed = [...entries].reverse();
+
+      let html = "";
+      reversed.forEach(entry => {
+        const mode = entry.mode === "AI" ? "AI" : "deterministic";
+        const badgeClass = entry.mode === "AI" ? "badge badge-ai" : "badge badge-det";
+        const modelText = entry.model ? `Model: ${escapeHTML(entry.model)}` : "Model: not used";
+
+        html += `
+          <div class="card">
+            <div class="entry-meta">
+              ${escapeHTML(formatUTC(entry.timestamp_utc || ""))}
+              <span class="${badgeClass}">${escapeHTML(mode)}</span>
+            </div>
+            <div class="summary-text">${escapeHTML(entry.summary || "")}</div>
+            <div class="small">${escapeHTML(modelText)}</div>
+          </div>
+        `;
+      });
+
+      container.innerHTML = html;
+    } catch (err) {
+      container.innerHTML = `<div class="error-note">Failed to load log.\n\n${escapeHTML(err.message)}</div>`;
+    }
+  }
+
+  loadLog();
+</script>
+
+</body>
+</html>
