@@ -6,10 +6,10 @@ window.recentEvents = [
     "place": "93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC"
   },
   {
-    "time_utc": "2026-03-24T20:13:38.000Z",
-    "magnitude": "3.19",
+    "time_utc": "2026-03-24T20:13:37.000Z",
+    "magnitude": "3.28",
     "depth_km": "10.0",
-    "place": "216 km SSW of Port Hardy, BC/216 km SSO de Port Hardy, BC"
+    "place": "235 km SSW of Port Hardy, BC/235 km SSO de Port Hardy, BC"
   },
   {
     "time_utc": "2026-03-24T20:05:24.000Z",
