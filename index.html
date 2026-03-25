@@ -124,6 +124,16 @@
       white-space: normal;
     }
 
+    .summary-text {
+      white-space: normal;
+    }
+
+    .summary-footnote {
+      margin-top: 0.75rem;
+      font-size: 0.8rem;
+      color: #666;
+    }
+
     .recent-table-wrapper {
       overflow-x: auto;
       margin-top: 0.75rem;
@@ -226,7 +236,7 @@
     </p>
 
     <p>
-      <strong>Recent dataset:</strong> earthquakes from the latest rolling recent window used to build the map as CSV. This dataset is updated hourly.
+      <strong>Recent dataset:</strong> earthquakes from the latest rolling recent window used to build the downloadable CSV. This dataset is updated hourly.
       <br>
       <a class="button" id="recent-csv-link" href="eq_canada_recent.csv">Download recent dataset CSV</a>
       <br><br>
@@ -268,12 +278,13 @@
     <div class="meta">
       <p><strong>Map / recent dataset last updated:</strong> <span id="last-updated">Loading...</span></p>
       <p><strong>Full dataset last updated:</strong> <span id="full-updated">Loading...</span></p>
-      <p><strong>Mapped earthquakes in last 30 days:</strong> <span id="event-count">Loading...</span></p>
+      <p><strong>Earthquakes shown on 30-day map:</strong> <span id="event-count">Loading...</span></p>
+      <p><strong>Earthquakes in current recent dataset:</strong> <span id="recent-dataset-count">Loading...</span></p>
     </div>
   </div>
 
   <div class="card">
-    <h2>Hourly Updated Seismicity Summary</h2>
+    <h2>Hourly updated AI summary (beta)</h2>
     <div id="summary-container" class="summary-box">
       <span class="loading-note">Loading summary...</span>
     </div>
@@ -312,27 +323,67 @@
     }
   }
 
-async function loadSummary() {
-  const container = document.getElementById("summary-container");
+  async function loadRecentDatasetCount() {
+    const element = document.getElementById("recent-dataset-count");
 
-  try {
-    const aiResponse = await fetch("recent_summary_ai.txt?t=" + ts, { cache: "no-store" });
-    if (aiResponse.ok) {
-      const aiText = await aiResponse.text();
-      if (aiText.trim()) {
-        container.textContent = aiText.trim();
+    try {
+      const response = await fetch("eq_canada_recent.csv?t=" + ts, { cache: "no-store" });
+      if (!response.ok) throw new Error("Failed to load eq_canada_recent.csv");
+
+      const text = await response.text();
+      const lines = text.split(/\r?\n/).filter(line => line.trim() !== "");
+
+      if (lines.length <= 1) {
+        element.textContent = "0";
         return;
       }
-    }
 
-    const fallbackResponse = await fetch("recent_summary.txt?t=" + ts, { cache: "no-store" });
-    if (!fallbackResponse.ok) throw new Error("Failed to load summary files");
-    const fallbackText = await fallbackResponse.text();
-    container.textContent = fallbackText.trim();
-  } catch (err) {
-    container.innerHTML = `<div class="error-note">Summary failed to load.\n\n${escapeHTML(err.message)}</div>`;
+      element.textContent = String(lines.length - 1);
+    } catch (err) {
+      element.textContent = "Unavailable";
+    }
   }
-}
+
+  async function loadSummary() {
+    const container = document.getElementById("summary-container");
+
+    const aiFootnote = `
+      <div class="summary-footnote">
+        Model: Qwen2.5 1.5B (local). Falls back to deterministic summary if validation criteria are not met.
+      </div>
+    `;
+
+    const deterministicFootnote = `
+      <div class="summary-footnote">
+        Deterministic summary shown because AI output was unavailable or did not meet validation criteria.
+      </div>
+    `;
+
+    try {
+      const aiResponse = await fetch("recent_summary_ai.txt?t=" + ts, { cache: "no-store" });
+      if (aiResponse.ok) {
+        const aiText = await aiResponse.text();
+        if (aiText.trim()) {
+          container.innerHTML = `
+            <div class="summary-text">${escapeHTML(aiText.trim())}</div>
+            ${aiFootnote}
+          `;
+          return;
+        }
+      }
+
+      const fallbackResponse = await fetch("recent_summary.txt?t=" + ts, { cache: "no-store" });
+      if (!fallbackResponse.ok) throw new Error("Failed to load summary files");
+
+      const fallbackText = await fallbackResponse.text();
+      container.innerHTML = `
+        <div class="summary-text">${escapeHTML(fallbackText.trim())}</div>
+        ${deterministicFootnote}
+      `;
+    } catch (err) {
+      container.innerHTML = `<div class="error-note">Summary failed to load.\n\n${escapeHTML(err.message)}</div>`;
+    }
+  }
 
   function escapeHTML(text) {
     return String(text)
@@ -420,6 +471,7 @@ async function loadSummary() {
   loadTextFile("last_updated.txt", "last-updated");
   loadTextFile("full_updated.txt", "full-updated");
   loadTextFile("event_count.txt", "event-count");
+  loadRecentDatasetCount();
   loadSummary();
   loadRecentEventsTable();
 </script>

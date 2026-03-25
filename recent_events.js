@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC"
   },
   {
+    "time_utc": "2026-03-24T18:05:12.000Z",
+    "magnitude": "2.83",
+    "depth_km": "10.0",
+    "place": "233 km SSW of Port Hardy, BC/233 km SSO de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-03-24T14:25:36.000Z",
     "magnitude": "3.02",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.53",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 27 km NNE of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 27 km NNE de Halfway River 168, BC"
-  },
-  {
-    "time_utc": "2026-03-23T07:39:46.000Z",
-    "magnitude": "2.53",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 28 km NE of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 28 km NE de Halfway River 168, BC"
   }
 ];

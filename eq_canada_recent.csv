@@ -517,4 +517,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260324.0702001,2026-03-24T07:02:45.000Z,52.4819,-132.2756,38.47,ML,2.51,"87 km S of Daajing Giids, BC/87 km S de Daajing Giids, BC"
 20260324.0910001,2026-03-24T09:10:24.000Z,54.3063,-118.5607,1.0,MLy,2.66,"Suspected industry-related event, 59 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 59 km NE de Grande Cache, AB"
 20260324.1425001,2026-03-24T14:25:36.000Z,48.7,-128.9502,10.0,Mw',3.02,"248 km SSW of Port Hardy, BC/248 km SSO de Port Hardy, BC"
+20260324.1805001,2026-03-24T18:05:12.000Z,48.8793,-129.0432,10.0,Mw',2.83,"233 km SSW of Port Hardy, BC/233 km SSO de Port Hardy, BC"
 20260325.1325002,2026-03-25T13:25:34.000Z,52.4337,-131.7814,24.83,Mw,4.28,"93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC"
