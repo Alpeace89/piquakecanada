@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "13 km S of Fraser Valley H, BC/13 km S de Fraser Valley H, BC"
   },
   {
+    "time_utc": "2026-03-25T00:23:09.000Z",
+    "magnitude": "3.39",
+    "depth_km": "1.0",
+    "place": "123 km WSW of Haines Junction, YT/123 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-03-24T22:15:53.000Z",
     "magnitude": "2.8",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.02",
     "depth_km": "10.0",
     "place": "248 km SSW of Port Hardy, BC/248 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-03-24T09:10:24.000Z",
-    "magnitude": "2.66",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 59 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km NE de Grande Cache, AB"
   }
 ];
