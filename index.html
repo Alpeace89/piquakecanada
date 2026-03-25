@@ -348,14 +348,39 @@
     }
   }
 
+  async function loadLatestLogEntry() {
+    try {
+      const response = await fetch("hourly_summary_log.json?t=" + ts, { cache: "no-store" });
+      if (!response.ok) throw new Error("Failed to load hourly_summary_log.json");
+
+      const entries = await response.json();
+      if (!Array.isArray(entries) || entries.length === 0) {
+        return null;
+      }
+
+      return entries[entries.length - 1];
+    } catch (err) {
+      return null;
+    }
+  }
+
   async function loadSummary() {
     const container = document.getElementById("summary-container");
+    const latestLogEntry = await loadLatestLogEntry();
 
-    const aiFootnote = `
+    let aiFootnote = `
       <div class="summary-footnote">
-        Model: Qwen2.5 1.5B (local). Falls back to deterministic summary if validation criteria are not met. <a href="hourly_update_log.html">View hourly update log</a>
+        Model: local AI model. Falls back to deterministic summary if validation criteria are not met. <a href="hourly_update_log.html">View hourly update log</a>
       </div>
     `;
+
+    if (latestLogEntry && latestLogEntry.mode === "AI" && latestLogEntry.model) {
+      aiFootnote = `
+        <div class="summary-footnote">
+          Model: ${escapeHTML(latestLogEntry.model)} (local). Falls back to deterministic summary if validation criteria are not met. <a href="hourly_update_log.html">View hourly update log</a>
+        </div>
+      `;
+    }
 
     const deterministicFootnote = `
       <div class="summary-footnote">
@@ -368,9 +393,11 @@
       if (aiResponse.ok) {
         const aiText = await aiResponse.text();
         if (aiText.trim()) {
+          const footnoteToUse = (latestLogEntry && latestLogEntry.mode === "AI") ? aiFootnote : deterministicFootnote;
+
           container.innerHTML = `
             <div class="summary-text">${escapeHTML(aiText.trim())}</div>
-            ${aiFootnote}
+            ${footnoteToUse}
           `;
           return;
         }
