@@ -6,6 +6,24 @@ window.recentEvents = [
     "place": "93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC"
   },
   {
+    "time_utc": "2026-03-25T08:31:46.000Z",
+    "magnitude": "2.26",
+    "depth_km": "4.22",
+    "place": "Suspected industry-related event, 61 km W of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 61 km O de Fox Creek, AB"
+  },
+  {
+    "time_utc": "2026-03-25T07:45:35.000Z",
+    "magnitude": "1.65",
+    "depth_km": "3.37",
+    "place": "13 km S of Fraser Valley H, BC/13 km S de Fraser Valley H, BC"
+  },
+  {
+    "time_utc": "2026-03-24T22:15:53.000Z",
+    "magnitude": "2.8",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 28 km NNE of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 28 km NNE de Halfway River 168, BC"
+  },
+  {
     "time_utc": "2026-03-24T20:13:37.000Z",
     "magnitude": "3.28",
     "depth_km": "10.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.51",
     "depth_km": "38.47",
     "place": "87 km S of Daajing Giids, BC/87 km S de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-03-24T04:18:09.000Z",
-    "magnitude": "2.44",
-    "depth_km": "5.0",
-    "place": "58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-03-24T03:22:45.000Z",
-    "magnitude": "2.64",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 28 km W of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 28 km O de Fox Creek, AB"
-  },
-  {
-    "time_utc": "2026-03-23T22:19:19.000Z",
-    "magnitude": "1.91",
-    "depth_km": "22.35",
-    "place": "82 km S of Daajing Giids, BC/82 km S de Daajing Giids, BC"
   }
 ];

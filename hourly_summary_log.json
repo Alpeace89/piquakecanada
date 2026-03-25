@@ -28,5 +28,11 @@
     "mode": "AI",
     "model": "qwen2.5:1.5b",
     "summary": "No earthquakes were recorded in the last hour. As of 2026-03-25T13:25:34Z, there have been four seismic events detected over the past 24 hours, with the largest measuring magnitude M4.28 occurring at 93 kilometers southeast of Daajing Giids, British Columbia. The majority of these events originated within the province of British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-03-25T17:02:09Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "No earthquakes were recorded in the last hour. In the last 24 hours, 7 earthquake(s) were recorded, with the largest event M4.28 at 93 km SSE of Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC at 2026-03-25T13:25:34Z."
   }
 ]

@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-03-25T16:55:44Z",
+  "generated_utc": "2026-03-25T17:02:09Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 522,
-  "events_last_24h": 4,
+  "rolling_window_event_count": 525,
+  "events_last_24h": 7,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 2,
   "count_m4plus_last_24h": 1,
@@ -42,8 +42,12 @@
   "top_regions_last_24h": [
     {
       "region": "BC",
-      "count": 4
+      "count": 6
+    },
+    {
+      "region": "AB",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-03-25 16:55 UTC, the recent Canada earthquake dataset contains 522 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.28 at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC. The deepest event reached 24.83 km at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC at 2026-03-25T13:25:34.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active region was BC."
+  "summary_text": "As of 2026-03-25 17:02 UTC, the recent Canada earthquake dataset contains 525 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.28 at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC. The deepest event reached 24.83 km at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC at 2026-03-25T13:25:34.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (6) and AB (1)."
 }
