@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-25T13:25:34.000Z",
+    "magnitude": "4.28",
+    "depth_km": "24.83",
+    "place": "93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-03-24T04:18:09.000Z",
+    "magnitude": "2.44",
+    "depth_km": "5.0",
+    "place": "58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT"
+  },
+  {
     "time_utc": "2026-03-24T03:22:45.000Z",
     "magnitude": "2.64",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.21",
     "depth_km": "5.0",
     "place": "132 km WSW of Haines Junction, YT/132 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-03-23T02:27:21.000Z",
-    "magnitude": "3.58",
-    "depth_km": "10.0",
-    "place": "234 km SSW of Port Hardy, BC/234 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-03-23T02:00:47.000Z",
-    "magnitude": "2.6",
-    "depth_km": "5.0",
-    "place": "118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
   }
 ];
