@@ -1,1 +1,1 @@
-No earthquakes were recorded in the last hour. In the previous day, four quakes occurred across British Columbia. The largest event was a M4.28 tremor that struck southeast of Daajing Giids, BC, at 13:25:34 UTC on March 25th.
+No earthquakes were recorded in the last hour. As of 2026-03-25T13:25:34Z, there have been four seismic events detected over the past 24 hours, with the largest measuring magnitude M4.28 occurring at 93 kilometers southeast of Daajing Giids, British Columbia. The majority of these events originated within the province of British Columbia.
