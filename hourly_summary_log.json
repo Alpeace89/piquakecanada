@@ -1,14 +1,8 @@
 [
   {
-    "timestamp_utc": "2026-03-25T20:12:25Z",
+    "timestamp_utc": "2026-03-25T20:22:03Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past day, there have been five events with a magnitude of over M4. In the last 24 hours, 5 earthquake(s) were recorded, with the largest event M4.28 at 93 km SSE of Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC at 2026-03-25T13:25:34Z."
-  },
-  {
-    "timestamp_utc": "2026-03-25T20:19:06Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there were four earthquakes recorded. In the last 24 hours, 4 earthquake(s) were recorded, with the largest event M4.28 at 93 km SSE of Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC at 2026-03-25T13:25:34Z."
+    "summary": "No earthquakes were recorded in the last hour. In the last 24 hours there have been four events, with no activity in the past hour. In the last 24 hours, 4 earthquake(s) were recorded, with the largest event M4.28 at 93 km SSE of Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC at 2026-03-25T13:25:34Z."
   }
 ]
