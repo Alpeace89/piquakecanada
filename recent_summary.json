@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-25T17:05:21Z",
+  "generated_utc": "2026-03-25T17:05:44Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 525,
   "events_last_24h": 7,
