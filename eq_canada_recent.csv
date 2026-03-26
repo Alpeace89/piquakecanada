@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260209.0358001,2026-02-09T03:58:52.000Z,50.7106,-130.5729,10.0,Mw',4.35,"216 km W of Port Hardy, BC/216 km O de Port Hardy, BC"
 20260209.1035001,2026-02-09T10:35:47.000Z,60.5394,-140.0555,5.0,ML,2.41,"108 km SSW of Burwash Landing, YT/108 km SSO de Burwash Landing, YT"
 20260209.1117001,2026-02-09T11:17:36.000Z,50.6828,-130.578,10.0,Mw',2.94,"217 km W of Port Hardy, BC/217 km O de Port Hardy, BC"
 20260209.1455001,2026-02-09T14:55:14.000Z,59.2971,-136.9532,5.0,ML,2.4,"187 km SW of Whitehorse, YT/187 km SO de Whitehorse, YT"
