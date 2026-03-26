@@ -494,6 +494,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260321.2046001,2026-03-21T20:46:45.000Z,47.2948,-70.4833,3.24,MwN,0.81,"17 km S of Baie-Saint-Paul, QC/17 km S de Baie-Saint-Paul, QC"
 20260321.2100001,2026-03-21T21:00:36.000Z,54.0493,-119.1805,0.0,MLy,2.53,"Blast, 18 km NNW of Grande Cache, AB/Dynamitage, 18 km NNO de Grande Cache, AB"
 20260322.0516001,2026-03-22T05:16:20.000Z,47.6949,-70.1866,5.11,MwN,0.05,"6 km NNW of La Malbaie, QC/6 km NNO de La Malbaie, QC"
+20260322.0535001,2026-03-22T05:35:40.000Z,54.6746,-118.6207,5.24,MLy,1.98,"Suspected industry-related event, 56 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 56 km SSE de Grande Prairie, AB"
 20260322.0659001,2026-03-22T06:59:27.000Z,54.0326,-112.7901,1.0,MLy,2.89,"7 km S of Waskatenau, AB/7 km S de Waskatenau, AB"
 20260322.1923001,2026-03-22T19:23:30.000Z,48.7886,-129.3526,10.0,Mw',4.28,"253 km SSW of Port Hardy, BC/253 km SSO de Port Hardy, BC"
 20260322.2109001,2026-03-22T21:09:19.000Z,45.8079,-76.9307,11.43,MwN,1.15,"14 km E of Pembroke, ON/14 km E de Pembroke, ON"
