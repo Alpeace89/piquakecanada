@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260209.2222001,2026-02-09T22:22:19.000Z,54.353,-117.4747,3.94,MLy,2.95,"Suspected industry-related event, 44 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 44 km O de Fox Creek, AB"
 20260210.0124001,2026-02-10T01:24:31.000Z,45.2753,-73.9693,14.6,MwN,1.83,"13 km ENE of Salaberry-de-Valleyfield, QC/13 km ENE de Salaberry-de-Valleyfield, QC"
 20260210.0223001,2026-02-10T02:23:53.000Z,47.6326,-70.1049,8.77,MwN,0.04,"4 km ESE of La Malbaie, QC/4 km ESE de La Malbaie, QC"
 20260210.0223002,2026-02-10T02:23:57.000Z,44.5407,-79.1348,2.0,MwN,1.15,"3 km ESE of Ramara, ON/3 km ESE de Ramara, ON"
