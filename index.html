@@ -230,25 +230,20 @@
     <p>
       This website provides access to earthquake data from the Earthquakes Canada database,
       allowing users to download earthquake records without the limitations of the standard
-      search interface.
+      search interface (i.e. not limited to 4000 events). The recent dataset updates hourly and the full datasets update daily. 
     </p>
 
     <p>
-      The map below shows earthquakes recorded during the last 30 days in the most recent
-      hourly dataset. Symbol size scales with magnitude and symbol colour represents
-      earthquake depth.
+      Four downloadable datasets are provided:
     </p>
 
     <p>
-      Three downloadable datasets are provided:
-    </p>
-
-    <p>
-      <strong>Recent dataset:</strong> earthquakes from the latest 45-day rolling recent window used to build the downloadable CSV. This dataset is updated hourly.
+      <strong>Recent dataset:</strong> earthquakes from the latest 45-day rolling recent window as either CSV or KMZ. These datasets are updated hourly.
       <br>
       <a class="button" id="recent-csv-link" href="eq_canada_recent.csv">Download recent dataset CSV</a>
+      <a class="button" href="earthquakes_recent.kmz">Download KMZ (Google Earth)</a>
       <br><br>
-      <strong>Full dataset:</strong> the complete downloadable archive from 1985 to present as either CSV or GZ. This dataset is updated daily.
+      <strong>Full dataset:</strong> the complete downloadable archive from 1985 to present as either CSV or GZ. These datasets are updated daily.
       <br>
       <a class="button" id="full-gz-link" href="eq_canada_full.csv.gz">Download full dataset compressed GZ (1985 to present)</a>
       <a class="button" id="full-csv-link" href="eq_canada_full.csv">Download full dataset CSV (1985 to present)</a>
@@ -326,8 +321,13 @@
   </div>
 
   <div class="card">
-    <h2>Earthquakes in last 30 days</h2>
+    <h2>Earthquakes in last 30 days across Canada</h2>
     <img id="eq-map" class="main-map" src="latest_eq_map.png" alt="Earthquakes in last 30 days">
+      <p>
+      The map above shows earthquakes recorded during the last 30 days in the most recent
+      hourly dataset. Symbol size scales with magnitude and symbol colour represents
+      earthquake depth.
+    </p>
   </div>
 
 </main>
