@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260209.1455001,2026-02-09T14:55:14.000Z,59.2971,-136.9532,5.0,ML,2.4,"187 km SW of Whitehorse, YT/187 km SO de Whitehorse, YT"
 20260209.1749001,2026-02-09T17:49:31.000Z,60.6378,-139.8973,5.0,ML,2.26,"94 km SSW of Burwash Landing, YT/94 km SSO de Burwash Landing, YT"
 20260209.2153001,2026-02-09T21:53:00.000Z,59.8998,-141.2391,5.0,ML,2.43,"226 km WSW of Haines Junction, YT/226 km OSO de Haines Junction, YT"
 20260209.2222001,2026-02-09T22:22:19.000Z,54.353,-117.4747,3.94,MLy,2.95,"Suspected industry-related event, 44 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 44 km O de Fox Creek, AB"
@@ -524,6 +523,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260324.0910001,2026-03-24T09:10:24.000Z,54.3063,-118.5607,1.0,MLy,2.66,"Suspected industry-related event, 59 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 59 km NE de Grande Cache, AB"
 20260324.1425001,2026-03-24T14:25:36.000Z,48.7,-128.9502,10.0,Mw',3.02,"248 km SSW of Port Hardy, BC/248 km SSO de Port Hardy, BC"
 20260324.1555001,2026-03-24T15:55:17.000Z,47.5188,-72.1998,18.0,MwN,1.93,"45 km ENE of La Tuque, QC/45 km ENE de La Tuque, QC"
+20260324.1648001,2026-03-24T16:48:12.000Z,46.0218,-66.7562,0.0,MwN,1.63,"Blast, 11 km NW of Fredericton, NB/Dynamitage, 11 km NO de Fredericton, NB"
 20260324.1805001,2026-03-24T18:05:12.000Z,48.8793,-129.0432,10.0,Mw',2.83,"233 km SSW of Port Hardy, BC/233 km SSO de Port Hardy, BC"
 20260324.2005001,2026-03-24T20:05:24.000Z,56.6894,-121.6142,1.0,MLy,2.65,"Suspected industry-related event, 28 km NNE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 28 km NNE de Halfway River 168, BC"
 20260324.2013002,2026-03-24T20:13:37.000Z,48.8818,-129.095,10.0,Mw',3.28,"235 km SSW of Port Hardy, BC/235 km SSO de Port Hardy, BC"
@@ -540,3 +540,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260326.0648001,2026-03-26T06:48:26.000Z,47.4988,-70.0316,13.67,MwN,0.7,"14 km N of La Pocatière, QC/14 km N de La Pocatière, QC"
 20260326.0649001,2026-03-26T06:49:33.000Z,47.499,-70.0294,13.51,MwN,0.34,"14 km N of La Pocatière, QC/14 km N de La Pocatière, QC"
 20260326.0754001,2026-03-26T07:54:09.000Z,56.7004,-121.5936,1.0,MLy,2.48,"Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC"
+20260326.1021001,2026-03-26T10:21:43.000Z,48.6342,-123.1376,16.82,ML1,1.24,"21 km ENE of Central Saanich, BC/21 km ENE de Central Saanich, BC"
+20260326.1105001,2026-03-26T11:05:26.000Z,48.8689,-123.4125,20.61,ML,1.43,"7 km ENE of Saltspring Island Trust Area, BC/7 km ENE de Saltspring Island Trust Area, BC"
+20260326.1119001,2026-03-26T11:19:23.000Z,60.5132,-139.9726,5.0,ML,2.41,"137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
+20260326.1123001,2026-03-26T11:23:11.000Z,49.7079,-127.1742,28.97,ML1,1.37,"43 km WSW of Tahsis, BC/43 km OSO de Tahsis, BC"
+20260326.1301001,2026-03-26T13:01:38.000Z,48.4628,-68.4993,0.0,MwN,1.44,"Blast, 3 km ENE of Rimouski, QC, felt/Dynamitage, 3 km ENE de Rimouski, QC, ressenti"

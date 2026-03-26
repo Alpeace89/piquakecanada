@@ -1,5 +1,35 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-26T13:01:38.000Z",
+    "magnitude": "1.44",
+    "depth_km": "0.0",
+    "place": "Blast, 3 km ENE of Rimouski, QC, felt/Dynamitage, 3 km ENE de Rimouski, QC, ressenti"
+  },
+  {
+    "time_utc": "2026-03-26T11:23:11.000Z",
+    "magnitude": "1.37",
+    "depth_km": "28.97",
+    "place": "43 km WSW of Tahsis, BC/43 km OSO de Tahsis, BC"
+  },
+  {
+    "time_utc": "2026-03-26T11:19:23.000Z",
+    "magnitude": "2.41",
+    "depth_km": "5.0",
+    "place": "137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-03-26T11:05:26.000Z",
+    "magnitude": "1.43",
+    "depth_km": "20.61",
+    "place": "7 km ENE of Saltspring Island Trust Area, BC/7 km ENE de Saltspring Island Trust Area, BC"
+  },
+  {
+    "time_utc": "2026-03-26T10:21:43.000Z",
+    "magnitude": "1.24",
+    "depth_km": "16.82",
+    "place": "21 km ENE of Central Saanich, BC/21 km ENE de Central Saanich, BC"
+  },
+  {
     "time_utc": "2026-03-26T07:54:09.000Z",
     "magnitude": "2.48",
     "depth_km": "1.0",
@@ -28,35 +58,5 @@ window.recentEvents = [
     "magnitude": "1.82",
     "depth_km": "5.0",
     "place": "131 km WSW of Haines Junction, YT/131 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-03-26T03:44:08.000Z",
-    "magnitude": "2.12",
-    "depth_km": "5.0",
-    "place": "98 km S of Beaver Creek, YT/98 km S de Beaver Creek, YT"
-  },
-  {
-    "time_utc": "2026-03-26T03:34:19.000Z",
-    "magnitude": "2.15",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 24 km NNW of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 24 km NNO de Halfway River 168, BC"
-  },
-  {
-    "time_utc": "2026-03-25T13:25:34.000Z",
-    "magnitude": "4.28",
-    "depth_km": "24.83",
-    "place": "93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-03-25T08:31:46.000Z",
-    "magnitude": "2.26",
-    "depth_km": "4.22",
-    "place": "Suspected industry-related event, 61 km W of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 61 km O de Fox Creek, AB"
-  },
-  {
-    "time_utc": "2026-03-25T07:45:35.000Z",
-    "magnitude": "1.65",
-    "depth_km": "3.37",
-    "place": "13 km S of Fraser Valley H, BC/13 km S de Fraser Valley H, BC"
   }
 ];

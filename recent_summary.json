@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-03-26T14:03:01Z",
+  "generated_utc": "2026-03-26T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 541,
-  "events_last_24h": 7,
+  "rolling_window_event_count": 546,
+  "events_last_24h": 12,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260326.0754001",
-    "time_utc": "2026-03-26T07:54:09.000Z",
-    "latitude": 56.7004,
-    "longitude": -121.5936,
-    "depth_km": 1.0,
-    "mag_type": "MLy",
-    "magnitude": 2.48,
-    "place": "Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC",
-    "region": "BC"
+    "event_id": "20260326.1301001",
+    "time_utc": "2026-03-26T13:01:38.000Z",
+    "latitude": 48.4628,
+    "longitude": -68.4993,
+    "depth_km": 0.0,
+    "mag_type": "MwN",
+    "magnitude": 1.44,
+    "place": "Blast, 3 km ENE of Rimouski, QC, felt/Dynamitage, 3 km ENE de Rimouski, QC, ressenti",
+    "region": "Unknown"
   },
   "largest_event_last_24h": {
     "event_id": "20260326.0754001",
@@ -29,29 +29,29 @@
     "region": "BC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260326.0648001",
-    "time_utc": "2026-03-26T06:48:26.000Z",
-    "latitude": 47.4988,
-    "longitude": -70.0316,
-    "depth_km": 13.67,
-    "mag_type": "MwN",
-    "magnitude": 0.7,
-    "place": "14 km N of La Pocatière, QC/14 km N de La Pocatière, QC",
-    "region": "QC"
+    "event_id": "20260326.1123001",
+    "time_utc": "2026-03-26T11:23:11.000Z",
+    "latitude": 49.7079,
+    "longitude": -127.1742,
+    "depth_km": 28.97,
+    "mag_type": "ML1",
+    "magnitude": 1.37,
+    "place": "43 km WSW of Tahsis, BC/43 km OSO de Tahsis, BC",
+    "region": "BC"
   },
   "top_regions_last_24h": [
     {
-      "region": "QC",
-      "count": 3
-    },
-    {
       "region": "BC",
-      "count": 2
+      "count": 5
     },
     {
       "region": "YT",
-      "count": 2
+      "count": 3
+    },
+    {
+      "region": "QC",
+      "count": 3
     }
   ],
-  "summary_text": "As of 2026-03-26 14:03 UTC, the recent Canada earthquake dataset contains 541 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC. The deepest event reached 13.67 km at 14 km N of La Pocatière, QC/14 km N de La Pocatière, QC. The most recent listed event was M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC at 2026-03-26T07:54:09.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (3) and BC (2)."
+  "summary_text": "As of 2026-03-26 15:03 UTC, the recent Canada earthquake dataset contains 546 events from the current rolling window. In the last 24 hours, 12 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC. The deepest event reached 28.97 km at 43 km WSW of Tahsis, BC/43 km OSO de Tahsis, BC. The most recent listed event was M1.44 at Blast, 3 km ENE of Rimouski, QC, felt/Dynamitage, 3 km ENE de Rimouski, QC, ressenti at 2026-03-26T13:01:38.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (5) and YT (3)."
 }
