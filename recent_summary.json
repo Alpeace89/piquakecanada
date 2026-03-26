@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-26T16:03:02Z",
+  "generated_utc": "2026-03-26T17:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 546,
   "events_last_24h": 12,
@@ -53,5 +53,5 @@
       "count": 3
     }
   ],
-  "summary_text": "As of 2026-03-26 16:03 UTC, the recent Canada earthquake dataset contains 546 events from the current rolling window. In the last 24 hours, 12 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC. The deepest event reached 28.97 km at 43 km WSW of Tahsis, BC/43 km OSO de Tahsis, BC. The most recent listed event was M1.44 at Blast, 3 km ENE of Rimouski, QC, felt/Dynamitage, 3 km ENE de Rimouski, QC, ressenti at 2026-03-26T13:01:38.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (5) and YT (3)."
+  "summary_text": "As of 2026-03-26 17:03 UTC, the recent Canada earthquake dataset contains 546 events from the current rolling window. In the last 24 hours, 12 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC. The deepest event reached 28.97 km at 43 km WSW of Tahsis, BC/43 km OSO de Tahsis, BC. The most recent listed event was M1.44 at Blast, 3 km ENE of Rimouski, QC, felt/Dynamitage, 3 km ENE de Rimouski, QC, ressenti at 2026-03-26T13:01:38.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (5) and YT (3)."
 }
