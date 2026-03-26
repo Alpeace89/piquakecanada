@@ -11,187 +11,121 @@
 
   <style>
     body {
-      font-family: Arial, sans-serif;
       margin: 0;
-      padding: 0;
-      background: #f4f4f4;
+      font-family: Arial, sans-serif;
+      background: #f3f3f3;
       color: #222;
     }
 
     header {
-      background: #8b1e2d;
+      background: #b71c1c;
       color: white;
-      padding: 1rem 1.5rem;
+      padding: 28px 40px;
     }
 
     header h1 {
-      margin: 0;
-      font-size: 1.8rem;
+      margin: 0 0 10px 0;
+      font-size: 3rem;
+      font-weight: 700;
     }
 
     header p {
-      margin: 0.35rem 0 0 0;
-      font-size: 1rem;
+      margin: 0;
+      font-size: 1.1rem;
+      font-weight: 400;
     }
 
-    nav {
-      background: #6f1622;
-      padding: 0.75rem 1.5rem;
-    }
-
-    nav a {
-      color: white;
-      text-decoration: none;
-      margin-right: 1rem;
-      font-weight: bold;
-    }
-
-    nav a:hover {
-      text-decoration: underline;
-    }
-
-    main {
-      max-width: 1200px;
-      margin: 0 auto;
-      padding: 1.5rem;
+    .container {
+      max-width: 1880px;
+      margin: 38px auto;
+      padding: 0 40px;
     }
 
     .card {
-      background: white;
-      border: 1px solid #ccc;
-      border-radius: 8px;
-      padding: 1rem;
-      margin-bottom: 1.5rem;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+      background: #f3f3f3;
+      border: 1px solid #cfcfcf;
+      border-radius: 16px;
+      padding: 32px 26px 36px 26px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
     }
 
-    img {
-      max-width: 100%;
-      height: auto;
-      display: block;
-      margin: 0 auto;
-      border: 1px solid #bbb;
-      background: white;
-    }
-
-    a.button {
+    .back-link {
       display: inline-block;
-      padding: 0.6rem 1rem;
-      background: #8b1e2d;
-      color: white;
-      text-decoration: none;
-      border-radius: 6px;
-      margin-right: 0.75rem;
-      margin-bottom: 0.5rem;
-    }
-
-    a.button:hover {
-      background: #6f1622;
-    }
-
-    .small {
-      font-size: 0.95rem;
-      color: #555;
-    }
-
-    .meta {
-      margin-top: 1rem;
-      padding: 0.75rem;
-      background: #f8f8f8;
-      border: 1px solid #ddd;
-      border-radius: 6px;
-    }
-
-    .meta p {
-      margin: 0.35rem 0;
+      margin-bottom: 26px;
+      color: #9b0000;
+      font-size: 1rem;
+      font-weight: 500;
+      text-decoration: underline;
     }
 
     h2 {
-      margin-top: 0;
+      margin: 0 0 22px 0;
+      font-size: 2.1rem;
+      font-weight: 700;
+    }
+
+    .map-wrap {
+      text-align: center;
+      margin-bottom: 28px;
+    }
+
+    .map-wrap img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .sources {
+      font-size: 0.98rem;
+      line-height: 1.6;
+      color: #444;
+    }
+
+    .sources a {
+      color: #9b0000;
     }
   </style>
 </head>
-
 <body>
 
-<header>
-  <h1>PiQuake Canada</h1>
-  <p>Quebec recent earthquakes</p>
-</header>
+  <header>
+    <h1>PiQuake Canada</h1>
+    <p>Raspberry Pi Powered Access to the Earthquakes Canada Database</p>
+  </header>
 
-<nav>
-  <a href="index.html">Main dashboard</a>
-  <a href="quebec_recent.html">Quebec</a>
-</nav>
+  <div class="container">
+    <div class="card">
+      <a class="back-link" href="index.html">← Back to main dashboard</a>
 
-<main>
+      <h2>Quebec recent earthquakes</h2>
 
-  <div class="card">
-    <h2>About this page</h2>
+      <div class="map-wrap">
+        <img id="qc-map" src="quebec_recent_eq_map.png" alt="Recent earthquakes in Quebec">
+      </div>
 
-    <p>
-      This page shows recent earthquakes for Quebec and nearby surrounding areas
-      from the latest hourly dataset.
-    </p>
-
-    <p>
-      Symbol size scales with magnitude and symbol colour represents earthquake depth.
-      The map covers the last 30 days from the most recent dataset snapshot.
-    </p>
-
-    <p>
-      <a class="button" id="recent-csv-link" href="eq_canada_recent.csv">Download recent dataset CSV</a>
-    </p>
-
-    <div class="meta">
-      <p><strong>Quebec map last updated:</strong> <span id="quebec-last-updated">Loading...</span></p>
-      <p><strong>Mapped earthquakes in last 30 days:</strong> <span id="quebec-event-count">Loading...</span></p>
+      <div class="sources">
+        <strong>Data sources</strong><br>
+        Earthquake data:
+        <a href="https://earthquakescanada.nrcan.gc.ca/" target="_blank" rel="noopener noreferrer">
+          Earthquakes Canada (Natural Resources Canada)
+        </a>
+        <br>
+        Map generated using
+        <a href="https://www.generic-mapping-tools.org/" target="_blank" rel="noopener noreferrer">
+          GMT (Generic Mapping Tools)
+        </a>
+        <br>
+        Depth colours use the
+        <a href="https://www.fabiocrameri.ch/colourmaps/" target="_blank" rel="noopener noreferrer">
+          Scientific Colour Maps by Fabio Crameri
+        </a>
+      </div>
     </div>
-
-    <p class="small">
-      Data source:
-      <a href="https://earthquakescanada.nrcan.gc.ca/" target="_blank" rel="noopener noreferrer">
-        Earthquakes Canada (Natural Resources Canada)
-      </a>
-      <br>
-      Map generated using
-      <a href="https://www.generic-mapping-tools.org/" target="_blank" rel="noopener noreferrer">
-        GMT (Generic Mapping Tools)
-      </a>
-      <br>
-      Depth colours use the
-      <a href="https://www.fabiocrameri.ch/colourmaps/" target="_blank" rel="noopener noreferrer">
-        Scientific Colour Maps by Fabio Crameri
-      </a>
-    </p>
   </div>
 
-  <div class="card">
-    <img id="qc-map" src="quebec_recent_eq_map.png" alt="Recent earthquakes in Quebec">
-  </div>
-
-</main>
-
-<script>
-  const ts = new Date().getTime();
-
-  async function loadTextFile(path, elementId) {
-    try {
-      const response = await fetch(path + "?t=" + ts, { cache: "no-store" });
-      if (!response.ok) throw new Error("Failed to load " + path);
-      const text = await response.text();
-      document.getElementById(elementId).textContent = text.trim();
-    } catch (err) {
-      document.getElementById(elementId).textContent = "Unavailable";
-    }
-  }
-
-  document.getElementById("qc-map").src = "quebec_recent_eq_map.png?t=" + ts;
-  document.getElementById("recent-csv-link").href = "eq_canada_recent.csv?t=" + ts;
-
-  loadTextFile("quebec_last_updated.txt", "quebec-last-updated");
-  loadTextFile("quebec_event_count.txt", "quebec-event-count");
-</script>
+  <script>
+    const ts = new Date().getTime();
+    document.getElementById("qc-map").src = "quebec_recent_eq_map.png?t=" + ts;
+  </script>
 
 </body>
 </html>
