@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-26T17:17:35.000Z",
+    "magnitude": "1.92",
+    "depth_km": "2.0",
+    "place": "2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
+  },
+  {
     "time_utc": "2026-03-26T13:01:38.000Z",
     "magnitude": "1.44",
     "depth_km": "0.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "0.29",
     "depth_km": "9.73",
     "place": "7 km NNW of La Pocati\u00e8re, QC/7 km NNO de La Pocati\u00e8re, QC"
-  },
-  {
-    "time_utc": "2026-03-26T05:35:05.000Z",
-    "magnitude": "1.82",
-    "depth_km": "5.0",
-    "place": "131 km WSW of Haines Junction, YT/131 km OSO de Haines Junction, YT"
   }
 ];

@@ -181,6 +181,10 @@
       border-radius: 6px;
     }
 
+    .button-group {
+      margin-top: 0.75rem;
+    }
+
     footer {
       max-width: 1200px;
       margin: 0 auto;
@@ -288,6 +292,24 @@
   </div>
 
   <div class="card">
+    <h2>Regional maps</h2>
+    <p class="small">View province and territory earthquake maps built from the current recent dataset.</p>
+    <div class="button-group">
+      <a class="button" href="bc_recent.html">British Columbia</a>
+      <a class="button" href="alberta_recent.html">Alberta</a>
+      <a class="button" href="saskatchewan_recent.html">Saskatchewan</a>
+      <a class="button" href="ontario_recent.html">Ontario</a>
+      <a class="button" href="quebec_recent.html">Quebec</a>
+      <a class="button" href="new_brunswick_recent.html">New Brunswick</a>
+      <a class="button" href="ns_pei_recent.html">Nova Scotia + PEI</a>
+      <a class="button" href="newfoundland_labrador_recent.html">Newfoundland and Labrador</a>
+      <a class="button" href="yukon_recent.html">Yukon</a>
+      <a class="button" href="nwt_recent.html">Northwest Territories</a>
+      <a class="button" href="nunavut_recent.html">Nunavut</a>
+    </div>
+  </div>
+
+  <div class="card">
     <h2>Hourly updated AI summary (beta)</h2>
     <div id="summary-container" class="summary-box">
       <span class="loading-note">Loading summary...</span>
@@ -308,7 +330,6 @@
   </div>
 
 </main>
-
 
 <footer>
   Data source: Earthquakes Canada / Natural Resources Canada. Built, maintained and published automatically from a Raspberry Pi 5.

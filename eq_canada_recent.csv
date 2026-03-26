@@ -544,3 +544,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260326.1119001,2026-03-26T11:19:23.000Z,60.5132,-139.9726,5.0,ML,2.41,"137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
 20260326.1123001,2026-03-26T11:23:11.000Z,49.7079,-127.1742,28.97,ML1,1.37,"43 km WSW of Tahsis, BC/43 km OSO de Tahsis, BC"
 20260326.1301001,2026-03-26T13:01:38.000Z,48.4628,-68.4993,0.0,MwN,1.44,"Blast, 3 km ENE of Rimouski, QC, felt/Dynamitage, 3 km ENE de Rimouski, QC, ressenti"
+20260326.1717001,2026-03-26T17:17:35.000Z,44.5372,-79.1516,2.0,MwN,1.92,"2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"

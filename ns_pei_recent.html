@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>PiQuake Canada | Nova Scotia and PEI Recent Earthquakes</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="3600">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="Expires" content="0">
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f3f3f3;
+      color: #222;
+    }
+
+    header {
+      background: #b71c1c;
+      color: white;
+      padding: 28px 40px;
+    }
+
+    header h1 {
+      margin: 0 0 10px 0;
+      font-size: 3rem;
+      font-weight: 700;
+    }
+
+    header p {
+      margin: 0;
+      font-size: 1.1rem;
+      font-weight: 400;
+    }
+
+    .container {
+      max-width: 1880px;
+      margin: 38px auto;
+      padding: 0 40px;
+    }
+
+    .card {
+      background: #f3f3f3;
+      border: 1px solid #cfcfcf;
+      border-radius: 16px;
+      padding: 32px 26px 36px 26px;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+    }
+
+    .back-link {
+      display: inline-block;
+      margin-bottom: 26px;
+      color: #9b0000;
+      font-size: 1rem;
+      font-weight: 500;
+      text-decoration: underline;
+    }
+
+    h2 {
+      margin: 0 0 22px 0;
+      font-size: 2.1rem;
+      font-weight: 700;
+    }
+
+    .map-wrap {
+      text-align: center;
+      margin-bottom: 28px;
+    }
+
+    .map-wrap img {
+      max-width: 100%;
+      height: auto;
+    }
+
+    .sources {
+      font-size: 0.98rem;
+      line-height: 1.6;
+      color: #444;
+    }
+
+    .sources a {
+      color: #9b0000;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>PiQuake Canada</h1>
+    <p>Raspberry Pi Powered Access to the Earthquakes Canada Database</p>
+  </header>
+
+  <div class="container">
+    <div class="card">
+      <a class="back-link" href="index.html">← Back to main dashboard</a>
+
+      <h2>Nova Scotia and PEI recent earthquakes</h2>
+
+      <div class="map-wrap">
+        <img id="ns-pei-map" src="ns_pei_recent_eq_map.png" alt="Recent earthquakes in Nova Scotia and Prince Edward Island">
+      </div>
+
+      <div class="sources">
+        <strong>Data sources</strong><br>
+        Earthquake data:
+        <a href="https://earthquakescanada.nrcan.gc.ca/" target="_blank" rel="noopener noreferrer">
+          Earthquakes Canada (Natural Resources Canada)
+        </a>
+        <br>
+        Map generated using
+        <a href="https://www.generic-mapping-tools.org/" target="_blank" rel="noopener noreferrer">
+          GMT (Generic Mapping Tools)
+        </a>
+        <br>
+        Depth colours use the
+        <a href="https://www.fabiocrameri.ch/colourmaps/" target="_blank" rel="noopener noreferrer">
+          Scientific Colour Maps by Fabio Crameri
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    const ts = new Date().getTime();
+    document.getElementById("ns-pei-map").src = "ns_pei_recent_eq_map.png?t=" + ts;
+  </script>
+
+</body>
+</html>
