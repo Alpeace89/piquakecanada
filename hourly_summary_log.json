@@ -106,5 +106,11 @@
     "mode": "AI",
     "model": "qwen2.5:3b",
     "summary": "No earthquakes were recorded in the last hour. In the past day, there was one event registered with an earthquake magnitude of M4.28 near Daajing Giids, BC. In the last 24 hours, 1 earthquake(s) were recorded, with the largest event M4.28 at 93 km SSE of Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC at 2026-03-25T13:25:34Z."
+  },
+  {
+    "timestamp_utc": "2026-03-26T14:03:01Z",
+    "mode": "AI",
+    "model": "qwen2.5:3b",
+    "summary": "No earthquakes were recorded in the last hour. In the last 24 hours, there have been seven recorded earthquakes with the largest measuring M2.48 near Blueberry River, British Columbia. In the last 24 hours, 7 earthquake(s) were recorded, with the largest event M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC. The most recent listed event was M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC at 2026-03-26T07:54:09Z."
   }
 ]

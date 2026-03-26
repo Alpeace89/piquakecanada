@@ -1,49 +1,57 @@
 {
-  "generated_utc": "2026-03-26T13:03:01Z",
+  "generated_utc": "2026-03-26T14:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 533,
-  "events_last_24h": 1,
+  "rolling_window_event_count": 541,
+  "events_last_24h": 7,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 1,
-  "count_m4plus_last_24h": 1,
+  "count_m3plus_last_24h": 0,
+  "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260325.1325002",
-    "time_utc": "2026-03-25T13:25:34.000Z",
-    "latitude": 52.4337,
-    "longitude": -131.7814,
-    "depth_km": 24.83,
-    "mag_type": "Mw",
-    "magnitude": 4.28,
-    "place": "93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC",
+    "event_id": "20260326.0754001",
+    "time_utc": "2026-03-26T07:54:09.000Z",
+    "latitude": 56.7004,
+    "longitude": -121.5936,
+    "depth_km": 1.0,
+    "mag_type": "MLy",
+    "magnitude": 2.48,
+    "place": "Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC",
     "region": "BC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260325.1325002",
-    "time_utc": "2026-03-25T13:25:34.000Z",
-    "latitude": 52.4337,
-    "longitude": -131.7814,
-    "depth_km": 24.83,
-    "mag_type": "Mw",
-    "magnitude": 4.28,
-    "place": "93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC",
+    "event_id": "20260326.0754001",
+    "time_utc": "2026-03-26T07:54:09.000Z",
+    "latitude": 56.7004,
+    "longitude": -121.5936,
+    "depth_km": 1.0,
+    "mag_type": "MLy",
+    "magnitude": 2.48,
+    "place": "Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC",
     "region": "BC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260325.1325002",
-    "time_utc": "2026-03-25T13:25:34.000Z",
-    "latitude": 52.4337,
-    "longitude": -131.7814,
-    "depth_km": 24.83,
-    "mag_type": "Mw",
-    "magnitude": 4.28,
-    "place": "93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC",
-    "region": "BC"
+    "event_id": "20260326.0648001",
+    "time_utc": "2026-03-26T06:48:26.000Z",
+    "latitude": 47.4988,
+    "longitude": -70.0316,
+    "depth_km": 13.67,
+    "mag_type": "MwN",
+    "magnitude": 0.7,
+    "place": "14 km N of La Pocatière, QC/14 km N de La Pocatière, QC",
+    "region": "QC"
   },
   "top_regions_last_24h": [
     {
+      "region": "QC",
+      "count": 3
+    },
+    {
       "region": "BC",
-      "count": 1
+      "count": 2
+    },
+    {
+      "region": "YT",
+      "count": 2
     }
   ],
-  "summary_text": "As of 2026-03-26 13:03 UTC, the recent Canada earthquake dataset contains 533 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.28 at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC. The deepest event reached 24.83 km at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC at 2026-03-25T13:25:34.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active region was BC."
+  "summary_text": "As of 2026-03-26 14:03 UTC, the recent Canada earthquake dataset contains 541 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC. The deepest event reached 13.67 km at 14 km N of La Pocatière, QC/14 km N de La Pocatière, QC. The most recent listed event was M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC at 2026-03-26T07:54:09.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (3) and BC (2)."
 }

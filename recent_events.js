@@ -1,5 +1,47 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-26T07:54:09.000Z",
+    "magnitude": "2.48",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 31 km W of Blueberry River 205, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 31 km O de Blueberry River 205, BC"
+  },
+  {
+    "time_utc": "2026-03-26T06:49:33.000Z",
+    "magnitude": "0.34",
+    "depth_km": "13.51",
+    "place": "14 km N of La Pocati\u00e8re, QC/14 km N de La Pocati\u00e8re, QC"
+  },
+  {
+    "time_utc": "2026-03-26T06:48:26.000Z",
+    "magnitude": "0.7",
+    "depth_km": "13.67",
+    "place": "14 km N of La Pocati\u00e8re, QC/14 km N de La Pocati\u00e8re, QC"
+  },
+  {
+    "time_utc": "2026-03-26T06:28:03.000Z",
+    "magnitude": "0.29",
+    "depth_km": "9.73",
+    "place": "7 km NNW of La Pocati\u00e8re, QC/7 km NNO de La Pocati\u00e8re, QC"
+  },
+  {
+    "time_utc": "2026-03-26T05:35:05.000Z",
+    "magnitude": "1.82",
+    "depth_km": "5.0",
+    "place": "131 km WSW of Haines Junction, YT/131 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-03-26T03:44:08.000Z",
+    "magnitude": "2.12",
+    "depth_km": "5.0",
+    "place": "98 km S of Beaver Creek, YT/98 km S de Beaver Creek, YT"
+  },
+  {
+    "time_utc": "2026-03-26T03:34:19.000Z",
+    "magnitude": "2.15",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 24 km NNW of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 24 km NNO de Halfway River 168, BC"
+  },
+  {
     "time_utc": "2026-03-25T13:25:34.000Z",
     "magnitude": "4.28",
     "depth_km": "24.83",
@@ -16,47 +58,5 @@ window.recentEvents = [
     "magnitude": "1.65",
     "depth_km": "3.37",
     "place": "13 km S of Fraser Valley H, BC/13 km S de Fraser Valley H, BC"
-  },
-  {
-    "time_utc": "2026-03-25T00:23:09.000Z",
-    "magnitude": "3.39",
-    "depth_km": "1.0",
-    "place": "123 km WSW of Haines Junction, YT/123 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-03-24T22:15:53.000Z",
-    "magnitude": "2.8",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 28 km NNE of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 28 km NNE de Halfway River 168, BC"
-  },
-  {
-    "time_utc": "2026-03-24T20:13:37.000Z",
-    "magnitude": "3.28",
-    "depth_km": "10.0",
-    "place": "235 km SSW of Port Hardy, BC/235 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-03-24T20:05:24.000Z",
-    "magnitude": "2.65",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 28 km NNE of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 28 km NNE de Halfway River 168, BC"
-  },
-  {
-    "time_utc": "2026-03-24T18:05:12.000Z",
-    "magnitude": "2.83",
-    "depth_km": "10.0",
-    "place": "233 km SSW of Port Hardy, BC/233 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-03-24T15:55:17.000Z",
-    "magnitude": "1.93",
-    "depth_km": "18.0",
-    "place": "45 km ENE of La Tuque, QC/45 km ENE de La Tuque, QC"
-  },
-  {
-    "time_utc": "2026-03-24T14:25:36.000Z",
-    "magnitude": "3.02",
-    "depth_km": "10.0",
-    "place": "248 km SSW of Port Hardy, BC/248 km SSO de Port Hardy, BC"
   }
 ];
