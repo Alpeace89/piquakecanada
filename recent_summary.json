@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-03-27T06:03:01Z",
+  "generated_utc": "2026-03-27T07:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 553,
-  "events_last_24h": 10,
+  "events_last_24h": 7,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -45,13 +45,13 @@
       "count": 4
     },
     {
-      "region": "QC",
-      "count": 3
+      "region": "YT",
+      "count": 1
     },
     {
-      "region": "YT",
+      "region": "Unknown",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-03-27 06:03 UTC, the recent Canada earthquake dataset contains 553 events from the current rolling window. In the last 24 hours, 10 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC. The deepest event reached 28.97 km at 43 km WSW of Tahsis, BC/43 km OSO de Tahsis, BC. The most recent listed event was M1.92 at 2 km ESE of Ramara, ON/2 km ESE de Ramara, ON at 2026-03-26T17:17:35.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and QC (3)."
+  "summary_text": "As of 2026-03-27 07:03 UTC, the recent Canada earthquake dataset contains 553 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC. The deepest event reached 28.97 km at 43 km WSW of Tahsis, BC/43 km OSO de Tahsis, BC. The most recent listed event was M1.92 at 2 km ESE of Ramara, ON/2 km ESE de Ramara, ON at 2026-03-26T17:17:35.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and YT (1)."
 }
