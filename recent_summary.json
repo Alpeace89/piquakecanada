@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-27T13:03:01Z",
+  "generated_utc": "2026-03-27T14:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 553,
   "events_last_24h": 1,
@@ -45,5 +45,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-03-27 13:03 UTC, the recent Canada earthquake dataset contains 553 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.92 at 2 km ESE of Ramara, ON/2 km ESE de Ramara, ON. The deepest event reached 2.00 km at 2 km ESE of Ramara, ON/2 km ESE de Ramara, ON. The most recent listed event was M1.92 at 2 km ESE of Ramara, ON/2 km ESE de Ramara, ON at 2026-03-26T17:17:35.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was ON."
+  "summary_text": "As of 2026-03-27 14:03 UTC, the recent Canada earthquake dataset contains 553 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.92 at 2 km ESE of Ramara, ON/2 km ESE de Ramara, ON. The deepest event reached 2.00 km at 2 km ESE of Ramara, ON/2 km ESE de Ramara, ON. The most recent listed event was M1.92 at 2 km ESE of Ramara, ON/2 km ESE de Ramara, ON at 2026-03-26T17:17:35.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was ON."
 }
