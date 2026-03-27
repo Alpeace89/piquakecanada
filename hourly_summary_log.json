@@ -244,5 +244,11 @@
     "mode": "AI",
     "model": "qwen2.5:3b",
     "summary": "No earthquakes were recorded in the last hour. In the last 24 hours, there have been six recorded earthquakes across Canada. In the last 24 hours, 6 earthquake(s) were recorded, with the largest event M2.41 at 137 km W of Haines Junction, YT. The most recent listed event was M1.92 at 2 km ESE of Ramara, ON at 2026-03-26T17:17:35Z."
+  },
+  {
+    "timestamp_utc": "2026-03-27T10:03:01Z",
+    "mode": "AI",
+    "model": "qwen2.5:3b",
+    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there were six recorded earthquakes in Canada. In the last 24 hours, 6 earthquake(s) were recorded, with the largest event M2.41 at 137 km W of Haines Junction, YT. The most recent listed event was M1.92 at 2 km ESE of Ramara, ON at 2026-03-26T17:17:35Z."
   }
 ]
