@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-27T11:08:02.000Z",
+    "magnitude": "2.09",
+    "depth_km": "5.0",
+    "place": "101 km SW of Burwash Landing, YT/101 km SO de Burwash Landing, YT"
+  },
+  {
+    "time_utc": "2026-03-27T07:48:32.000Z",
+    "magnitude": "2.51",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 58 km W of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km O de Fox Creek, AB"
+  },
+  {
+    "time_utc": "2026-03-26T17:28:50.000Z",
+    "magnitude": "1.49",
+    "depth_km": "0.0",
+    "place": "Blast, 7 km SE of Saint John, NB/Dynamitage, 7 km SE de Saint John, NB"
+  },
+  {
     "time_utc": "2026-03-26T17:17:35.000Z",
     "magnitude": "1.92",
     "depth_km": "2.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.48",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 31 km W of Blueberry River 205, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 31 km O de Blueberry River 205, BC"
-  },
-  {
-    "time_utc": "2026-03-26T06:49:33.000Z",
-    "magnitude": "0.34",
-    "depth_km": "13.51",
-    "place": "14 km N of La Pocati\u00e8re, QC/14 km N de La Pocati\u00e8re, QC"
-  },
-  {
-    "time_utc": "2026-03-26T06:48:26.000Z",
-    "magnitude": "0.7",
-    "depth_km": "13.67",
-    "place": "14 km N of La Pocati\u00e8re, QC/14 km N de La Pocati\u00e8re, QC"
-  },
-  {
-    "time_utc": "2026-03-26T06:28:03.000Z",
-    "magnitude": "0.29",
-    "depth_km": "9.73",
-    "place": "7 km NNW of La Pocati\u00e8re, QC/7 km NNO de La Pocati\u00e8re, QC"
   }
 ];
