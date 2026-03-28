@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260211.1035001,2026-02-11T10:35:58.000Z,48.6054,-128.6293,10.0,Mw',3.17,"249 km SSW of Port Hardy, BC/249 km SSO de Port Hardy, BC"
-20260211.1053001,2026-02-11T10:53:14.000Z,54.3261,-118.4704,1.0,MLy,2.64,"Suspected industry-related event, 64 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 64 km NE de Grande Cache, AB"
 20260211.1147001,2026-02-11T11:47:00.000Z,48.5687,-128.6097,10.0,Mw',3.78,"208 km WSW of Tofino, BC/208 km OSO de Tofino, BC"
 20260211.1211001,2026-02-11T12:11:17.000Z,48.5999,-128.6188,10.0,Mw',3.68,"250 km SSW of Port Hardy, BC/250 km SSO de Port Hardy, BC"
 20260211.1219001,2026-02-11T12:19:59.000Z,49.1488,-128.0973,10.0,Mw',2.66,"149 km SSW of Port Alice, BC/149 km SSO de Port Alice, BC"
