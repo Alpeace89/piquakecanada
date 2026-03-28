@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260210.2319001,2026-02-10T23:19:20.000Z,56.3204,-117.1875,1.65,MLy,2.35,"Suspected industry-related event, 12 km NE of Peace River, AB/Événement lié à l'industrie soupconné, 12 km NE de Peace River, AB"
 20260211.0110001,2026-02-11T01:10:49.000Z,49.25,-128.254,10.0,Mw',2.45,"142 km SSW of Port Alice, BC/142 km SSO de Port Alice, BC"
 20260211.0345001,2026-02-11T03:45:45.000Z,60.4351,-139.5145,1.0,ML,3.05,"115 km WSW of Haines Junction, YT/115 km OSO de Haines Junction, YT"
 20260211.0615001,2026-02-11T06:15:31.000Z,45.8752,-80.7998,2.0,MwN,1.27,"22 km WNW of Britt part A, ON/22 km ONO de Britt part A, ON"
