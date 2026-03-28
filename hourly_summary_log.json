@@ -388,5 +388,11 @@
     "mode": "AI",
     "model": "qwen2.5:3b",
     "summary": "No earthquakes were recorded in the last hour. In the last 24 hours, there were two minor earthquakes registered. In the last 24 hours, 2 earthquake(s) were recorded, with the largest event M2.51 at Suspected industry-related event, 58 km W of Fox Creek, AB. The most recent listed event was M2.09 at 101 km SW of Burwash Landing, YT at 2026-03-27T11:08:02Z."
+  },
+  {
+    "timestamp_utc": "2026-03-28T07:03:02Z",
+    "mode": "AI",
+    "model": "qwen2.5:3b",
+    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there have been two minor earthquakes reported. In the last 24 hours, 2 earthquake(s) were recorded, with the largest event M2.51 at Suspected industry-related event, 58 km W of Fox Creek, AB. The most recent listed event was M2.09 at 101 km SW of Burwash Landing, YT at 2026-03-27T11:08:02Z."
   }
 ]
