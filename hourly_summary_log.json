@@ -430,5 +430,11 @@
     "mode": "AI",
     "model": "qwen2.5:3b",
     "summary": "No earthquakes were recorded in the last hour. In the last 24 hours, there haven't been any recorded earthquakes in Canada. In the last 24 hours, 0 earthquake(s) were recorded, with the largest event unknown magnitude at Unknown location. The most recent listed event was M2.09 at 101 km SW of Burwash Landing, YT at 2026-03-27T11:08:02Z."
+  },
+  {
+    "timestamp_utc": "2026-03-28T14:03:01Z",
+    "mode": "AI",
+    "model": "qwen2.5:3b",
+    "summary": "No earthquakes were recorded in the last hour. There have been no earthquakes reported within the last 24 hours in Canada. In the last 24 hours, 0 earthquake(s) were recorded, with the largest event unknown magnitude at Unknown location. The most recent listed event was M2.09 at 101 km SW of Burwash Landing, YT at 2026-03-27T11:08:02Z."
   }
 ]
