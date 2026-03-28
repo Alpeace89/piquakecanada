@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260211.0345001,2026-02-11T03:45:45.000Z,60.4351,-139.5145,1.0,ML,3.05,"115 km WSW of Haines Junction, YT/115 km OSO de Haines Junction, YT"
 20260211.0615001,2026-02-11T06:15:31.000Z,45.8752,-80.7998,2.0,MwN,1.27,"22 km WNW of Britt part A, ON/22 km ONO de Britt part A, ON"
 20260211.0631001,2026-02-11T06:31:44.000Z,48.6074,-128.6107,10.0,Mw',3.03,"249 km SSW of Port Hardy, BC/249 km SSO de Port Hardy, BC"
 20260211.1035001,2026-02-11T10:35:58.000Z,48.6054,-128.6293,10.0,Mw',3.17,"249 km SSW of Port Hardy, BC/249 km SSO de Port Hardy, BC"
