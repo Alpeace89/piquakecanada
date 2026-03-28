@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260211.1211001,2026-02-11T12:11:17.000Z,48.5999,-128.6188,10.0,Mw',3.68,"250 km SSW of Port Hardy, BC/250 km SSO de Port Hardy, BC"
-20260211.1219001,2026-02-11T12:19:59.000Z,49.1488,-128.0973,10.0,Mw',2.66,"149 km SSW of Port Alice, BC/149 km SSO de Port Alice, BC"
 20260211.1832001,2026-02-11T18:32:36.000Z,44.8455,-78.9926,2.0,MwN,1.65,"31 km NNW of Kawartha Lakes, ON/31 km NNO de Kawartha Lakes, ON"
 20260211.1928001,2026-02-11T19:28:33.000Z,47.5101,-70.1173,18.19,MwN,0.86,"16 km S of La Malbaie, QC/16 km S de La Malbaie, QC"
 20260211.2150001,2026-02-11T21:50:03.000Z,50.4695,-121.0292,0.0,ML,2.75,"Blast, 16 km W of Logan Lake, BC/Dynamitage, 16 km O de Logan Lake, BC"
