@@ -400,5 +400,11 @@
     "mode": "AI",
     "model": "qwen2.5:3b",
     "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there was one reported earthquake event near Burwash Landing in Yukon Territory with a magnitude of M2.09. In the last 24 hours, 1 earthquake(s) were recorded, with the largest event M2.09 at 101 km SW of Burwash Landing, YT. The most recent listed event was M2.09 at 101 km SW of Burwash Landing, YT at 2026-03-27T11:08:02Z."
+  },
+  {
+    "timestamp_utc": "2026-03-28T09:03:01Z",
+    "mode": "AI",
+    "model": "qwen2.5:3b",
+    "summary": "No earthquakes were recorded in the last hour. In the last 24 hours, there was one event recorded with a magnitude of M2.09 occurring about 101 kilometers southwest of Burwash Landing in Yukon Territory. In the last 24 hours, 1 earthquake(s) were recorded, with the largest event M2.09 at 101 km SW of Burwash Landing, YT. The most recent listed event was M2.09 at 101 km SW of Burwash Landing, YT at 2026-03-27T11:08:02Z."
   }
 ]
