@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260211.1928001,2026-02-11T19:28:33.000Z,47.5101,-70.1173,18.19,MwN,0.86,"16 km S of La Malbaie, QC/16 km S de La Malbaie, QC"
 20260211.2150001,2026-02-11T21:50:03.000Z,50.4695,-121.0292,0.0,ML,2.75,"Blast, 16 km W of Logan Lake, BC/Dynamitage, 16 km O de Logan Lake, BC"
 20260212.0336001,2026-02-12T03:36:24.000Z,56.6268,-121.6425,1.0,MLy,2.62,"Suspected industry-related event, 21 km NE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 21 km NE de Halfway River 168, BC"
 20260212.0441003,2026-02-12T04:41:59.000Z,52.3524,-114.8333,1.0,MLy,3.13,"Industry-related event, 7 km ESE of Rocky Mountain House, AB, felt/Événement lié à l'industrie, 7 km ESE de Rocky Mountain House, AB, ressenti"
