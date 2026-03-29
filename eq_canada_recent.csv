@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260212.1419001,2026-02-12T14:19:44.000Z,57.1595,-136.2497,5.0,ML,1.75,"57 km WNW of Sitka, AK/57 km ONO de Sitka, AK"
-20260212.1458001,2026-02-12T14:58:16.000Z,49.2393,-67.0604,22.32,MwN,2.22,"42 km WNW of Sainte-Anne-des-Monts, QC/42 km ONO de Sainte-Anne-des-Monts, QC"
 20260213.0246001,2026-02-13T02:46:44.000Z,49.5569,-127.2819,17.8,Mw',2.12,"60 km SW of Tahsis, BC/60 km SO de Tahsis, BC"
 20260213.0346002,2026-02-13T03:46:43.000Z,44.6031,-77.2215,2.0,MwN,0.9,"16 km NNE of Tweed, ON/16 km NNE de Tweed, ON"
 20260213.0542001,2026-02-13T05:42:09.000Z,44.614,-77.2241,2.0,MwN,1.24,"17 km NNE of Tweed, ON/17 km NNE de Tweed, ON"
