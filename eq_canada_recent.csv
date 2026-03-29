@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260212.0522001,2026-02-12T05:22:39.000Z,45.608,-76.6799,9.17,MwN,0.87,"15 km N of Renfrew, ON/15 km N de Renfrew, ON"
-20260212.0534001,2026-02-12T05:34:31.000Z,50.4544,-130.0793,10.0,Mw',2.9,"185 km W of Port Hardy, BC/185 km O de Port Hardy, BC"
 20260212.1020001,2026-02-12T10:20:38.000Z,60.4313,-139.5176,1.0,ML,2.88,"115 km WSW of Haines Junction, YT/115 km OSO de Haines Junction, YT"
 20260212.1039001,2026-02-12T10:39:25.000Z,61.6094,-125.6057,5.0,ML,4.22,"135 km WNW of Nahanni Butte, NT/135 km ONO de Nahanni Butte, NT"
 20260212.1419001,2026-02-12T14:19:44.000Z,57.1595,-136.2497,5.0,ML,1.75,"57 km WNW of Sitka, AK/57 km ONO de Sitka, AK"
