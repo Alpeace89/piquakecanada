@@ -542,3 +542,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260326.1728001,2026-03-26T17:28:50.000Z,45.2229,-65.9628,0.0,MwN,1.49,"Blast, 7 km SE of Saint John, NB/Dynamitage, 7 km SE de Saint John, NB"
 20260327.0748001,2026-03-27T07:48:32.000Z,54.3104,-117.6918,1.0,MLy,2.51,"Suspected industry-related event, 58 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 58 km O de Fox Creek, AB"
 20260327.1108001,2026-03-27T11:08:02.000Z,60.6195,-140.0881,5.0,ML,2.09,"101 km SW of Burwash Landing, YT/101 km SO de Burwash Landing, YT"
+20260329.1750001,2026-03-29T17:50:17.000Z,50.6,-130.1,5.0,Mw,4.8,"Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC"

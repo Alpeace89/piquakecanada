@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-29T17:50:17.000Z",
+    "magnitude": "4.8",
+    "depth_km": "5.0",
+    "place": "Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-03-27T11:08:02.000Z",
     "magnitude": "2.09",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.24",
     "depth_km": "16.82",
     "place": "21 km ENE of Central Saanich, BC/21 km ENE de Central Saanich, BC"
-  },
-  {
-    "time_utc": "2026-03-26T07:54:09.000Z",
-    "magnitude": "2.48",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 31 km W of Blueberry River 205, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 31 km O de Blueberry River 205, BC"
   }
 ];

@@ -1,24 +1,49 @@
 {
-  "generated_utc": "2026-03-29T18:03:01Z",
+  "generated_utc": "2026-03-29T19:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 543,
-  "events_last_24h": 0,
+  "rolling_window_event_count": 544,
+  "events_last_24h": 1,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 0,
-  "count_m4plus_last_24h": 0,
+  "count_m3plus_last_24h": 1,
+  "count_m4plus_last_24h": 1,
   "latest_event": {
-    "event_id": "20260327.1108001",
-    "time_utc": "2026-03-27T11:08:02.000Z",
-    "latitude": 60.6195,
-    "longitude": -140.0881,
+    "event_id": "20260329.1750001",
+    "time_utc": "2026-03-29T17:50:17.000Z",
+    "latitude": 50.6,
+    "longitude": -130.1,
     "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 2.09,
-    "place": "101 km SW of Burwash Landing, YT/101 km SO de Burwash Landing, YT",
-    "region": "YT"
+    "mag_type": "Mw",
+    "magnitude": 4.8,
+    "place": "Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC",
+    "region": "BC"
   },
-  "largest_event_last_24h": null,
-  "deepest_event_last_24h": null,
-  "top_regions_last_24h": [],
-  "summary_text": "As of 2026-03-29 18:03 UTC, the recent Canada earthquake dataset contains 543 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M2.09 at 101 km SW of Burwash Landing, YT/101 km SO de Burwash Landing, YT at 2026-03-27T11:08:02.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "largest_event_last_24h": {
+    "event_id": "20260329.1750001",
+    "time_utc": "2026-03-29T17:50:17.000Z",
+    "latitude": 50.6,
+    "longitude": -130.1,
+    "depth_km": 5.0,
+    "mag_type": "Mw",
+    "magnitude": 4.8,
+    "place": "Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC",
+    "region": "BC"
+  },
+  "deepest_event_last_24h": {
+    "event_id": "20260329.1750001",
+    "time_utc": "2026-03-29T17:50:17.000Z",
+    "latitude": 50.6,
+    "longitude": -130.1,
+    "depth_km": 5.0,
+    "mag_type": "Mw",
+    "magnitude": 4.8,
+    "place": "Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC",
+    "region": "BC"
+  },
+  "top_regions_last_24h": [
+    {
+      "region": "BC",
+      "count": 1
+    }
+  ],
+  "summary_text": "As of 2026-03-29 19:03 UTC, the recent Canada earthquake dataset contains 544 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.8 at Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC. The deepest event reached 5.00 km at Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC. The most recent listed event was M4.8 at Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC at 2026-03-29T17:50:17.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active region was BC."
 }
