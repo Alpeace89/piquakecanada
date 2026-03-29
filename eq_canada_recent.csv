@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260212.0336001,2026-02-12T03:36:24.000Z,56.6268,-121.6425,1.0,MLy,2.62,"Suspected industry-related event, 21 km NE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 21 km NE de Halfway River 168, BC"
 20260212.0441003,2026-02-12T04:41:59.000Z,52.3524,-114.8333,1.0,MLy,3.13,"Industry-related event, 7 km ESE of Rocky Mountain House, AB, felt/Événement lié à l'industrie, 7 km ESE de Rocky Mountain House, AB, ressenti"
 20260212.0522001,2026-02-12T05:22:39.000Z,45.608,-76.6799,9.17,MwN,0.87,"15 km N of Renfrew, ON/15 km N de Renfrew, ON"
 20260212.0534001,2026-02-12T05:34:31.000Z,50.4544,-130.0793,10.0,Mw',2.9,"185 km W of Port Hardy, BC/185 km O de Port Hardy, BC"
