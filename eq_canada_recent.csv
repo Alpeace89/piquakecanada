@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260213.1243001,2026-02-13T12:43:44.000Z,60.6371,-139.8957,5.0,ML,2.9,"94 km SSW of Burwash Landing, YT/94 km SSO de Burwash Landing, YT"
 20260213.1405001,2026-02-13T14:05:00.000Z,59.2463,-136.149,5.0,ML,2.99,"172 km SSW of Whitehorse, YT/172 km SSO de Whitehorse, YT"
 20260213.1511001,2026-02-13T15:11:03.000Z,47.5968,-70.2162,5.37,MwN,0.74,"8 km SW of La Malbaie, QC/8 km SO de La Malbaie, QC"
 20260213.1729001,2026-02-13T17:29:50.000Z,59.2541,-136.1139,1.0,ML,2.0,"170 km SSW of Whitehorse, YT/170 km SSO de Whitehorse, YT"
