@@ -184,6 +184,10 @@
     return d.toISOString().replace("T", " ").replace(".000Z", " UTC");
   }
 
+  function isAIMode(mode) {
+    return String(mode || "").toLowerCase().startsWith("ai");
+  }
+
   async function loadLog() {
     const container = document.getElementById("log-container");
 
@@ -202,18 +206,23 @@
 
       let html = "";
       reversed.forEach(entry => {
-        const mode = entry.mode === "AI" ? "AI" : "deterministic";
-        const badgeClass = entry.mode === "AI" ? "badge badge-ai" : "badge badge-det";
-        const modelText = entry.model ? `Model: ${escapeHTML(entry.model)}` : "Model: not used";
+
+        const isAI = isAIMode(entry.mode);
+        const modeLabel = isAI ? entry.mode : "deterministic";
+        const badgeClass = isAI ? "badge badge-ai" : "badge badge-det";
+
+        const modelText = entry.model
+          ? `Model: ${escapeHTML(entry.model)}`
+          : "Model: not used";
 
         html += `
           <div class="card">
             <div class="entry-meta">
               ${escapeHTML(formatUTC(entry.timestamp_utc || ""))}
-              <span class="${badgeClass}">${escapeHTML(mode)}</span>
+              <span class="${badgeClass}">${escapeHTML(modeLabel)}</span>
             </div>
             <div class="summary-text">${escapeHTML(entry.summary || "")}</div>
-            <div class="small">${escapeHTML(modelText)}</div>
+            <div class="small">${modelText}</div>
           </div>
         `;
       });
