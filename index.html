@@ -387,6 +387,10 @@
     }
   }
 
+  function isAIMode(mode) {
+    return String(mode || "").toLowerCase().startsWith("ai");
+  }
+
   async function loadSummary() {
     const container = document.getElementById("summary-container");
     const latestLogEntry = await loadLatestLogEntry();
@@ -397,7 +401,7 @@
       </div>
     `;
 
-    if (latestLogEntry && latestLogEntry.mode === "AI" && latestLogEntry.model) {
+    if (latestLogEntry && isAIMode(latestLogEntry.mode) && latestLogEntry.model) {
       aiFootnote = `
         <div class="summary-footnote">
           Model: ${escapeHTML(latestLogEntry.model)} (local). Falls back to deterministic summary if validation criteria are not met. <a href="hourly_update_log.html">View hourly update log</a>
@@ -416,7 +420,7 @@
       if (aiResponse.ok) {
         const aiText = await aiResponse.text();
         if (aiText.trim()) {
-          const footnoteToUse = (latestLogEntry && latestLogEntry.mode === "AI") ? aiFootnote : deterministicFootnote;
+          const footnoteToUse = (latestLogEntry && isAIMode(latestLogEntry.mode)) ? aiFootnote : deterministicFootnote;
 
           container.innerHTML = `
             <div class="summary-text">${escapeHTML(aiText.trim())}</div>
