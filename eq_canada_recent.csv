@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260213.0542001,2026-02-13T05:42:09.000Z,44.614,-77.2241,2.0,MwN,1.24,"17 km NNE of Tweed, ON/17 km NNE de Tweed, ON"
-20260213.0553001,2026-02-13T05:53:05.000Z,60.5891,-139.9259,5.0,ML,2.47,"99 km SSW of Burwash Landing, YT/99 km SSO de Burwash Landing, YT"
 20260213.0613001,2026-02-13T06:13:11.000Z,60.5342,-139.966,5.0,ML,2.76,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
 20260213.1138001,2026-02-13T11:38:39.000Z,59.7883,-139.3664,10.8,ML,2.76,"148 km SW of Haines Junction, YT/148 km SO de Haines Junction, YT"
 20260213.1243001,2026-02-13T12:43:44.000Z,60.6371,-139.8957,5.0,ML,2.9,"94 km SSW of Burwash Landing, YT/94 km SSO de Burwash Landing, YT"
