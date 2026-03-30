@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260213.0246001,2026-02-13T02:46:44.000Z,49.5569,-127.2819,17.8,Mw',2.12,"60 km SW of Tahsis, BC/60 km SO de Tahsis, BC"
 20260213.0346002,2026-02-13T03:46:43.000Z,44.6031,-77.2215,2.0,MwN,0.9,"16 km NNE of Tweed, ON/16 km NNE de Tweed, ON"
 20260213.0542001,2026-02-13T05:42:09.000Z,44.614,-77.2241,2.0,MwN,1.24,"17 km NNE of Tweed, ON/17 km NNE de Tweed, ON"
 20260213.0553001,2026-02-13T05:53:05.000Z,60.5891,-139.9259,5.0,ML,2.47,"99 km SSW of Burwash Landing, YT/99 km SSO de Burwash Landing, YT"
