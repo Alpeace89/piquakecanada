@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260213.2032001,2026-02-13T20:32:32.000Z,61.2508,-140.6629,5.0,ML,2.01,"90 km W of Burwash Landing, YT/90 km O de Burwash Landing, YT"
 20260213.2112001,2026-02-13T21:12:47.000Z,50.1677,-94.0633,0.0,MwN,1.55,"Suspected blast, 5 km WNW of English River 21, ON/Dynamitage soupconné, 5 km ONO de English River 21, ON"
 20260213.2116001,2026-02-13T21:16:47.000Z,54.7714,-118.7677,1.0,MLy,2.36,"Suspected industry-related event, 44 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km S de Grande Prairie, AB"
 20260213.2253001,2026-02-13T22:53:19.000Z,64.2583,-133.7469,5.0,ML1,2.63,"83 km ENE of Bellekeno Mine, YT/83 km ENE de la mine Bellekeno, YT"
@@ -541,8 +540,9 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260329.1750002,2026-03-29T17:50:18.000Z,50.5015,-130.3664,10.0,Mw,4.52,"204 km W of Port Hardy, BC/204 km O de Port Hardy, BC"
 20260330.0029001,2026-03-30T00:29:05.000Z,61.1898,-139.8997,5.0,ML,1.9,"52 km WSW of Burwash Landing, YT/52 km OSO de Burwash Landing, YT"
 20260330.0146001,2026-03-30T01:46:30.000Z,60.3853,-139.5204,5.0,ML,2.35,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0207002,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,Mw',3.24,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
+20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0226001,2026-03-30T02:26:44.000Z,48.7307,-128.6557,10.0,Mw',3.64,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
 20260330.0422001,2026-03-30T04:22:51.000Z,54.318,-118.5257,1.0,MLy,2.39,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
 20260330.1845001,2026-03-30T18:45:55.000Z,49.6364,-122.2446,5.0,ML,2.3,"14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC"
+20260330.1953001,2026-03-30T19:53:19.000Z,49.3245,-122.6665,0.0,ML,1.48,"Blast, 10 km ENE of Coquitlam, BC/Dynamitage, 10 km ENE de Coquitlam, BC"

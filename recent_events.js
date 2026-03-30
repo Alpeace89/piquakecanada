@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-30T19:53:19.000Z",
+    "magnitude": "1.48",
+    "depth_km": "0.0",
+    "place": "Blast, 10 km ENE of Coquitlam, BC/Dynamitage, 10 km ENE de Coquitlam, BC"
+  },
+  {
     "time_utc": "2026-03-30T18:45:55.000Z",
     "magnitude": "2.3",
     "depth_km": "5.0",
@@ -19,13 +25,13 @@ window.recentEvents = [
   },
   {
     "time_utc": "2026-03-30T02:07:45.000Z",
-    "magnitude": "2.62",
+    "magnitude": "3.24",
     "depth_km": "10.0",
     "place": "229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
   },
   {
     "time_utc": "2026-03-30T02:07:45.000Z",
-    "magnitude": "3.24",
+    "magnitude": "2.62",
     "depth_km": "10.0",
     "place": "229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
   },
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "4.8",
     "depth_km": "5.0",
     "place": "Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-03-28T22:54:47.000Z",
-    "magnitude": "3.16",
-    "depth_km": "10.0",
-    "place": "215 km W of Port Hardy, BC/215 km O de Port Hardy, BC"
   }
 ];
