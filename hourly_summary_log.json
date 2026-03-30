@@ -736,5 +736,11 @@
     "mode": "AI",
     "model": "qwen2.5:3b",
     "summary": "No earthquakes were recorded in the last hour. In the past day, there was one earthquake event near Port Hardy, BC measuring M4.8. In the last 24 hours, 1 earthquake(s) were recorded, with the largest event M4.8 at Preliminary; 183 km W of Port Hardy, BC. The most recent listed event was M4.8 at Preliminary; 183 km W of Port Hardy, BC at 2026-03-29T17:50:17Z."
+  },
+  {
+    "timestamp_utc": "2026-03-30T17:03:01Z",
+    "mode": "AI",
+    "model": "qwen2.5:3b",
+    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours there have been two earthquakes recorded with the largest being a M4.8 near Port Hardy, BC on the western coast of Canada. In the last 24 hours, 2 earthquake(s) were recorded, with the largest event M4.8 at Preliminary; 183 km W of Port Hardy, BC. The most recent listed event was M4.52 at 204 km W of Port Hardy, BC at 2026-03-29T17:50:18Z."
   }
 ]

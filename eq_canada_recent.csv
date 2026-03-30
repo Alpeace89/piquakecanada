@@ -541,3 +541,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260327.1108001,2026-03-27T11:08:02.000Z,60.6195,-140.0881,5.0,ML,2.09,"101 km SW of Burwash Landing, YT/101 km SO de Burwash Landing, YT"
 20260328.0150001,2026-03-28T01:50:15.000Z,47.0916,-79.7072,5.0,MwN,0.93,"34 km SW of Ville-Marie, QC/34 km SO de Ville-Marie, QC"
 20260329.1750001,2026-03-29T17:50:17.000Z,50.6,-130.1,5.0,Mw,4.8,"Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC"
+20260329.1750002,2026-03-29T17:50:18.000Z,50.5015,-130.3664,10.0,Mw,4.52,"204 km W of Port Hardy, BC/204 km O de Port Hardy, BC"

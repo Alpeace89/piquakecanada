@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-29T17:50:18.000Z",
+    "magnitude": "4.52",
+    "depth_km": "10.0",
+    "place": "204 km W of Port Hardy, BC/204 km O de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-03-29T17:50:17.000Z",
     "magnitude": "4.8",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.63",
     "depth_km": "5.0",
     "place": "130 km W of Haines Junction, YT/130 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-03-26T17:28:50.000Z",
-    "magnitude": "1.49",
-    "depth_km": "0.0",
-    "place": "Blast, 7 km SE of Saint John, NB/Dynamitage, 7 km SE de Saint John, NB"
   }
 ];
