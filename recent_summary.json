@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-03-30T21:03:01Z",
+  "generated_utc": "2026-03-30T22:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 547,
   "events_last_24h": 8,
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-03-30 21:03 UTC, the recent Canada earthquake dataset contains 547 events from the current rolling window. In the last 24 hours, 8 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.64 at 237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC. The deepest event reached 10.00 km at 237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC. The most recent listed event was M1.48 at Blast, 10 km ENE of Coquitlam, BC/Dynamitage, 10 km ENE de Coquitlam, BC at 2026-03-30T19:53:19.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (5) and YT (2)."
+  "summary_text": "As of 2026-03-30 22:03 UTC, the recent Canada earthquake dataset contains 547 events from the current rolling window. In the last 24 hours, 8 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.64 at 237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC. The deepest event reached 10.00 km at 237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC. The most recent listed event was M1.48 at Blast, 10 km ENE of Coquitlam, BC/Dynamitage, 10 km ENE de Coquitlam, BC at 2026-03-30T19:53:19.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (5) and YT (2)."
 }
