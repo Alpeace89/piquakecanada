@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC"
   },
   {
+    "time_utc": "2026-03-28T01:50:15.000Z",
+    "magnitude": "0.93",
+    "depth_km": "5.0",
+    "place": "34 km SW of Ville-Marie, QC/34 km SO de Ville-Marie, QC"
+  },
+  {
     "time_utc": "2026-03-27T11:08:02.000Z",
     "magnitude": "2.09",
     "depth_km": "5.0",
@@ -18,45 +24,39 @@ window.recentEvents = [
     "place": "Suspected industry-related event, 58 km W of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km O de Fox Creek, AB"
   },
   {
+    "time_utc": "2026-03-26T22:42:57.000Z",
+    "magnitude": "2.15",
+    "depth_km": "0.0",
+    "place": "Blast, 5 km NE of Sechelt, BC/Dynamitage, 5 km NE de Sechelt, BC"
+  },
+  {
+    "time_utc": "2026-03-26T22:29:42.000Z",
+    "magnitude": "2.91",
+    "depth_km": "0.0",
+    "place": "Blast, 15 km SW of Trend Mine, BC/Dynamitage, 15 km SO de la mine Trend, BC"
+  },
+  {
+    "time_utc": "2026-03-26T21:49:48.000Z",
+    "magnitude": "2.13",
+    "depth_km": "5.0",
+    "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-03-26T21:36:36.000Z",
+    "magnitude": "2.17",
+    "depth_km": "5.0",
+    "place": "123 km SW of Haines Junction, YT/123 km SO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-03-26T20:33:20.000Z",
+    "magnitude": "2.63",
+    "depth_km": "5.0",
+    "place": "130 km W of Haines Junction, YT/130 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-03-26T17:28:50.000Z",
     "magnitude": "1.49",
     "depth_km": "0.0",
     "place": "Blast, 7 km SE of Saint John, NB/Dynamitage, 7 km SE de Saint John, NB"
-  },
-  {
-    "time_utc": "2026-03-26T17:17:35.000Z",
-    "magnitude": "1.92",
-    "depth_km": "2.0",
-    "place": "2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
-  },
-  {
-    "time_utc": "2026-03-26T13:01:38.000Z",
-    "magnitude": "1.44",
-    "depth_km": "0.0",
-    "place": "Blast, 3 km ENE of Rimouski, QC, felt/Dynamitage, 3 km ENE de Rimouski, QC, ressenti"
-  },
-  {
-    "time_utc": "2026-03-26T11:23:11.000Z",
-    "magnitude": "1.37",
-    "depth_km": "28.97",
-    "place": "43 km WSW of Tahsis, BC/43 km OSO de Tahsis, BC"
-  },
-  {
-    "time_utc": "2026-03-26T11:19:23.000Z",
-    "magnitude": "2.41",
-    "depth_km": "5.0",
-    "place": "137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-03-26T11:05:26.000Z",
-    "magnitude": "1.43",
-    "depth_km": "20.61",
-    "place": "7 km ENE of Saltspring Island Trust Area, BC/7 km ENE de Saltspring Island Trust Area, BC"
-  },
-  {
-    "time_utc": "2026-03-26T10:21:43.000Z",
-    "magnitude": "1.24",
-    "depth_km": "16.82",
-    "place": "21 km ENE of Central Saanich, BC/21 km ENE de Central Saanich, BC"
   }
 ];
