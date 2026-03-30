@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260213.1829001,2026-02-13T18:29:51.000Z,49.9853,-129.5716,10.0,Mw',2.7,"168 km WSW of Port Hardy, BC/168 km OSO de Port Hardy, BC"
-20260213.1835001,2026-02-13T18:35:31.000Z,53.371,-133.235,12.95,ML,3.08,"78 km W of Daajing Giids, BC/78 km O de Daajing Giids, BC"
-20260213.1859001,2026-02-13T18:59:27.000Z,44.1748,-76.8143,0.0,MwN,1.43,"Blast, 3 km WSW of Bath, ON/Dynamitage, 3 km OSO de Bath, ON"
 20260213.1952001,2026-02-13T19:52:07.000Z,44.5418,-79.1671,2.0,MwN,1.55,"1 km SE of Ramara, ON/1 km SE de Ramara, ON"
 20260213.2032001,2026-02-13T20:32:32.000Z,61.2508,-140.6629,5.0,ML,2.01,"90 km W of Burwash Landing, YT/90 km O de Burwash Landing, YT"
 20260213.2112001,2026-02-13T21:12:47.000Z,50.1677,-94.0633,0.0,MwN,1.55,"Suspected blast, 5 km WNW of English River 21, ON/Dynamitage soupconné, 5 km ONO de English River 21, ON"
@@ -543,3 +540,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260328.2254001,2026-03-28T22:54:47.000Z,50.8132,-130.5551,10.0,Mw',3.16,"215 km W of Port Hardy, BC/215 km O de Port Hardy, BC"
 20260329.1750001,2026-03-29T17:50:17.000Z,50.6,-130.1,5.0,Mw,4.8,"Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC"
 20260329.1750002,2026-03-29T17:50:18.000Z,50.5015,-130.3664,10.0,Mw,4.52,"204 km W of Port Hardy, BC/204 km O de Port Hardy, BC"
+20260330.0029001,2026-03-30T00:29:05.000Z,61.1898,-139.8997,5.0,ML,1.9,"52 km WSW of Burwash Landing, YT/52 km OSO de Burwash Landing, YT"

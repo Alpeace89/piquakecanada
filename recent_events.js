@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-30T00:29:05.000Z",
+    "magnitude": "1.9",
+    "depth_km": "5.0",
+    "place": "52 km WSW of Burwash Landing, YT/52 km OSO de Burwash Landing, YT"
+  },
+  {
     "time_utc": "2026-03-29T17:50:18.000Z",
     "magnitude": "4.52",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.91",
     "depth_km": "0.0",
     "place": "Blast, 15 km SW of Trend Mine, BC/Dynamitage, 15 km SO de la mine Trend, BC"
-  },
-  {
-    "time_utc": "2026-03-26T21:49:48.000Z",
-    "magnitude": "2.13",
-    "depth_km": "5.0",
-    "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
   }
 ];
