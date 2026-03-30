@@ -1,1 +1,1 @@
-Canada recorded 5 earthquakes in the last 24 hours, with the largest event M3.64 at 237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC. No earthquakes were recorded in the last hour. The most active regions in the last 24 hours were BC (3) and YT (2).
+In the last 24 hours, we had six quakes reported by our PiQuake Canada dashboard. The largest one was a M3.64 near Port Hardy in British Columbia at around 2 AM today. And just earlier this afternoon, there was another quake of magnitude M2.39 in Alberta that's thought to be possibly linked to industry activity.

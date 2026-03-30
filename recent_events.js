@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-30T04:22:51.000Z",
+    "magnitude": "2.39",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 61 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 61 km NE de Grande Cache, AB"
+  },
+  {
     "time_utc": "2026-03-30T02:26:44.000Z",
     "magnitude": "3.64",
     "depth_km": "10.0",
@@ -7,13 +13,13 @@ window.recentEvents = [
   },
   {
     "time_utc": "2026-03-30T02:07:45.000Z",
-    "magnitude": "3.24",
+    "magnitude": "2.62",
     "depth_km": "10.0",
     "place": "229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
   },
   {
     "time_utc": "2026-03-30T02:07:45.000Z",
-    "magnitude": "2.62",
+    "magnitude": "3.24",
     "depth_km": "10.0",
     "place": "229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
   },
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.05",
     "depth_km": "5.0",
     "place": "5 km E of Blissville, NB/5 km E de Blissville, NB"
-  },
-  {
-    "time_utc": "2026-03-28T01:50:15.000Z",
-    "magnitude": "0.93",
-    "depth_km": "5.0",
-    "place": "34 km SW of Ville-Marie, QC/34 km SO de Ville-Marie, QC"
   }
 ];
