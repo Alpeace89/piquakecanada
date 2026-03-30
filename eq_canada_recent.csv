@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260213.1729001,2026-02-13T17:29:50.000Z,59.2541,-136.1139,1.0,ML,2.0,"170 km SSW of Whitehorse, YT/170 km SSO de Whitehorse, YT"
 20260213.1829001,2026-02-13T18:29:51.000Z,49.9853,-129.5716,10.0,Mw',2.7,"168 km WSW of Port Hardy, BC/168 km OSO de Port Hardy, BC"
 20260213.1835001,2026-02-13T18:35:31.000Z,53.371,-133.235,12.95,ML,3.08,"78 km W of Daajing Giids, BC/78 km O de Daajing Giids, BC"
 20260213.1859001,2026-02-13T18:59:27.000Z,44.1748,-76.8143,0.0,MwN,1.43,"Blast, 3 km WSW of Bath, ON/Dynamitage, 3 km OSO de Bath, ON"
@@ -540,5 +539,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260327.0748001,2026-03-27T07:48:32.000Z,54.3104,-117.6918,1.0,MLy,2.51,"Suspected industry-related event, 58 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 58 km O de Fox Creek, AB"
 20260327.1108001,2026-03-27T11:08:02.000Z,60.6195,-140.0881,5.0,ML,2.09,"101 km SW of Burwash Landing, YT/101 km SO de Burwash Landing, YT"
 20260328.0150001,2026-03-28T01:50:15.000Z,47.0916,-79.7072,5.0,MwN,0.93,"34 km SW of Ville-Marie, QC/34 km SO de Ville-Marie, QC"
+20260328.0756001,2026-03-28T07:56:29.000Z,45.6087,-66.4931,5.0,MwN,1.05,"5 km E of Blissville, NB/5 km E de Blissville, NB"
+20260328.2254001,2026-03-28T22:54:47.000Z,50.8132,-130.5551,10.0,Mw',3.16,"215 km W of Port Hardy, BC/215 km O de Port Hardy, BC"
 20260329.1750001,2026-03-29T17:50:17.000Z,50.6,-130.1,5.0,Mw,4.8,"Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC"
 20260329.1750002,2026-03-29T17:50:18.000Z,50.5015,-130.3664,10.0,Mw,4.52,"204 km W of Port Hardy, BC/204 km O de Port Hardy, BC"

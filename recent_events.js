@@ -12,6 +12,18 @@ window.recentEvents = [
     "place": "Preliminary; 183 km W   of Port Hardy, BC/Preliminaire; 183 km O   de Port Hardy, BC"
   },
   {
+    "time_utc": "2026-03-28T22:54:47.000Z",
+    "magnitude": "3.16",
+    "depth_km": "10.0",
+    "place": "215 km W of Port Hardy, BC/215 km O de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-03-28T07:56:29.000Z",
+    "magnitude": "1.05",
+    "depth_km": "5.0",
+    "place": "5 km E of Blissville, NB/5 km E de Blissville, NB"
+  },
+  {
     "time_utc": "2026-03-28T01:50:15.000Z",
     "magnitude": "0.93",
     "depth_km": "5.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.13",
     "depth_km": "5.0",
     "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-03-26T21:36:36.000Z",
-    "magnitude": "2.17",
-    "depth_km": "5.0",
-    "place": "123 km SW of Haines Junction, YT/123 km SO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-03-26T20:33:20.000Z",
-    "magnitude": "2.63",
-    "depth_km": "5.0",
-    "place": "130 km W of Haines Junction, YT/130 km O de Haines Junction, YT"
   }
 ];
