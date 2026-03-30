@@ -1,5 +1,29 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-30T02:26:44.000Z",
+    "magnitude": "3.64",
+    "depth_km": "10.0",
+    "place": "237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-03-30T02:07:45.000Z",
+    "magnitude": "3.24",
+    "depth_km": "10.0",
+    "place": "229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-03-30T02:07:45.000Z",
+    "magnitude": "2.62",
+    "depth_km": "10.0",
+    "place": "229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-03-30T01:46:30.000Z",
+    "magnitude": "2.35",
+    "depth_km": "5.0",
+    "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-03-30T00:29:05.000Z",
     "magnitude": "1.9",
     "depth_km": "5.0",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "0.93",
     "depth_km": "5.0",
     "place": "34 km SW of Ville-Marie, QC/34 km SO de Ville-Marie, QC"
-  },
-  {
-    "time_utc": "2026-03-27T11:08:02.000Z",
-    "magnitude": "2.09",
-    "depth_km": "5.0",
-    "place": "101 km SW of Burwash Landing, YT/101 km SO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-03-27T07:48:32.000Z",
-    "magnitude": "2.51",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 58 km W of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km O de Fox Creek, AB"
-  },
-  {
-    "time_utc": "2026-03-26T22:42:57.000Z",
-    "magnitude": "2.15",
-    "depth_km": "0.0",
-    "place": "Blast, 5 km NE of Sechelt, BC/Dynamitage, 5 km NE de Sechelt, BC"
-  },
-  {
-    "time_utc": "2026-03-26T22:29:42.000Z",
-    "magnitude": "2.91",
-    "depth_km": "0.0",
-    "place": "Blast, 15 km SW of Trend Mine, BC/Dynamitage, 15 km SO de la mine Trend, BC"
   }
 ];

@@ -754,5 +754,11 @@
     "mode": "AI",
     "model": "qwen2.5:3b",
     "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there was one event with a magnitude of M1.9 near Burwash Landing in Yukon Territory, Canada. In the last 24 hours, 1 earthquake(s) were recorded, with the largest event M1.9 at 52 km WSW of Burwash Landing, YT. The most recent listed event was M1.9 at 52 km WSW of Burwash Landing, YT at 2026-03-30T00:29:05Z."
+  },
+  {
+    "timestamp_utc": "2026-03-30T19:42:48Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "Canada recorded 5 earthquakes in the last 24 hours, with the largest event M3.64 at 237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC. No earthquakes were recorded in the last hour. The most active regions in the last 24 hours were BC (3) and YT (2)."
   }
 ]
