@@ -206,14 +206,10 @@
 
       let html = "";
       reversed.forEach(entry => {
-
         const isAI = isAIMode(entry.mode);
-        const modeLabel = isAI ? entry.mode : "deterministic";
+        const modeLabel = isAI ? "AI" : "deterministic";
         const badgeClass = isAI ? "badge badge-ai" : "badge badge-det";
-
-        const modelText = entry.model
-          ? `Model: ${escapeHTML(entry.model)}`
-          : "Model: not used";
+        const modelText = entry.model ? `Model: ${escapeHTML(entry.model)}` : "Model: not used";
 
         html += `
           <div class="card">
