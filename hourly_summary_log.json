@@ -760,5 +760,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "Canada recorded 5 earthquakes in the last 24 hours, with the largest event M3.64 at 237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC. No earthquakes were recorded in the last hour. The most active regions in the last 24 hours were BC (3) and YT (2)."
+  },
+  {
+    "timestamp_utc": "2026-03-30T19:49:16Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "Canada recorded 5 earthquakes in the last 24 hours, with the largest event M3.64 at 237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC. No earthquakes were recorded in the last hour. The most active regions in the last 24 hours were BC (3) and YT (2)."
   }
 ]
