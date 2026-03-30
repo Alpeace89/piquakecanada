@@ -545,3 +545,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260330.0207002,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,Mw',3.24,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0226001,2026-03-30T02:26:44.000Z,48.7307,-128.6557,10.0,Mw',3.64,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
 20260330.0422001,2026-03-30T04:22:51.000Z,54.318,-118.5257,1.0,MLy,2.39,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
+20260330.1845001,2026-03-30T18:45:55.000Z,49.6364,-122.2446,5.0,ML,2.3,"14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC"

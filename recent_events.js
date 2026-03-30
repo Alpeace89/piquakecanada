@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-30T18:45:55.000Z",
+    "magnitude": "2.3",
+    "depth_km": "5.0",
+    "place": "14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC"
+  },
+  {
     "time_utc": "2026-03-30T04:22:51.000Z",
     "magnitude": "2.39",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.16",
     "depth_km": "10.0",
     "place": "215 km W of Port Hardy, BC/215 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-03-28T07:56:29.000Z",
-    "magnitude": "1.05",
-    "depth_km": "5.0",
-    "place": "5 km E of Blissville, NB/5 km E de Blissville, NB"
   }
 ];
