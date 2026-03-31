@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260214.0515001,2026-02-14T05:15:31.000Z,49.4108,-122.3469,2.3,ML,1.19,"19 km NNW of McConnell Creek, BC/19 km NNO de McConnell Creek, BC"
-20260214.0520001,2026-02-14T05:20:09.000Z,58.7594,-137.6209,5.0,ML,1.85,"258 km SW of Whitehorse, YT/258 km SO de Whitehorse, YT"
 20260214.0706001,2026-02-14T07:06:56.000Z,61.1246,-140.3604,5.0,ML,2.33,"78 km WSW of Burwash Landing, YT/78 km OSO de Burwash Landing, YT"
 20260214.0826001,2026-02-14T08:26:16.000Z,60.5564,-140.0225,5.0,ML,3.09,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
 20260214.1343001,2026-02-14T13:43:18.000Z,66.7691,-135.7999,10.0,ML,1.15,"84 km SSW of Fort McPherson, NT/84 km SSO de Fort McPherson, NT"
