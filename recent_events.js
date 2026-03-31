@@ -31,13 +31,13 @@ window.recentEvents = [
   },
   {
     "time_utc": "2026-03-30T02:07:45.000Z",
-    "magnitude": "3.24",
+    "magnitude": "2.62",
     "depth_km": "10.0",
     "place": "229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
   },
   {
     "time_utc": "2026-03-30T02:07:45.000Z",
-    "magnitude": "2.62",
+    "magnitude": "3.24",
     "depth_km": "10.0",
     "place": "229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
   },

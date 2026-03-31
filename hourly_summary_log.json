@@ -910,5 +910,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary for our PiQuake Canada dashboard in plain Canadian English: There were no new earthquakes reported last hour, but two small ones hit British Columbia yesterday. The biggest one was a M2.3 near Douglas, BC and another M1.48 close to Coquitlam caused by dynamite blasts. Most of these happened in the BC region."
+  },
+  {
+    "timestamp_utc": "2026-03-31T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major earthquakes reported, but we did catch two small quakes. The largest one was a M2.3 near Douglas in BC, which happened around 18:46 on March 30th. There's also a smaller blast event that registered at M1.48 close to Coquitlam, both happening just before 20:00 last night."
   }
 ]
