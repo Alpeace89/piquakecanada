@@ -946,5 +946,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had six PiQuake Canada dashboard events. The largest one was a M3.36 happening 201 km west-southwest of Tofino in British Columbia. This region saw three quakes alone. The others were centered in Alberta and Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-03-31T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the PiQuake Canada dashboard, we've seen no earthquakes in the last hour, but there were five recorded events yesterday. The largest event was a M3.36 near Tofino, BC/Oso Lake, BC, which happened just after 3 PM on March 31st. This is our latest activity as well, and it's been quite active in British Columbia with three quakes reported from Alberta region."
   }
 ]
