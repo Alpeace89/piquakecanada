@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260214.0404001,2026-02-14T04:04:00.000Z,60.5643,-140.0329,5.0,ML,4.21,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
-20260214.0453001,2026-02-14T04:53:25.000Z,59.9667,-139.152,10.67,ML,2.4,"126 km SW of Haines Junction, YT/126 km SO de Haines Junction, YT"
 20260214.0515001,2026-02-14T05:15:31.000Z,49.4108,-122.3469,2.3,ML,1.19,"19 km NNW of McConnell Creek, BC/19 km NNO de McConnell Creek, BC"
 20260214.0520001,2026-02-14T05:20:09.000Z,58.7594,-137.6209,5.0,ML,1.85,"258 km SW of Whitehorse, YT/258 km SO de Whitehorse, YT"
 20260214.0706001,2026-02-14T07:06:56.000Z,61.1246,-140.3604,5.0,ML,2.33,"78 km WSW of Burwash Landing, YT/78 km OSO de Burwash Landing, YT"

@@ -856,5 +856,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had a total of 3 PiQuake Canada dashboard events. The largest event was a M2.39 near Grande Cache in Alberta linked to industry activities. In BC, there were two blasts within a short time frame. Latest was a small M1.48 blast about 10 km east northeast of Coquitlam. Pretty typical for our area - a mix of industrial events and quarry operations here and there."
+  },
+  {
+    "timestamp_utc": "2026-03-31T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no significant earthquakes reported, but two smaller quakes happened. The largest one measured M2.3 near Douglas, British Columbia, and another minor quake registered at Coquitlam also hit in that timeframe too. Most of these events are happening in BC region."
   }
 ]
