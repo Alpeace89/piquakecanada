@@ -6,6 +6,24 @@ window.recentEvents = [
     "place": "201 km WSW of Tofino, BC/201 km OSO de Tofino, BC"
   },
   {
+    "time_utc": "2026-03-31T15:07:47.000Z",
+    "magnitude": "2.65",
+    "depth_km": "6.27",
+    "place": "Suspected industry-related event, 58 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km NE de Grande Cache, AB"
+  },
+  {
+    "time_utc": "2026-03-31T14:27:33.000Z",
+    "magnitude": "2.99",
+    "depth_km": "4.48",
+    "place": "Suspected industry-related event, 63 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 63 km NE de Grande Cache, AB"
+  },
+  {
+    "time_utc": "2026-03-31T03:27:17.000Z",
+    "magnitude": "1.97",
+    "depth_km": "6.06",
+    "place": "Suspected industry-related event, 59 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-03-31T02:30:41.000Z",
     "magnitude": "2.49",
     "depth_km": "10.0",
@@ -24,39 +42,21 @@ window.recentEvents = [
     "place": "14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC"
   },
   {
-    "time_utc": "2026-03-30T09:07:52.000Z",
-    "magnitude": "3.09",
+    "time_utc": "2026-03-30T17:55:00.000Z",
+    "magnitude": "2.66",
     "depth_km": "1.0",
-    "place": "Suspected industry-related event, 59 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km NE de Grande Cache, AB"
+    "place": "Suspected industry-related event, 60 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 60 km NE de Grande Cache, AB"
   },
   {
-    "time_utc": "2026-03-30T09:00:04.000Z",
-    "magnitude": "2.83",
+    "time_utc": "2026-03-30T17:51:09.000Z",
+    "magnitude": "3.28",
     "depth_km": "1.0",
-    "place": "Suspected industry-related event, 56 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 56 km NE de Grande Cache, AB"
+    "place": "Suspected industry-related event, 31 km W of Blueberry River 205, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 31 km O de Blueberry River 205, BC"
   },
   {
-    "time_utc": "2026-03-30T07:56:25.000Z",
-    "magnitude": "2.56",
-    "depth_km": "5.0",
-    "place": "54 km SW of Lohbiee 3, BC/54 km SO de Lohbiee 3, BC"
-  },
-  {
-    "time_utc": "2026-03-30T06:23:44.000Z",
-    "magnitude": "1.74",
-    "depth_km": "5.0",
-    "place": "120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-03-30T06:05:55.000Z",
-    "magnitude": "2.7",
+    "time_utc": "2026-03-30T15:46:42.000Z",
+    "magnitude": "2.43",
     "depth_km": "1.0",
-    "place": "Suspected industry-related event, 28 km W of Blueberry River 205, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 28 km O de Blueberry River 205, BC"
-  },
-  {
-    "time_utc": "2026-03-30T04:22:51.000Z",
-    "magnitude": "2.39",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 61 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 61 km NE de Grande Cache, AB"
+    "place": "Suspected industry-related event, 11 km ESE of Hinton, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 11 km ESE de Hinton, AB"
   }
 ];
