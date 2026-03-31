@@ -916,5 +916,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major earthquakes reported, but we did catch two small quakes. The largest one was a M2.3 near Douglas in BC, which happened around 18:46 on March 30th. There's also a smaller blast event that registered at M1.48 close to Coquitlam, both happening just before 20:00 last night."
+  },
+  {
+    "timestamp_utc": "2026-03-31T16:03:01Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "Canada recorded 2 earthquakes in the last 24 hours, with the largest event M2.3 at 14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC. No earthquakes were recorded in the last hour. The most recent listed event was M1.48 at Blast, 10 km ENE of Coquitlam, BC/Dynamitage, 10 km ENE de Coquitlam, BC at 2026-03-30T19:53:19Z."
   }
 ]

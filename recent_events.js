@@ -12,6 +12,12 @@ window.recentEvents = [
     "place": "14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC"
   },
   {
+    "time_utc": "2026-03-30T06:23:44.000Z",
+    "magnitude": "1.74",
+    "depth_km": "5.0",
+    "place": "120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-03-30T06:05:55.000Z",
     "magnitude": "2.7",
     "depth_km": "1.0",
@@ -31,13 +37,13 @@ window.recentEvents = [
   },
   {
     "time_utc": "2026-03-30T02:07:45.000Z",
-    "magnitude": "2.62",
+    "magnitude": "3.24",
     "depth_km": "10.0",
     "place": "229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
   },
   {
     "time_utc": "2026-03-30T02:07:45.000Z",
-    "magnitude": "3.24",
+    "magnitude": "2.62",
     "depth_km": "10.0",
     "place": "229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
   },
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.9",
     "depth_km": "5.0",
     "place": "52 km WSW of Burwash Landing, YT/52 km OSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-03-29T18:07:21.000Z",
-    "magnitude": "3.46",
-    "depth_km": "1.0",
-    "place": "249 km SW of Whitehorse, YT/249 km SO de Whitehorse, YT"
   }
 ];
