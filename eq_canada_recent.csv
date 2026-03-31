@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260214.0706001,2026-02-14T07:06:56.000Z,61.1246,-140.3604,5.0,ML,2.33,"78 km WSW of Burwash Landing, YT/78 km OSO de Burwash Landing, YT"
 20260214.0826001,2026-02-14T08:26:16.000Z,60.5564,-140.0225,5.0,ML,3.09,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
 20260214.1343001,2026-02-14T13:43:18.000Z,66.7691,-135.7999,10.0,ML,1.15,"84 km SSW of Fort McPherson, NT/84 km SSO de Fort McPherson, NT"
 20260214.1354001,2026-02-14T13:54:37.000Z,66.365,-134.4434,10.0,ML,2.05,"121 km S of Fort McPherson, NT/121 km S de Fort McPherson, NT"

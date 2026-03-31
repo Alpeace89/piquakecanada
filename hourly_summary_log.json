@@ -874,5 +874,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two small quakes yesterday. The largest one was a M2.3 near Douglas 8, BC. The latest quake was a bit smaller at M1.48 and happened when they were blasting off some dynamite about 10 km east of Coquitlam, BC."
+  },
+  {
+    "timestamp_utc": "2026-03-31T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the last 24 hours, we've had two minor tremors. The largest one was a M2.3 near Douglas in British Columbia. That happened just before 7 PM on March 30th. Then there was another shake of M1.48 around 8 PM in Coquitlam. Both events happened in BC and seem to be related, happening very close together time-wise."
   }
 ]
