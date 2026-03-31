@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-03-31T15:56:55.000Z",
+    "magnitude": "3.36",
+    "depth_km": "10.0",
+    "place": "201 km WSW of Tofino, BC/201 km OSO de Tofino, BC"
+  },
+  {
+    "time_utc": "2026-03-31T02:30:41.000Z",
+    "magnitude": "2.49",
+    "depth_km": "10.0",
+    "place": "204 km W of Port Hardy, BC/204 km O de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-03-30T19:53:19.000Z",
     "magnitude": "1.48",
     "depth_km": "0.0",
@@ -10,6 +22,18 @@ window.recentEvents = [
     "magnitude": "2.3",
     "depth_km": "5.0",
     "place": "14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC"
+  },
+  {
+    "time_utc": "2026-03-30T09:07:52.000Z",
+    "magnitude": "3.09",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 59 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km NE de Grande Cache, AB"
+  },
+  {
+    "time_utc": "2026-03-30T09:00:04.000Z",
+    "magnitude": "2.83",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 56 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 56 km NE de Grande Cache, AB"
   },
   {
     "time_utc": "2026-03-30T07:56:25.000Z",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "2.39",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 61 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 61 km NE de Grande Cache, AB"
-  },
-  {
-    "time_utc": "2026-03-30T02:26:44.000Z",
-    "magnitude": "3.64",
-    "depth_km": "10.0",
-    "place": "237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-03-30T02:07:45.000Z",
-    "magnitude": "3.24",
-    "depth_km": "10.0",
-    "place": "229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-03-30T02:07:45.000Z",
-    "magnitude": "2.62",
-    "depth_km": "10.0",
-    "place": "229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-03-30T01:46:30.000Z",
-    "magnitude": "2.35",
-    "depth_km": "5.0",
-    "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
   }
 ];
