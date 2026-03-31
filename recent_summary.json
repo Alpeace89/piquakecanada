@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-03-31T17:03:01Z",
+  "generated_utc": "2026-03-31T18:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 545,
+  "rolling_window_event_count": 544,
   "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
@@ -45,5 +45,5 @@
       "count": 2
     }
   ],
-  "summary_text": "As of 2026-03-31 17:03 UTC, the recent Canada earthquake dataset contains 545 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.3 at 14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC. The deepest event reached 5.00 km at 14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC. The most recent listed event was M1.48 at Blast, 10 km ENE of Coquitlam, BC/Dynamitage, 10 km ENE de Coquitlam, BC at 2026-03-30T19:53:19.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was BC."
+  "summary_text": "As of 2026-03-31 18:03 UTC, the recent Canada earthquake dataset contains 544 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.3 at 14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC. The deepest event reached 5.00 km at 14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC. The most recent listed event was M1.48 at Blast, 10 km ENE of Coquitlam, BC/Dynamitage, 10 km ENE de Coquitlam, BC at 2026-03-30T19:53:19.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was BC."
 }
