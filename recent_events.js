@@ -30,33 +30,33 @@ window.recentEvents = [
     "place": "204 km W of Port Hardy, BC/204 km O de Port Hardy, BC"
   },
   {
-    "time_utc": "2026-03-30T19:53:19.000Z",
-    "magnitude": "1.48",
-    "depth_km": "0.0",
-    "place": "Blast, 10 km ENE of Coquitlam, BC/Dynamitage, 10 km ENE de Coquitlam, BC"
-  },
-  {
-    "time_utc": "2026-03-30T18:45:55.000Z",
-    "magnitude": "2.3",
+    "time_utc": "2026-03-30T22:44:07.000Z",
+    "magnitude": "1.95",
     "depth_km": "5.0",
-    "place": "14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC"
+    "place": "39 km WSW of Beaver Creek, YT/39 km OSO de Beaver Creek, YT"
   },
   {
-    "time_utc": "2026-03-30T17:55:00.000Z",
-    "magnitude": "2.66",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 60 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 60 km NE de Grande Cache, AB"
+    "time_utc": "2026-03-30T21:40:32.000Z",
+    "magnitude": "1.57",
+    "depth_km": "0.0",
+    "place": "Blast, 15 km NE of Abbotsford, BC/Dynamitage, 15 km NE de Abbotsford, BC"
   },
   {
-    "time_utc": "2026-03-30T17:51:09.000Z",
-    "magnitude": "3.28",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 31 km W of Blueberry River 205, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 31 km O de Blueberry River 205, BC"
+    "time_utc": "2026-03-30T20:27:05.000Z",
+    "magnitude": "2.06",
+    "depth_km": "5.0",
+    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
   },
   {
-    "time_utc": "2026-03-30T15:46:42.000Z",
-    "magnitude": "2.43",
+    "time_utc": "2026-03-30T20:07:33.000Z",
+    "magnitude": "2.52",
     "depth_km": "1.0",
-    "place": "Suspected industry-related event, 11 km ESE of Hinton, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 11 km ESE de Hinton, AB"
+    "place": "Suspected industry-related event, 29 km NNE of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 29 km NNE de Halfway River 168, BC"
+  },
+  {
+    "time_utc": "2026-03-30T20:07:33.000Z",
+    "magnitude": "2.52",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 41 km SW of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 41 km SO de Prespatou, BC"
   }
 ];
