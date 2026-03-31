@@ -1,1 +1,1 @@
-In the last 24 hours, we've had no major quakes here in Canada, but there were seven smaller ones. The largest one measured M3.36 and happened about 200 km west-southwest of Tofino, BC. That's where a lot of our small quakes have been lately, with three spots in British Columbia and Alberta each reporting one quake.
+In the last 24 hours, we had six PiQuake Canada dashboard events. The largest one was a M3.36 happening 201 km west-southwest of Tofino in British Columbia. This region saw three quakes alone. The others were centered in Alberta and Yukon Territory.
