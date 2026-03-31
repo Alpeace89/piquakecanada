@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260214.1343001,2026-02-14T13:43:18.000Z,66.7691,-135.7999,10.0,ML,1.15,"84 km SSW of Fort McPherson, NT/84 km SSO de Fort McPherson, NT"
-20260214.1354001,2026-02-14T13:54:37.000Z,66.365,-134.4434,10.0,ML,2.05,"121 km S of Fort McPherson, NT/121 km S de Fort McPherson, NT"
 20260214.1603001,2026-02-14T16:03:41.000Z,52.7661,-132.3156,18.48,ML,2.78,"56 km SSW of Daajing Giids, BC/56 km SSO de Daajing Giids, BC"
 20260214.1734001,2026-02-14T17:34:40.000Z,48.0013,-124.6253,42.63,ML,1.75,"97 km WSW of Langford, BC/97 km OSO de Langford, BC"
 20260215.0229001,2026-02-15T02:29:36.000Z,56.7801,-122.0163,3.48,MLy,2.63,"Suspected industry-related event, 35 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 35 km NNO de Halfway River 168, BC"
@@ -414,6 +412,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260319.1950001,2026-03-19T19:50:17.000Z,60.622,-139.8611,5.0,ML,2.17,"129 km W of Haines Junction, YT/129 km O de Haines Junction, YT"
 20260319.2154001,2026-03-19T21:54:50.000Z,54.5116,-118.5486,1.0,MLy,2.07,"Suspected industry-related event, 75 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 75 km SSE de Grande Prairie, AB"
 20260320.0053001,2026-03-20T00:53:53.000Z,60.5892,-139.9088,5.0,ML,2.12,"99 km SSW of Burwash Landing, YT/99 km SSO de Burwash Landing, YT"
+20260320.0122001,2026-03-20T01:22:40.000Z,47.5002,-70.0405,12.25,MwN,0.4,"14 km N of La Pocatière, QC/14 km N de La Pocatière, QC"
 20260320.0207001,2026-03-20T02:07:53.000Z,50.5659,-65.9767,18.0,MwN,1.07,"42 km NNE of Maliotenam, QC/42 km NNE de Maliotenam, QC"
 20260320.0217001,2026-03-20T02:17:30.000Z,50.7282,-65.9946,18.0,MwN,1.14,"59 km NNE of Maliotenam, QC/59 km NNE de Maliotenam, QC"
 20260320.0433001,2026-03-20T04:33:03.000Z,60.4524,-139.6188,5.0,ML,2.33,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
@@ -536,5 +535,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0226001,2026-03-30T02:26:44.000Z,48.7307,-128.6557,10.0,Mw',3.64,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
 20260330.0422001,2026-03-30T04:22:51.000Z,54.318,-118.5257,1.0,MLy,2.39,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
+20260330.0605001,2026-03-30T06:05:55.000Z,56.6666,-121.5519,1.0,MLy,2.7,"Suspected industry-related event, 28 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 28 km O de Blueberry River 205, BC"
 20260330.1845001,2026-03-30T18:45:55.000Z,49.6364,-122.2446,5.0,ML,2.3,"14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC"
 20260330.1953001,2026-03-30T19:53:19.000Z,49.3245,-122.6665,0.0,ML,1.48,"Blast, 10 km ENE of Coquitlam, BC/Dynamitage, 10 km ENE de Coquitlam, BC"

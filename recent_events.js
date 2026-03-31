@@ -12,6 +12,12 @@ window.recentEvents = [
     "place": "14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC"
   },
   {
+    "time_utc": "2026-03-30T06:05:55.000Z",
+    "magnitude": "2.7",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 28 km W of Blueberry River 205, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 28 km O de Blueberry River 205, BC"
+  },
+  {
     "time_utc": "2026-03-30T04:22:51.000Z",
     "magnitude": "2.39",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.46",
     "depth_km": "1.0",
     "place": "249 km SW of Whitehorse, YT/249 km SO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-03-29T17:50:18.000Z",
-    "magnitude": "4.52",
-    "depth_km": "10.0",
-    "place": "204 km W of Port Hardy, BC/204 km O de Port Hardy, BC"
   }
 ];
