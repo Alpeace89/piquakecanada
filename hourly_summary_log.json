@@ -850,5 +850,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major seismic events reported, but we saw three small tremors. The largest one was a M2.39 that occurred near Grande Cache in Alberta linked to some kind of industrial activity. In British Columbia, they had a small blast too, which is far away from Coquitlam."
+  },
+  {
+    "timestamp_utc": "2026-03-31T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had a total of 3 PiQuake Canada dashboard events. The largest event was a M2.39 near Grande Cache in Alberta linked to industry activities. In BC, there were two blasts within a short time frame. Latest was a small M1.48 blast about 10 km east northeast of Coquitlam. Pretty typical for our area - a mix of industrial events and quarry operations here and there."
   }
 ]
