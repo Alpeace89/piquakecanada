@@ -886,5 +886,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there were two minor seismic events recorded on the PiQuake Canada dashboard. The largest one was a M2.3 near Douglas in BC, happening at around 6:45 PM local time. There's also been another event earlier today with a magnitude of M1.48 that happened close to Coquitlam as part of some dynamite blasting. BC has seen the most seismic activity lately."
+  },
+  {
+    "timestamp_utc": "2026-03-31T10:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two small tremors reported in British Columbia. The biggest one was a M2.3 near Douglas 8, BC and it happened around 6:45 PM on March 30th. Just over an hour later at 7:53 PM, there was another event that registered as a M1.48. Both of these quakes took place close to Coquitlam, BC."
   }
 ]
