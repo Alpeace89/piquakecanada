@@ -1000,5 +1000,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had no new earthquake events reported. However, there have been three small quakes recorded since yesterday morning. The largest one measured M3.36 and happened near Tofino in British Columbia. That's close to where it was last night too, just a few hundred kilometers away from the west southwest of Tofino in both directions."
+  },
+  {
+    "timestamp_utc": "2026-04-01T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard showed no events in the last hour, but there were three reports yesterday. The largest one happened about 200 km west-southwest of Tofino in British Columbia on March 31st at around 3:57 PM local time. It was a M3.36 quake."
   }
 ]
