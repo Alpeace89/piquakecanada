@@ -1078,5 +1078,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, we've got activity! It's been a quiet first hour but in the last day, there was one little shake. The biggest one recorded was a M2.45 near Minto in New Brunswick. That happened yesterday at around 3 am local time. So far today, it seems to be just that region seeing some minor quakes."
+  },
+  {
+    "timestamp_utc": "2026-04-01T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no earthquakes reported by our PiQuake Canada dashboard. But we did see a small shake with a magnitude of M2.45 happening about 32 km north of Minto in New Brunswick. This is what we've been tracking and monitoring closely to help everyone stay safe if they feel anything."
   }
 ]
