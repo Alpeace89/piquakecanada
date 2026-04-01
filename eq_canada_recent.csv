@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260215.1743001,2026-02-15T17:43:08.000Z,60.5527,-139.8989,5.0,ML,2.96,"132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
 20260215.2328001,2026-02-15T23:28:53.000Z,46.2204,-75.1395,9.75,MwN,0.82,"22 km SSW of Nominingue, QC/22 km SSO de Nominingue, QC"
 20260216.0023001,2026-02-16T00:23:33.000Z,49.8102,-127.3227,23.77,ML,2.98,"25 km S of Houpsitas 6, BC/25 km S de Houpsitas 6, BC"
 20260216.0050001,2026-02-16T00:50:04.000Z,44.5091,-73.5157,5.0,MwN,2.17,"24 km W of Burlington, VT/24 km O de Burlington, VT"
