@@ -976,5 +976,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the last 24 hours, we've had no quakes reported in our dashboard. But there were four tiny shakes! The biggest one was a M3.36 near Tofino in British Columbia. It happened on March 31st at about 3:57 PM Pacific Time. And it's happening more often in the Alberta and British Columbia regions."
+  },
+  {
+    "timestamp_utc": "2026-04-01T04:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is showing no events in the last hour, but there were three in the past day. The largest event was a M3.36 under Tofino, BC. This place had similar activity as yesterday with Alberta reporting two and British Columbia one."
   }
 ]
