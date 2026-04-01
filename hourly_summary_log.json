@@ -1090,5 +1090,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no significant seismic events reported. However, a M3.45 quake occurred at 20:28 UTC on April 1st, 2026, near Port Hardy in British Columbia. This was the largest event and the only one recorded in the past day. It happened twice in New Brunswick too."
+  },
+  {
+    "timestamp_utc": "2026-04-01T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is still in beta, but we've had a busy last 24 hours with no events so far this hour. We saw three quakes overall and the biggest one was a M3.45 hit about 230 km west of Port Hardy, BC. That's the latest quake recorded as of yesterday evening at 10:28 PM local time. Most of these happened in New Brunswick with two big ones and just one in British Columbia."
   }
 ]
