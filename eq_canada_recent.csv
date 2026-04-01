@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260215.1319001,2026-02-15T13:19:40.000Z,50.7311,-130.5189,10.0,Mw',2.87,"213 km W of Port Hardy, BC/213 km O de Port Hardy, BC"
 20260215.1529001,2026-02-15T15:29:31.000Z,60.5274,-140.0761,1.0,ML,3.0,"142 km W of Haines Junction, YT/142 km O de Haines Junction, YT"
 20260215.1641001,2026-02-15T16:41:17.000Z,52.4737,-132.6717,20.0,ML,3.13,"95 km SSW of Daajing Giids, BC/95 km SSO de Daajing Giids, BC"
 20260215.1743001,2026-02-15T17:43:08.000Z,60.5527,-139.8989,5.0,ML,2.96,"132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
@@ -522,6 +521,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260327.0748001,2026-03-27T07:48:32.000Z,54.3104,-117.6918,1.0,MLy,2.51,"Suspected industry-related event, 58 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 58 km O de Fox Creek, AB"
 20260327.0949001,2026-03-27T09:49:52.000Z,50.0582,-67.0251,6.32,MwN,0.84,"12 km WNW of Port-Cartier, QC/12 km ONO de Port-Cartier, QC"
 20260327.1108001,2026-03-27T11:08:02.000Z,60.6195,-140.0881,5.0,ML,2.09,"101 km SW of Burwash Landing, YT/101 km SO de Burwash Landing, YT"
+20260327.1202001,2026-03-27T12:02:24.000Z,50.1261,-130.1326,10.0,Mw',2.94,"198 km WSW of Port Hardy, BC/198 km OSO de Port Hardy, BC"
+20260327.1241001,2026-03-27T12:41:11.000Z,60.4052,-139.6015,5.0,ML,2.31,"121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
 20260328.0150001,2026-03-28T01:50:15.000Z,47.0916,-79.7072,5.0,MwN,0.93,"34 km SW of Ville-Marie, QC/34 km SO de Ville-Marie, QC"
 20260328.0756001,2026-03-28T07:56:29.000Z,45.6087,-66.4931,5.0,MwN,1.05,"5 km E of Blissville, NB/5 km E de Blissville, NB"
 20260328.1211001,2026-03-28T12:11:38.000Z,56.7055,-121.6275,4.56,MLy,3.04,"Suspected industry-related event, 29 km NNE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 29 km NNE de Halfway River 168, BC"
