@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-04-01T02:03:01Z",
+  "generated_utc": "2026-04-01T03:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 561,
-  "events_last_24h": 5,
+  "rolling_window_event_count": 560,
+  "events_last_24h": 4,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
@@ -46,8 +46,8 @@
     },
     {
       "region": "BC",
-      "count": 2
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-01 02:03 UTC, the recent Canada earthquake dataset contains 561 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.36 at 201 km WSW of Tofino, BC/201 km OSO de Tofino, BC. The deepest event reached 10.00 km at 201 km WSW of Tofino, BC/201 km OSO de Tofino, BC. The most recent listed event was M3.36 at 201 km WSW of Tofino, BC/201 km OSO de Tofino, BC at 2026-03-31T15:56:55.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (3) and BC (2)."
+  "summary_text": "As of 2026-04-01 03:03 UTC, the recent Canada earthquake dataset contains 560 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.36 at 201 km WSW of Tofino, BC/201 km OSO de Tofino, BC. The deepest event reached 10.00 km at 201 km WSW of Tofino, BC/201 km OSO de Tofino, BC. The most recent listed event was M3.36 at 201 km WSW of Tofino, BC/201 km OSO de Tofino, BC at 2026-03-31T15:56:55.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (3) and BC (1)."
 }

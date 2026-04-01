@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260215.0229001,2026-02-15T02:29:36.000Z,56.7801,-122.0163,3.48,MLy,2.63,"Suspected industry-related event, 35 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 35 km NNO de Halfway River 168, BC"
 20260215.0708001,2026-02-15T07:08:47.000Z,64.6247,-138.7579,5.0,ML,2.57,"71 km NNE of Dawson, YT/71 km NNE de Dawson, YT"
 20260215.1319001,2026-02-15T13:19:40.000Z,50.7311,-130.5189,10.0,Mw',2.87,"213 km W of Port Hardy, BC/213 km O de Port Hardy, BC"
 20260215.1529001,2026-02-15T15:29:31.000Z,60.5274,-140.0761,1.0,ML,3.0,"142 km W of Haines Junction, YT/142 km O de Haines Junction, YT"
