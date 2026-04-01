@@ -994,5 +994,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick rundown of what's happening with PiQuake Canada. Over the last 24 hours, there have been three quakes detected, including the largest at M3.36 near Tofino in British Columbia. It was recorded just before noon on March 31st. The activity is mostly centered around Alberta and BC, with two occurrences in Alberta alone."
+  },
+  {
+    "timestamp_utc": "2026-04-01T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had no new earthquake events reported. However, there have been three small quakes recorded since yesterday morning. The largest one measured M3.36 and happened near Tofino in British Columbia. That's close to where it was last night too, just a few hundred kilometers away from the west southwest of Tofino in both directions."
   }
 ]
