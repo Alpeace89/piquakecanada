@@ -1066,5 +1066,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and there hasn't been any notable seismic event recorded since March 31st around Tofino, BC. The latest quake was a small M3.36 just outside of that area. Sounds like it's been pretty quiet down there lately."
+  },
+  {
+    "timestamp_utc": "2026-04-01T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary of what you can expect on the PiQuake Canada dashboard in beta right now: There have been no big earthquakes recorded this hour, but one M2.45 quake shook off near Minto, New Brunswick yesterday at around 3 am local time. This is the largest event we've seen since our system started up a few days ago, and it's happened mostly in New Brunswick with just one report."
   }
 ]

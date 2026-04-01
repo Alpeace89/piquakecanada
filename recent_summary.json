@@ -1,24 +1,49 @@
 {
-  "generated_utc": "2026-04-01T18:03:01Z",
+  "generated_utc": "2026-04-01T19:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 562,
-  "events_last_24h": 0,
+  "rolling_window_event_count": 563,
+  "events_last_24h": 1,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260331.1556001",
-    "time_utc": "2026-03-31T15:56:55.000Z",
-    "latitude": 48.7492,
-    "longitude": -128.5818,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.36,
-    "place": "201 km WSW of Tofino, BC/201 km OSO de Tofino, BC",
-    "region": "BC"
+    "event_id": "20260401.0320001",
+    "time_utc": "2026-04-01T03:20:26.000Z",
+    "latitude": 46.3641,
+    "longitude": -66.1541,
+    "depth_km": 10.85,
+    "mag_type": "MwN",
+    "magnitude": 2.45,
+    "place": "32 km N of Minto, NB/32 km N de Minto, NB",
+    "region": "NB"
   },
-  "largest_event_last_24h": null,
-  "deepest_event_last_24h": null,
-  "top_regions_last_24h": [],
-  "summary_text": "As of 2026-04-01 18:03 UTC, the recent Canada earthquake dataset contains 562 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M3.36 at 201 km WSW of Tofino, BC/201 km OSO de Tofino, BC at 2026-03-31T15:56:55.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "largest_event_last_24h": {
+    "event_id": "20260401.0320001",
+    "time_utc": "2026-04-01T03:20:26.000Z",
+    "latitude": 46.3641,
+    "longitude": -66.1541,
+    "depth_km": 10.85,
+    "mag_type": "MwN",
+    "magnitude": 2.45,
+    "place": "32 km N of Minto, NB/32 km N de Minto, NB",
+    "region": "NB"
+  },
+  "deepest_event_last_24h": {
+    "event_id": "20260401.0320001",
+    "time_utc": "2026-04-01T03:20:26.000Z",
+    "latitude": 46.3641,
+    "longitude": -66.1541,
+    "depth_km": 10.85,
+    "mag_type": "MwN",
+    "magnitude": 2.45,
+    "place": "32 km N of Minto, NB/32 km N de Minto, NB",
+    "region": "NB"
+  },
+  "top_regions_last_24h": [
+    {
+      "region": "NB",
+      "count": 1
+    }
+  ],
+  "summary_text": "As of 2026-04-01 19:03 UTC, the recent Canada earthquake dataset contains 563 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.45 at 32 km N of Minto, NB/32 km N de Minto, NB. The deepest event reached 10.85 km at 32 km N of Minto, NB/32 km N de Minto, NB. The most recent listed event was M2.45 at 32 km N of Minto, NB/32 km N de Minto, NB at 2026-04-01T03:20:26.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was NB."
 }

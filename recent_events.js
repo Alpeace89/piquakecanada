@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-01T03:20:26.000Z",
+    "magnitude": "2.45",
+    "depth_km": "10.85",
+    "place": "32 km N of Minto, NB/32 km N de Minto, NB"
+  },
+  {
     "time_utc": "2026-03-31T15:56:55.000Z",
     "magnitude": "3.36",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.06",
     "depth_km": "5.0",
     "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-03-30T20:07:33.000Z",
-    "magnitude": "2.52",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 29 km NNE of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 29 km NNE de Halfway River 168, BC"
   }
 ];
