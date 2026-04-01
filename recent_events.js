@@ -1,9 +1,21 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-01T20:28:54.000Z",
+    "magnitude": "3.45",
+    "depth_km": "10.0",
+    "place": "229 km W of Port Hardy, BC/229 km O de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-04-01T03:20:26.000Z",
     "magnitude": "2.45",
     "depth_km": "10.85",
     "place": "32 km N of Minto, NB/32 km N de Minto, NB"
+  },
+  {
+    "time_utc": "2026-04-01T03:12:24.000Z",
+    "magnitude": "2.25",
+    "depth_km": "10.66",
+    "place": "22 km S of Doaktown, NB/22 km S de Doaktown, NB"
   },
   {
     "time_utc": "2026-03-31T15:56:55.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.95",
     "depth_km": "5.0",
     "place": "39 km WSW of Beaver Creek, YT/39 km OSO de Beaver Creek, YT"
-  },
-  {
-    "time_utc": "2026-03-30T21:40:32.000Z",
-    "magnitude": "1.57",
-    "depth_km": "0.0",
-    "place": "Blast, 15 km NE of Abbotsford, BC/Dynamitage, 15 km NE de Abbotsford, BC"
-  },
-  {
-    "time_utc": "2026-03-30T20:27:05.000Z",
-    "magnitude": "2.06",
-    "depth_km": "5.0",
-    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
   }
 ];
