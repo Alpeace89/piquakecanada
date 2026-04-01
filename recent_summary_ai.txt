@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there were three incidents in the previous 24 hours. The largest event was a M3.36 near Tofino, BC/Tofino, BC, recorded at 3:57 PM on March 31st. That area has been active with two more quakes reported today from Alberta.
+For the past 24 hours, there have been no significant quakes reported. However, we did catch three smaller ones in British Columbia and Alberta, with the largest measuring M3.36 around Tofino area. The latest quake was just a few minutes ago from the same spot as those before it.
