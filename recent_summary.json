@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-04-02T16:03:01Z",
+  "generated_utc": "2026-04-02T17:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 559,
-  "events_last_24h": 9,
+  "rolling_window_event_count": 562,
+  "events_last_24h": 11,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 3,
   "count_m4plus_last_24h": 1,
   "latest_event": {
-    "event_id": "20260402.0633001",
-    "time_utc": "2026-04-02T06:33:00.000Z",
-    "latitude": 52.7116,
-    "longitude": -132.2408,
-    "depth_km": 18.45,
-    "mag_type": "ML",
-    "magnitude": 2.39,
-    "place": "61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC",
-    "region": "BC"
+    "event_id": "20260402.0833001",
+    "time_utc": "2026-04-02T08:33:51.000Z",
+    "latitude": 54.7835,
+    "longitude": -118.7249,
+    "depth_km": 3.74,
+    "mag_type": "MLy",
+    "magnitude": 2.73,
+    "place": "Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB",
+    "region": "AB"
   },
   "largest_event_last_24h": {
     "event_id": "20260401.2327001",
@@ -42,16 +42,16 @@
   "top_regions_last_24h": [
     {
       "region": "AB",
+      "count": 4
+    },
+    {
+      "region": "YT",
       "count": 3
     },
     {
       "region": "BC",
       "count": 2
-    },
-    {
-      "region": "YT",
-      "count": 2
     }
   ],
-  "summary_text": "As of 2026-04-02 16:03 UTC, the recent Canada earthquake dataset contains 559 events from the current rolling window. In the last 24 hours, 9 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.5 at Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB. The deepest event reached 18.45 km at 61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC. The most recent listed event was M2.39 at 61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC at 2026-04-02T06:33:00.000Z. There were 3 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (3) and BC (2)."
+  "summary_text": "As of 2026-04-02 17:03 UTC, the recent Canada earthquake dataset contains 562 events from the current rolling window. In the last 24 hours, 11 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.5 at Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB. The deepest event reached 18.45 km at 61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC. The most recent listed event was M2.73 at Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB at 2026-04-02T08:33:51.000Z. There were 3 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (4) and YT (3)."
 }

@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-02T08:33:51.000Z",
+    "magnitude": "2.73",
+    "depth_km": "3.74",
+    "place": "Suspected industry-related event, 43 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 43 km S de Grande Prairie, AB"
+  },
+  {
+    "time_utc": "2026-04-02T07:40:11.000Z",
+    "magnitude": "2.08",
+    "depth_km": "5.0",
+    "place": "136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-02T06:33:00.000Z",
     "magnitude": "2.39",
     "depth_km": "18.45",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "4.5",
     "depth_km": "5.0",
     "place": "Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB"
-  },
-  {
-    "time_utc": "2026-04-01T20:28:54.000Z",
-    "magnitude": "3.45",
-    "depth_km": "10.0",
-    "place": "229 km W of Port Hardy, BC/229 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-01T03:20:26.000Z",
-    "magnitude": "2.45",
-    "depth_km": "10.85",
-    "place": "32 km N of Minto, NB/32 km N de Minto, NB"
   }
 ];

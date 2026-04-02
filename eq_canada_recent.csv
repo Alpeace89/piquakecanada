@@ -547,6 +547,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260331.1427001,2026-03-31T14:27:33.000Z,54.3281,-118.5158,4.48,MLy,2.99,"Suspected industry-related event, 63 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 63 km NE de Grande Cache, AB"
 20260331.1507001,2026-03-31T15:07:47.000Z,54.2887,-118.5391,6.27,MLy,2.65,"Suspected industry-related event, 58 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 58 km NE de Grande Cache, AB"
 20260331.1556001,2026-03-31T15:56:55.000Z,48.7492,-128.5818,10.0,Mw',3.36,"201 km WSW of Tofino, BC/201 km OSO de Tofino, BC"
+20260401.0221001,2026-04-01T02:21:04.000Z,50.7798,-130.4089,10.0,Mw',2.96,"205 km W of Port Hardy, BC/205 km O de Port Hardy, BC"
 20260401.0312001,2026-04-01T03:12:24.000Z,46.3684,-66.1512,10.66,MwN,2.25,"22 km S of Doaktown, NB/22 km S de Doaktown, NB"
 20260401.0320001,2026-04-01T03:20:26.000Z,46.3641,-66.1541,10.85,MwN,2.45,"32 km N of Minto, NB/32 km N de Minto, NB"
 20260401.2028001,2026-04-01T20:28:54.000Z,50.9875,-130.7412,10.0,Mw',3.45,"229 km W of Port Hardy, BC/229 km O de Port Hardy, BC"
@@ -558,3 +559,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260402.0444001,2026-04-02T04:44:41.000Z,54.3376,-118.4207,1.0,MLy,2.17,"Suspected industry-related event, 68 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 68 km NE de Grande Cache, AB"
 20260402.0550001,2026-04-02T05:50:04.000Z,60.4198,-139.5599,5.0,ML,3.09,"118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
 20260402.0633001,2026-04-02T06:33:00.000Z,52.7116,-132.2408,18.45,ML,2.39,"61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC"
+20260402.0740001,2026-04-02T07:40:11.000Z,60.543,-139.9777,5.0,ML,2.08,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
+20260402.0833001,2026-04-02T08:33:51.000Z,54.7835,-118.7249,3.74,MLy,2.73,"Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB"
