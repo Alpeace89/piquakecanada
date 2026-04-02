@@ -1150,5 +1150,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is currently in beta and shows no events for the last hour, but there were two minor quakes in the past day. The biggest one was a M4.5 near Morinville in Alberta, recorded on April 1st at around midnight. This region has been our top concern with both events coming from here in the last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-04-02T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two minor seismic events. The biggest one was a M4.5 and it happened near Morinville in Alberta. It's still preliminary but folks there got a little shake. Since then, nothing major has been recorded. We're tracking activity in British Columbia and Alberta."
   }
 ]

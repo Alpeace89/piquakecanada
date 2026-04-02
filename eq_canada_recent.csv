@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260216.1015001,2026-02-16T10:15:38.000Z,60.57,-139.9313,5.0,ML,3.39,"133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
 20260216.1337001,2026-02-16T13:37:02.000Z,46.4104,-72.3972,9.85,MwN,1.81,"14 km ENE of Trois-Rivières, QC/14 km ENE de Trois-Rivières, QC"
 20260216.1341001,2026-02-16T13:41:58.000Z,54.4953,-118.5659,1.0,MLy,2.67,"Suspected industry-related event, 77 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 77 km S de Grande Prairie, AB"
 20260216.1359001,2026-02-16T13:59:31.000Z,47.8068,-69.7988,23.09,MwN,1.08,"20 km W of Rivière-du-Loup, QC/20 km O de Rivière-du-Loup, QC"
