@@ -1,1 +1,1 @@
-In the past 24 hours, there were 14 minor quakes reported across Canada. The largest one felt near Sturgeon County in Alberta was a M4.5 event. The latest quake was a small blast near Coaticook in Quebec. Most of these occurred in British Columbia, Alberta, and Yukon Territory.
+The PiQuake Canada dashboard shows no events in the last hour, but there were 12 recorded quakes over the past day. The largest one was a M4.5 near Sturgeon County in Alberta felt by people there. Today, a smaller blast event happened 8 km south of Coaticook in Quebec.
