@@ -556,3 +556,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260402.0259001,2026-04-02T02:59:14.000Z,58.0913,-137.4693,10.0,ML,2.62,"180 km W of Juneau, AK/180 km O de Juneau, AK"
 20260402.0332001,2026-04-02T03:32:28.000Z,57.9955,-137.6118,10.0,ML,2.6,"191 km W of Juneau, AK/191 km O de Juneau, AK"
 20260402.0444001,2026-04-02T04:44:41.000Z,54.3376,-118.4207,1.0,MLy,2.17,"Suspected industry-related event, 68 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 68 km NE de Grande Cache, AB"
+20260402.0550001,2026-04-02T05:50:04.000Z,60.4198,-139.5599,5.0,ML,3.09,"118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
+20260402.0633001,2026-04-02T06:33:00.000Z,52.7116,-132.2408,18.45,ML,2.39,"61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC"

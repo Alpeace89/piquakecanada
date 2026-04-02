@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-02T06:33:00.000Z",
+    "magnitude": "2.39",
+    "depth_km": "18.45",
+    "place": "61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-04-02T05:50:04.000Z",
+    "magnitude": "3.09",
+    "depth_km": "5.0",
+    "place": "118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-02T04:44:41.000Z",
     "magnitude": "2.17",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.45",
     "depth_km": "10.85",
     "place": "32 km N of Minto, NB/32 km N de Minto, NB"
-  },
-  {
-    "time_utc": "2026-04-01T03:12:24.000Z",
-    "magnitude": "2.25",
-    "depth_km": "10.66",
-    "place": "22 km S of Doaktown, NB/22 km S de Doaktown, NB"
-  },
-  {
-    "time_utc": "2026-03-31T15:56:55.000Z",
-    "magnitude": "3.36",
-    "depth_km": "10.0",
-    "place": "201 km WSW of Tofino, BC/201 km OSO de Tofino, BC"
   }
 ];
