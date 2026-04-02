@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-01T23:27:29.000Z",
+    "magnitude": "4.5",
+    "depth_km": "5.0",
+    "place": "Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB"
+  },
+  {
     "time_utc": "2026-04-01T20:28:54.000Z",
     "magnitude": "3.45",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "0.33",
     "depth_km": "11.99",
     "place": "9 km SW of La Malbaie, QC/9 km SO de La Malbaie, QC"
-  },
-  {
-    "time_utc": "2026-03-30T22:44:07.000Z",
-    "magnitude": "1.95",
-    "depth_km": "5.0",
-    "place": "39 km WSW of Beaver Creek, YT/39 km OSO de Beaver Creek, YT"
   }
 ];

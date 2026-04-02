@@ -1,32 +1,32 @@
 {
-  "generated_utc": "2026-04-01T23:03:01Z",
+  "generated_utc": "2026-04-02T00:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 565,
-  "events_last_24h": 3,
-  "events_last_hour": 0,
-  "count_m3plus_last_24h": 1,
-  "count_m4plus_last_24h": 0,
+  "events_last_24h": 4,
+  "events_last_hour": 1,
+  "count_m3plus_last_24h": 2,
+  "count_m4plus_last_24h": 1,
   "latest_event": {
-    "event_id": "20260401.2028001",
-    "time_utc": "2026-04-01T20:28:54.000Z",
-    "latitude": 50.9875,
-    "longitude": -130.7412,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.45,
-    "place": "229 km W of Port Hardy, BC/229 km O de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260401.2327001",
+    "time_utc": "2026-04-01T23:27:29.000Z",
+    "latitude": 53.93,
+    "longitude": -113.47,
+    "depth_km": 5.0,
+    "mag_type": "MLy",
+    "magnitude": 4.5,
+    "place": "Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB",
+    "region": "AB"
   },
   "largest_event_last_24h": {
-    "event_id": "20260401.2028001",
-    "time_utc": "2026-04-01T20:28:54.000Z",
-    "latitude": 50.9875,
-    "longitude": -130.7412,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.45,
-    "place": "229 km W of Port Hardy, BC/229 km O de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260401.2327001",
+    "time_utc": "2026-04-01T23:27:29.000Z",
+    "latitude": 53.93,
+    "longitude": -113.47,
+    "depth_km": 5.0,
+    "mag_type": "MLy",
+    "magnitude": 4.5,
+    "place": "Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB",
+    "region": "AB"
   },
   "deepest_event_last_24h": {
     "event_id": "20260401.0320001",
@@ -47,7 +47,11 @@
     {
       "region": "BC",
       "count": 1
+    },
+    {
+      "region": "AB",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-01 23:03 UTC, the recent Canada earthquake dataset contains 565 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.45 at 229 km W of Port Hardy, BC/229 km O de Port Hardy, BC. The deepest event reached 10.85 km at 32 km N of Minto, NB/32 km N de Minto, NB. The most recent listed event was M3.45 at 229 km W of Port Hardy, BC/229 km O de Port Hardy, BC at 2026-04-01T20:28:54.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were NB (2) and BC (1)."
+  "summary_text": "As of 2026-04-02 00:03 UTC, the recent Canada earthquake dataset contains 565 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 1 in the last hour. The largest event in the last 24 hours was M4.5 at Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB. The deepest event reached 10.85 km at 32 km N of Minto, NB/32 km N de Minto, NB. The most recent listed event was M4.5 at Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB at 2026-04-01T23:27:29.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were NB (2) and BC (1)."
 }

@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260215.2328001,2026-02-15T23:28:53.000Z,46.2204,-75.1395,9.75,MwN,0.82,"22 km SSW of Nominingue, QC/22 km SSO de Nominingue, QC"
 20260216.0023001,2026-02-16T00:23:33.000Z,49.8102,-127.3227,23.77,ML,2.98,"25 km S of Houpsitas 6, BC/25 km S de Houpsitas 6, BC"
 20260216.0050001,2026-02-16T00:50:04.000Z,44.5091,-73.5157,5.0,MwN,2.17,"24 km W of Burlington, VT/24 km O de Burlington, VT"
 20260216.0439001,2026-02-16T04:39:35.000Z,60.4019,-139.4966,5.0,ML,2.26,"115 km WSW of Haines Junction, YT/115 km OSO de Haines Junction, YT"
@@ -534,8 +533,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260329.1807001,2026-03-29T18:07:21.000Z,58.9735,-137.9313,1.0,ML,3.46,"249 km SW of Whitehorse, YT/249 km SO de Whitehorse, YT"
 20260330.0029001,2026-03-30T00:29:05.000Z,61.1898,-139.8997,5.0,ML,1.9,"52 km WSW of Burwash Landing, YT/52 km OSO de Burwash Landing, YT"
 20260330.0146001,2026-03-30T01:46:30.000Z,60.3853,-139.5204,5.0,ML,2.35,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0207002,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,Mw',3.24,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
+20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0226001,2026-03-30T02:26:44.000Z,48.7307,-128.6557,10.0,Mw',3.64,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
 20260330.0422001,2026-03-30T04:22:51.000Z,54.318,-118.5257,1.0,MLy,2.39,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
 20260330.0605001,2026-03-30T06:05:55.000Z,56.6666,-121.5519,1.0,MLy,2.7,"Suspected industry-related event, 28 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 28 km O de Blueberry River 205, BC"
@@ -564,3 +563,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260401.0312001,2026-04-01T03:12:24.000Z,46.3684,-66.1512,10.66,MwN,2.25,"22 km S of Doaktown, NB/22 km S de Doaktown, NB"
 20260401.0320001,2026-04-01T03:20:26.000Z,46.3641,-66.1541,10.85,MwN,2.45,"32 km N of Minto, NB/32 km N de Minto, NB"
 20260401.2028001,2026-04-01T20:28:54.000Z,50.9875,-130.7412,10.0,Mw',3.45,"229 km W of Port Hardy, BC/229 km O de Port Hardy, BC"
+20260401.2327001,2026-04-01T23:27:29.000Z,53.93,-113.47,5.0,MLy,4.5,"Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB"
