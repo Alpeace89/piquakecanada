@@ -1,20 +1,20 @@
 {
-  "generated_utc": "2026-04-02T14:03:01Z",
+  "generated_utc": "2026-04-02T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 554,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 557,
+  "events_last_24h": 7,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 2,
   "count_m4plus_last_24h": 1,
   "latest_event": {
-    "event_id": "20260402.0102001",
-    "time_utc": "2026-04-02T01:02:08.000Z",
-    "latitude": 54.3078,
-    "longitude": -118.5245,
+    "event_id": "20260402.0444001",
+    "time_utc": "2026-04-02T04:44:41.000Z",
+    "latitude": 54.3376,
+    "longitude": -118.4207,
     "depth_km": 1.0,
     "mag_type": "MLy",
-    "magnitude": 2.33,
-    "place": "Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB",
+    "magnitude": 2.17,
+    "place": "Suspected industry-related event, 68 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 68 km NE de Grande Cache, AB",
     "region": "AB"
   },
   "largest_event_last_24h": {
@@ -29,19 +29,23 @@
     "region": "AB"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260401.2028001",
-    "time_utc": "2026-04-01T20:28:54.000Z",
-    "latitude": 50.9875,
-    "longitude": -130.7412,
+    "event_id": "20260402.0332001",
+    "time_utc": "2026-04-02T03:32:28.000Z",
+    "latitude": 57.9955,
+    "longitude": -137.6118,
     "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.45,
-    "place": "229 km W of Port Hardy, BC/229 km O de Port Hardy, BC",
-    "region": "BC"
+    "mag_type": "ML",
+    "magnitude": 2.6,
+    "place": "191 km W of Juneau, AK/191 km O de Juneau, AK",
+    "region": "AK"
   },
   "top_regions_last_24h": [
     {
       "region": "AB",
+      "count": 3
+    },
+    {
+      "region": "AK",
       "count": 2
     },
     {
@@ -49,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-02 14:03 UTC, the recent Canada earthquake dataset contains 554 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.5 at Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB. The deepest event reached 10.00 km at 229 km W of Port Hardy, BC/229 km O de Port Hardy, BC. The most recent listed event was M2.33 at Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB at 2026-04-02T01:02:08.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (2) and BC (1)."
+  "summary_text": "As of 2026-04-02 15:03 UTC, the recent Canada earthquake dataset contains 557 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.5 at Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB. The deepest event reached 10.00 km at 191 km W of Juneau, AK/191 km O de Juneau, AK. The most recent listed event was M2.17 at Suspected industry-related event, 68 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 68 km NE de Grande Cache, AB at 2026-04-02T04:44:41.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (3) and AK (2)."
 }

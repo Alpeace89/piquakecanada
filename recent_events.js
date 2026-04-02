@@ -1,5 +1,29 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-02T04:44:41.000Z",
+    "magnitude": "2.17",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 68 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 68 km NE de Grande Cache, AB"
+  },
+  {
+    "time_utc": "2026-04-02T03:32:28.000Z",
+    "magnitude": "2.6",
+    "depth_km": "10.0",
+    "place": "191 km W of Juneau, AK/191 km O de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-04-02T02:59:14.000Z",
+    "magnitude": "2.62",
+    "depth_km": "10.0",
+    "place": "180 km W of Juneau, AK/180 km O de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-04-02T01:18:20.000Z",
+    "magnitude": "1.51",
+    "depth_km": "5.0",
+    "place": "81 km SSE of Haines Junction, YT/81 km SSE de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-02T01:02:08.000Z",
     "magnitude": "2.33",
     "depth_km": "1.0",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "3.36",
     "depth_km": "10.0",
     "place": "201 km WSW of Tofino, BC/201 km OSO de Tofino, BC"
-  },
-  {
-    "time_utc": "2026-03-31T15:07:47.000Z",
-    "magnitude": "2.65",
-    "depth_km": "6.27",
-    "place": "Suspected industry-related event, 58 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km NE de Grande Cache, AB"
-  },
-  {
-    "time_utc": "2026-03-31T14:27:33.000Z",
-    "magnitude": "2.99",
-    "depth_km": "4.48",
-    "place": "Suspected industry-related event, 63 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 63 km NE de Grande Cache, AB"
-  },
-  {
-    "time_utc": "2026-03-31T03:27:17.000Z",
-    "magnitude": "1.97",
-    "depth_km": "6.06",
-    "place": "Suspected industry-related event, 59 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-03-31T02:30:41.000Z",
-    "magnitude": "2.49",
-    "depth_km": "10.0",
-    "place": "204 km W of Port Hardy, BC/204 km O de Port Hardy, BC"
   }
 ];
