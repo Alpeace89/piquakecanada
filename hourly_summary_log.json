@@ -1120,5 +1120,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had two minor quakes. The largest one measured M4.5 and happened about 18 kilometers northeast of Morinville in Alberta. That's the only quake we saw since yesterday. We also have a few places in British Columbia that felt it too."
+  },
+  {
+    "timestamp_utc": "2026-04-02T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no reported events on the PiQuake Canada dashboard. However, a M4.5 earthquake was preliminarily located near Morinville in Alberta. This is the only event we have to report from this period."
   }
 ]
