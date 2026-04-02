@@ -1192,5 +1192,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were 13 events yesterday. The biggest one was a M4.5 felt near Sturgeon County, Alberta, from an industry-related blast. The latest event recorded today was a small M1.36 near Wickham, New Brunswick, from dynamite blasting. Most of these happened in British Columbia, Alberta, and the Yukon Territory over the past 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-04-02T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had 14 PiQuake Canada events reported. The largest one was a M4.5 from an industry-related blast in Sturgeon County, Alberta, which people could feel. Our latest event was a small dynamite blast near Coaticook in Quebec at 17:38 UTC today. Mostly happening in BC, AB, and YT with most of the events in these three provinces."
   }
 ]

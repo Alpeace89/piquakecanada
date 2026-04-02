@@ -563,3 +563,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260402.0740001,2026-04-02T07:40:11.000Z,60.543,-139.9777,5.0,ML,2.08,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
 20260402.0833001,2026-04-02T08:33:51.000Z,54.7835,-118.7249,3.74,MLy,2.73,"Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB"
 20260402.1600001,2026-04-02T16:00:17.000Z,45.6437,-66.0575,0.0,MwN,1.36,"Blast, 1 km E of Wickham, NB/Dynamitage, 1 km E de Wickham, NB"
+20260402.1738001,2026-04-02T17:38:24.000Z,45.066,-71.8189,0.0,MwN,1.65,"Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC"
