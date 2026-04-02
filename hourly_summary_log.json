@@ -1096,5 +1096,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in beta, but we've had a busy last 24 hours with no events so far this hour. We saw three quakes overall and the biggest one was a M3.45 hit about 230 km west of Port Hardy, BC. That's the latest quake recorded as of yesterday evening at 10:28 PM local time. Most of these happened in New Brunswick with two big ones and just one in British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-04-02T01:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had four seismic events in Canada. The largest one measured M4.5 near Morinville, Alberta/Preliminary, and it happened on April 1st at around midnight. It's not every day we see a big quake like this, so our dashboard is keeping an eye on the area to make sure everything's okay. We've had two events in New Brunswick and one each in British Columbia and Alberta since then."
   }
 ]

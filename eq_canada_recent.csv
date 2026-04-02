@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260216.0023001,2026-02-16T00:23:33.000Z,49.8102,-127.3227,23.77,ML,2.98,"25 km S of Houpsitas 6, BC/25 km S de Houpsitas 6, BC"
-20260216.0050001,2026-02-16T00:50:04.000Z,44.5091,-73.5157,5.0,MwN,2.17,"24 km W of Burlington, VT/24 km O de Burlington, VT"
 20260216.0439001,2026-02-16T04:39:35.000Z,60.4019,-139.4966,5.0,ML,2.26,"115 km WSW of Haines Junction, YT/115 km OSO de Haines Junction, YT"
 20260216.0548001,2026-02-16T05:48:26.000Z,50.0826,-127.9495,26.08,ML,1.69,"50 km SW of Port Alice, BC/50 km SO de Port Alice, BC"
 20260216.0551001,2026-02-16T05:51:41.000Z,49.256,-128.4348,10.0,Mw',2.43,"147 km SSW of Port Alice, BC/147 km SSO de Port Alice, BC"
