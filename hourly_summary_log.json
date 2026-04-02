@@ -1126,5 +1126,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no reported events on the PiQuake Canada dashboard. However, a M4.5 earthquake was preliminarily located near Morinville in Alberta. This is the only event we have to report from this period."
+  },
+  {
+    "timestamp_utc": "2026-04-02T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is up and running, with no events recorded in the last hour but two in the past day. The largest event was a M4.5 near Morinville, AB/Preliminaire on April 1st at 11 PM UTC. It's been pretty quiet around here lately; it's only been BC and Alberta that have had quakes to report so far today."
   }
 ]
