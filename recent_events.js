@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-02T16:00:17.000Z",
+    "magnitude": "1.36",
+    "depth_km": "0.0",
+    "place": "Blast, 1 km E of Wickham, NB/Dynamitage, 1 km E de Wickham, NB"
+  },
+  {
     "time_utc": "2026-04-02T08:33:51.000Z",
     "magnitude": "2.73",
     "depth_km": "3.74",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.33",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 61 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 61 km NE de Grande Cache, AB"
-  },
-  {
-    "time_utc": "2026-04-01T23:27:29.000Z",
-    "magnitude": "4.5",
-    "depth_km": "5.0",
-    "place": "Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB"
   }
 ];

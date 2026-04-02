@@ -1,32 +1,32 @@
 {
-  "generated_utc": "2026-04-02T17:03:01Z",
+  "generated_utc": "2026-04-02T18:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 562,
-  "events_last_24h": 11,
+  "rolling_window_event_count": 564,
+  "events_last_24h": 13,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 3,
   "count_m4plus_last_24h": 1,
   "latest_event": {
-    "event_id": "20260402.0833001",
-    "time_utc": "2026-04-02T08:33:51.000Z",
-    "latitude": 54.7835,
-    "longitude": -118.7249,
-    "depth_km": 3.74,
-    "mag_type": "MLy",
-    "magnitude": 2.73,
-    "place": "Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB",
-    "region": "AB"
+    "event_id": "20260402.1600001",
+    "time_utc": "2026-04-02T16:00:17.000Z",
+    "latitude": 45.6437,
+    "longitude": -66.0575,
+    "depth_km": 0.0,
+    "mag_type": "MwN",
+    "magnitude": 1.36,
+    "place": "Blast, 1 km E of Wickham, NB/Dynamitage, 1 km E de Wickham, NB",
+    "region": "NB"
   },
   "largest_event_last_24h": {
-    "event_id": "20260401.2327001",
-    "time_utc": "2026-04-01T23:27:29.000Z",
-    "latitude": 53.93,
-    "longitude": -113.47,
-    "depth_km": 5.0,
+    "event_id": "20260401.2327002",
+    "time_utc": "2026-04-01T23:27:30.000Z",
+    "latitude": 53.9317,
+    "longitude": -113.3883,
+    "depth_km": 3.8,
     "mag_type": "MLy",
     "magnitude": 4.5,
-    "place": "Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB",
-    "region": "AB"
+    "place": "Industry-related event, 11 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie, 11 km ONO de Sturgeon County, AB, ressenti",
+    "region": "Unknown"
   },
   "deepest_event_last_24h": {
     "event_id": "20260402.0633001",
@@ -41,17 +41,17 @@
   },
   "top_regions_last_24h": [
     {
+      "region": "BC",
+      "count": 3
+    },
+    {
       "region": "AB",
-      "count": 4
+      "count": 3
     },
     {
       "region": "YT",
       "count": 3
-    },
-    {
-      "region": "BC",
-      "count": 2
     }
   ],
-  "summary_text": "As of 2026-04-02 17:03 UTC, the recent Canada earthquake dataset contains 562 events from the current rolling window. In the last 24 hours, 11 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.5 at Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB. The deepest event reached 18.45 km at 61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC. The most recent listed event was M2.73 at Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB at 2026-04-02T08:33:51.000Z. There were 3 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (4) and YT (3)."
+  "summary_text": "As of 2026-04-02 18:03 UTC, the recent Canada earthquake dataset contains 564 events from the current rolling window. In the last 24 hours, 13 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.5 at Industry-related event, 11 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie, 11 km ONO de Sturgeon County, AB, ressenti. The deepest event reached 18.45 km at 61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC. The most recent listed event was M1.36 at Blast, 1 km E of Wickham, NB/Dynamitage, 1 km E de Wickham, NB at 2026-04-02T16:00:17.000Z. There were 3 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and AB (3)."
 }

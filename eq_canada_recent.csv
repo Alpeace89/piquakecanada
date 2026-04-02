@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260216.1758001,2026-02-16T17:58:59.000Z,49.215,-126.4207,28.91,ML,1.7,"38 km W of Tofino, BC/38 km O de Tofino, BC"
 20260216.1932001,2026-02-16T19:32:16.000Z,48.3597,-71.1997,0.0,MwN,1.24,"Blast, 7 km SSE of Chicoutimi - Jonquière, QC/Dynamitage, 7 km SSE de Chicoutimi - Jonquière, QC"
 20260216.2000001,2026-02-16T20:00:47.000Z,48.5175,-71.5128,0.0,MwN,1.43,"Blast, 11 km ESE of Alma, QC/Dynamitage, 11 km ESE de Alma, QC"
 20260216.2005001,2026-02-16T20:05:01.000Z,60.0318,-140.421,10.0,ML,2.53,"179 km WSW of Haines Junction, YT/179 km OSO de Haines Junction, YT"
@@ -550,8 +549,10 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260401.0221001,2026-04-01T02:21:04.000Z,50.7798,-130.4089,10.0,Mw',2.96,"205 km W of Port Hardy, BC/205 km O de Port Hardy, BC"
 20260401.0312001,2026-04-01T03:12:24.000Z,46.3684,-66.1512,10.66,MwN,2.25,"22 km S of Doaktown, NB/22 km S de Doaktown, NB"
 20260401.0320001,2026-04-01T03:20:26.000Z,46.3641,-66.1541,10.85,MwN,2.45,"32 km N of Minto, NB/32 km N de Minto, NB"
+20260401.1611001,2026-04-01T16:11:22.000Z,49.4392,-127.1412,28.4,ML,2.33,"63 km SSW of Tahsis, BC/63 km SSO de Tahsis, BC"
+20260401.2012001,2026-04-01T20:12:02.000Z,54.4826,-133.7875,10.0,ML,2.34,"119 km WNW of Masset, BC/119 km ONO de Masset, BC"
 20260401.2028001,2026-04-01T20:28:54.000Z,50.9875,-130.7412,10.0,Mw',3.45,"229 km W of Port Hardy, BC/229 km O de Port Hardy, BC"
-20260401.2327001,2026-04-01T23:27:29.000Z,53.93,-113.47,5.0,MLy,4.5,"Preliminary; 18 km NE  of Morinville, AB/Preliminaire; 18 km NE  de Morinville, AB"
+20260401.2327002,2026-04-01T23:27:30.000Z,53.9317,-113.3883,3.8,MLy,4.5,"Industry-related event, 11 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie, 11 km ONO de Sturgeon County, AB, ressenti"
 20260402.0102001,2026-04-02T01:02:08.000Z,54.3078,-118.5245,1.0,MLy,2.33,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
 20260402.0118001,2026-04-02T01:18:20.000Z,60.061,-137.0276,5.0,ML1,1.51,"81 km SSE of Haines Junction, YT/81 km SSE de Haines Junction, YT"
 20260402.0259001,2026-04-02T02:59:14.000Z,58.0913,-137.4693,10.0,ML,2.62,"180 km W of Juneau, AK/180 km O de Juneau, AK"
@@ -561,3 +562,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260402.0633001,2026-04-02T06:33:00.000Z,52.7116,-132.2408,18.45,ML,2.39,"61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC"
 20260402.0740001,2026-04-02T07:40:11.000Z,60.543,-139.9777,5.0,ML,2.08,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
 20260402.0833001,2026-04-02T08:33:51.000Z,54.7835,-118.7249,3.74,MLy,2.73,"Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB"
+20260402.1600001,2026-04-02T16:00:17.000Z,45.6437,-66.0575,0.0,MwN,1.36,"Blast, 1 km E of Wickham, NB/Dynamitage, 1 km E de Wickham, NB"
