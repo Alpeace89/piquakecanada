@@ -1138,5 +1138,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two minor earthquakes with a magnitude of M4.5 each. They both happened in the area near Morinville, Alberta. This is the first time we've seen so many small quakes in one day. Both were detected just after midnight yesterday."
+  },
+  {
+    "timestamp_utc": "2026-04-02T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we had two small earthquakes with a magnitude of M4.5 in and around Morinville, Alberta. The latest one happened on April 1st at about 11 PM local time. It's been pretty quiet since then though, only having one report from British Columbia as well."
   }
 ]
