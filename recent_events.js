@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-02T01:02:08.000Z",
+    "magnitude": "2.33",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 61 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 61 km NE de Grande Cache, AB"
+  },
+  {
     "time_utc": "2026-04-01T23:27:29.000Z",
     "magnitude": "4.5",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.49",
     "depth_km": "10.0",
     "place": "204 km W of Port Hardy, BC/204 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-03-31T02:23:24.000Z",
-    "magnitude": "0.33",
-    "depth_km": "11.99",
-    "place": "9 km SW of La Malbaie, QC/9 km SO de La Malbaie, QC"
   }
 ];
