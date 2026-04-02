@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260216.0739002,2026-02-16T07:39:04.000Z,54.6209,-118.5892,1.0,MLy,2.28,"Suspected industry-related event, 63 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 63 km SSE de Grande Prairie, AB"
-20260216.0755001,2026-02-16T07:55:41.000Z,48.8332,-123.8916,17.46,ML,0.99,"13 km W of North Cowichan, BC/13 km O de North Cowichan, BC"
 20260216.0951001,2026-02-16T09:51:05.000Z,48.9103,-121.9709,1.0,ML,2.38,"14 km SSE of Fraser Valley H, BC/14 km SSE de Fraser Valley H, BC"
 20260216.1015001,2026-02-16T10:15:38.000Z,60.57,-139.9313,5.0,ML,3.39,"133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
 20260216.1337001,2026-02-16T13:37:02.000Z,46.4104,-72.3972,9.85,MwN,1.81,"14 km ENE of Trois-Rivières, QC/14 km ENE de Trois-Rivières, QC"

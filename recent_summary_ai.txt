@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard is up and running, with no events recorded in the last hour but two in the past day. The largest event was a M4.5 near Morinville, AB/Preliminaire on April 1st at 11 PM UTC. It's been pretty quiet around here lately; it's only been BC and Alberta that have had quakes to report so far today.
+In the last 24 hours, we had two minor earthquakes with a magnitude of M4.5 each. They both happened in the area near Morinville, Alberta. This is the first time we've seen so many small quakes in one day. Both were detected just after midnight yesterday.
