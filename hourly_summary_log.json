@@ -1102,5 +1102,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had four seismic events in Canada. The largest one measured M4.5 near Morinville, Alberta/Preliminary, and it happened on April 1st at around midnight. It's not every day we see a big quake like this, so our dashboard is keeping an eye on the area to make sure everything's okay. We've had two events in New Brunswick and one each in British Columbia and Alberta since then."
+  },
+  {
+    "timestamp_utc": "2026-04-02T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had four events in our PiQuake Canada dashboard. The largest one was a M4.5 near Morinville, Alberta. That's where it happened; a short distance northeast of that place. This is just part of what our system captures, showing activity across different regions like New Brunswick and British Columbia as well."
   }
 ]
