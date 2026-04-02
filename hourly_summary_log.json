@@ -1210,5 +1210,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were 12 recorded quakes over the past day. The largest one was a M4.5 near Sturgeon County in Alberta felt by people there. Today, a smaller blast event happened 8 km south of Coaticook in Quebec."
+  },
+  {
+    "timestamp_utc": "2026-04-02T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, there were no significant earthquake events reported in Canada. But a M4.5 magnitude event was felt near Sturgeon County, AB. It's an industry-related quake. A smaller blast event registered at M1.65 occurred just north of Coaticook in Quebec. These are all the recorded quakes within that time frame across various regions including Alberta and Yukon Territories, with Alaska also seeing some activity recently."
   }
 ]
