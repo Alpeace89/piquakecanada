@@ -1198,5 +1198,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had 14 PiQuake Canada events reported. The largest one was a M4.5 from an industry-related blast in Sturgeon County, Alberta, which people could feel. Our latest event was a small dynamite blast near Coaticook in Quebec at 17:38 UTC today. Mostly happening in BC, AB, and YT with most of the events in these three provinces."
+  },
+  {
+    "timestamp_utc": "2026-04-02T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, there were 14 minor quakes reported across Canada. The largest one felt near Sturgeon County in Alberta was a M4.5 event. The latest quake was a small blast near Coaticook in Quebec. Most of these occurred in British Columbia, Alberta, and Yukon Territory."
   }
 ]
