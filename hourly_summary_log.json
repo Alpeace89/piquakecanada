@@ -1114,5 +1114,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no big earthquakes reported. But we did see a M4.5 quake near Morinville, Alberta. It's been our biggest event and happened on April 1st at night. That area has had activity before, especially in British Columbia and Alberta regions."
+  },
+  {
+    "timestamp_utc": "2026-04-02T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two minor quakes. The largest one measured M4.5 and happened about 18 kilometers northeast of Morinville in Alberta. That's the only quake we saw since yesterday. We also have a few places in British Columbia that felt it too."
   }
 ]
