@@ -1240,5 +1240,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major seismic events reported in Canada. However, we saw nine minor tremors with one measuring up to M3.09 near Haines Junction in Yukon and another around Coaticook in Quebec. The latest event was a small blast or dynamite explosion that caused some minor vibrations nearby. Notable regions experiencing activity included Alaska and the provinces of Alberta and Yukon."
+  },
+  {
+    "timestamp_utc": "2026-04-03T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of 8 events detected. The biggest one measured M3.09 and happened near Haines Junction in the Yukon and Ontario on April 2nd. That's not too much activity, but we saw two events each in Alberta and Yukon with one in Alaska as well."
   }
 ]
