@@ -1222,5 +1222,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had 12 PiQuake Canada events. The largest event was a M4.5 felt near Sturgeon County in Alberta. There were also blasts and dynamite explosions reported in Quebec. It's mostly just regular activity around oil and gas operations and blasting projects."
+  },
+  {
+    "timestamp_utc": "2026-04-03T00:03:01Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "Canada recorded 11 earthquakes in the last 24 hours, with the largest event M3.09 at 118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT. No earthquakes were recorded in the last hour. The most recent listed event was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC at 2026-04-02T17:38:24Z."
   }
 ]

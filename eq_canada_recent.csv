@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260216.2355001,2026-02-16T23:55:40.000Z,46.4996,-67.8826,5.0,MwN,2.12,"21 km SW of Perth, NB/21 km SO de Perth, NB"
 20260217.0007001,2026-02-17T00:07:30.000Z,48.9081,-128.4553,10.0,Mw',2.64,"188 km W of Tofino, BC/188 km O de Tofino, BC"
 20260217.0043001,2026-02-17T00:43:12.000Z,49.2692,-128.0428,10.0,Mw',2.66,"135 km SSW of Port Alice, BC/135 km SSO de Port Alice, BC"
 20260217.1103001,2026-02-17T11:03:17.000Z,60.5713,-139.9448,1.0,ML,3.24,"134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"

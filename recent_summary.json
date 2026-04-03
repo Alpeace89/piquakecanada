@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-04-02T23:03:01Z",
+  "generated_utc": "2026-04-03T00:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 567,
-  "events_last_24h": 12,
+  "rolling_window_event_count": 566,
+  "events_last_24h": 11,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 2,
-  "count_m4plus_last_24h": 1,
+  "count_m3plus_last_24h": 1,
+  "count_m4plus_last_24h": 0,
   "latest_event": {
     "event_id": "20260402.1738001",
     "time_utc": "2026-04-02T17:38:24.000Z",
@@ -18,15 +18,15 @@
     "region": "QC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260401.2327002",
-    "time_utc": "2026-04-01T23:27:30.000Z",
-    "latitude": 53.9317,
-    "longitude": -113.3883,
-    "depth_km": 3.8,
-    "mag_type": "MLy",
-    "magnitude": 4.5,
-    "place": "Industry-related event, 11 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie, 11 km ONO de Sturgeon County, AB, ressenti",
-    "region": "Unknown"
+    "event_id": "20260402.0550001",
+    "time_utc": "2026-04-02T05:50:04.000Z",
+    "latitude": 60.4198,
+    "longitude": -139.5599,
+    "depth_km": 5.0,
+    "mag_type": "ML",
+    "magnitude": 3.09,
+    "place": "118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT",
+    "region": "YT"
   },
   "deepest_event_last_24h": {
     "event_id": "20260402.0633001",
@@ -53,5 +53,5 @@
       "count": 2
     }
   ],
-  "summary_text": "As of 2026-04-02 23:03 UTC, the recent Canada earthquake dataset contains 567 events from the current rolling window. In the last 24 hours, 12 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.5 at Industry-related event, 11 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie, 11 km ONO de Sturgeon County, AB, ressenti. The deepest event reached 18.45 km at 61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC. The most recent listed event was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC at 2026-04-02T17:38:24.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (3) and YT (3)."
+  "summary_text": "As of 2026-04-03 00:03 UTC, the recent Canada earthquake dataset contains 566 events from the current rolling window. In the last 24 hours, 11 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.09 at 118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT. The deepest event reached 18.45 km at 61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC. The most recent listed event was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC at 2026-04-02T17:38:24.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (3) and YT (3)."
 }
