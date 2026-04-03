@@ -1228,5 +1228,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "Canada recorded 11 earthquakes in the last 24 hours, with the largest event M3.09 at 118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT. No earthquakes were recorded in the last hour. The most recent listed event was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC at 2026-04-02T17:38:24Z."
+  },
+  {
+    "timestamp_utc": "2026-04-03T01:30:50Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were nine in the past 24 hours. The largest event was a M3.09 near Haines Junction and Osogoos, YT on the day before. It seems like most of these quakes happen in areas like Alaska and Yukon Territory."
   }
 ]
