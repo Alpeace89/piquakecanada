@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no major seismic activity in the last hour, but there were two minor quakes yesterday. The largest one was a M1.65 near Coaticook, Quebec, and it happened at around 5:38 PM on April 2nd. Most of the recent seismic activity is happening in New Brunswick and Quebec.
+The PiQuake Canada dashboard shows no earthquakes in the last hour, but we had one event yesterday. It was a M1.65 quake happening at Blast and Dynamitage, both about 8 km south of Coaticook in Quebec. This is the largest quake recorded recently here on the dashboard.
