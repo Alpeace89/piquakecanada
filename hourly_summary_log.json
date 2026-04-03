@@ -1276,5 +1276,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no reported major earthquakes but a few minor events. The largest one was an M2.73 near Grande Prairie in Alberta that might have been related to industry. We also had a small blast at Coaticook in Quebec. Most of these happened in Alberta and New Brunswick with the rest in Quebec."
+  },
+  {
+    "timestamp_utc": "2026-04-03T09:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two small tremors with a magnitude of M1.65 each, both happening near Coaticook in Quebec. The latest one happened just after noon on April 2nd and was at a place called Dynamitage or Blast, about 8 km south of Coaticook. It's the first time we've seen two small tremors reported from this area in less than 24 hours."
   }
 ]

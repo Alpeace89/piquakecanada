@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-04-03T08:03:01Z",
+  "generated_utc": "2026-04-03T09:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 564,
-  "events_last_24h": 3,
+  "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -18,32 +18,28 @@
     "region": "QC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260402.0833002",
-    "time_utc": "2026-04-02T08:33:51.000Z",
-    "latitude": 54.7835,
-    "longitude": -118.7249,
-    "depth_km": 3.74,
-    "mag_type": "MLy",
-    "magnitude": 2.73,
-    "place": "Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB",
-    "region": "AB"
+    "event_id": "20260402.1738001",
+    "time_utc": "2026-04-02T17:38:24.000Z",
+    "latitude": 45.066,
+    "longitude": -71.8189,
+    "depth_km": 0.0,
+    "mag_type": "MwN",
+    "magnitude": 1.65,
+    "place": "Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC",
+    "region": "QC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260402.0833002",
-    "time_utc": "2026-04-02T08:33:51.000Z",
-    "latitude": 54.7835,
-    "longitude": -118.7249,
-    "depth_km": 3.74,
-    "mag_type": "MLy",
-    "magnitude": 2.73,
-    "place": "Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB",
-    "region": "AB"
+    "event_id": "20260402.1738001",
+    "time_utc": "2026-04-02T17:38:24.000Z",
+    "latitude": 45.066,
+    "longitude": -71.8189,
+    "depth_km": 0.0,
+    "mag_type": "MwN",
+    "magnitude": 1.65,
+    "place": "Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC",
+    "region": "QC"
   },
   "top_regions_last_24h": [
-    {
-      "region": "AB",
-      "count": 1
-    },
     {
       "region": "NB",
       "count": 1
@@ -53,5 +49,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-03 08:03 UTC, the recent Canada earthquake dataset contains 564 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.73 at Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB. The deepest event reached 3.74 km at Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB. The most recent listed event was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC at 2026-04-02T17:38:24.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (1) and NB (1)."
+  "summary_text": "As of 2026-04-03 09:03 UTC, the recent Canada earthquake dataset contains 564 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC. The deepest event reached 0.00 km at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC. The most recent listed event was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC at 2026-04-02T17:38:24.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were NB (1) and QC (1)."
 }
