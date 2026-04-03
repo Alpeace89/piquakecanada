@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-04-03T06:03:01Z",
+  "generated_utc": "2026-04-03T07:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 564,
-  "events_last_24h": 5,
+  "events_last_24h": 4,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -29,21 +29,17 @@
     "region": "AB"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260402.0633001",
-    "time_utc": "2026-04-02T06:33:00.000Z",
-    "latitude": 52.7116,
-    "longitude": -132.2408,
-    "depth_km": 18.45,
+    "event_id": "20260402.0740001",
+    "time_utc": "2026-04-02T07:40:11.000Z",
+    "latitude": 60.543,
+    "longitude": -139.9777,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 2.39,
-    "place": "61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC",
-    "region": "BC"
+    "magnitude": 2.08,
+    "place": "136 km W of Haines Junction, YT/136 km O de Haines Junction, YT",
+    "region": "YT"
   },
   "top_regions_last_24h": [
-    {
-      "region": "BC",
-      "count": 1
-    },
     {
       "region": "YT",
       "count": 1
@@ -51,7 +47,11 @@
     {
       "region": "AB",
       "count": 1
+    },
+    {
+      "region": "NB",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-03 06:03 UTC, the recent Canada earthquake dataset contains 564 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.73 at Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB. The deepest event reached 18.45 km at 61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC. The most recent listed event was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC at 2026-04-02T17:38:24.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (1) and YT (1)."
+  "summary_text": "As of 2026-04-03 07:03 UTC, the recent Canada earthquake dataset contains 564 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.73 at Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB. The deepest event reached 5.00 km at 136 km W of Haines Junction, YT/136 km O de Haines Junction, YT. The most recent listed event was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC at 2026-04-02T17:38:24.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (1) and AB (1)."
 }
