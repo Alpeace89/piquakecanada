@@ -1306,5 +1306,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there were no major earthquake events reported on our PiQuake Canada dashboard. However, two small quakes measured up to M1.65 each happened near Coaticook in Quebec. The latest one was a blast at dynamite storage that caused the quakes, and it happened just after 5:38 PM local time. So far this week, there's been activity recorded in New Brunswick and Quebec Province."
+  },
+  {
+    "timestamp_utc": "2026-04-03T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were two quakes yesterday. The largest one measured M1.65 and happened at Blast, 8 km S of Coaticook, QC or Dynamitage, 8 km S de Coaticook, QC on April 2nd at around 5:38 PM local time."
   }
 ]

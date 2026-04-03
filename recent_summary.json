@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-03T13:03:01Z",
+  "generated_utc": "2026-04-03T14:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 561,
   "events_last_24h": 2,
@@ -49,5 +49,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-03 13:03 UTC, the recent Canada earthquake dataset contains 561 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC. The deepest event reached 0.00 km at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC. The most recent listed event was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC at 2026-04-02T17:38:24.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were NB (1) and QC (1)."
+  "summary_text": "As of 2026-04-03 14:03 UTC, the recent Canada earthquake dataset contains 561 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC. The deepest event reached 0.00 km at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC. The most recent listed event was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC at 2026-04-02T17:38:24.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were NB (1) and QC (1)."
 }
