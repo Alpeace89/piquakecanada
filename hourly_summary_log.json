@@ -1348,5 +1348,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard hasn't recorded any quakes in the last hour or day, but the latest one was a small M1.65 that happened near Coaticook, Quebec, on April 2nd around 5:38 PM. Not much going on out there so far!"
+  },
+  {
+    "timestamp_utc": "2026-04-03T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is still in its beta phase, but so far, there haven't been any earthquakes recorded within the last 24 hours. The latest event was a M1.65 near Coaticook, Quebec, and that's all we've seen since our last update."
   }
 ]
