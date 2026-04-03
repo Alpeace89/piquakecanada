@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260217.1205001,2026-02-17T12:05:15.000Z,47.4775,-128.9909,10.0,Mw',3.12,"383 km SW of Courtenay, BC/383 km SO de Courtenay, BC"
-20260217.1217001,2026-02-17T12:17:51.000Z,60.5135,-139.8837,5.0,ML,1.47,"132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
 20260217.1537001,2026-02-17T15:37:55.000Z,53.2403,-133.1,13.95,ML,2.01,"68 km W of Daajing Giids, BC/68 km O de Daajing Giids, BC"
 20260217.1609001,2026-02-17T16:09:03.000Z,59.6482,-136.0206,1.0,ML,1.2,"128 km SSW of Whitehorse, YT/128 km SSO de Whitehorse, YT"
 20260217.1926001,2026-02-17T19:26:22.000Z,52.2206,-132.013,20.0,ML,2.39,"115 km S of Daajing Giids, BC/115 km S de Daajing Giids, BC"
