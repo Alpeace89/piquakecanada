@@ -1270,5 +1270,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major earthquake events reported on the PiQuake Canada dashboard. However, a small-scale industry-related quake measuring M2.73 hit Grande Prairie in Alberta. The latest event was a blast at Coaticook in Quebec with a magnitude of M1.65. These are all considered minor and not causing any significant concerns or impacts."
+  },
+  {
+    "timestamp_utc": "2026-04-03T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no reported major earthquakes but a few minor events. The largest one was an M2.73 near Grande Prairie in Alberta that might have been related to industry. We also had a small blast at Coaticook in Quebec. Most of these happened in Alberta and New Brunswick with the rest in Quebec."
   }
 ]
