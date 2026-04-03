@@ -1234,5 +1234,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were nine in the past 24 hours. The largest event was a M3.09 near Haines Junction and Osogoos, YT on the day before. It seems like most of these quakes happen in areas like Alaska and Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-04-03T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major seismic events reported in Canada. However, we saw nine minor tremors with one measuring up to M3.09 near Haines Junction in Yukon and another around Coaticook in Quebec. The latest event was a small blast or dynamite explosion that caused some minor vibrations nearby. Notable regions experiencing activity included Alaska and the provinces of Alberta and Yukon."
   }
 ]
