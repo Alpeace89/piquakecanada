@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260218.0227001,2026-02-18T02:27:51.000Z,54.2434,-133.9362,10.0,ML,2.81,"119 km WNW of Masset, BC/119 km ONO de Masset, BC"
-20260218.0237001,2026-02-18T02:37:45.000Z,49.5986,-66.3686,18.0,MwN,0.64,"53 km N of Sainte-Anne-des-Monts, QC/53 km N de Sainte-Anne-des-Monts, QC"
 20260218.0845001,2026-02-18T08:45:30.000Z,47.4697,-70.1137,20.58,MwN,-0.05,"20 km S of La Malbaie, QC/20 km S de La Malbaie, QC"
 20260218.1557001,2026-02-18T15:57:53.000Z,60.5699,-139.7688,1.0,ML,3.07,"125 km W of Haines Junction, YT/125 km O de Haines Junction, YT"
 20260218.1636001,2026-02-18T16:36:58.000Z,65.3597,-134.8732,5.0,ML,3.33,"203 km NNE of Mayo, YT/203 km NNE de Mayo, YT"

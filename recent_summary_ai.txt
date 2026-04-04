@@ -1,1 +1,1 @@
-In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event was a M1.65 near Coaticook, Quebec, which happened around 17:38 UTC yesterday. It's the only activity we've seen since the system started generating data.
+The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest recorded event was a M1.65 that happened at Blast, 8 km south of Coaticook, QC, and Dynamitage, 8 km south de Coaticook, QC on April 2nd around 5:38 PM.
