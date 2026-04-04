@@ -1,1 +1,1 @@
-In the last 24 hours, there were no reported earthquakes using our PiQuake Canada dashboard. The largest event measured at M1.65 and happened in Coaticook, Quebec, around 8 km south-southeast of that location during a dynamite blast on April 2nd.
+The PiQuake Canada dashboard hasn't had any seismic events in the last hour or day, and the largest event recorded was a M1.65 near Coaticook, QC. It happened on April 2nd at around 5:38 PM local time.
