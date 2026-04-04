@@ -1408,5 +1408,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event was a M1.65 near Coaticook, QC, which happened yesterday at about 5 PM local time. It's just one of those natural occurrences that happen from time to time in the area."
+  },
+  {
+    "timestamp_utc": "2026-04-04T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a M1.65, happening at Blast and Dynamitage near Coaticook, Quebec. It happened on April 2nd around 5:38 PM."
   }
 ]
