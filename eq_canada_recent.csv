@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260218.1557001,2026-02-18T15:57:53.000Z,60.5699,-139.7688,1.0,ML,3.07,"125 km W of Haines Junction, YT/125 km O de Haines Junction, YT"
 20260218.1636001,2026-02-18T16:36:58.000Z,65.3597,-134.8732,5.0,ML,3.33,"203 km NNE of Mayo, YT/203 km NNE de Mayo, YT"
 20260219.0129001,2026-02-19T01:29:50.000Z,48.7142,-120.3571,5.0,ML,2.18,"74 km WSW of Osoyoos, BC/74 km OSO de Osoyoos, BC"
 20260219.0335001,2026-02-19T03:35:11.000Z,56.7721,-122.0239,5.0,MLy,2.69,"Suspected industry-related event, 34 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 34 km NNO de Halfway River 168, BC"
