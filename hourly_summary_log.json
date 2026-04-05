@@ -1588,5 +1588,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and we've had a magnitude M1.65 quake near Coaticook, QC yesterday at around 5 PM. Nothing to worry about here folks!"
+  },
+  {
+    "timestamp_utc": "2026-04-05T13:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a M1.65 near Coaticook, QC, which happened on April 2nd at around 5:38 PM. Nothing else has been detected since then."
   }
 ]
