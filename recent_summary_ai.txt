@@ -1,1 +1,1 @@
-In the last 24 hours, there were no recorded quakes on the PiQuake Canada dashboard. The largest quake was a M1.65 near Coaticook, Quebec, which happened around 5 PM yesterday. There's nothing to be alarmed about; it's just part of our natural world.
+The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a M1.65 near Coaticook, Quebec yesterday at around 5:38 PM local time. Nothing major has been detected recently.
