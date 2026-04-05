@@ -1624,5 +1624,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a M1.65 happening at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC on April 2nd around 5:38 PM local time. That's it for today's activity."
+  },
+  {
+    "timestamp_utc": "2026-04-05T21:03:02Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "No earthquakes were recorded in Canada in the last 24 hours. The most recent listed event was M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC at 2026-04-02T17:38:24Z."
   }
 ]
