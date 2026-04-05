@@ -1570,5 +1570,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in beta and hasn't picked up any earthquake events in the last hour or day. The largest event recorded was a magnitude we're not sure of from an unknown location, that happened around the same time as a dynamite blast in Coaticook, Quebec. The most recent quake was a M1.65 just outside of Coaticook on April 2nd."
+  },
+  {
+    "timestamp_utc": "2026-04-05T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last 24 hours, with no events reported at all. The largest event was a M1.65 near Coaticook, QC on April 2nd, nothing more to report from there."
   }
 ]
