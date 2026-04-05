@@ -1552,5 +1552,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and there was a small tremor of M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC on April 2nd. That's all we've got for now; things have been pretty quiet lately."
+  },
+  {
+    "timestamp_utc": "2026-04-05T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard hasn't had any earthquakes reported in the last hour or day. The largest event was a M1.65 near Coaticook, Quebec, which happened on April 2nd at around 5:38 PM. It's been quiet since then with no events to report."
   }
 ]
