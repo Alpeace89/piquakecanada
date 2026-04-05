@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a M1.65 near Coaticook, Quebec yesterday at around 5:38 PM local time. Nothing major has been detected recently.
+For the past 24 hours, there haven't been any recorded PiQuake Canada dashboard events. The largest one was a minor tremor measuring M1.65 that happened about an hour after midnight on April 2nd near Coaticook in Quebec. It's the only event we have data for since the system started its beta phase recently.
