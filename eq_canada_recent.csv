@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260219.1948001,2026-02-19T19:48:31.000Z,47.3981,-70.1389,14.44,MwN,0.85,"8 km WNW of La Pocatière, QC/8 km ONO de La Pocatière, QC"
 20260219.2259001,2026-02-19T22:59:31.000Z,54.3488,-117.4556,5.4,MLy,2.76,"Suspected industry-related event, 42 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 42 km O de Fox Creek, AB"
 20260219.2339001,2026-02-19T23:39:35.000Z,56.7686,-122.0344,4.0,MLy,2.67,"Suspected industry-related event, 34 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 34 km NNO de Halfway River 168, BC"
 20260220.0012001,2026-02-20T00:12:26.000Z,50.6308,-128.1434,7.56,ML,2.11,"10 km WSW of Holberg, BC/10 km OSO de Holberg, BC"
