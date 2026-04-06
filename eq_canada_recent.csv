@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260220.0200001,2026-02-20T02:00:46.000Z,56.7853,-121.971,0.21,MLy,2.0,"Suspected industry-related event, 35 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 35 km NNO de Halfway River 168, BC"
 20260220.0418001,2026-02-20T04:18:03.000Z,51.8607,-131.7849,20.0,Mw',2.42,"156 km S of Daajing Giids, BC/156 km S de Daajing Giids, BC"
 20260220.0508001,2026-02-20T05:08:34.000Z,58.5955,-137.2288,1.0,ML,2.48,"166 km WNW of Juneau, AK/166 km ONO de Juneau, AK"
 20260220.0530001,2026-02-20T05:30:43.000Z,50.2366,-127.8274,24.01,ML,1.7,"32 km SW of Port Alice, BC/32 km SO de Port Alice, BC"
