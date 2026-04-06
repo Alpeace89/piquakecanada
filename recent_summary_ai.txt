@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event was a magnitude unknown located somewhere near Coaticook, QC, happening on April 2nd at around 5:38 PM. It's the only thing we've seen since then. No other events have been recorded.
+In the past 24 hours, there have been no events reported on the PiQuake Canada dashboard. The largest event last 24 hours was a mystery with an unknown magnitude from an unknown location. However, in the latest hour, we saw one minor quake measuring M1.65 near Coaticook, Quebec.
