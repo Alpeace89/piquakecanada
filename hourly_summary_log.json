@@ -1684,5 +1684,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were detected on our PiQuake Canada dashboard. The largest event was a M1.65 near Coaticook in Quebec. It happened around 5 PM local time on April 2nd. Not much has been happening lately though."
+  },
+  {
+    "timestamp_utc": "2026-04-06T08:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there have been no recorded earthquakes by PiQuake Canada's dashboard. The largest one detected was a M1.65 near Coaticook in Quebec. This is the only event mentioned for that period."
   }
 ]
