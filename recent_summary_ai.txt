@@ -1,1 +1,1 @@
-In the past 24 hours, there have been no events reported on the PiQuake Canada dashboard. The largest event last 24 hours was a mystery with an unknown magnitude from an unknown location. However, in the latest hour, we saw one minor quake measuring M1.65 near Coaticook, Quebec.
+The PiQuake Canada dashboard shows no activity in the last hour or day, and there's only one tiny shake recorded recently measuring M1.65 near Coaticook, QC. It's nothing major, just a little vibration from dynamite blasting.
