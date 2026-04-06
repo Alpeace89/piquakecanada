@@ -1738,5 +1738,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and there's only one tiny shake recorded recently measuring M1.65 near Coaticook, QC. It's nothing major, just a little vibration from dynamite blasting."
+  },
+  {
+    "timestamp_utc": "2026-04-06T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't recorded any events in the last hour or day. The largest event detected was a magnitude unknown, occurring at an unknown location with no specific time mentioned. Our latest activity comes from yesterday when a M1.65 quake happened near Coaticook, Quebec, which seems to be where all recent seismic activity is happening lately."
   }
 ]
