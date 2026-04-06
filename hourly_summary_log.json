@@ -1702,5 +1702,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude M1.65 that occurred on April 2nd around Coaticook, Quebec. It was likely from dynamite explosions as it's listed both as Dynamitage and Blast nearby."
+  },
+  {
+    "timestamp_utc": "2026-04-06T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is still in beta and shows no events for the last hour or day. The largest event recorded in the last 24 hours was a magnitude unknown at an unknown location, and the latest activity was a M1.65 near Coaticook, QC that happened on April 2nd around 5:38 PM."
   }
 ]
