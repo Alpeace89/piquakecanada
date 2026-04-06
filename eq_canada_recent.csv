@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260219.2339001,2026-02-19T23:39:35.000Z,56.7686,-122.0344,4.0,MLy,2.67,"Suspected industry-related event, 34 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 34 km NNO de Halfway River 168, BC"
 20260220.0012001,2026-02-20T00:12:26.000Z,50.6308,-128.1434,7.56,ML,2.11,"10 km WSW of Holberg, BC/10 km OSO de Holberg, BC"
 20260220.0018001,2026-02-20T00:18:55.000Z,61.136,-140.035,5.0,ML,1.55,"61 km WSW of Burwash Landing, YT/61 km OSO de Burwash Landing, YT"
 20260220.0145001,2026-02-20T01:45:35.000Z,60.5181,-139.6587,5.0,ML,2.26,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
