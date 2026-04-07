@@ -1,24 +1,24 @@
 {
-  "generated_utc": "2026-04-07T20:03:02Z",
+  "generated_utc": "2026-04-07T21:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 540,
+  "rolling_window_event_count": 546,
   "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260405.2221001",
-    "time_utc": "2026-04-05T22:21:48.000Z",
-    "latitude": 43.4671,
-    "longitude": -76.9044,
-    "depth_km": 5.0,
+    "event_id": "20260406.0527001",
+    "time_utc": "2026-04-06T05:27:12.000Z",
+    "latitude": 48.1326,
+    "longitude": -80.0786,
+    "depth_km": 1.62,
     "mag_type": "MwN",
-    "magnitude": 1.86,
-    "place": "67 km ENE of Rochester, NY/67 km ENE de Rochester, NY",
-    "region": "NY"
+    "magnitude": 1.92,
+    "place": "Mining event, 4 km WSW of Kirkland Lake, ON/Événement minier, 4 km OSO de Kirkland Lake, ON",
+    "region": "ON"
   },
   "largest_event_last_24h": null,
   "deepest_event_last_24h": null,
   "top_regions_last_24h": [],
-  "summary_text": "As of 2026-04-07 20:03 UTC, the recent Canada earthquake dataset contains 540 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M1.86 at 67 km ENE of Rochester, NY/67 km ENE de Rochester, NY at 2026-04-05T22:21:48.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "summary_text": "As of 2026-04-07 21:03 UTC, the recent Canada earthquake dataset contains 546 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M1.92 at Mining event, 4 km WSW of Kirkland Lake, ON/Événement minier, 4 km OSO de Kirkland Lake, ON at 2026-04-06T05:27:12.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }
