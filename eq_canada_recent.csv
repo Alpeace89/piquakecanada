@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260221.1616001,2026-02-21T16:16:07.000Z,41.7601,-81.0904,5.0,MwN,2.25,"60 km ENE of Cleveland, OH/60 km ENE de Cleveland, OH"
 20260221.1900001,2026-02-21T19:00:15.000Z,50.0513,-79.7388,0.0,MwN,2.46,"Suspected blast, 4 km NNW of Detour Lake Mine, ON/Dynamitage soupconné, 4 km NNO de la mine Detour Lake, ON"
 20260221.1940001,2026-02-21T19:40:49.000Z,49.4692,-127.1978,24.35,ML,2.04,"63 km SW of Tahsis, BC/63 km SO de Tahsis, BC"
 20260221.2114001,2026-02-21T21:14:23.000Z,47.4489,-70.1347,7.72,MwN,0.11,"12 km NW of La Pocatière, QC/12 km NO de La Pocatière, QC"
