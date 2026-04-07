@@ -24,39 +24,39 @@ window.recentEvents = [
     "place": "14 km W of La Pocati\u00e8re, QC/14 km O de La Pocati\u00e8re, QC"
   },
   {
+    "time_utc": "2026-04-03T23:33:40.000Z",
+    "magnitude": "3.25",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 5 km W of Sturgeon County, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 5 km O de Sturgeon County, AB"
+  },
+  {
+    "time_utc": "2026-04-03T18:25:51.000Z",
+    "magnitude": "2.45",
+    "depth_km": "24.22",
+    "place": "38 km ESE of Masset, BC/38 km ESE de Masset, BC"
+  },
+  {
     "time_utc": "2026-04-03T07:57:03.000Z",
     "magnitude": "1.62",
     "depth_km": "17.21",
     "place": "14 km SSW of Amherst, QC/14 km SSO de Amherst, QC"
   },
   {
+    "time_utc": "2026-04-03T04:12:48.000Z",
+    "magnitude": "3.04",
+    "depth_km": "5.0",
+    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-03T01:52:27.000Z",
+    "magnitude": "2.17",
+    "depth_km": "5.0",
+    "place": "128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-03T00:38:48.000Z",
     "magnitude": "1.66",
     "depth_km": "10.0",
     "place": "29 km NE of Port Hardy, BC/29 km NE de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-02T23:28:22.000Z",
-    "magnitude": "1.86",
-    "depth_km": "0.0",
-    "place": "Blast, 13 km ENE of Abbotsford, BC/Dynamitage, 13 km ENE de Abbotsford, BC"
-  },
-  {
-    "time_utc": "2026-04-02T22:15:49.000Z",
-    "magnitude": "1.05",
-    "depth_km": "18.0",
-    "place": "57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC"
-  },
-  {
-    "time_utc": "2026-04-02T17:38:24.000Z",
-    "magnitude": "1.65",
-    "depth_km": "0.0",
-    "place": "Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC"
-  },
-  {
-    "time_utc": "2026-04-02T16:00:17.000Z",
-    "magnitude": "1.36",
-    "depth_km": "0.0",
-    "place": "Blast, 1 km E of Wickham, NB/Dynamitage, 1 km E de Wickham, NB"
   }
 ];
