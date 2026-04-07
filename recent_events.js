@@ -1,5 +1,29 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-05T09:20:03.000Z",
+    "magnitude": "0.73",
+    "depth_km": "9.17",
+    "place": "14 km WNW of Saint-Alexandre-de-Kamouraska, QC/14 km ONO de Saint-Alexandre-de-Kamouraska, QC"
+  },
+  {
+    "time_utc": "2026-04-05T07:29:44.000Z",
+    "magnitude": "1.29",
+    "depth_km": "5.0",
+    "place": "21 km SSW of Doaktown, NB/21 km SSO de Doaktown, NB"
+  },
+  {
+    "time_utc": "2026-04-05T04:24:33.000Z",
+    "magnitude": "0.07",
+    "depth_km": "13.16",
+    "place": "14 km W of La Pocati\u00e8re, QC/14 km O de La Pocati\u00e8re, QC"
+  },
+  {
+    "time_utc": "2026-04-02T22:15:49.000Z",
+    "magnitude": "1.05",
+    "depth_km": "18.0",
+    "place": "57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC"
+  },
+  {
     "time_utc": "2026-04-02T17:38:24.000Z",
     "magnitude": "1.65",
     "depth_km": "0.0",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "3.09",
     "depth_km": "5.0",
     "place": "118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-02T04:44:41.000Z",
-    "magnitude": "2.17",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 68 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 68 km NE de Grande Cache, AB"
-  },
-  {
-    "time_utc": "2026-04-02T03:32:28.000Z",
-    "magnitude": "2.6",
-    "depth_km": "10.0",
-    "place": "191 km W of Juneau, AK/191 km O de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-04-02T02:59:14.000Z",
-    "magnitude": "2.62",
-    "depth_km": "10.0",
-    "place": "180 km W of Juneau, AK/180 km O de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-04-02T01:18:20.000Z",
-    "magnitude": "1.51",
-    "depth_km": "5.0",
-    "place": "81 km SSE of Haines Junction, YT/81 km SSE de Haines Junction, YT"
   }
 ];
