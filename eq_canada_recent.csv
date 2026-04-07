@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260221.2226001,2026-02-21T22:26:02.000Z,49.3517,-120.5175,0.0,ML,2.22,"Blast, 12 km S of Princeton, BC/Dynamitage, 12 km S de Princeton, BC"
 20260222.0038001,2026-02-22T00:38:23.000Z,47.7808,-70.0429,4.29,MwN,0.46,"17 km NNE of La Malbaie, QC/17 km NNE de La Malbaie, QC"
 20260222.0147001,2026-02-22T01:47:35.000Z,54.7891,-118.6561,2.66,MLy,2.21,"Suspected industry-related event, 43 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km SSE de Grande Prairie, AB"
 20260222.0338001,2026-02-22T03:38:19.000Z,51.4652,-130.9278,10.0,ML,2.39,"253 km WNW of Port Hardy, BC/253 km ONO de Port Hardy, BC"
