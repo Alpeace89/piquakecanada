@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260221.0135001,2026-02-21T01:35:35.000Z,46.0308,-75.0641,12.83,MwN,1.55,"16 km N of Chénéville, QC/16 km N de Chénéville, QC"
 20260221.0522001,2026-02-21T05:22:50.000Z,53.8071,-132.5459,5.0,ML,2.23,"35 km SW of Masset, BC/35 km SO de Masset, BC"
 20260221.0531001,2026-02-21T05:31:19.000Z,56.7669,-122.0453,6.08,MLy,3.09,"Suspected industry-related event, 34 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 34 km NNO de Halfway River 168, BC"
 20260221.0746001,2026-02-21T07:46:27.000Z,50.8734,-124.2108,5.0,ML,1.99,"69 km SSW of Lohbiee 3, BC/69 km SSO de Lohbiee 3, BC"
