@@ -24,6 +24,12 @@ window.recentEvents = [
     "place": "14 km W of La Pocati\u00e8re, QC/14 km O de La Pocati\u00e8re, QC"
   },
   {
+    "time_utc": "2026-04-03T07:57:03.000Z",
+    "magnitude": "1.62",
+    "depth_km": "17.21",
+    "place": "14 km SSW of Amherst, QC/14 km SSO de Amherst, QC"
+  },
+  {
     "time_utc": "2026-04-03T00:38:48.000Z",
     "magnitude": "1.66",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.36",
     "depth_km": "0.0",
     "place": "Blast, 1 km E of Wickham, NB/Dynamitage, 1 km E de Wickham, NB"
-  },
-  {
-    "time_utc": "2026-04-02T12:09:02.000Z",
-    "magnitude": "3.12",
-    "depth_km": "10.0",
-    "place": "265 km WNW of Port Hardy, BC/265 km ONO de Port Hardy, BC"
   }
 ];
