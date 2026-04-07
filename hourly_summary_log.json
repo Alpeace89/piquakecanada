@@ -1834,5 +1834,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been no recorded events on the PiQuake Canada dashboard. The latest event was a small one measuring M1.65 that happened in Blasting area and near Dynamitage, both about 8 km south of Coaticook in Quebec. No other activity has been logged since then."
+  },
+  {
+    "timestamp_utc": "2026-04-07T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't recorded any earthquakes over the last 24 hours. The largest quake it's seen was a M1.65, which happened on April 2nd near Coaticook, Quebec. There haven't been any notable regions reporting increased activity either."
   }
 ]
