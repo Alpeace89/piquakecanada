@@ -1888,5 +1888,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "No earthquakes were recorded in Canada in the last 24 hours. The most recent listed event was M1.86 at 67 km ENE of Rochester, NY/67 km ENE de Rochester, NY at 2026-04-05T22:21:48Z."
+  },
+  {
+    "timestamp_utc": "2026-04-07T20:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is currently in its beta phase, but we've had zero seismic events recorded for the last 24 hours. The largest event was a mystery with an unknown magnitude from an unspecified location back on April 5th at about 9:21 PM. It's been quiet around here lately."
   }
 ]

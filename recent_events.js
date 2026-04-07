@@ -30,33 +30,33 @@ window.recentEvents = [
     "place": "Suspected industry-related event, 5 km W of Sturgeon County, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 5 km O de Sturgeon County, AB"
   },
   {
+    "time_utc": "2026-04-03T19:35:08.000Z",
+    "magnitude": "2.15",
+    "depth_km": "10.0",
+    "place": "248 km WSW of Haines Junction, YT/248 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-03T18:25:51.000Z",
     "magnitude": "2.45",
     "depth_km": "24.22",
     "place": "38 km ESE of Masset, BC/38 km ESE de Masset, BC"
   },
   {
+    "time_utc": "2026-04-03T16:41:11.000Z",
+    "magnitude": "2.4",
+    "depth_km": "23.63",
+    "place": "36 km ESE of Masset, BC/36 km ESE de Masset, BC"
+  },
+  {
+    "time_utc": "2026-04-03T11:07:53.000Z",
+    "magnitude": "1.34",
+    "depth_km": "9.78",
+    "place": "27 km NE of Victoria, BC/27 km NE de Victoria, BC"
+  },
+  {
     "time_utc": "2026-04-03T08:53:08.000Z",
     "magnitude": "2.47",
     "depth_km": "10.0",
     "place": "184 km W of Juneau, AK/184 km O de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-04-03T07:57:03.000Z",
-    "magnitude": "1.62",
-    "depth_km": "17.21",
-    "place": "14 km SSW of Amherst, QC/14 km SSO de Amherst, QC"
-  },
-  {
-    "time_utc": "2026-04-03T04:12:48.000Z",
-    "magnitude": "3.04",
-    "depth_km": "5.0",
-    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-03T03:41:23.000Z",
-    "magnitude": "2.29",
-    "depth_km": "22.06",
-    "place": "38 km ESE of Masset, BC/38 km ESE de Masset, BC"
   }
 ];
