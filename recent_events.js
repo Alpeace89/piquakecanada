@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-05T22:21:48.000Z",
+    "magnitude": "1.86",
+    "depth_km": "5.0",
+    "place": "67 km ENE of Rochester, NY/67 km ENE de Rochester, NY"
+  },
+  {
     "time_utc": "2026-04-05T09:20:03.000Z",
     "magnitude": "0.73",
     "depth_km": "9.17",
@@ -36,27 +42,21 @@ window.recentEvents = [
     "place": "Blast, 1 km E of Wickham, NB/Dynamitage, 1 km E de Wickham, NB"
   },
   {
+    "time_utc": "2026-04-02T12:09:02.000Z",
+    "magnitude": "3.12",
+    "depth_km": "10.0",
+    "place": "265 km WNW of Port Hardy, BC/265 km ONO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-04-02T09:08:48.000Z",
+    "magnitude": "1.91",
+    "depth_km": "25.68",
+    "place": "211 km WSW of Haines Junction, YT/211 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-02T08:33:51.000Z",
     "magnitude": "2.73",
     "depth_km": "3.74",
     "place": "Suspected industry-related event, 43 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 43 km S de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-04-02T07:40:11.000Z",
-    "magnitude": "2.08",
-    "depth_km": "5.0",
-    "place": "136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-02T06:33:00.000Z",
-    "magnitude": "2.39",
-    "depth_km": "18.45",
-    "place": "61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-04-02T05:50:04.000Z",
-    "magnitude": "3.09",
-    "depth_km": "5.0",
-    "place": "118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
   }
 ];

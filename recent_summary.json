@@ -1,24 +1,24 @@
 {
-  "generated_utc": "2026-04-07T13:03:01Z",
+  "generated_utc": "2026-04-07T14:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 530,
+  "rolling_window_event_count": 532,
   "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260405.0920001",
-    "time_utc": "2026-04-05T09:20:03.000Z",
-    "latitude": 47.7223,
-    "longitude": -69.8134,
-    "depth_km": 9.17,
+    "event_id": "20260405.2221001",
+    "time_utc": "2026-04-05T22:21:48.000Z",
+    "latitude": 43.4671,
+    "longitude": -76.9044,
+    "depth_km": 5.0,
     "mag_type": "MwN",
-    "magnitude": 0.73,
-    "place": "14 km WNW of Saint-Alexandre-de-Kamouraska, QC/14 km ONO de Saint-Alexandre-de-Kamouraska, QC",
-    "region": "QC"
+    "magnitude": 1.86,
+    "place": "67 km ENE of Rochester, NY/67 km ENE de Rochester, NY",
+    "region": "NY"
   },
   "largest_event_last_24h": null,
   "deepest_event_last_24h": null,
   "top_regions_last_24h": [],
-  "summary_text": "As of 2026-04-07 13:03 UTC, the recent Canada earthquake dataset contains 530 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M0.73 at 14 km WNW of Saint-Alexandre-de-Kamouraska, QC/14 km ONO de Saint-Alexandre-de-Kamouraska, QC at 2026-04-05T09:20:03.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "summary_text": "As of 2026-04-07 14:03 UTC, the recent Canada earthquake dataset contains 532 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M1.86 at 67 km ENE of Rochester, NY/67 km ENE de Rochester, NY at 2026-04-05T22:21:48.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }
