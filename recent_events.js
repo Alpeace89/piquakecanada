@@ -36,6 +36,12 @@ window.recentEvents = [
     "place": "38 km ESE of Masset, BC/38 km ESE de Masset, BC"
   },
   {
+    "time_utc": "2026-04-03T08:53:08.000Z",
+    "magnitude": "2.47",
+    "depth_km": "10.0",
+    "place": "184 km W of Juneau, AK/184 km O de Juneau, AK"
+  },
+  {
     "time_utc": "2026-04-03T07:57:03.000Z",
     "magnitude": "1.62",
     "depth_km": "17.21",
@@ -48,15 +54,9 @@ window.recentEvents = [
     "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
   },
   {
-    "time_utc": "2026-04-03T01:52:27.000Z",
-    "magnitude": "2.17",
-    "depth_km": "5.0",
-    "place": "128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-03T00:38:48.000Z",
-    "magnitude": "1.66",
-    "depth_km": "10.0",
-    "place": "29 km NE of Port Hardy, BC/29 km NE de Port Hardy, BC"
+    "time_utc": "2026-04-03T03:41:23.000Z",
+    "magnitude": "2.29",
+    "depth_km": "22.06",
+    "place": "38 km ESE of Masset, BC/38 km ESE de Masset, BC"
   }
 ];
