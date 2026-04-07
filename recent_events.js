@@ -24,6 +24,18 @@ window.recentEvents = [
     "place": "14 km W of La Pocati\u00e8re, QC/14 km O de La Pocati\u00e8re, QC"
   },
   {
+    "time_utc": "2026-04-03T00:38:48.000Z",
+    "magnitude": "1.66",
+    "depth_km": "10.0",
+    "place": "29 km NE of Port Hardy, BC/29 km NE de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-04-02T23:28:22.000Z",
+    "magnitude": "1.86",
+    "depth_km": "0.0",
+    "place": "Blast, 13 km ENE of Abbotsford, BC/Dynamitage, 13 km ENE de Abbotsford, BC"
+  },
+  {
     "time_utc": "2026-04-02T22:15:49.000Z",
     "magnitude": "1.05",
     "depth_km": "18.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "3.12",
     "depth_km": "10.0",
     "place": "265 km WNW of Port Hardy, BC/265 km ONO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-02T09:08:48.000Z",
-    "magnitude": "1.91",
-    "depth_km": "25.68",
-    "place": "211 km WSW of Haines Junction, YT/211 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-02T08:33:51.000Z",
-    "magnitude": "2.73",
-    "depth_km": "3.74",
-    "place": "Suspected industry-related event, 43 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 43 km S de Grande Prairie, AB"
   }
 ];

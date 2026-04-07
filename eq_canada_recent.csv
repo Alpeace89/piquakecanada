@@ -527,6 +527,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260402.1600001,2026-04-02T16:00:17.000Z,45.6437,-66.0575,0.0,MwN,1.36,"Blast, 1 km E of Wickham, NB/Dynamitage, 1 km E de Wickham, NB"
 20260402.1738001,2026-04-02T17:38:24.000Z,45.066,-71.8189,0.0,MwN,1.65,"Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC"
 20260402.2215001,2026-04-02T22:15:49.000Z,49.6096,-66.198,18.0,MwN,1.05,"57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC"
+20260402.2328001,2026-04-02T23:28:22.000Z,49.1139,-122.1751,0.0,ML,1.86,"Blast, 13 km ENE of Abbotsford, BC/Dynamitage, 13 km ENE de Abbotsford, BC"
+20260403.0038001,2026-04-03T00:38:48.000Z,50.8826,-127.1679,10.0,ML1,1.66,"29 km NE of Port Hardy, BC/29 km NE de Port Hardy, BC"
 20260405.0424001,2026-04-05T04:24:33.000Z,47.3851,-70.2165,13.16,MwN,0.07,"14 km W of La Pocatière, QC/14 km O de La Pocatière, QC"
 20260405.0729001,2026-04-05T07:29:44.000Z,46.3992,-66.2501,5.0,MwN,1.29,"21 km SSW of Doaktown, NB/21 km SSO de Doaktown, NB"
 20260405.0920001,2026-04-05T09:20:03.000Z,47.7223,-69.8134,9.17,MwN,0.73,"14 km WNW of Saint-Alexandre-de-Kamouraska, QC/14 km ONO de Saint-Alexandre-de-Kamouraska, QC"
