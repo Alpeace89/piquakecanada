@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a magnitude M1.65 that occurred at Blast, 8 km south of Coaticook, QC on April 2nd around 5 PM. There haven't been any notable events reported since then.
+The PiQuake Canada dashboard shows no earthquakes in the last hour or day, and there hasn't been any earthquake larger than M1.65 since April 2nd around Coaticook, QC area. It's quiet down there.
