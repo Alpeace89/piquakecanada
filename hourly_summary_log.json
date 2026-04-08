@@ -1954,5 +1954,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there haven't been any recorded earthquakes in Canada on the PiQuake dashboard. The largest event was a M1.92 near Kirkland Lake, ON, which happened at around 5:27 AM on April 6th. It's one of those mining events that happen underground from time to time."
+  },
+  {
+    "timestamp_utc": "2026-04-08T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is still in beta and we've had no activity recorded in the last 24 hours. The latest event was a M1.92 mining-related quake, but it happened quite some time ago on April 6th at around 5:27 AM UTC, way back when you were probably sound asleep. No worries though, everything's calm and quiet down here!"
   }
 ]
