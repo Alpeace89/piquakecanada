@@ -2038,5 +2038,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "Canada recorded 4 earthquakes in the last 24 hours, with the largest event M3.97 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT. No earthquakes were recorded in the last hour. The most recent listed event was M1.75 at 10 km SE of Dundee, QC/10 km SE de Dundee, QC at 2026-04-08T17:41:46Z."
+  },
+  {
+    "timestamp_utc": "2026-04-08T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were four shakes over the past day. The largest one was a M3.97 near Whitehorse and Dundee areas, with the latest being a M1.75 not far from Dundee. Most of these quakes happened in unknown locations or in Yukon and Quebec regions."
   }
 ]

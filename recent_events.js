@@ -42,6 +42,12 @@ window.recentEvents = [
     "place": "7 km WSW of Saint-Sim\u00e9on, QC/7 km OSO de Saint-Sim\u00e9on, QC"
   },
   {
+    "time_utc": "2026-04-07T07:44:01.000Z",
+    "magnitude": "3.34",
+    "depth_km": "5.0",
+    "place": "Suspected industry-related event, 75 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 75 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-04-06T08:00:31.000Z",
     "magnitude": "2.94",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.48",
     "depth_km": "28.16",
     "place": "87 km S of Daajing Giids, BC/87 km S de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-04-06T05:27:12.000Z",
-    "magnitude": "1.92",
-    "depth_km": "1.62",
-    "place": "Mining event, 4 km WSW of Kirkland Lake, ON/\u00c9v\u00e9nement minier, 4 km OSO de Kirkland Lake, ON"
   }
 ];
