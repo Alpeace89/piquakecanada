@@ -1,9 +1,21 @@
 window.recentEvents = [
   {
-    "time_utc": "2026-04-08T11:19:51.000Z",
-    "magnitude": "4.05",
-    "depth_km": "5.0",
-    "place": "125 km SSW of Whitehorse, YT/125 km SSO de Whitehorse, YT"
+    "time_utc": "2026-04-08T11:19:52.000Z",
+    "magnitude": "3.97",
+    "depth_km": "4.38",
+    "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
+  },
+  {
+    "time_utc": "2026-04-06T08:00:31.000Z",
+    "magnitude": "2.94",
+    "depth_km": "10.0",
+    "place": "199 km WSW of Port Hardy, BC/199 km OSO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-04-06T06:03:47.000Z",
+    "magnitude": "2.48",
+    "depth_km": "28.16",
+    "place": "87 km S of Daajing Giids, BC/87 km S de Daajing Giids, BC"
   },
   {
     "time_utc": "2026-04-06T05:27:12.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.29",
     "depth_km": "5.0",
     "place": "21 km SSW of Doaktown, NB/21 km SSO de Doaktown, NB"
-  },
-  {
-    "time_utc": "2026-04-05T04:24:33.000Z",
-    "magnitude": "0.07",
-    "depth_km": "13.16",
-    "place": "14 km W of La Pocati\u00e8re, QC/14 km O de La Pocati\u00e8re, QC"
-  },
-  {
-    "time_utc": "2026-04-04T13:59:51.000Z",
-    "magnitude": "2.1",
-    "depth_km": "2.0",
-    "place": "45 km W of Cartier, ON/45 km O de Cartier, ON"
   }
 ];

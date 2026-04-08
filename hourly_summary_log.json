@@ -2020,5 +2020,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It measured M4.05 and happened about 125 km southwest of Whitehorse in the Yukon Territory. That's the largest quake we've seen today as well."
+  },
+  {
+    "timestamp_utc": "2026-04-08T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no seismic events in the last hour, but there was one event recorded yesterday. It was a M3.97 quake that happened about 120 km south-southwest of Whitehorse, Yukon. That's where we saw our latest and largest earthquake in the past 24 hours too. The top region with activity is still YT (Yukon)."
   }
 ]

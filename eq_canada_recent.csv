@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260222.1730001,2026-02-22T17:30:30.000Z,47.2363,-70.3895,4.09,MwN,0.47,"10 km WNW of Saint-Jean-Port-Joli, QC/10 km ONO de Saint-Jean-Port-Joli, QC"
 20260222.2207001,2026-02-22T22:07:08.000Z,55.5829,-122.2322,0.0,ML,2.39,"Blast, 3 km SSW of Willow Creek Mine, BC/Dynamitage, 3 km SSO de la mine Willow Creek, BC"
 20260222.2207002,2026-02-22T22:07:44.000Z,54.5304,-117.846,1.0,MLy,1.9,"Suspected industry-related event, 69 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 69 km ONO de Fox Creek, AB"
 20260222.2220001,2026-02-22T22:20:09.000Z,52.2478,-123.155,1.0,ML,2.55,"20 km NNE of Alexis Creek, BC/20 km NNE de Alexis Creek, BC"
@@ -535,4 +534,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260406.0520001,2026-04-06T05:20:20.000Z,50.3114,-130.2285,10.0,Mw',3.05,"198 km WSW of Port Hardy, BC/198 km OSO de Port Hardy, BC"
 20260406.0526001,2026-04-06T05:26:46.000Z,48.1326,-80.0786,1.62,MwN,1.06,"Mining event, 4 km WSW of Kirkland Lake, ON/Événement minier, 4 km OSO de Kirkland Lake, ON"
 20260406.0527001,2026-04-06T05:27:12.000Z,48.1326,-80.0786,1.62,MwN,1.92,"Mining event, 4 km WSW of Kirkland Lake, ON/Événement minier, 4 km OSO de Kirkland Lake, ON"
-20260408.1119001,2026-04-08T11:19:51.000Z,59.702,-136.1436,5.0,ML,4.05,"125 km SSW of Whitehorse, YT/125 km SSO de Whitehorse, YT"
+20260406.0603001,2026-04-06T06:03:47.000Z,52.4881,-131.8407,28.16,ML,2.48,"87 km S of Daajing Giids, BC/87 km S de Daajing Giids, BC"
+20260406.0800001,2026-04-06T08:00:31.000Z,50.2935,-130.2266,10.0,Mw',2.94,"199 km WSW of Port Hardy, BC/199 km OSO de Port Hardy, BC"
+20260408.1119002,2026-04-08T11:19:52.000Z,59.6845,-136.144,4.38,ML,3.97,"127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
