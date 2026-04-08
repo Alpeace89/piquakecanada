@@ -533,6 +533,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260405.0729001,2026-04-05T07:29:44.000Z,46.3992,-66.2501,5.0,MwN,1.29,"21 km SSW of Doaktown, NB/21 km SSO de Doaktown, NB"
 20260405.0920001,2026-04-05T09:20:03.000Z,47.7223,-69.8134,9.17,MwN,0.73,"14 km WNW of Saint-Alexandre-de-Kamouraska, QC/14 km ONO de Saint-Alexandre-de-Kamouraska, QC"
 20260405.2221001,2026-04-05T22:21:48.000Z,43.4671,-76.9044,5.0,MwN,1.86,"67 km ENE of Rochester, NY/67 km ENE de Rochester, NY"
+20260406.0056001,2026-04-06T00:56:27.000Z,53.1515,-124.8916,1.0,ML,2.14,"Suspected blast, 27 km WNW of Kluskus 1, BC/Dynamitage soupconné, 27 km ONO de Kluskus 1, BC"
 20260406.0526001,2026-04-06T05:26:46.000Z,48.1326,-80.0786,1.62,MwN,1.06,"Mining event, 4 km WSW of Kirkland Lake, ON/Événement minier, 4 km OSO de Kirkland Lake, ON"
 20260406.0527001,2026-04-06T05:27:12.000Z,48.1326,-80.0786,1.62,MwN,1.92,"Mining event, 4 km WSW of Kirkland Lake, ON/Événement minier, 4 km OSO de Kirkland Lake, ON"
 20260408.1119001,2026-04-08T11:19:51.000Z,59.702,-136.1436,5.0,ML,4.05,"125 km SSW of Whitehorse, YT/125 km SSO de Whitehorse, YT"

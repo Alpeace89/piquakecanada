@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "Mining event, 4 km WSW of Kirkland Lake, ON/\u00c9v\u00e9nement minier, 4 km OSO de Kirkland Lake, ON"
   },
   {
+    "time_utc": "2026-04-06T00:56:27.000Z",
+    "magnitude": "2.14",
+    "depth_km": "1.0",
+    "place": "Suspected blast, 27 km WNW of Kluskus 1, BC/Dynamitage soupconn\u00e9, 27 km ONO de Kluskus 1, BC"
+  },
+  {
     "time_utc": "2026-04-05T22:21:48.000Z",
     "magnitude": "1.86",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.56",
     "depth_km": "2.0",
     "place": "45 km W of Cartier, ON/45 km O de Cartier, ON"
-  },
-  {
-    "time_utc": "2026-04-04T00:33:52.000Z",
-    "magnitude": "2.04",
-    "depth_km": "2.0",
-    "place": "46 km W of Cartier, ON/46 km O de Cartier, ON"
   }
 ];
