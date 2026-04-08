@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260222.0147001,2026-02-22T01:47:35.000Z,54.7891,-118.6561,2.66,MLy,2.21,"Suspected industry-related event, 43 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km SSE de Grande Prairie, AB"
 20260222.0338001,2026-02-22T03:38:19.000Z,51.4652,-130.9278,10.0,ML,2.39,"253 km WNW of Port Hardy, BC/253 km ONO de Port Hardy, BC"
 20260222.0506001,2026-02-22T05:06:47.000Z,60.5756,-139.7084,1.0,ML,2.78,"95 km SSW of Burwash Landing, YT/95 km SSO de Burwash Landing, YT"
 20260222.0810001,2026-02-22T08:10:34.000Z,46.0293,-75.0632,11.67,MwN,0.71,"16 km N of Chénéville, QC/16 km N de Chénéville, QC"
