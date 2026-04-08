@@ -24,6 +24,12 @@ window.recentEvents = [
     "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
   },
   {
+    "time_utc": "2026-04-07T19:41:01.000Z",
+    "magnitude": "0.55",
+    "depth_km": "5.98",
+    "place": "7 km ESE of Baie-Saint-Paul, QC/7 km ESE de Baie-Saint-Paul, QC"
+  },
+  {
     "time_utc": "2026-04-07T13:15:30.000Z",
     "magnitude": "1.03",
     "depth_km": "9.63",
@@ -50,12 +56,6 @@ window.recentEvents = [
   {
     "time_utc": "2026-04-06T05:27:12.000Z",
     "magnitude": "1.92",
-    "depth_km": "1.62",
-    "place": "Mining event, 4 km WSW of Kirkland Lake, ON/\u00c9v\u00e9nement minier, 4 km OSO de Kirkland Lake, ON"
-  },
-  {
-    "time_utc": "2026-04-06T05:26:46.000Z",
-    "magnitude": "1.06",
     "depth_km": "1.62",
     "place": "Mining event, 4 km WSW of Kirkland Lake, ON/\u00c9v\u00e9nement minier, 4 km OSO de Kirkland Lake, ON"
   }
