@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260222.1226001,2026-02-22T12:26:51.000Z,56.7569,-122.0,5.0,MLy,2.28,"Suspected industry-related event, 32 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 32 km NNO de Halfway River 168, BC"
-20260222.1233001,2026-02-22T12:33:58.000Z,56.7698,-122.0345,5.76,MLy,2.96,"Suspected industry-related event, 34 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 34 km NNO de Halfway River 168, BC"
 20260222.1426001,2026-02-22T14:26:54.000Z,54.5232,-117.6964,0.09,MLy,1.98,"Suspected industry-related event, 59 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 59 km ONO de Fox Creek, AB"
 20260222.1614001,2026-02-22T16:14:49.000Z,44.5456,-79.1609,2.0,MwN,1.07,"1 km E of Ramara, ON/1 km E de Ramara, ON"
 20260222.1730001,2026-02-22T17:30:30.000Z,47.2363,-70.3895,4.09,MwN,0.47,"10 km WNW of Saint-Jean-Port-Joli, QC/10 km ONO de Saint-Jean-Port-Joli, QC"

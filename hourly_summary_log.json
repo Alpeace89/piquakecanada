@@ -1990,5 +1990,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, for those who've signed up for the PiQuake Canada dashboard beta, we've got some exciting updates! There's been one event in the last hour and another happening right now with a magnitude of M4.05 near Whitehorse, Yukon. It was recorded 125 km south-southwest or southwest from Whitehorse just before noon today. This is the largest quake in the past 24 hours and it's been mostly localized to the YT region."
+  },
+  {
+    "timestamp_utc": "2026-04-08T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour but had one event yesterday. The largest earthquake recorded was a M4.05 near Whitehorse, YT around 11:19 AM today, and it's happening again now. That's the latest we've seen in our area over the past day."
   }
 ]
