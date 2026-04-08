@@ -1936,5 +1936,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, no earthquakes were recorded on our PiQuake Canada dashboard. The largest event was a minor one with a magnitude of M1.92 that occurred in mining grounds near Kirkland Lake, Ontario. This is nothing out of the ordinary; our system picks up all quakes above a certain magnitude to keep you informed."
+  },
+  {
+    "timestamp_utc": "2026-04-08T04:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a M1.92 mining incident near Kirkland Lake, ON yesterday at about 5:27 AM local time. It's been quiet out there lately with nothing to report."
   }
 ]
