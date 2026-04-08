@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-08T11:19:51.000Z",
+    "magnitude": "4.05",
+    "depth_km": "5.0",
+    "place": "125 km SSW of Whitehorse, YT/125 km SSO de Whitehorse, YT"
+  },
+  {
     "time_utc": "2026-04-06T05:27:12.000Z",
     "magnitude": "1.92",
     "depth_km": "1.62",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.04",
     "depth_km": "2.0",
     "place": "46 km W of Cartier, ON/46 km O de Cartier, ON"
-  },
-  {
-    "time_utc": "2026-04-03T23:33:40.000Z",
-    "magnitude": "3.25",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 5 km W of Sturgeon County, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 5 km O de Sturgeon County, AB"
   }
 ];

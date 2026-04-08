@@ -1984,5 +1984,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there were no recorded quakes on the PiQuake Canada dashboard. The largest event was a M1.92 near Kirkland Lake in Ontario. It's important to note that this is the only quake we've had since our last check."
+  },
+  {
+    "timestamp_utc": "2026-04-08T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey folks, for those who've signed up for the PiQuake Canada dashboard beta, we've got some exciting updates! There's been one event in the last hour and another happening right now with a magnitude of M4.05 near Whitehorse, Yukon. It was recorded 125 km south-southwest or southwest from Whitehorse just before noon today. This is the largest quake in the past 24 hours and it's been mostly localized to the YT region."
   }
 ]
