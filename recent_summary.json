@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-04-08T18:03:01Z",
+  "generated_utc": "2026-04-08T19:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 538,
-  "events_last_24h": 1,
+  "rolling_window_event_count": 543,
+  "events_last_24h": 4,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260408.1119002",
-    "time_utc": "2026-04-08T11:19:52.000Z",
-    "latitude": 59.6845,
-    "longitude": -136.144,
-    "depth_km": 4.38,
-    "mag_type": "ML",
-    "magnitude": 3.97,
-    "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT",
-    "region": "YT"
+    "event_id": "20260408.1741001",
+    "time_utc": "2026-04-08T17:41:46.000Z",
+    "latitude": 44.9413,
+    "longitude": -74.3988,
+    "depth_km": 5.45,
+    "mag_type": "MwN",
+    "magnitude": 1.75,
+    "place": "10 km SE of Dundee, QC/10 km SE de Dundee, QC",
+    "region": "QC"
   },
   "largest_event_last_24h": {
     "event_id": "20260408.1119002",
@@ -29,21 +29,29 @@
     "region": "YT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260408.1119002",
-    "time_utc": "2026-04-08T11:19:52.000Z",
-    "latitude": 59.6845,
-    "longitude": -136.144,
-    "depth_km": 4.38,
-    "mag_type": "ML",
-    "magnitude": 3.97,
-    "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT",
-    "region": "YT"
+    "event_id": "20260408.1741001",
+    "time_utc": "2026-04-08T17:41:46.000Z",
+    "latitude": 44.9413,
+    "longitude": -74.3988,
+    "depth_km": 5.45,
+    "mag_type": "MwN",
+    "magnitude": 1.75,
+    "place": "10 km SE of Dundee, QC/10 km SE de Dundee, QC",
+    "region": "QC"
   },
   "top_regions_last_24h": [
     {
+      "region": "Unknown",
+      "count": 2
+    },
+    {
       "region": "YT",
+      "count": 1
+    },
+    {
+      "region": "QC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-08 18:03 UTC, the recent Canada earthquake dataset contains 538 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.97 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT. The deepest event reached 4.38 km at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT. The most recent listed event was M3.97 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT at 2026-04-08T11:19:52.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was YT."
+  "summary_text": "As of 2026-04-08 19:03 UTC, the recent Canada earthquake dataset contains 543 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.97 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT. The deepest event reached 5.45 km at 10 km SE of Dundee, QC/10 km SE de Dundee, QC. The most recent listed event was M1.75 at 10 km SE of Dundee, QC/10 km SE de Dundee, QC at 2026-04-08T17:41:46.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were Unknown (2) and YT (1)."
 }
