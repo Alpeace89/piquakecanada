@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "Mining event, 4 km WSW of Kirkland Lake, ON/\u00c9v\u00e9nement minier, 4 km OSO de Kirkland Lake, ON"
   },
   {
+    "time_utc": "2026-04-06T05:20:20.000Z",
+    "magnitude": "3.05",
+    "depth_km": "10.0",
+    "place": "198 km WSW of Port Hardy, BC/198 km OSO de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-04-06T00:56:27.000Z",
     "magnitude": "2.14",
     "depth_km": "1.0",
@@ -50,12 +56,6 @@ window.recentEvents = [
   {
     "time_utc": "2026-04-04T13:59:51.000Z",
     "magnitude": "2.1",
-    "depth_km": "2.0",
-    "place": "45 km W of Cartier, ON/45 km O de Cartier, ON"
-  },
-  {
-    "time_utc": "2026-04-04T00:35:19.000Z",
-    "magnitude": "1.56",
     "depth_km": "2.0",
     "place": "45 km W of Cartier, ON/45 km O de Cartier, ON"
   }
