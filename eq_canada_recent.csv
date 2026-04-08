@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260222.2207001,2026-02-22T22:07:08.000Z,55.5829,-122.2322,0.0,ML,2.39,"Blast, 3 km SSW of Willow Creek Mine, BC/Dynamitage, 3 km SSO de la mine Willow Creek, BC"
-20260222.2207002,2026-02-22T22:07:44.000Z,54.5304,-117.846,1.0,MLy,1.9,"Suspected industry-related event, 69 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 69 km ONO de Fox Creek, AB"
-20260222.2220001,2026-02-22T22:20:09.000Z,52.2478,-123.155,1.0,ML,2.55,"20 km NNE of Alexis Creek, BC/20 km NNE de Alexis Creek, BC"
 20260223.0041001,2026-02-23T00:41:46.000Z,60.4167,-139.4884,5.0,ML,2.19,"114 km WSW of Haines Junction, YT/114 km OSO de Haines Junction, YT"
 20260223.0152001,2026-02-23T01:52:31.000Z,60.5074,-139.6394,5.0,ML,2.31,"119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
 20260223.0328001,2026-02-23T03:28:49.000Z,56.7614,-122.0455,5.0,MLy,2.67,"Suspected industry-related event, 33 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 33 km NNO de Halfway River 168, BC"
@@ -527,6 +524,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260404.0035001,2026-04-04T00:35:19.000Z,46.7295,-82.1443,2.0,MwN,1.56,"45 km W of Cartier, ON/45 km O de Cartier, ON"
 20260404.1359001,2026-04-04T13:59:51.000Z,46.7629,-82.1422,2.0,MwN,2.1,"45 km W of Cartier, ON/45 km O de Cartier, ON"
 20260405.0424001,2026-04-05T04:24:33.000Z,47.3851,-70.2165,13.16,MwN,0.07,"14 km W of La Pocatière, QC/14 km O de La Pocatière, QC"
+20260405.0513001,2026-04-05T05:13:49.000Z,62.1972,-124.5797,5.0,ML,3.49,"172 km WNW of Fort Simpson, NT/172 km ONO de Fort Simpson, NT"
 20260405.0729001,2026-04-05T07:29:44.000Z,46.3992,-66.2501,5.0,MwN,1.29,"21 km SSW of Doaktown, NB/21 km SSO de Doaktown, NB"
 20260405.0920001,2026-04-05T09:20:03.000Z,47.7223,-69.8134,9.17,MwN,0.73,"14 km WNW of Saint-Alexandre-de-Kamouraska, QC/14 km ONO de Saint-Alexandre-de-Kamouraska, QC"
 20260405.2221001,2026-04-05T22:21:48.000Z,43.4671,-76.9044,5.0,MwN,1.86,"67 km ENE of Rochester, NY/67 km ENE de Rochester, NY"
@@ -540,6 +538,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260407.0944001,2026-04-07T09:44:31.000Z,47.8166,-69.9709,2.0,MwN,1.07,"7 km WSW of Saint-Siméon, QC/7 km OSO de Saint-Siméon, QC"
 20260407.1315001,2026-04-07T13:15:30.000Z,45.5812,-74.4458,9.63,MwN,1.03,"12 km SW of Lachute, QC/12 km SO de Lachute, QC"
 20260407.1941001,2026-04-07T19:41:01.000Z,47.4181,-70.4187,5.98,MwN,0.55,"7 km ESE of Baie-Saint-Paul, QC/7 km ESE de Baie-Saint-Paul, QC"
+20260407.2347001,2026-04-07T23:47:32.000Z,50.6552,-130.4636,10.0,Mw',2.88,"209 km W of Port Hardy, BC/209 km O de Port Hardy, BC"
 20260408.1119002,2026-04-08T11:19:52.000Z,59.6845,-136.144,4.38,ML,3.97,"127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
 20260408.1730001,2026-04-08T17:30:03.000Z,43.9752,-77.8812,0.0,MwN,1.28,"Blast, 3 km S of Colborne, ON, felt/Dynamitage, 3 km S de Colborne, ON, ressenti"
 20260408.1735001,2026-04-08T17:35:12.000Z,43.9837,-77.8787,0.0,MwN,1.23,"Blast, 3 km SSE of Colborne, ON, felt/Dynamitage, 3 km SSE de Colborne, ON, ressenti"

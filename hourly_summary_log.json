@@ -2050,5 +2050,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had four minor tremors across Canada. The largest one measured M3.97 about 100 km southwest of Whitehorse in Yukon Territory. That's a bit far from our main dashboard area where it also shook Dundee in Quebec at a magnitude of 1.75 around 10 km southeast. These tiny quakes are mostly unknown, but we do see activity around there and in the YT region too."
+  },
+  {
+    "timestamp_utc": "2026-04-08T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had 5 little earthquakes popping up across Canada. The biggest one was a M3.97 near Whitehorse in Yukon Territory and another place called Dundee in Quebec. That's nothing to worry about though; it's still within our monitoring system as part of our beta dashboard for the PiQuake Canada project."
   }
 ]

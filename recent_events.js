@@ -24,6 +24,12 @@ window.recentEvents = [
     "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
   },
   {
+    "time_utc": "2026-04-07T23:47:32.000Z",
+    "magnitude": "2.88",
+    "depth_km": "10.0",
+    "place": "209 km W of Port Hardy, BC/209 km O de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-04-07T19:41:01.000Z",
     "magnitude": "0.55",
     "depth_km": "5.98",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.94",
     "depth_km": "10.0",
     "place": "199 km WSW of Port Hardy, BC/199 km OSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-06T06:03:47.000Z",
-    "magnitude": "2.48",
-    "depth_km": "28.16",
-    "place": "87 km S of Daajing Giids, BC/87 km S de Daajing Giids, BC"
   }
 ];
