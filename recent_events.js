@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-09T05:20:16.000Z",
+    "magnitude": "2.78",
+    "depth_km": "10.0",
+    "place": "214 km W of Port Hardy, BC/214 km O de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-04-09T03:00:45.000Z",
     "magnitude": "3.79",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "0.55",
     "depth_km": "5.98",
     "place": "7 km ESE of Baie-Saint-Paul, QC/7 km ESE de Baie-Saint-Paul, QC"
-  },
-  {
-    "time_utc": "2026-04-07T13:15:30.000Z",
-    "magnitude": "1.03",
-    "depth_km": "9.63",
-    "place": "12 km SW of Lachute, QC/12 km SO de Lachute, QC"
   }
 ];
