@@ -1,32 +1,32 @@
 {
-  "generated_utc": "2026-04-09T12:03:01Z",
+  "generated_utc": "2026-04-09T13:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 525,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 528,
+  "events_last_24h": 6,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 0,
+  "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260408.1741001",
-    "time_utc": "2026-04-08T17:41:46.000Z",
-    "latitude": 44.9413,
-    "longitude": -74.3988,
-    "depth_km": 5.45,
-    "mag_type": "MwN",
-    "magnitude": 1.75,
-    "place": "10 km SE of Dundee, QC/10 km SE de Dundee, QC",
-    "region": "QC"
+    "event_id": "20260409.0300001",
+    "time_utc": "2026-04-09T03:00:45.000Z",
+    "latitude": 53.9357,
+    "longitude": -113.4031,
+    "depth_km": 1.0,
+    "mag_type": "MLy",
+    "magnitude": 3.79,
+    "place": "Suspected industry-related event, 12 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB",
+    "region": "AB"
   },
   "largest_event_last_24h": {
-    "event_id": "20260408.1741001",
-    "time_utc": "2026-04-08T17:41:46.000Z",
-    "latitude": 44.9413,
-    "longitude": -74.3988,
-    "depth_km": 5.45,
-    "mag_type": "MwN",
-    "magnitude": 1.75,
-    "place": "10 km SE of Dundee, QC/10 km SE de Dundee, QC",
-    "region": "QC"
+    "event_id": "20260409.0300001",
+    "time_utc": "2026-04-09T03:00:45.000Z",
+    "latitude": 53.9357,
+    "longitude": -113.4031,
+    "depth_km": 1.0,
+    "mag_type": "MLy",
+    "magnitude": 3.79,
+    "place": "Suspected industry-related event, 12 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB",
+    "region": "AB"
   },
   "deepest_event_last_24h": {
     "event_id": "20260408.1741001",
@@ -45,9 +45,13 @@
       "count": 2
     },
     {
+      "region": "YT",
+      "count": 2
+    },
+    {
       "region": "QC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-09 12:03 UTC, the recent Canada earthquake dataset contains 525 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.75 at 10 km SE of Dundee, QC/10 km SE de Dundee, QC. The deepest event reached 5.45 km at 10 km SE of Dundee, QC/10 km SE de Dundee, QC. The most recent listed event was M1.75 at 10 km SE of Dundee, QC/10 km SE de Dundee, QC at 2026-04-08T17:41:46.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were Unknown (2) and QC (1)."
+  "summary_text": "As of 2026-04-09 13:03 UTC, the recent Canada earthquake dataset contains 528 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.79 at Suspected industry-related event, 12 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB. The deepest event reached 5.45 km at 10 km SE of Dundee, QC/10 km SE de Dundee, QC. The most recent listed event was M3.79 at Suspected industry-related event, 12 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB at 2026-04-09T03:00:45.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were Unknown (2) and YT (2)."
 }

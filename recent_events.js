@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-09T03:00:45.000Z",
+    "magnitude": "3.79",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 12 km WNW of Sturgeon County, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 12 km ONO de Sturgeon County, AB"
+  },
+  {
+    "time_utc": "2026-04-09T02:39:42.000Z",
+    "magnitude": "2.14",
+    "depth_km": "5.0",
+    "place": "74 km WSW of Burwash Landing, YT/74 km OSO de Burwash Landing, YT"
+  },
+  {
+    "time_utc": "2026-04-09T01:47:50.000Z",
+    "magnitude": "2.33",
+    "depth_km": "5.0",
+    "place": "74 km WSW of Burwash Landing, YT/74 km OSO de Burwash Landing, YT"
+  },
+  {
     "time_utc": "2026-04-08T17:41:46.000Z",
     "magnitude": "1.75",
     "depth_km": "5.45",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.03",
     "depth_km": "9.63",
     "place": "12 km SW of Lachute, QC/12 km SO de Lachute, QC"
-  },
-  {
-    "time_utc": "2026-04-07T09:44:31.000Z",
-    "magnitude": "1.07",
-    "depth_km": "2.0",
-    "place": "7 km WSW of Saint-Sim\u00e9on, QC/7 km OSO de Saint-Sim\u00e9on, QC"
-  },
-  {
-    "time_utc": "2026-04-07T07:44:01.000Z",
-    "magnitude": "3.34",
-    "depth_km": "5.0",
-    "place": "Suspected industry-related event, 75 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 75 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-04-06T08:00:31.000Z",
-    "magnitude": "2.94",
-    "depth_km": "10.0",
-    "place": "199 km WSW of Port Hardy, BC/199 km OSO de Port Hardy, BC"
   }
 ];

@@ -1,1 +1,1 @@
-In the last 24 hours, we've had three little quakes. The biggest one was a M1.75, and it happened around 5:40 PM on April 8th in an area that's 10 km southeast of Dundee, Quebec or just south of there. It's been quiet the past hour though with no activity at all.
+The PiQuake Canada dashboard shows no new seismic events in the last hour, but there have been six so far today. The largest event was a M3.79 and it happened near Sturgeon County, Alberta last night, suspected to be industry-related. That's our latest update from yesterday.

@@ -524,3 +524,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260408.1730001,2026-04-08T17:30:03.000Z,43.9752,-77.8812,0.0,MwN,1.28,"Blast, 3 km S of Colborne, ON, felt/Dynamitage, 3 km S de Colborne, ON, ressenti"
 20260408.1735001,2026-04-08T17:35:12.000Z,43.9837,-77.8787,0.0,MwN,1.23,"Blast, 3 km SSE of Colborne, ON, felt/Dynamitage, 3 km SSE de Colborne, ON, ressenti"
 20260408.1741001,2026-04-08T17:41:46.000Z,44.9413,-74.3988,5.45,MwN,1.75,"10 km SE of Dundee, QC/10 km SE de Dundee, QC"
+20260409.0147001,2026-04-09T01:47:50.000Z,61.0288,-140.188,5.0,ML,2.33,"74 km WSW of Burwash Landing, YT/74 km OSO de Burwash Landing, YT"
+20260409.0239001,2026-04-09T02:39:42.000Z,61.0192,-140.18,5.0,ML,2.14,"74 km WSW of Burwash Landing, YT/74 km OSO de Burwash Landing, YT"
+20260409.0300001,2026-04-09T03:00:45.000Z,53.9357,-113.4031,1.0,MLy,3.79,"Suspected industry-related event, 12 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB"
