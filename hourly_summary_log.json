@@ -2146,5 +2146,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were seven recorded incidents over the past 24 hours. The largest event was a M3.79 happening near Sturgeon County, Alberta, felt by some people. Recently, a M2.78 quake hit 214 km west of Port Hardy, BC. Most events in this period came from areas like Yukon and Quebec."
+  },
+  {
+    "timestamp_utc": "2026-04-09T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had seven PiQuake Canada dashboard events. The largest one was a M3.79 event from an industry-related source in Sturgeon County, AB, which people felt but likely wasn't naturally occurring. The most recent event clocked in at a M2.78, around 214 km west of Port Hardy, BC. In the top regions for yesterday, we had three unknowns, two in Yukon (YT) and one in Quebec (QC)."
   }
 ]
