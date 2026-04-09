@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-09T16:23:59.000Z",
+    "magnitude": "1.32",
+    "depth_km": "0.0",
+    "place": "Blast, 24 km SSW of Rivi\u00e8re-au-Renard, QC/Dynamitage, 24 km SSO de Rivi\u00e8re-au-Renard, QC"
+  },
+  {
+    "time_utc": "2026-04-09T14:13:54.000Z",
+    "magnitude": "2.26",
+    "depth_km": "14.93",
+    "place": "57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC"
+  },
+  {
     "time_utc": "2026-04-09T05:20:16.000Z",
     "magnitude": "2.78",
     "depth_km": "10.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "3.97",
     "depth_km": "4.38",
     "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-04-07T23:47:32.000Z",
-    "magnitude": "2.88",
-    "depth_km": "10.0",
-    "place": "209 km W of Port Hardy, BC/209 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-07T19:41:01.000Z",
-    "magnitude": "0.55",
-    "depth_km": "5.98",
-    "place": "7 km ESE of Baie-Saint-Paul, QC/7 km ESE de Baie-Saint-Paul, QC"
   }
 ];

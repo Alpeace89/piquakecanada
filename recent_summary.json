@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-04-09T16:03:01Z",
+  "generated_utc": "2026-04-09T17:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 527,
-  "events_last_24h": 7,
-  "events_last_hour": 0,
+  "rolling_window_event_count": 529,
+  "events_last_24h": 9,
+  "events_last_hour": 1,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260409.0520001",
-    "time_utc": "2026-04-09T05:20:16.000Z",
-    "latitude": 50.7078,
-    "longitude": -130.5435,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 2.78,
-    "place": "214 km W of Port Hardy, BC/214 km O de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260409.1623001",
+    "time_utc": "2026-04-09T16:23:59.000Z",
+    "latitude": 48.7895,
+    "longitude": -64.4924,
+    "depth_km": 0.0,
+    "mag_type": "MwN",
+    "magnitude": 1.32,
+    "place": "Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC",
+    "region": "QC"
   },
   "largest_event_last_24h": {
     "event_id": "20260409.0300002",
@@ -29,15 +29,15 @@
     "region": "Unknown"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260409.0520001",
-    "time_utc": "2026-04-09T05:20:16.000Z",
-    "latitude": 50.7078,
-    "longitude": -130.5435,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 2.78,
-    "place": "214 km W of Port Hardy, BC/214 km O de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260409.1413001",
+    "time_utc": "2026-04-09T14:13:54.000Z",
+    "latitude": 49.6117,
+    "longitude": -66.2031,
+    "depth_km": 14.93,
+    "mag_type": "MwN",
+    "magnitude": 2.26,
+    "place": "57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC",
+    "region": "QC"
   },
   "top_regions_last_24h": [
     {
@@ -45,13 +45,13 @@
       "count": 3
     },
     {
-      "region": "YT",
-      "count": 2
+      "region": "QC",
+      "count": 3
     },
     {
-      "region": "QC",
-      "count": 1
+      "region": "YT",
+      "count": 2
     }
   ],
-  "summary_text": "As of 2026-04-09 16:03 UTC, the recent Canada earthquake dataset contains 527 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.79 at Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB, ressent. The deepest event reached 10.00 km at 214 km W of Port Hardy, BC/214 km O de Port Hardy, BC. The most recent listed event was M2.78 at 214 km W of Port Hardy, BC/214 km O de Port Hardy, BC at 2026-04-09T05:20:16.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were Unknown (3) and YT (2)."
+  "summary_text": "As of 2026-04-09 17:03 UTC, the recent Canada earthquake dataset contains 529 events from the current rolling window. In the last 24 hours, 9 events were recorded, including 1 in the last hour. The largest event in the last 24 hours was M3.79 at Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB, ressent. The deepest event reached 14.93 km at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. The most recent listed event was M1.32 at Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC at 2026-04-09T16:23:59.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were Unknown (3) and QC (3)."
 }
