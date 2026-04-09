@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260223.0801001,2026-02-23T08:01:46.000Z,54.5203,-117.6339,5.0,MLy,2.65,"Suspected industry-related event, 55 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 55 km ONO de Fox Creek, AB"
 20260223.0901001,2026-02-23T09:01:11.000Z,46.3458,-75.9646,10.87,MwN,2.13,"4 km S of Maniwaki, QC/4 km S de Maniwaki, QC"
 20260223.0917001,2026-02-23T09:17:25.000Z,54.5756,-118.5931,1.0,MLy,2.31,"Suspected industry-related event, 67 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 67 km S de Grande Prairie, AB"
 20260223.0935001,2026-02-23T09:35:46.000Z,53.0725,-132.7393,15.78,ML,2.39,"48 km WSW of Daajing Giids, BC/48 km OSO de Daajing Giids, BC"

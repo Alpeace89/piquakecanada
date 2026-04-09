@@ -1,1 +1,1 @@
-For the last 24 hours, we've had four earthquakes detected on our PiQuake Canada dashboard. The largest one was a M3.97 near Whitehorse in the Yukon Territory, and the most recent event was a M1.75 about 10 km southeast of Dundee, Quebec.
+In the last 24 hours, we had four quakes tracked by our PiQuake Canada dashboard. The largest one was a M3.97 near Whitehorse in the Yukon and Quebec regions. It's been pretty quiet since then with just one small quake under Dundee in Quebec at night.
