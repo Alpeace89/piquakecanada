@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260223.0901001,2026-02-23T09:01:11.000Z,46.3458,-75.9646,10.87,MwN,2.13,"4 km S of Maniwaki, QC/4 km S de Maniwaki, QC"
-20260223.0917001,2026-02-23T09:17:25.000Z,54.5756,-118.5931,1.0,MLy,2.31,"Suspected industry-related event, 67 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 67 km S de Grande Prairie, AB"
-20260223.0935001,2026-02-23T09:35:46.000Z,53.0725,-132.7393,15.78,ML,2.39,"48 km WSW of Daajing Giids, BC/48 km OSO de Daajing Giids, BC"
 20260223.1015001,2026-02-23T10:15:25.000Z,54.3189,-118.4394,1.0,MLy,2.33,"Suspected industry-related event, 65 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 65 km NE de Grande Cache, AB"
 20260223.1028001,2026-02-23T10:28:57.000Z,54.5854,-118.5867,1.0,MLy,2.34,"Suspected industry-related event, 66 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 66 km SSE de Grande Prairie, AB"
 20260223.1058001,2026-02-23T10:58:37.000Z,60.4352,-139.5304,5.0,ML,2.04,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
@@ -440,8 +437,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260329.1807001,2026-03-29T18:07:21.000Z,58.9735,-137.9313,1.0,ML,3.46,"249 km SW of Whitehorse, YT/249 km SO de Whitehorse, YT"
 20260330.0029001,2026-03-30T00:29:05.000Z,61.1898,-139.8997,5.0,ML,1.9,"52 km WSW of Burwash Landing, YT/52 km OSO de Burwash Landing, YT"
 20260330.0146001,2026-03-30T01:46:30.000Z,60.3853,-139.5204,5.0,ML,2.35,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0207002,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,Mw',3.24,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
+20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0226001,2026-03-30T02:26:44.000Z,48.7307,-128.6557,10.0,Mw',3.64,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
 20260330.0422001,2026-03-30T04:22:51.000Z,54.318,-118.5257,1.0,MLy,2.39,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
 20260330.0605001,2026-03-30T06:05:55.000Z,56.6666,-121.5519,1.0,MLy,2.7,"Suspected industry-related event, 28 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 28 km O de Blueberry River 205, BC"
