@@ -2074,5 +2074,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had four seismic events monitored by our PiQuake Canada dashboard. The largest one measured M3.97 and happened about 127 kilometers south-southwest of Whitehorse in the Yukon, close to where another smaller quake occurred earlier today around Dundee in Quebec. It's been a quiet week overall with only these four events reported in our top regions which are Unknown, Yukon Territory, and Quebec."
+  },
+  {
+    "timestamp_utc": "2026-04-09T04:03:10Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were a total of 4 events detected on our PiQuake Canada dashboard. The largest event was a M3.97 near Whitehorse in the Yukon and Quebec regions, while the latest one was a M1.75 just outside Dundee in Quebec. The activity is spread across different parts of Canada, with two in an unknown location."
   }
 ]

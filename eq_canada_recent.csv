@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260223.0328001,2026-02-23T03:28:49.000Z,56.7614,-122.0455,5.0,MLy,2.67,"Suspected industry-related event, 33 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 33 km NNO de Halfway River 168, BC"
-20260223.0330001,2026-02-23T03:30:50.000Z,47.6065,-70.2229,6.78,MwN,-0.02,"7 km SW of La Malbaie, QC/7 km SO de La Malbaie, QC"
 20260223.0424001,2026-02-23T04:24:24.000Z,60.164,-140.8472,15.22,ML,3.52,"194 km WSW of Haines Junction, YT/194 km OSO de Haines Junction, YT"
 20260223.0518001,2026-02-23T05:18:22.000Z,54.5218,-117.7299,5.0,MLy,2.1,"Suspected industry-related event, 61 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 61 km ONO de Fox Creek, AB"
 20260223.0522001,2026-02-23T05:22:42.000Z,48.8589,-122.4771,13.99,ML,2.0,"11 km N of Bellingham, WA/11 km N de Bellingham, WA"
