@@ -1,1 +1,1 @@
-In the last 24 hours, we've had four seismic events. The largest one was a M3.97 near Whitehorse in Yukon Territory. That's followed by a M1.75 not far from Dundee in Quebec. The most active regions are unknown, Yukon, and Quebec.
+The PiQuake Canada dashboard shows no events in the last hour, but there were four seismic events in the past 24 hours. The largest one was a M3.97 near Whitehorse in Yukon and Quebec, which happened earlier today. In the last 24 hours, two regions experienced quakes—Yukon and Quebec each had one.
