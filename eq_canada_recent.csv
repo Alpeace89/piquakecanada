@@ -1,9 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260223.0518001,2026-02-23T05:18:22.000Z,54.5218,-117.7299,5.0,MLy,2.1,"Suspected industry-related event, 61 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 61 km ONO de Fox Creek, AB"
-20260223.0522001,2026-02-23T05:22:42.000Z,48.8589,-122.4771,13.99,ML,2.0,"11 km N of Bellingham, WA/11 km N de Bellingham, WA"
-20260223.0550001,2026-02-23T05:50:18.000Z,60.3652,-139.4287,5.0,ML,2.03,"113 km WSW of Haines Junction, YT/113 km OSO de Haines Junction, YT"
-20260223.0552001,2026-02-23T05:52:51.000Z,60.6043,-139.7085,5.0,ML,2.2,"92 km SSW of Burwash Landing, YT/92 km SSO de Burwash Landing, YT"
-20260223.0554001,2026-02-23T05:54:46.000Z,54.5348,-117.7043,1.0,MLy,2.28,"Suspected industry-related event, 60 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 60 km ONO de Fox Creek, AB"
 20260223.0644001,2026-02-23T06:44:59.000Z,60.2706,-140.6781,10.0,ML,2.01,"181 km WSW of Haines Junction, YT/181 km OSO de Haines Junction, YT"
 20260223.0735001,2026-02-23T07:35:52.000Z,56.7724,-122.0324,1.0,MLy,2.56,"Suspected industry-related event, 34 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 34 km NNO de Halfway River 168, BC"
 20260223.0736001,2026-02-23T07:36:28.000Z,54.5927,-118.5785,1.0,MLy,2.66,"Suspected industry-related event, 66 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 66 km SSE de Grande Prairie, AB"
