@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-04-08T23:03:01Z",
+  "generated_utc": "2026-04-09T00:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 544,
-  "events_last_24h": 5,
+  "rolling_window_event_count": 545,
+  "events_last_24h": 4,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
@@ -29,15 +29,15 @@
     "region": "YT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260407.2347001",
-    "time_utc": "2026-04-07T23:47:32.000Z",
-    "latitude": 50.6552,
-    "longitude": -130.4636,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 2.88,
-    "place": "209 km W of Port Hardy, BC/209 km O de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260408.1741001",
+    "time_utc": "2026-04-08T17:41:46.000Z",
+    "latitude": 44.9413,
+    "longitude": -74.3988,
+    "depth_km": 5.45,
+    "mag_type": "MwN",
+    "magnitude": 1.75,
+    "place": "10 km SE of Dundee, QC/10 km SE de Dundee, QC",
+    "region": "QC"
   },
   "top_regions_last_24h": [
     {
@@ -45,13 +45,13 @@
       "count": 2
     },
     {
-      "region": "BC",
+      "region": "YT",
       "count": 1
     },
     {
-      "region": "YT",
+      "region": "QC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-08 23:03 UTC, the recent Canada earthquake dataset contains 544 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.97 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT. The deepest event reached 10.00 km at 209 km W of Port Hardy, BC/209 km O de Port Hardy, BC. The most recent listed event was M1.75 at 10 km SE of Dundee, QC/10 km SE de Dundee, QC at 2026-04-08T17:41:46.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were Unknown (2) and BC (1)."
+  "summary_text": "As of 2026-04-09 00:03 UTC, the recent Canada earthquake dataset contains 545 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.97 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT. The deepest event reached 5.45 km at 10 km SE of Dundee, QC/10 km SE de Dundee, QC. The most recent listed event was M1.75 at 10 km SE of Dundee, QC/10 km SE de Dundee, QC at 2026-04-08T17:41:46.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were Unknown (2) and YT (1)."
 }
