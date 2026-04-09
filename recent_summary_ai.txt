@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there were four seismic events in the past 24 hours. The largest one was a M3.97 near Whitehorse in Yukon and Quebec, which happened earlier today. In the last 24 hours, two regions experienced quakes—Yukon and Quebec each had one.
+For the last 24 hours, we've had four earthquakes detected on our PiQuake Canada dashboard. The largest one was a M3.97 near Whitehorse in the Yukon Territory, and the most recent event was a M1.75 about 10 km southeast of Dundee, Quebec.
