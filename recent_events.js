@@ -36,6 +36,12 @@ window.recentEvents = [
     "place": "74 km WSW of Burwash Landing, YT/74 km OSO de Burwash Landing, YT"
   },
   {
+    "time_utc": "2026-04-08T23:17:34.000Z",
+    "magnitude": "1.94",
+    "depth_km": "5.0",
+    "place": "63 km ENE of Cleveland, OH/63 km ENE de Cleveland, OH"
+  },
+  {
     "time_utc": "2026-04-08T17:41:46.000Z",
     "magnitude": "1.75",
     "depth_km": "5.45",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.28",
     "depth_km": "0.0",
     "place": "Blast, 3 km S of Colborne, ON, felt/Dynamitage, 3 km S de Colborne, ON, ressenti"
-  },
-  {
-    "time_utc": "2026-04-08T11:19:52.000Z",
-    "magnitude": "3.97",
-    "depth_km": "4.38",
-    "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
   }
 ];
