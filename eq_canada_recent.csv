@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260223.1015001,2026-02-23T10:15:25.000Z,54.3189,-118.4394,1.0,MLy,2.33,"Suspected industry-related event, 65 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 65 km NE de Grande Cache, AB"
-20260223.1028001,2026-02-23T10:28:57.000Z,54.5854,-118.5867,1.0,MLy,2.34,"Suspected industry-related event, 66 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 66 km SSE de Grande Prairie, AB"
-20260223.1058001,2026-02-23T10:58:37.000Z,60.4352,-139.5304,5.0,ML,2.04,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
 20260223.1305001,2026-02-23T13:05:47.000Z,54.5871,-118.5885,1.0,MLy,2.26,"Suspected industry-related event, 66 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 66 km SSE de Grande Prairie, AB"
 20260223.1448001,2026-02-23T14:48:39.000Z,65.363,-135.7557,5.0,ML,2.85,"197 km N of Mayo, YT/197 km N de Mayo, YT"
 20260223.2002001,2026-02-23T20:02:16.000Z,51.0407,-130.7436,10.0,Mw',3.05,"230 km W of Port Hardy, BC/230 km O de Port Hardy, BC"

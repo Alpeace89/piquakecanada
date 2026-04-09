@@ -2116,5 +2116,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were four events in the past day. The largest quake was a M3.97 that hit near Whitehorse, Yukon Territory, about 127 km southwest of the city and 127 km southeast of Dundee, Quebec. The latest earthquake on record was a small one, measuring M1.75, which happened around 10 km southeast of Dundee in Quebec yesterday afternoon."
+  },
+  {
+    "timestamp_utc": "2026-04-09T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four recorded quakes in the previous day. The largest event was a M3.97 near Whitehorse in Yukon and Quebec. It’s been pretty quiet around here lately; we had one shake in Dundee, QC just yesterday afternoon."
   }
 ]
