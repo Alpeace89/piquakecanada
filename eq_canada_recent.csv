@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260223.2002001,2026-02-23T20:02:16.000Z,51.0407,-130.7436,10.0,Mw',3.05,"230 km W of Port Hardy, BC/230 km O de Port Hardy, BC"
-20260223.2006001,2026-02-23T20:06:10.000Z,54.2912,-117.6899,5.0,MLy,2.1,"Suspected industry-related event, 58 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 58 km O de Fox Creek, AB"
 20260223.2210001,2026-02-23T22:10:42.000Z,49.2906,-122.6479,0.0,ML,2.16,"Blast, 11 km E of Coquitlam, BC/Dynamitage, 11 km E de Coquitlam, BC"
 20260223.2231001,2026-02-23T22:31:59.000Z,60.6282,-139.9555,5.0,ML,2.16,"96 km SSW of Burwash Landing, YT/96 km SSO de Burwash Landing, YT"
 20260223.2322001,2026-02-23T23:22:14.000Z,48.81,-128.6662,10.0,Mw',2.77,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
