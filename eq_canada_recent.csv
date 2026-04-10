@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260224.1017001,2026-02-24T10:17:58.000Z,47.839,-69.9954,19.6,MwN,0.76,"8 km W of Saint-Siméon, QC/8 km O de Saint-Siméon, QC"
 20260224.1112001,2026-02-24T11:12:15.000Z,53.4635,-133.2399,11.13,ML,2.93,"80 km WNW of Daajing Giids, BC/80 km ONO de Daajing Giids, BC"
 20260224.1145001,2026-02-24T11:45:01.000Z,49.6706,-127.434,24.06,ML,1.48,"40 km S of Houpsitas 6, BC/40 km S de Houpsitas 6, BC"
 20260224.1342001,2026-02-24T13:42:46.000Z,47.8246,-122.0804,21.18,ML,3.29,"18 km SSE of Everett, WA/18 km SSE de Everett, WA"
@@ -419,8 +418,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260329.1807001,2026-03-29T18:07:21.000Z,58.9735,-137.9313,1.0,ML,3.46,"249 km SW of Whitehorse, YT/249 km SO de Whitehorse, YT"
 20260330.0029001,2026-03-30T00:29:05.000Z,61.1898,-139.8997,5.0,ML,1.9,"52 km WSW of Burwash Landing, YT/52 km OSO de Burwash Landing, YT"
 20260330.0146001,2026-03-30T01:46:30.000Z,60.3853,-139.5204,5.0,ML,2.35,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-20260330.0207002,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,Mw',3.24,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
+20260330.0207002,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,Mw',3.24,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0226001,2026-03-30T02:26:44.000Z,48.7307,-128.6557,10.0,Mw',3.64,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
 20260330.0422001,2026-03-30T04:22:51.000Z,54.318,-118.5257,1.0,MLy,2.39,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
 20260330.0605001,2026-03-30T06:05:55.000Z,56.6666,-121.5519,1.0,MLy,2.7,"Suspected industry-related event, 28 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 28 km O de Blueberry River 205, BC"
