@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-09T16:49:07.000Z",
+    "magnitude": "1.22",
+    "depth_km": "0.0",
+    "place": "Blast, 8 km NW of Baie-Saint-Paul, QC/Dynamitage, 8 km NO de Baie-Saint-Paul, QC"
+  },
+  {
     "time_utc": "2026-04-09T16:23:59.000Z",
     "magnitude": "1.32",
     "depth_km": "0.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.23",
     "depth_km": "0.0",
     "place": "Blast, 3 km SSE of Colborne, ON, felt/Dynamitage, 3 km SSE de Colborne, ON, ressenti"
-  },
-  {
-    "time_utc": "2026-04-08T17:30:03.000Z",
-    "magnitude": "1.28",
-    "depth_km": "0.0",
-    "place": "Blast, 3 km S of Colborne, ON, felt/Dynamitage, 3 km S de Colborne, ON, ressenti"
   }
 ];

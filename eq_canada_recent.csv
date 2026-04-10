@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260224.1112001,2026-02-24T11:12:15.000Z,53.4635,-133.2399,11.13,ML,2.93,"80 km WNW of Daajing Giids, BC/80 km ONO de Daajing Giids, BC"
-20260224.1145001,2026-02-24T11:45:01.000Z,49.6706,-127.434,24.06,ML,1.48,"40 km S of Houpsitas 6, BC/40 km S de Houpsitas 6, BC"
 20260224.1342001,2026-02-24T13:42:46.000Z,47.8246,-122.0804,21.18,ML,3.29,"18 km SSE of Everett, WA/18 km SSE de Everett, WA"
 20260224.1440001,2026-02-24T14:40:16.000Z,60.5995,-140.0443,5.0,ML,2.93,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
 20260224.1625001,2026-02-24T16:25:59.000Z,48.9556,-123.2678,58.07,ML,1.46,"36 km SSW of Vancouver, BC/36 km SSO de Vancouver, BC"
@@ -526,3 +524,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260409.0520001,2026-04-09T05:20:16.000Z,50.7078,-130.5435,10.0,Mw',2.78,"214 km W of Port Hardy, BC/214 km O de Port Hardy, BC"
 20260409.1413001,2026-04-09T14:13:54.000Z,49.6117,-66.2031,14.93,MwN,2.26,"57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC"
 20260409.1623001,2026-04-09T16:23:59.000Z,48.7895,-64.4924,0.0,MwN,1.32,"Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC"
+20260409.1649001,2026-04-09T16:49:07.000Z,47.508,-70.5643,0.0,MwN,1.22,"Blast, 8 km NW of Baie-Saint-Paul, QC/Dynamitage, 8 km NO de Baie-Saint-Paul, QC"
