@@ -2266,5 +2266,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were six events recorded over the past 24 hours. The largest quake was a M2.95 near Burwash Landing in Yukon and another place in Quebec due to dynamite blasting. Most of these quakes happened in Quebec with two in Yukon and one in British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-04-10T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had two minor seismic events in Canada. The largest one measured M1.32 near Rivière-au-Renard, QC and a smaller one at M1.22 close to Baie-Saint-Paul, QC. These are pretty common occurrences and usually don't cause any problems. Notable areas with recent activity include Quebec province."
   }
 ]
