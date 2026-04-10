@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260224.2126001,2026-02-24T21:26:39.000Z,51.1017,-130.9314,10.0,Mw',2.76,"244 km W of Port Hardy, BC/244 km O de Port Hardy, BC"
 20260224.2203001,2026-02-24T22:03:58.000Z,49.3223,-68.0644,0.0,MwN,1.53,"Blast, 20 km NE of Hauterive, QC/Dynamitage, 20 km NE de Hauterive, QC"
 20260224.2309001,2026-02-24T23:09:25.000Z,60.5547,-139.7752,5.0,ML,4.16,"125 km W of Haines Junction, YT/125 km O de Haines Junction, YT"
 20260224.2321001,2026-02-24T23:21:48.000Z,46.4677,-78.48,8.55,MwN,1.96,"25 km NE of Mattawa, ON/25 km NE de Mattawa, ON"

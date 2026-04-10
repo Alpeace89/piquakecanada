@@ -2290,5 +2290,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three recorded quakes over the past day. The largest quake was a M4.57 under Juneau, Alaska, which happened at 16:43 UTC on April 10th. This area has seen activity with BC, Yukon Territory, and Alaska reporting quakes within the last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-04-10T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the PiQuake Canada dashboard, we've had a quiet few hours with no notable earthquakes reported. However, yesterday there were three minor quakes recorded mostly in British Columbia, the Yukon Territory, and Alaska. The largest one measured at M4.57 and happened just after 4 PM yesterday afternoon, far from any populated areas."
   }
 ]
