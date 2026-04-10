@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260224.0235001,2026-02-24T02:35:36.000Z,58.7509,-137.6409,1.0,ML,2.96,"260 km SW of Whitehorse, YT/260 km SO de Whitehorse, YT"
 20260224.0314001,2026-02-24T03:14:05.000Z,44.538,-79.1699,2.0,MwN,1.15,"1 km SSE of Ramara, ON/1 km SSE de Ramara, ON"
 20260224.0500001,2026-02-24T05:00:19.000Z,60.2442,-140.9334,5.0,ML,2.93,"196 km WSW of Haines Junction, YT/196 km OSO de Haines Junction, YT"
 20260224.0536001,2026-02-24T05:36:37.000Z,49.6307,-127.2453,19.25,ML,1.32,"52 km SW of Tahsis, BC/52 km SO de Tahsis, BC"

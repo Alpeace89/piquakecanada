@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-04-10T02:03:01Z",
+  "generated_utc": "2026-04-10T03:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 534,
-  "events_last_24h": 5,
+  "rolling_window_event_count": 533,
+  "events_last_24h": 3,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 1,
+  "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
     "event_id": "20260409.1623001",
@@ -18,15 +18,15 @@
     "region": "QC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260409.0300002",
-    "time_utc": "2026-04-09T03:00:45.000Z",
-    "latitude": 53.9357,
-    "longitude": -113.4031,
-    "depth_km": 1.0,
-    "mag_type": "MLy",
-    "magnitude": 3.79,
-    "place": "Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB, ressent",
-    "region": "Unknown"
+    "event_id": "20260409.0520001",
+    "time_utc": "2026-04-09T05:20:16.000Z",
+    "latitude": 50.7078,
+    "longitude": -130.5435,
+    "depth_km": 10.0,
+    "mag_type": "Mw'",
+    "magnitude": 2.78,
+    "place": "214 km W of Port Hardy, BC/214 km O de Port Hardy, BC",
+    "region": "BC"
   },
   "deepest_event_last_24h": {
     "event_id": "20260409.1413001",
@@ -45,13 +45,9 @@
       "count": 2
     },
     {
-      "region": "YT",
-      "count": 1
-    },
-    {
-      "region": "Unknown",
+      "region": "BC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-10 02:03 UTC, the recent Canada earthquake dataset contains 534 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.79 at Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB, ressent. The deepest event reached 14.93 km at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. The most recent listed event was M1.32 at Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC at 2026-04-09T16:23:59.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and YT (1)."
+  "summary_text": "As of 2026-04-10 03:03 UTC, the recent Canada earthquake dataset contains 533 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.78 at 214 km W of Port Hardy, BC/214 km O de Port Hardy, BC. The deepest event reached 14.93 km at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. The most recent listed event was M1.32 at Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC at 2026-04-09T16:23:59.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and BC (1)."
 }
