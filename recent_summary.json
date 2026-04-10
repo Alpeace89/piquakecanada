@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-10T06:03:01Z",
+  "generated_utc": "2026-04-10T07:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 530,
   "events_last_24h": 2,
@@ -45,5 +45,5 @@
       "count": 2
     }
   ],
-  "summary_text": "As of 2026-04-10 06:03 UTC, the recent Canada earthquake dataset contains 530 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.26 at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. The deepest event reached 14.93 km at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. The most recent listed event was M1.32 at Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC at 2026-04-09T16:23:59.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
+  "summary_text": "As of 2026-04-10 07:03 UTC, the recent Canada earthquake dataset contains 530 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.26 at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. The deepest event reached 14.93 km at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. The most recent listed event was M1.32 at Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC at 2026-04-09T16:23:59.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
 }
