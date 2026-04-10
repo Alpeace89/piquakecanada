@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-04-10T13:03:01Z",
+  "generated_utc": "2026-04-10T14:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 528,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 530,
+  "events_last_24h": 6,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -18,15 +18,15 @@
     "region": "QC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260409.1413001",
-    "time_utc": "2026-04-09T14:13:54.000Z",
-    "latitude": 49.6117,
-    "longitude": -66.2031,
-    "depth_km": 14.93,
-    "mag_type": "MwN",
-    "magnitude": 2.26,
-    "place": "57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC",
-    "region": "QC"
+    "event_id": "20260409.1544001",
+    "time_utc": "2026-04-09T15:44:21.000Z",
+    "latitude": 60.5985,
+    "longitude": -139.9829,
+    "depth_km": 5.0,
+    "mag_type": "ML",
+    "magnitude": 2.95,
+    "place": "100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT",
+    "region": "YT"
   },
   "deepest_event_last_24h": {
     "event_id": "20260409.1413001",
@@ -43,7 +43,15 @@
     {
       "region": "QC",
       "count": 3
+    },
+    {
+      "region": "YT",
+      "count": 2
+    },
+    {
+      "region": "BC",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-10 13:03 UTC, the recent Canada earthquake dataset contains 528 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.26 at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. The deepest event reached 14.93 km at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. The most recent listed event was M1.22 at Blast, 8 km NW of Baie-Saint-Paul, QC/Dynamitage, 8 km NO de Baie-Saint-Paul, QC at 2026-04-09T16:49:07.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
+  "summary_text": "As of 2026-04-10 14:03 UTC, the recent Canada earthquake dataset contains 530 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.95 at 100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT. The deepest event reached 14.93 km at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. The most recent listed event was M1.22 at Blast, 8 km NW of Baie-Saint-Paul, QC/Dynamitage, 8 km NO de Baie-Saint-Paul, QC at 2026-04-09T16:49:07.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (3) and YT (2)."
 }

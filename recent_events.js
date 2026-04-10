@@ -12,10 +12,28 @@ window.recentEvents = [
     "place": "Blast, 24 km SSW of Rivi\u00e8re-au-Renard, QC/Dynamitage, 24 km SSO de Rivi\u00e8re-au-Renard, QC"
   },
   {
+    "time_utc": "2026-04-09T15:44:21.000Z",
+    "magnitude": "2.95",
+    "depth_km": "5.0",
+    "place": "100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
+  },
+  {
+    "time_utc": "2026-04-09T15:28:52.000Z",
+    "magnitude": "2.4",
+    "depth_km": "5.0",
+    "place": "130 km W of Haines Junction, YT/130 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-09T14:13:54.000Z",
     "magnitude": "2.26",
     "depth_km": "14.93",
     "place": "57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC"
+  },
+  {
+    "time_utc": "2026-04-09T14:11:29.000Z",
+    "magnitude": "2.92",
+    "depth_km": "14.75",
+    "place": "49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
   },
   {
     "time_utc": "2026-04-09T11:18:03.000Z",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "3.79",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 12 km ONO de Sturgeon County, AB, ressent"
-  },
-  {
-    "time_utc": "2026-04-09T02:39:42.000Z",
-    "magnitude": "2.14",
-    "depth_km": "5.0",
-    "place": "74 km WSW of Burwash Landing, YT/74 km OSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-04-09T01:47:50.000Z",
-    "magnitude": "2.33",
-    "depth_km": "5.0",
-    "place": "74 km WSW of Burwash Landing, YT/74 km OSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-04-08T23:17:34.000Z",
-    "magnitude": "1.94",
-    "depth_km": "5.0",
-    "place": "63 km ENE of Cleveland, OH/63 km ENE de Cleveland, OH"
   }
 ];

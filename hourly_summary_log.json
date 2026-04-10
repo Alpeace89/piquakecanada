@@ -2260,5 +2260,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three minor quakes reported by our PiQuake Canada dashboard. The biggest one was a M2.26 near Sainte-Anne-des-Monts, which happened just before noon on April 9th. A smaller blast also occurred in Baie-Saint-Paul around the same time during construction work. Both these events are considered minor and not a cause for concern as they were both below magnitude 3."
+  },
+  {
+    "timestamp_utc": "2026-04-10T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were six events recorded over the past 24 hours. The largest quake was a M2.95 near Burwash Landing in Yukon and another place in Quebec due to dynamite blasting. Most of these quakes happened in Quebec with two in Yukon and one in British Columbia."
   }
 ]
