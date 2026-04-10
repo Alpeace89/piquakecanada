@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-10T16:43:17.000Z",
+    "magnitude": "4.57",
+    "depth_km": "5.0",
+    "place": "141 km WSW of Juneau, AK/141 km OSO de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-04-10T05:45:20.000Z",
+    "magnitude": "2.34",
+    "depth_km": "6.82",
+    "place": "212 km WSW of Haines Junction, YT/212 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-10T05:17:51.000Z",
+    "magnitude": "1.84",
+    "depth_km": "5.0",
+    "place": "30 km WNW of Bella Coola 1, BC/30 km ONO de Bella Coola 1, BC"
+  },
+  {
     "time_utc": "2026-04-09T16:49:07.000Z",
     "magnitude": "1.22",
     "depth_km": "0.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.86",
     "depth_km": "21.72",
     "place": "31 km SW of Port Renfrew, BC/31 km SO de Port Renfrew, BC"
-  },
-  {
-    "time_utc": "2026-04-09T07:42:20.000Z",
-    "magnitude": "2.53",
-    "depth_km": "5.0",
-    "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-04-09T05:20:16.000Z",
-    "magnitude": "2.78",
-    "depth_km": "10.0",
-    "place": "214 km W of Port Hardy, BC/214 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-09T03:00:45.000Z",
-    "magnitude": "3.79",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 12 km ONO de Sturgeon County, AB, ressent"
   }
 ];
