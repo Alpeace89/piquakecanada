@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-04-10T01:03:01Z",
+  "generated_utc": "2026-04-10T02:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 534,
-  "events_last_24h": 6,
+  "events_last_24h": 5,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
@@ -41,17 +41,17 @@
   },
   "top_regions_last_24h": [
     {
-      "region": "YT",
+      "region": "QC",
       "count": 2
     },
     {
-      "region": "QC",
-      "count": 2
+      "region": "YT",
+      "count": 1
     },
     {
       "region": "Unknown",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-10 01:03 UTC, the recent Canada earthquake dataset contains 534 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.79 at Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB, ressent. The deepest event reached 14.93 km at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. The most recent listed event was M1.32 at Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC at 2026-04-09T16:23:59.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and QC (2)."
+  "summary_text": "As of 2026-04-10 02:03 UTC, the recent Canada earthquake dataset contains 534 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.79 at Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB, ressent. The deepest event reached 14.93 km at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. The most recent listed event was M1.32 at Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC at 2026-04-09T16:23:59.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and YT (1)."
 }
