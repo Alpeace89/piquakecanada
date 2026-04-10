@@ -2272,5 +2272,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had two minor seismic events in Canada. The largest one measured M1.32 near Rivière-au-Renard, QC and a smaller one at M1.22 close to Baie-Saint-Paul, QC. These are pretty common occurrences and usually don't cause any problems. Notable areas with recent activity include Quebec province."
+  },
+  {
+    "timestamp_utc": "2026-04-10T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no seismic events in the last hour or day, and we haven't recorded any quakes today. The largest event we saw in the past 24 hours was a tiny M1.22 near some dynamite blasts. It's not every day we get an earthquake report here, but that’s what our dashboard tells us for now."
   }
 ]
