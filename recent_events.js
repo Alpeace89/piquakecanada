@@ -18,6 +18,18 @@ window.recentEvents = [
     "place": "57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC"
   },
   {
+    "time_utc": "2026-04-09T11:18:03.000Z",
+    "magnitude": "1.86",
+    "depth_km": "21.72",
+    "place": "31 km SW of Port Renfrew, BC/31 km SO de Port Renfrew, BC"
+  },
+  {
+    "time_utc": "2026-04-09T07:42:20.000Z",
+    "magnitude": "2.53",
+    "depth_km": "5.0",
+    "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
+  },
+  {
     "time_utc": "2026-04-09T05:20:16.000Z",
     "magnitude": "2.78",
     "depth_km": "10.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.94",
     "depth_km": "5.0",
     "place": "63 km ENE of Cleveland, OH/63 km ENE de Cleveland, OH"
-  },
-  {
-    "time_utc": "2026-04-08T17:41:46.000Z",
-    "magnitude": "1.75",
-    "depth_km": "5.45",
-    "place": "10 km SE of Dundee, QC/10 km SE de Dundee, QC"
-  },
-  {
-    "time_utc": "2026-04-08T17:35:12.000Z",
-    "magnitude": "1.23",
-    "depth_km": "0.0",
-    "place": "Blast, 3 km SSE of Colborne, ON, felt/Dynamitage, 3 km SSE de Colborne, ON, ressenti"
   }
 ];
