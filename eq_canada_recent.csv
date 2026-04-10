@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260224.0720001,2026-02-24T07:20:29.000Z,46.3061,-80.0519,2.0,MwN,1.72,"12 km SW of Sturgeon Falls, ON/12 km SO de Sturgeon Falls, ON"
 20260224.0959001,2026-02-24T09:59:54.000Z,60.5796,-139.8996,5.0,ML,2.31,"99 km SSW of Burwash Landing, YT/99 km SSO de Burwash Landing, YT"
 20260224.1017001,2026-02-24T10:17:58.000Z,47.839,-69.9954,19.6,MwN,0.76,"8 km W of Saint-Siméon, QC/8 km O de Saint-Siméon, QC"
 20260224.1112001,2026-02-24T11:12:15.000Z,53.4635,-133.2399,11.13,ML,2.93,"80 km WNW of Daajing Giids, BC/80 km ONO de Daajing Giids, BC"
