@@ -2302,5 +2302,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the past 24 hours, there have been no major seismic events reported. But we did catch a M4.57 shake in Alaska yesterday afternoon. It was located about 140 km west-southwest of Juneau and near the capital city of Sitka. This is our largest event since PiQuake Canada went live, and it's been happening pretty regularly with three such events recorded so far."
+  },
+  {
+    "timestamp_utc": "2026-04-11T00:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had three quakes monitored by our PiQuake Canada dashboard. The largest one was a M4.57 near Juneau, Alaska. That's the same place where our latest event happened just yesterday afternoon. It seems like British Columbia, Yukon Territory, and Alaska are feeling some of those shakes with activity reported in all three places."
   }
 ]
