@@ -2326,5 +2326,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three small earthquakes. The biggest one was a M4.57 near Juneau in Alaska. This is happening pretty regularly in British Columbia, Yukon Territory and Alaska. It's like having some shaking underfoot in those places more often than usual."
+  },
+  {
+    "timestamp_utc": "2026-04-11T04:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three seismic events recorded yesterday. The largest event was a M4.57 happening 141 km west-southwest of Juneau, Alaska/141 km offshore of Juneau, Alaska, at 2:43 PM UTC on April 9th. This area has been active with earthquakes recently, and the latest one matches that pattern."
   }
 ]
