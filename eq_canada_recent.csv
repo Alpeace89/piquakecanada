@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260225.0520001,2026-02-25T05:20:39.000Z,60.5336,-140.0048,1.0,ML,3.71,"138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"
 20260225.1016001,2026-02-25T10:16:30.000Z,61.1576,-140.0141,1.0,ML,2.95,"59 km WSW of Burwash Landing, YT/59 km OSO de Burwash Landing, YT"
 20260225.1830001,2026-02-25T18:30:34.000Z,60.5793,-140.1073,1.0,ML,3.76,"105 km SW of Burwash Landing, YT/105 km SO de Burwash Landing, YT"
 20260225.2207001,2026-02-25T22:07:24.000Z,50.5053,-130.3336,10.0,Mw',4.06,"202 km W of Port Hardy, BC/202 km O de Port Hardy, BC"

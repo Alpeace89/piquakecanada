@@ -2338,5 +2338,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three in the past 24 hours. The largest event was a M4.57 shake that happened 141 km west-south-west of Juneau, Alaska at around 16:43 UTC on April 10th. This area has had activity lately, and it's all part of their regular seismic pattern in the region."
+  },
+  {
+    "timestamp_utc": "2026-04-11T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but we had one event yesterday. It was a M4.57 quake that happened about 140 km west-south-west of Juneau, Alaska at around 2 PM local time. This is our latest and largest quake in the region for today."
   }
 ]
