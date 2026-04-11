@@ -1,1 +1,1 @@
-In the last 24 hours, we've had one seismic event with a magnitude of M4.57 near Juneau in Alaska. This latest quake was recorded on April 10th at around 4:43 PM UTC. It's the biggest thing we've seen happen here since our dashboard went live, and it happened in the AK region.
+Canada recorded 1 earthquakes in the last 24 hours, with the largest event M4.57 at 141 km WSW of Juneau, AK/141 km OSO de Juneau, AK. No earthquakes were recorded in the last hour. The most recent listed event was M4.57 at 141 km WSW of Juneau, AK/141 km OSO de Juneau, AK at 2026-04-10T16:43:17Z.
