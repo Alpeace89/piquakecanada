@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260225.2207001,2026-02-25T22:07:24.000Z,50.5053,-130.3336,10.0,Mw',4.06,"202 km W of Port Hardy, BC/202 km O de Port Hardy, BC"
 20260226.0056001,2026-02-26T00:56:04.000Z,44.5402,-79.1489,2.0,MwN,1.11,"2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
 20260226.0129001,2026-02-26T01:29:05.000Z,49.5544,-66.8537,18.0,MwN,1.07,"53 km S of Port-Cartier, QC/53 km S de Port-Cartier, QC"
 20260226.0335001,2026-02-26T03:35:49.000Z,50.9209,-130.7474,10.0,Mw',3.99,"229 km W of Port Hardy, BC/229 km O de Port Hardy, BC"
