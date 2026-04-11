@@ -2314,5 +2314,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is tracking some quakes in the last 24 hours, with a big one measuring M4.57 near Juneau, Alaska. That was the largest event we've seen in that time. It's been pretty quiet overall though, with only three small events happening yesterday and all of them were felt in British Columbia, Yukon Territory, and Alaska."
+  },
+  {
+    "timestamp_utc": "2026-04-11T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had no events reported on the PiQuake Canada dashboard. The largest event was a M4.57 just outside of Juneau in Alaska, recorded at around noon yesterday. This is our latest event as well. Over the past day, British Columbia and the Yukon both shared their seismic activity with us."
   }
 ]
