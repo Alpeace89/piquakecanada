@@ -2374,5 +2374,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there was one earthquake event in Canada's Aleutian Islands region, measuring M4.57 near Juneau, Alaska. This was the largest and most recent quake we have recorded, happening on April 9th at around 4:43 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-04-11T14:03:01Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "Canada recorded 1 earthquakes in the last 24 hours, with the largest event M4.57 at 141 km WSW of Juneau, AK/141 km OSO de Juneau, AK. No earthquakes were recorded in the last hour. The most recent listed event was M4.57 at 141 km WSW of Juneau, AK/141 km OSO de Juneau, AK at 2026-04-10T16:43:17Z."
   }
 ]
