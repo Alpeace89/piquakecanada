@@ -2530,5 +2530,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in beta and hasn't recorded any events recently. The last event we saw was a M4.57 just west of Juneau, Alaska around mid-March. No one has used the service to track these quakes though, so it's not really being utilized much yet."
+  },
+  {
+    "timestamp_utc": "2026-04-12T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the PiQuake Canada dashboard in beta right now, we've had no earthquakes recorded within the last hour or day. The largest event yesterday was unknown, happening at an unknown location and time. But earlier today, a M4.57 quake occurred near Juneau, Alaska at 2:43 PM on April 10th."
   }
 ]
