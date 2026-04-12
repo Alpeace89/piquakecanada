@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260226.0335001,2026-02-26T03:35:49.000Z,50.9209,-130.7474,10.0,Mw',3.99,"229 km W of Port Hardy, BC/229 km O de Port Hardy, BC"
 20260226.0529001,2026-02-26T05:29:57.000Z,48.2517,-78.4518,2.93,MwN,2.93,"Mining event, LaRonde - Zone 5 Mine, QC/Événement minier, Mine LaRonde - Zone 5, QC"
 20260226.0640001,2026-02-26T06:40:54.000Z,56.3757,-122.0573,5.03,MLy,2.63,"Suspected industry-related event, 17 km SW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 17 km SO de Halfway River 168, BC"
 20260226.1543001,2026-02-26T15:43:19.000Z,47.607,-70.211,11.89,MwN,0.27,"7 km SW of La Malbaie, QC/7 km SO de La Malbaie, QC"
