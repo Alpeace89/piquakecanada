@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260226.1543001,2026-02-26T15:43:19.000Z,47.607,-70.211,11.89,MwN,0.27,"7 km SW of La Malbaie, QC/7 km SO de La Malbaie, QC"
 20260227.0053001,2026-02-27T00:53:37.000Z,60.54,-139.8985,5.0,ML,3.09,"132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
 20260227.0225001,2026-02-27T02:25:59.000Z,59.8554,-136.7407,5.0,ML,3.25,"131 km SW of Whitehorse, YT/131 km SO de Whitehorse, YT"
 20260227.0325001,2026-02-27T03:25:21.000Z,44.0779,-75.7904,2.0,MwN,0.79,"15 km NE of Watertown, NY/15 km NE de Watertown, NY"
