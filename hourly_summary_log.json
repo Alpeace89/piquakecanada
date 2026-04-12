@@ -2542,5 +2542,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is currently in beta and hasn't had any earthquakes reported within the last hour or day. The largest event we have seen in the last 24 hours was a magnitude unknown earthquake at an unknown location, also at an unknown time. The latest earthquake mentioned was a M4.57 that happened on April 10th around 4:43 PM UTC."
+  },
+  {
+    "timestamp_utc": "2026-04-12T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard hasn't had any earthquakes recorded in the last hour or day. The largest event we know about was a M4.57 quake that happened on April 10th, not too far from Juneau and some other place called OSO de Juneau. That's what our system picked up over the past 24 hours."
   }
 ]
