@@ -2434,5 +2434,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "No earthquakes were recorded in Canada in the last 24 hours. The most recent listed event was M4.57 at 141 km WSW of Juneau, AK/141 km OSO de Juneau, AK at 2026-04-10T16:43:17Z."
+  },
+  {
+    "timestamp_utc": "2026-04-12T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no earthquakes reported on our PiQuake Canada dashboard. The largest quake recorded was a M4.57 that happened in an unknown location around Juneau, Alaska at 16:43 UTC on April 10th. It's been quiet out there as usual."
   }
 ]

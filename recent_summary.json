@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-04-12T00:03:01Z",
+  "generated_utc": "2026-04-12T01:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 526,
+  "rolling_window_event_count": 525,
   "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
@@ -20,5 +20,5 @@
   "largest_event_last_24h": null,
   "deepest_event_last_24h": null,
   "top_regions_last_24h": [],
-  "summary_text": "As of 2026-04-12 00:03 UTC, the recent Canada earthquake dataset contains 526 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M4.57 at 141 km WSW of Juneau, AK/141 km OSO de Juneau, AK at 2026-04-10T16:43:17.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "summary_text": "As of 2026-04-12 01:03 UTC, the recent Canada earthquake dataset contains 525 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M4.57 at 141 km WSW of Juneau, AK/141 km OSO de Juneau, AK at 2026-04-10T16:43:17.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }
