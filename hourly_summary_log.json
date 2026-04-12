@@ -2524,5 +2524,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "No earthquakes were recorded in Canada in the last 24 hours. The most recent listed event was M4.57 at 141 km WSW of Juneau, AK/141 km OSO de Juneau, AK at 2026-04-10T16:43:17Z."
+  },
+  {
+    "timestamp_utc": "2026-04-12T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is still in beta and hasn't recorded any events recently. The last event we saw was a M4.57 just west of Juneau, Alaska around mid-March. No one has used the service to track these quakes though, so it's not really being utilized much yet."
   }
 ]
