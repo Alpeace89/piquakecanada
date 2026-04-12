@@ -2464,5 +2464,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "No earthquakes were recorded in Canada in the last 24 hours. The most recent listed event was M4.57 at 141 km WSW of Juneau, AK/141 km OSO de Juneau, AK at 2026-04-10T16:43:17Z."
+  },
+  {
+    "timestamp_utc": "2026-04-12T06:03:02Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "No earthquakes were recorded in Canada in the last 24 hours. The most recent listed event was M4.57 at 141 km WSW of Juneau, AK/141 km OSO de Juneau, AK at 2026-04-10T16:43:17Z."
   }
 ]
