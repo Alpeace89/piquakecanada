@@ -18,6 +18,18 @@ window.recentEvents = [
     "place": "49 km N of Sainte-Anne-des-Monts, QC/49 km N de Sainte-Anne-des-Monts, QC"
   },
   {
+    "time_utc": "2026-04-10T23:12:33.000Z",
+    "magnitude": "3.1",
+    "depth_km": "10.0",
+    "place": "195 km W of Port Hardy, BC/195 km O de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-04-10T21:55:05.000Z",
+    "magnitude": "1.64",
+    "depth_km": "1.0",
+    "place": "19 km WSW of Coal Harbour, BC/19 km OSO de Coal Harbour, BC"
+  },
+  {
     "time_utc": "2026-04-10T20:44:11.000Z",
     "magnitude": "2.87",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.96",
     "depth_km": "5.0",
     "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-10T09:46:10.000Z",
-    "magnitude": "2.51",
-    "depth_km": "5.0",
-    "place": "337 km SW of Whitehorse, YT/337 km SO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-04-10T05:45:20.000Z",
-    "magnitude": "2.34",
-    "depth_km": "6.82",
-    "place": "212 km WSW of Haines Junction, YT/212 km OSO de Haines Junction, YT"
   }
 ];
