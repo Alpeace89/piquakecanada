@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-12T18:11:53.000Z",
+    "magnitude": "1.41",
+    "depth_km": "5.0",
+    "place": "58 km SE of Oshawa, ON/58 km SE de Oshawa, ON"
+  },
+  {
+    "time_utc": "2026-04-12T11:38:24.000Z",
+    "magnitude": "0.63",
+    "depth_km": "15.25",
+    "place": "5 km NW of La Pocati\u00e8re, QC/5 km NO de La Pocati\u00e8re, QC"
+  },
+  {
     "time_utc": "2026-04-12T02:07:09.000Z",
     "magnitude": "0.8",
     "depth_km": "18.0",
@@ -10,6 +22,12 @@ window.recentEvents = [
     "magnitude": "4.57",
     "depth_km": "5.0",
     "place": "141 km WSW of Juneau, AK/141 km OSO de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-04-10T09:46:10.000Z",
+    "magnitude": "2.51",
+    "depth_km": "5.0",
+    "place": "337 km SW of Whitehorse, YT/337 km SO de Whitehorse, YT"
   },
   {
     "time_utc": "2026-04-10T05:45:20.000Z",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.95",
     "depth_km": "5.0",
     "place": "100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-04-09T15:28:52.000Z",
-    "magnitude": "2.4",
-    "depth_km": "5.0",
-    "place": "130 km W of Haines Junction, YT/130 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-09T14:13:54.000Z",
-    "magnitude": "2.26",
-    "depth_km": "14.93",
-    "place": "57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC"
-  },
-  {
-    "time_utc": "2026-04-09T14:11:29.000Z",
-    "magnitude": "2.92",
-    "depth_km": "14.75",
-    "place": "49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
   }
 ];
