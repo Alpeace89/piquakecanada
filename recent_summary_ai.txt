@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard hasn't recorded any seismic events in the last hour or day. The largest event last 24 hours was a magnitude unknown at an unknown location and time, but the latest one was a M4.57 just after noon on April 10th near Juneau, Alaska.
+In the past 24 hours, there were no reported quakes by our PiQuake Canada dashboard. The largest one was a M4.57 that happened about 141 km west-southwest of Juneau, AK/OSO de Juneau, AK, which is where an earthquake can occur naturally. This was the latest quake we tracked.
