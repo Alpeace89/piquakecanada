@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260227.0950001,2026-02-27T09:50:54.000Z,49.2476,-127.8475,10.0,Mw',2.2,"129 km W of Marktosis 15, BC/129 km O de Marktosis 15, BC"
 20260227.1020001,2026-02-27T10:20:09.000Z,60.4826,-139.652,5.0,ML,3.23,"121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
 20260227.1049001,2026-02-27T10:49:47.000Z,43.878,-82.3105,5.0,MwN,0.85,"51 km WNW of Goderich, ON/51 km ONO de Goderich, ON"
 20260227.1128001,2026-02-27T11:28:16.000Z,60.6089,-139.9252,5.0,ML,2.89,"97 km SSW of Burwash Landing, YT/97 km SSO de Burwash Landing, YT"
