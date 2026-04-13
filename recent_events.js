@@ -18,6 +18,18 @@ window.recentEvents = [
     "place": "49 km N of Sainte-Anne-des-Monts, QC/49 km N de Sainte-Anne-des-Monts, QC"
   },
   {
+    "time_utc": "2026-04-10T20:44:11.000Z",
+    "magnitude": "2.87",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 62 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 62 km NE de Grande Cache, AB"
+  },
+  {
+    "time_utc": "2026-04-10T20:26:58.000Z",
+    "magnitude": "2.85",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 65 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 65 km NE de Grande Cache, AB"
+  },
+  {
     "time_utc": "2026-04-10T17:44:30.000Z",
     "magnitude": "2.61",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.34",
     "depth_km": "6.82",
     "place": "212 km WSW of Haines Junction, YT/212 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-10T05:17:51.000Z",
-    "magnitude": "1.84",
-    "depth_km": "5.0",
-    "place": "30 km WNW of Bella Coola 1, BC/30 km ONO de Bella Coola 1, BC"
-  },
-  {
-    "time_utc": "2026-04-09T16:49:07.000Z",
-    "magnitude": "1.22",
-    "depth_km": "0.0",
-    "place": "Blast, 8 km NW of Baie-Saint-Paul, QC/Dynamitage, 8 km NO de Baie-Saint-Paul, QC"
   }
 ];
