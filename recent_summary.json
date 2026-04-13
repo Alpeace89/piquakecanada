@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-13T11:03:01Z",
+  "generated_utc": "2026-04-13T12:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 512,
   "events_last_24h": 0,
@@ -7,18 +7,18 @@
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260410.1643001",
-    "time_utc": "2026-04-10T16:43:17.000Z",
-    "latitude": 57.915,
-    "longitude": -136.7055,
-    "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 4.57,
-    "place": "141 km WSW of Juneau, AK/141 km OSO de Juneau, AK",
-    "region": "AK"
+    "event_id": "20260412.0207001",
+    "time_utc": "2026-04-12T02:07:09.000Z",
+    "latitude": 49.5759,
+    "longitude": -66.4534,
+    "depth_km": 18.0,
+    "mag_type": "MwN",
+    "magnitude": 0.8,
+    "place": "49 km N of Sainte-Anne-des-Monts, QC/49 km N de Sainte-Anne-des-Monts, QC",
+    "region": "QC"
   },
   "largest_event_last_24h": null,
   "deepest_event_last_24h": null,
   "top_regions_last_24h": [],
-  "summary_text": "As of 2026-04-13 11:03 UTC, the recent Canada earthquake dataset contains 512 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M4.57 at 141 km WSW of Juneau, AK/141 km OSO de Juneau, AK at 2026-04-10T16:43:17.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "summary_text": "As of 2026-04-13 12:03 UTC, the recent Canada earthquake dataset contains 512 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M0.8 at 49 km N of Sainte-Anne-des-Monts, QC/49 km N de Sainte-Anne-des-Monts, QC at 2026-04-12T02:07:09.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }

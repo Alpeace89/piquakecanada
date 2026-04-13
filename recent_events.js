@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-12T02:07:09.000Z",
+    "magnitude": "0.8",
+    "depth_km": "18.0",
+    "place": "49 km N of Sainte-Anne-des-Monts, QC/49 km N de Sainte-Anne-des-Monts, QC"
+  },
+  {
     "time_utc": "2026-04-10T16:43:17.000Z",
     "magnitude": "4.57",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.92",
     "depth_km": "14.75",
     "place": "49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-04-09T11:18:03.000Z",
-    "magnitude": "1.86",
-    "depth_km": "21.72",
-    "place": "31 km SW of Port Renfrew, BC/31 km SO de Port Renfrew, BC"
   }
 ];
