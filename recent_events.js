@@ -48,15 +48,15 @@ window.recentEvents = [
     "place": "49 km N of Sainte-Anne-des-Monts, QC/49 km N de Sainte-Anne-des-Monts, QC"
   },
   {
+    "time_utc": "2026-04-11T21:43:59.000Z",
+    "magnitude": "2.25",
+    "depth_km": "5.0",
+    "place": "95 km SSW of Haines Junction, YT/95 km SSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-11T21:10:44.000Z",
     "magnitude": "1.4",
     "depth_km": "5.0",
     "place": "38 km W of Doaktown, NB/38 km O de Doaktown, NB"
-  },
-  {
-    "time_utc": "2026-04-11T14:17:03.000Z",
-    "magnitude": "1.1",
-    "depth_km": "2.0",
-    "place": "Suspected industry-related event, 34 km NNW of Lac Tio Mine, QC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 34 km NNO de la mine Lac Tio, QC"
   }
 ];
