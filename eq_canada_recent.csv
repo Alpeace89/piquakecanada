@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260227.0325001,2026-02-27T03:25:21.000Z,44.0779,-75.7904,2.0,MwN,0.79,"15 km NE of Watertown, NY/15 km NE de Watertown, NY"
 20260227.0523001,2026-02-27T05:23:35.000Z,45.4598,-73.9841,9.26,MwN,0.6,"8 km NNE of Vaudreuil-Dorion, QC/8 km NNE de Vaudreuil-Dorion, QC"
 20260227.0746001,2026-02-27T07:46:15.000Z,45.138,-66.9484,8.62,MwN,1.34,"11 km NE of Saint Andrews, NB/11 km NE de Saint Andrews, NB"
 20260227.0950001,2026-02-27T09:50:54.000Z,49.2476,-127.8475,10.0,Mw',2.2,"129 km W of Marktosis 15, BC/129 km O de Marktosis 15, BC"

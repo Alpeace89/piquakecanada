@@ -2590,5 +2590,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the PiQuake Canada dashboard in its beta stage, there haven't been any seismic events detected in the last 24 hours. The largest event seen was a magnitude unknown with an unspecified location and time. The latest recorded activity was a M4.57 quake near Juneau, AK, which happened on April 10th at about 4:43 PM UTC."
+  },
+  {
+    "timestamp_utc": "2026-04-13T04:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't had any seismic events reported in the last hour or day. The largest event recorded was a mystery magnitude happening at an unknown location, with no specific time mentioned. As of yesterday around 4 PM, there was a small shake centered near Juneau, AK, which registered as a M4.57 quake."
   }
 ]
