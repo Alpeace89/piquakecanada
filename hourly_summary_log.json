@@ -2668,5 +2668,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard showed no events in the last hour, but there was one event yesterday. The largest quake recorded happened earlier today near Oshawa, it was a M1.41 and it's still being felt. That's the latest news from our monitoring system."
+  },
+  {
+    "timestamp_utc": "2026-04-13T17:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no new seismic events in the last hour, but there was one report from 24 hours ago. The largest event was a M1.41 near Oshawa, Ontario on April 12th at around 6:12 PM local time. That's the latest and only recorded shake this period."
   }
 ]
