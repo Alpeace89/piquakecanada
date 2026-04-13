@@ -18,10 +18,22 @@ window.recentEvents = [
     "place": "49 km N of Sainte-Anne-des-Monts, QC/49 km N de Sainte-Anne-des-Monts, QC"
   },
   {
+    "time_utc": "2026-04-10T17:44:30.000Z",
+    "magnitude": "2.61",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 27 km W of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 27 km O de Fox Creek, AB"
+  },
+  {
     "time_utc": "2026-04-10T16:43:17.000Z",
     "magnitude": "4.57",
     "depth_km": "5.0",
     "place": "141 km WSW of Juneau, AK/141 km OSO de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-04-10T11:47:43.000Z",
+    "magnitude": "1.96",
+    "depth_km": "5.0",
+    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
   },
   {
     "time_utc": "2026-04-10T09:46:10.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.22",
     "depth_km": "0.0",
     "place": "Blast, 8 km NW of Baie-Saint-Paul, QC/Dynamitage, 8 km NO de Baie-Saint-Paul, QC"
-  },
-  {
-    "time_utc": "2026-04-09T16:23:59.000Z",
-    "magnitude": "1.32",
-    "depth_km": "0.0",
-    "place": "Blast, 24 km SSW of Rivi\u00e8re-au-Renard, QC/Dynamitage, 24 km SSO de Rivi\u00e8re-au-Renard, QC"
-  },
-  {
-    "time_utc": "2026-04-09T15:44:21.000Z",
-    "magnitude": "2.95",
-    "depth_km": "5.0",
-    "place": "100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
   }
 ];
