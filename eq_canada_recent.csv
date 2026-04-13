@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260227.1901001,2026-02-27T19:01:12.000Z,47.6518,-70.2035,11.94,MwN,1.19,"4 km W of La Malbaie, QC/4 km O de La Malbaie, QC"
 20260228.0133001,2026-02-28T01:33:17.000Z,60.4313,-139.5533,5.0,ML,3.32,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
 20260228.0204001,2026-02-28T02:04:15.000Z,60.4961,-139.8079,5.0,ML,2.1,"129 km WSW of Haines Junction, YT/129 km OSO de Haines Junction, YT"
 20260228.0318001,2026-02-28T03:18:05.000Z,52.5593,-133.0149,17.13,ML,2.12,"99 km SW of Daajing Giids, BC/99 km SO de Daajing Giids, BC"
@@ -527,7 +526,9 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260411.0713001,2026-04-11T07:13:56.000Z,46.3068,-64.8569,8.61,MwN,1.7,"3 km N of Dundas, NB/3 km N de Dundas, NB"
 20260411.0755001,2026-04-11T07:55:25.000Z,46.3918,-65.7936,5.0,MwN,0.74,"25 km NNE of Chipman, NB/25 km NNE de Chipman, NB"
 20260411.0843001,2026-04-11T08:43:18.000Z,60.506,-139.9472,5.0,ML,2.69,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
+20260411.0846001,2026-04-11T08:46:12.000Z,60.8871,-138.1112,5.0,ML,2.21,"36 km WNW of Haines Junction, YT/36 km ONO de Haines Junction, YT"
 20260411.1004001,2026-04-11T10:04:58.000Z,49.7253,-67.8692,5.0,MwN,1.06,"66 km NNE of Hauterive, QC/66 km NNE de Hauterive, QC"
+20260411.1257001,2026-04-11T12:57:43.000Z,54.3143,-117.7824,1.0,MLy,1.98,"Suspected industry-related event, 64 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 64 km O de Fox Creek, AB"
 20260411.1417001,2026-04-11T14:17:03.000Z,50.8158,-63.6653,2.0,MwN,1.1,"Suspected industry-related event, 34 km NNW of Lac Tio Mine, QC/Événement lié à l'industrie soupconné, 34 km NNO de la mine Lac Tio, QC"
 20260411.2110001,2026-04-11T21:10:44.000Z,46.5472,-66.6167,5.0,MwN,1.4,"38 km W of Doaktown, NB/38 km O de Doaktown, NB"
 20260412.0207001,2026-04-12T02:07:09.000Z,49.5759,-66.4534,18.0,MwN,0.8,"49 km N of Sainte-Anne-des-Monts, QC/49 km N de Sainte-Anne-des-Monts, QC"
