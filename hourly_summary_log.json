@@ -2698,5 +2698,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is up and running. There were no events in the last hour or day, and the largest event was an unknown magnitude happening at an unknown location on a date we also don't know about. The latest earthquake reported was a M1.41 that occurred 58 km southeast of Oshawa, ON yesterday around 6:12 PM."
+  },
+  {
+    "timestamp_utc": "2026-04-13T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, there haven't been any earthquakes recorded on the PiQuake Canada dashboard. The latest quake measured M1.41 and happened about 58 km southeast of Oshawa, Ontario. It's the only event we have data for in that period."
   }
 ]
