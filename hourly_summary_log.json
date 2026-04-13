@@ -2680,5 +2680,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary of the latest PiQuake Canada dashboard update. In the last 24 hours, we've had one seismic event with a magnitude of M1.41, happening about 58 km southeast of Oshawa, Ontario. This is the largest quake in that time period and the same place as yesterday's quake. It happened on April 12th at around 6:11 PM UTC."
+  },
+  {
+    "timestamp_utc": "2026-04-13T19:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity events today, and the latest earthquake was a small M1.41 near Oshawa in Ontario. No regions have had any notable seismicity lately either."
   }
 ]
