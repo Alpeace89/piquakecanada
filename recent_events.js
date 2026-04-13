@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "58 km SE of Oshawa, ON/58 km SE de Oshawa, ON"
   },
   {
+    "time_utc": "2026-04-12T16:04:57.000Z",
+    "magnitude": "3.85",
+    "depth_km": "10.0",
+    "place": "416 km SW of Courtenay, BC/416 km SO de Courtenay, BC"
+  },
+  {
     "time_utc": "2026-04-12T11:38:24.000Z",
     "magnitude": "0.63",
     "depth_km": "15.25",
@@ -30,6 +36,18 @@ window.recentEvents = [
     "place": "49 km N of Sainte-Anne-des-Monts, QC/49 km N de Sainte-Anne-des-Monts, QC"
   },
   {
+    "time_utc": "2026-04-11T14:17:03.000Z",
+    "magnitude": "1.1",
+    "depth_km": "2.0",
+    "place": "Suspected industry-related event, 34 km NNW of Lac Tio Mine, QC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 34 km NNO de la mine Lac Tio, QC"
+  },
+  {
+    "time_utc": "2026-04-11T10:04:58.000Z",
+    "magnitude": "1.06",
+    "depth_km": "5.0",
+    "place": "66 km NNE of Hauterive, QC/66 km NNE de Hauterive, QC"
+  },
+  {
     "time_utc": "2026-04-11T07:55:25.000Z",
     "magnitude": "0.74",
     "depth_km": "5.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.7",
     "depth_km": "8.61",
     "place": "3 km N of Dundas, NB/3 km N de Dundas, NB"
-  },
-  {
-    "time_utc": "2026-04-11T04:54:13.000Z",
-    "magnitude": "0.41",
-    "depth_km": "21.4",
-    "place": "5 km NW of La Pocati\u00e8re, QC/5 km NO de La Pocati\u00e8re, QC"
-  },
-  {
-    "time_utc": "2026-04-10T23:12:33.000Z",
-    "magnitude": "3.1",
-    "depth_km": "10.0",
-    "place": "195 km W of Port Hardy, BC/195 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-10T21:55:05.000Z",
-    "magnitude": "1.64",
-    "depth_km": "1.0",
-    "place": "19 km WSW of Coal Harbour, BC/19 km OSO de Coal Harbour, BC"
   }
 ];
