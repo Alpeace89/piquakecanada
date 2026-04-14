@@ -3,13 +3,7 @@ window.recentEvents = [
     "time_utc": "2026-04-14T16:36:43.000Z",
     "magnitude": "3.94",
     "depth_km": "13.17",
-    "place": "12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC"
-  },
-  {
-    "time_utc": "2026-04-14T16:36:43.000Z",
-    "magnitude": "3.94",
-    "depth_km": "12.94",
-    "place": "12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC"
+    "place": "12 km SSE of Otter Lake, QC, felt/12 km SSE de Otter Lake, QC, ressenti"
   },
   {
     "time_utc": "2026-04-14T15:03:08.000Z",
@@ -58,5 +52,11 @@ window.recentEvents = [
     "magnitude": "2.19",
     "depth_km": "5.0",
     "place": "133 km SW of Whitehorse, YT/133 km SO de Whitehorse, YT"
+  },
+  {
+    "time_utc": "2026-04-13T12:26:16.000Z",
+    "magnitude": "1.9",
+    "depth_km": "5.0",
+    "place": "128 km SSW of Whitehorse, YT/128 km SSO de Whitehorse, YT"
   }
 ];

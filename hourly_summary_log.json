@@ -2824,5 +2824,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had six minor earthquakes monitored by our PiQuake Canada dashboard. The largest one measured M3.94 and happened just 12 kilometers south-sse of Otter Lake in Quebec. It's been a quiet day as far as seismic activity goes with no events since yesterday."
+  },
+  {
+    "timestamp_utc": "2026-04-14T19:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there have been five minor earthquakes reported across Canada. The largest one measured M3.94 and was felt/ressenti about 12 kilometers southeast of Otter Lake in Quebec. This is the latest event we have recorded as well. Notable regions with recent activity include British Columbia and the Yukon Territory."
   }
 ]
