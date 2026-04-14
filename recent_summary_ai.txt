@@ -1,1 +1,1 @@
-In the last 24 hours, there haven't been any reported earthquakes on the PiQuake Canada dashboard. The largest event recorded was a M1.41 that happened around 58 km southeast of Oshawa, ON. This is just the latest in a series where no significant activity has been detected.
+In the last 24 hours, there were no earthquakes detected by our PiQuake Canada dashboard. The largest one recorded was a M1.41 near Oshawa, ON that happened on April 12 at about 6 PM. It's just another day in our dashboard without any big shakes or news to report.
