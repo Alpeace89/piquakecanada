@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-14T16:36:43.000Z",
+    "magnitude": "3.94",
+    "depth_km": "12.94",
+    "place": "12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC"
+  },
+  {
+    "time_utc": "2026-04-13T23:11:33.000Z",
+    "magnitude": "1.51",
+    "depth_km": "0.0",
+    "place": "Blast, 8 km SW of Chilliwack, BC/Dynamitage, 8 km SO de Chilliwack, BC"
+  },
+  {
     "time_utc": "2026-04-13T17:23:48.000Z",
     "magnitude": "2.4",
     "depth_km": "5.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.17",
     "depth_km": "5.0",
     "place": "105 km SW of Burwash Landing, YT/105 km SO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-04-13T04:53:50.000Z",
-    "magnitude": "3.08",
-    "depth_km": "5.0",
-    "place": "138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-13T04:51:07.000Z",
-    "magnitude": "2.28",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 58 km W of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km O de Fox Creek, AB"
   }
 ];

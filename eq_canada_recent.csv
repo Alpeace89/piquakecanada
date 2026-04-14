@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260228.1642001,2026-02-28T16:42:38.000Z,60.4166,-139.4946,5.0,ML,2.01,"115 km WSW of Haines Junction, YT/115 km OSO de Haines Junction, YT"
-20260228.1650001,2026-02-28T16:50:36.000Z,61.4202,-141.1768,5.0,ML,2.82,"108 km S of Beaver Creek, YT/108 km S de Beaver Creek, YT"
 20260228.1708001,2026-02-28T17:08:11.000Z,50.5285,-130.2737,10.0,Mw',3.47,"197 km W of Port Hardy, BC/197 km O de Port Hardy, BC"
 20260228.1903001,2026-02-28T19:03:06.000Z,61.1634,-140.0127,5.0,ML,3.84,"59 km WSW of Burwash Landing, YT/59 km OSO de Burwash Landing, YT"
 20260228.1905001,2026-02-28T19:05:37.000Z,61.1553,-139.9938,5.0,ML,3.07,"58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT"
@@ -544,3 +542,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260413.1616001,2026-04-13T16:16:28.000Z,59.7531,-141.6278,5.0,ML,2.86,"253 km WSW of Haines Junction, YT/253 km OSO de Haines Junction, YT"
 20260413.1722001,2026-04-13T17:22:45.000Z,60.4366,-139.664,5.0,ML,2.28,"123 km WSW of Haines Junction, YT/123 km OSO de Haines Junction, YT"
 20260413.1723001,2026-04-13T17:23:48.000Z,60.5999,-140.039,5.0,ML,2.4,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
+20260413.2311001,2026-04-13T23:11:33.000Z,49.1002,-122.0148,0.0,ML,1.51,"Blast, 8 km SW of Chilliwack, BC/Dynamitage, 8 km SO de Chilliwack, BC"
+20260414.1636001,2026-04-14T16:36:43.000Z,45.7567,-76.3552,12.94,M,3.94,"12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC"

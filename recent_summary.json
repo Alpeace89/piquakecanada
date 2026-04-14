@@ -1,49 +1,57 @@
 {
-  "generated_utc": "2026-04-14T16:03:01Z",
+  "generated_utc": "2026-04-14T17:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 545,
-  "events_last_24h": 3,
-  "events_last_hour": 0,
-  "count_m3plus_last_24h": 0,
+  "events_last_24h": 4,
+  "events_last_hour": 1,
+  "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260413.1723001",
-    "time_utc": "2026-04-13T17:23:48.000Z",
-    "latitude": 60.5999,
-    "longitude": -140.039,
-    "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 2.4,
-    "place": "139 km W of Haines Junction, YT/139 km O de Haines Junction, YT",
-    "region": "YT"
+    "event_id": "20260414.1636001",
+    "time_utc": "2026-04-14T16:36:43.000Z",
+    "latitude": 45.7567,
+    "longitude": -76.3552,
+    "depth_km": 12.94,
+    "mag_type": "M",
+    "magnitude": 3.94,
+    "place": "12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC",
+    "region": "QC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260413.1616001",
-    "time_utc": "2026-04-13T16:16:28.000Z",
-    "latitude": 59.7531,
-    "longitude": -141.6278,
-    "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 2.86,
-    "place": "253 km WSW of Haines Junction, YT/253 km OSO de Haines Junction, YT",
-    "region": "YT"
+    "event_id": "20260414.1636001",
+    "time_utc": "2026-04-14T16:36:43.000Z",
+    "latitude": 45.7567,
+    "longitude": -76.3552,
+    "depth_km": 12.94,
+    "mag_type": "M",
+    "magnitude": 3.94,
+    "place": "12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC",
+    "region": "QC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260413.1723001",
-    "time_utc": "2026-04-13T17:23:48.000Z",
-    "latitude": 60.5999,
-    "longitude": -140.039,
-    "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 2.4,
-    "place": "139 km W of Haines Junction, YT/139 km O de Haines Junction, YT",
-    "region": "YT"
+    "event_id": "20260414.1636001",
+    "time_utc": "2026-04-14T16:36:43.000Z",
+    "latitude": 45.7567,
+    "longitude": -76.3552,
+    "depth_km": 12.94,
+    "mag_type": "M",
+    "magnitude": 3.94,
+    "place": "12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC",
+    "region": "QC"
   },
   "top_regions_last_24h": [
     {
       "region": "YT",
-      "count": 3
+      "count": 2
+    },
+    {
+      "region": "BC",
+      "count": 1
+    },
+    {
+      "region": "QC",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-14 16:03 UTC, the recent Canada earthquake dataset contains 545 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.86 at 253 km WSW of Haines Junction, YT/253 km OSO de Haines Junction, YT. The deepest event reached 5.00 km at 139 km W of Haines Junction, YT/139 km O de Haines Junction, YT. The most recent listed event was M2.4 at 139 km W of Haines Junction, YT/139 km O de Haines Junction, YT at 2026-04-13T17:23:48.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was YT."
+  "summary_text": "As of 2026-04-14 17:03 UTC, the recent Canada earthquake dataset contains 545 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 1 in the last hour. The largest event in the last 24 hours was M3.94 at 12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC. The deepest event reached 12.94 km at 12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC. The most recent listed event was M3.94 at 12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC at 2026-04-14T16:36:43.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and BC (1)."
 }
