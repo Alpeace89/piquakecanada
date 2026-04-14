@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260228.0318001,2026-02-28T03:18:05.000Z,52.5593,-133.0149,17.13,ML,2.12,"99 km SW of Daajing Giids, BC/99 km SO de Daajing Giids, BC"
-20260228.0320001,2026-02-28T03:20:59.000Z,60.5694,-139.7402,5.0,ML,2.95,"123 km W of Haines Junction, YT/123 km O de Haines Junction, YT"
 20260228.0517001,2026-02-28T05:17:17.000Z,60.45,-139.5518,5.0,ML,2.12,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
 20260228.0520001,2026-02-28T05:20:35.000Z,54.2944,-117.7624,1.0,MLy,1.88,"Suspected industry-related event, 63 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 63 km O de Fox Creek, AB"
 20260228.0544001,2026-02-28T05:44:54.000Z,46.0728,-64.7923,5.0,MwN,-0.08,"3 km S of Moncton, NB/3 km S de Moncton, NB"
@@ -384,8 +382,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260329.1807001,2026-03-29T18:07:21.000Z,58.9735,-137.9313,1.0,ML,3.46,"249 km SW of Whitehorse, YT/249 km SO de Whitehorse, YT"
 20260330.0029001,2026-03-30T00:29:05.000Z,61.1898,-139.8997,5.0,ML,1.9,"52 km WSW of Burwash Landing, YT/52 km OSO de Burwash Landing, YT"
 20260330.0146001,2026-03-30T01:46:30.000Z,60.3853,-139.5204,5.0,ML,2.35,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0207002,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,Mw',3.24,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
+20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0226001,2026-03-30T02:26:44.000Z,48.7307,-128.6557,10.0,Mw',3.64,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
 20260330.0422001,2026-03-30T04:22:51.000Z,54.318,-118.5257,1.0,MLy,2.39,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
 20260330.0605001,2026-03-30T06:05:55.000Z,56.6666,-121.5519,1.0,MLy,2.7,"Suspected industry-related event, 28 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 28 km O de Blueberry River 205, BC"
