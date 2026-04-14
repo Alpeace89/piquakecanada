@@ -2842,5 +2842,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had five minor tremors detected by our PiQuake Canada dashboard. The largest was a M3.94 near Otter Lake in Quebec which was felt and resented within 12 km of that location. This is pretty much it—no big news to report, just regular little quakes around the country."
+  },
+  {
+    "timestamp_utc": "2026-04-14T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were five in the past day. The largest event was a M3.94 near Otter Lake in Quebec, felt and reported just south of the city as well. It's the latest activity we have recorded. Most recent reports came from British Columbia and the Yukon Territory."
   }
 ]
