@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260228.1554001,2026-02-28T15:54:11.000Z,47.5826,-70.0063,8.62,MwN,1.63,"13 km SE of La Malbaie, QC/13 km SE de La Malbaie, QC"
-20260228.1554002,2026-02-28T15:54:47.000Z,60.5112,-139.6628,5.0,ML,2.16,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
 20260228.1642001,2026-02-28T16:42:38.000Z,60.4166,-139.4946,5.0,ML,2.01,"115 km WSW of Haines Junction, YT/115 km OSO de Haines Junction, YT"
 20260228.1650001,2026-02-28T16:50:36.000Z,61.4202,-141.1768,5.0,ML,2.82,"108 km S of Beaver Creek, YT/108 km S de Beaver Creek, YT"
 20260228.1708001,2026-02-28T17:08:11.000Z,50.5285,-130.2737,10.0,Mw',3.47,"197 km W of Port Hardy, BC/197 km O de Port Hardy, BC"
@@ -531,6 +529,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260412.1138001,2026-04-12T11:38:24.000Z,47.4094,-70.0746,15.25,MwN,0.63,"5 km NW of La Pocatière, QC/5 km NO de La Pocatière, QC"
 20260412.1325001,2026-04-12T13:25:24.000Z,50.4615,-130.2005,10.0,Mw',3.43,"193 km W of Port Hardy, BC/193 km O de Port Hardy, BC"
 20260412.1604001,2026-04-12T16:04:57.000Z,47.1331,-129.1039,10.0,Mw',3.85,"416 km SW of Courtenay, BC/416 km SO de Courtenay, BC"
+20260412.1623001,2026-04-12T16:23:17.000Z,49.349,-122.3158,1.03,ML,1.46,"12 km NNW of McConnell Creek, BC/12 km NNO de McConnell Creek, BC"
+20260412.1808001,2026-04-12T18:08:32.000Z,59.4267,-135.959,5.0,ML,2.05,"149 km SSW of Whitehorse, YT/149 km SSO de Whitehorse, YT"
 20260412.1811001,2026-04-12T18:11:53.000Z,43.5098,-78.3752,5.0,MwN,1.41,"58 km SE of Oshawa, ON/58 km SE de Oshawa, ON"
 20260413.0117001,2026-04-13T01:17:42.000Z,60.472,-140.0,5.0,ML,1.98,"139 km WSW of Haines Junction, YT/139 km OSO de Haines Junction, YT"
 20260413.0314001,2026-04-13T03:14:06.000Z,60.5546,-140.0205,5.0,ML,2.47,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
@@ -542,3 +542,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260413.1226001,2026-04-13T12:26:16.000Z,59.6941,-136.2091,5.0,ML,1.9,"128 km SSW of Whitehorse, YT/128 km SSO de Whitehorse, YT"
 20260413.1341001,2026-04-13T13:41:30.000Z,59.8202,-136.7319,5.0,ML,2.19,"133 km SW of Whitehorse, YT/133 km SO de Whitehorse, YT"
 20260413.1616001,2026-04-13T16:16:28.000Z,59.7531,-141.6278,5.0,ML,2.86,"253 km WSW of Haines Junction, YT/253 km OSO de Haines Junction, YT"
+20260413.1722001,2026-04-13T17:22:45.000Z,60.4366,-139.664,5.0,ML,2.28,"123 km WSW of Haines Junction, YT/123 km OSO de Haines Junction, YT"
+20260413.1723001,2026-04-13T17:23:48.000Z,60.5999,-140.039,5.0,ML,2.4,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"

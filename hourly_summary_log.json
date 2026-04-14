@@ -2806,5 +2806,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one minor earthquake with a magnitude of M2.86 near Haines Junction in the Yukon Territory. This event happened on April 13th at around 4:16 PM UTC and it's the largest we've seen since our dashboard went live. It looks like most of this activity has been centered around the Yukon region, so far."
+  },
+  {
+    "timestamp_utc": "2026-04-14T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had no major seismic events reported. But there were three small quakes happening in Northern Canada around Haines Junction, Yukon and Ontario regions. The largest one was a M2.86 on April 13th at about 2:16 PM local time. Not much to worry about but keep an eye out for more updates as we get closer data!"
   }
 ]
