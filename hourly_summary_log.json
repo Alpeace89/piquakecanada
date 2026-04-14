@@ -2770,5 +2770,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and there was a minor earthquake of M1.41 that happened about 58 km southeast of Oshawa, ON yesterday at around 6 PM. It's business as usual for now."
+  },
+  {
+    "timestamp_utc": "2026-04-14T10:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there haven't been any earthquakes recorded on the PiQuake Canada dashboard. The largest one was a minor M1.41 that happened about 58 km southeast of Oshawa, Ontario. This is the only event we have for the past day."
   }
 ]

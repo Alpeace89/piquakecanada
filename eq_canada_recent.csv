@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260228.0913001,2026-02-28T09:13:49.000Z,60.4664,-139.8946,14.27,ML,2.25,"134 km WSW of Haines Junction, YT/134 km OSO de Haines Junction, YT"
 20260228.1048001,2026-02-28T10:48:47.000Z,60.537,-139.9569,5.0,ML,1.89,"135 km W of Haines Junction, YT/135 km O de Haines Junction, YT"
 20260228.1205001,2026-02-28T12:05:54.000Z,49.8476,-123.5475,11.73,ML,1.89,"33 km WNW of Squamish, BC/33 km ONO de Squamish, BC"
 20260228.1230001,2026-02-28T12:30:08.000Z,60.6159,-140.0574,5.0,ML,2.04,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
