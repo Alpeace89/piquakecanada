@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260228.2246001,2026-02-28T22:46:35.000Z,60.5096,-140.5683,37.01,ML,1.97,"169 km W of Haines Junction, YT/169 km O de Haines Junction, YT"
-20260228.2257001,2026-02-28T22:57:10.000Z,49.3489,-120.54,0.0,ML,2.25,"Blast, 13 km S of Princeton, BC/Dynamitage, 13 km S de Princeton, BC"
 20260228.2309001,2026-02-28T23:09:47.000Z,60.3799,-139.5148,5.0,ML,2.12,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
 20260228.2327001,2026-02-28T23:27:51.000Z,60.3943,-141.5037,5.0,ML,2.52,"222 km W of Haines Junction, YT/222 km O de Haines Junction, YT"
 20260301.0024001,2026-03-01T00:24:41.000Z,49.1477,-94.8796,2.0,MwN,1.19,"30 km ENE of Buffalo Point 36, MB/30 km ENE de Buffalo Point 36, MB"
@@ -463,6 +461,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260407.0641001,2026-04-07T06:41:58.000Z,52.5631,-132.7994,10.0,ML,2.27,"91 km SSW of Daajing Giids, BC/91 km SSO de Daajing Giids, BC"
 20260407.0744001,2026-04-07T07:44:01.000Z,54.5174,-118.5366,5.0,MLy,3.34,"Suspected industry-related event, 75 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 75 km SSE de Grande Prairie, AB"
 20260407.0823001,2026-04-07T08:23:43.000Z,54.0873,-133.7245,10.0,M,2.03,"103 km W of Masset, BC/103 km O de Masset, BC"
+20260407.0904001,2026-04-07T09:04:44.000Z,54.546,-118.5777,3.24,MLy,2.35,"Suspected industry-related event, 71 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 71 km SSE de Grande Prairie, AB"
 20260407.0944001,2026-04-07T09:44:31.000Z,47.8166,-69.9709,2.0,MwN,1.07,"7 km WSW of Saint-Siméon, QC/7 km OSO de Saint-Siméon, QC"
 20260407.1202001,2026-04-07T12:02:08.000Z,54.7764,-118.6917,4.74,MLy,2.47,"Suspected industry-related event, 44 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km S de Grande Prairie, AB"
 20260407.1315001,2026-04-07T13:15:30.000Z,45.5812,-74.4458,9.63,MwN,1.03,"12 km SW of Lachute, QC/12 km SO de Lachute, QC"
@@ -477,6 +476,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260408.1102001,2026-04-08T11:02:14.000Z,50.6021,-130.4742,10.0,Mw',3.34,"210 km W of Port Hardy, BC/210 km O de Port Hardy, BC"
 20260408.1119002,2026-04-08T11:19:52.000Z,59.6845,-136.144,4.38,ML,3.97,"127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
 20260408.1647001,2026-04-08T16:47:16.000Z,52.5617,-132.0278,22.76,ML,2.58,"77 km S of Daajing Giids, BC/77 km S de Daajing Giids, BC"
+20260408.1657001,2026-04-08T16:57:25.000Z,52.4679,-127.0994,5.0,ML,1.54,"27 km WNW of Bella Coola 1, BC/27 km ONO de Bella Coola 1, BC"
 20260408.1730001,2026-04-08T17:30:03.000Z,43.9752,-77.8812,0.0,MwN,1.28,"Blast, 3 km S of Colborne, ON, felt/Dynamitage, 3 km S de Colborne, ON, ressenti"
 20260408.1735001,2026-04-08T17:35:12.000Z,43.9837,-77.8787,0.0,MwN,1.23,"Blast, 3 km SSE of Colborne, ON, felt/Dynamitage, 3 km SSE de Colborne, ON, ressenti"
 20260408.1741001,2026-04-08T17:41:46.000Z,44.9413,-74.3988,5.45,MwN,1.75,"10 km SE of Dundee, QC/10 km SE de Dundee, QC"
