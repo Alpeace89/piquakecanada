@@ -2782,5 +2782,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard hasn't seen any earthquakes in the last hour or day. The largest event recorded was a magnitude unknown, happening at an unknown location and time. As of yesterday, Oshawa, ON felt a small quake with a magnitude of M1.41 at 6:11 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-04-14T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, there haven't been any recorded quakes on our PiQuake Canada dashboard. The largest one was a tiny M1.41 near Oshawa, ON. It happened way back on April 12th at about 6:12 PM local time."
   }
 ]
