@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-13T03:14:06.000Z",
+    "magnitude": "2.47",
+    "depth_km": "5.0",
+    "place": "139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-13T01:17:42.000Z",
+    "magnitude": "1.98",
+    "depth_km": "5.0",
+    "place": "139 km WSW of Haines Junction, YT/139 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-12T18:11:53.000Z",
     "magnitude": "1.41",
     "depth_km": "5.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "0.8",
     "depth_km": "18.0",
     "place": "49 km N of Sainte-Anne-des-Monts, QC/49 km N de Sainte-Anne-des-Monts, QC"
-  },
-  {
-    "time_utc": "2026-04-11T21:43:59.000Z",
-    "magnitude": "2.25",
-    "depth_km": "5.0",
-    "place": "95 km SSW of Haines Junction, YT/95 km SSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-11T21:10:44.000Z",
-    "magnitude": "1.4",
-    "depth_km": "5.0",
-    "place": "38 km W of Doaktown, NB/38 km O de Doaktown, NB"
   }
 ];
