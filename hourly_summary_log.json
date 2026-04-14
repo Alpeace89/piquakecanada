@@ -2818,5 +2818,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, we just had our first event of the day in Otter Lake area, right smack dab in the middle of Quebec and British Columbia. It was a nice little shake with a magnitude of M3.94 and it hasn't stopped there. Since then, we've seen four more events all coming from within 12 kilometers of that spot. The biggest one so far was yesterday at around 5:36 PM when it hit the area for real strong with a 3.94 on the Richter scale. So if you're in those regions, give your building some TLC and keep an eye out!"
+  },
+  {
+    "timestamp_utc": "2026-04-14T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had six minor earthquakes monitored by our PiQuake Canada dashboard. The largest one measured M3.94 and happened just 12 kilometers south-sse of Otter Lake in Quebec. It's been a quiet day as far as seismic activity goes with no events since yesterday."
   }
 ]
