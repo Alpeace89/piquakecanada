@@ -545,3 +545,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260414.1636003,2026-04-14T16:36:43.000Z,45.7545,-76.3528,13.17,Mw,3.94,"12 km SSE of Otter Lake, QC, felt/12 km SSE de Otter Lake, QC, ressenti"
 20260414.2211001,2026-04-14T22:11:29.000Z,46.8447,-70.8275,17.6,MwN,1.24,"8 km NW of Saint-Raphaël, QC/8 km NO de Saint-Raphaël, QC"
 20260415.1025001,2026-04-15T10:25:43.000Z,48.8591,-67.1399,7.07,MwN,0.94,"15 km ESE of Sainte-Félicité, QC/15 km ESE de Sainte-Félicité, QC"
+20260415.1339001,2026-04-15T13:39:54.000Z,48.6667,-128.5598,10.0,Mw',2.72,"201 km WSW of Tofino, BC/201 km OSO de Tofino, BC"

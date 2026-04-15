@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-15T13:39:54.000Z",
+    "magnitude": "2.72",
+    "depth_km": "10.0",
+    "place": "201 km WSW of Tofino, BC/201 km OSO de Tofino, BC"
+  },
+  {
     "time_utc": "2026-04-15T10:25:43.000Z",
     "magnitude": "0.94",
     "depth_km": "7.07",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.4",
     "depth_km": "5.0",
     "place": "139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-13T17:22:45.000Z",
-    "magnitude": "2.28",
-    "depth_km": "5.0",
-    "place": "123 km WSW of Haines Junction, YT/123 km OSO de Haines Junction, YT"
   }
 ];

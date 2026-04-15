@@ -1,32 +1,32 @@
 {
-  "generated_utc": "2026-04-15T18:03:02Z",
+  "generated_utc": "2026-04-15T19:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 546,
-  "events_last_24h": 2,
+  "rolling_window_event_count": 547,
+  "events_last_24h": 3,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260415.1025001",
-    "time_utc": "2026-04-15T10:25:43.000Z",
-    "latitude": 48.8591,
-    "longitude": -67.1399,
-    "depth_km": 7.07,
-    "mag_type": "MwN",
-    "magnitude": 0.94,
-    "place": "15 km ESE of Sainte-Félicité, QC/15 km ESE de Sainte-Félicité, QC",
-    "region": "QC"
+    "event_id": "20260415.1339001",
+    "time_utc": "2026-04-15T13:39:54.000Z",
+    "latitude": 48.6667,
+    "longitude": -128.5598,
+    "depth_km": 10.0,
+    "mag_type": "Mw'",
+    "magnitude": 2.72,
+    "place": "201 km WSW of Tofino, BC/201 km OSO de Tofino, BC",
+    "region": "BC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260414.2211001",
-    "time_utc": "2026-04-14T22:11:29.000Z",
-    "latitude": 46.8447,
-    "longitude": -70.8275,
-    "depth_km": 17.6,
-    "mag_type": "MwN",
-    "magnitude": 1.24,
-    "place": "8 km NW of Saint-Raphaël, QC/8 km NO de Saint-Raphaël, QC",
-    "region": "QC"
+    "event_id": "20260415.1339001",
+    "time_utc": "2026-04-15T13:39:54.000Z",
+    "latitude": 48.6667,
+    "longitude": -128.5598,
+    "depth_km": 10.0,
+    "mag_type": "Mw'",
+    "magnitude": 2.72,
+    "place": "201 km WSW of Tofino, BC/201 km OSO de Tofino, BC",
+    "region": "BC"
   },
   "deepest_event_last_24h": {
     "event_id": "20260414.2211001",
@@ -43,7 +43,11 @@
     {
       "region": "QC",
       "count": 2
+    },
+    {
+      "region": "BC",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-15 18:03 UTC, the recent Canada earthquake dataset contains 546 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.24 at 8 km NW of Saint-Raphaël, QC/8 km NO de Saint-Raphaël, QC. The deepest event reached 17.60 km at 8 km NW of Saint-Raphaël, QC/8 km NO de Saint-Raphaël, QC. The most recent listed event was M0.94 at 15 km ESE of Sainte-Félicité, QC/15 km ESE de Sainte-Félicité, QC at 2026-04-15T10:25:43.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
+  "summary_text": "As of 2026-04-15 19:03 UTC, the recent Canada earthquake dataset contains 547 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.72 at 201 km WSW of Tofino, BC/201 km OSO de Tofino, BC. The deepest event reached 17.60 km at 8 km NW of Saint-Raphaël, QC/8 km NO de Saint-Raphaël, QC. The most recent listed event was M2.72 at 201 km WSW of Tofino, BC/201 km OSO de Tofino, BC at 2026-04-15T13:39:54.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and BC (1)."
 }
