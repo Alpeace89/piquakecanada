@@ -2878,5 +2878,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been no new quakes reported on our dashboard. However, we did get a big one with a magnitude of M3.94 near Otter Lake in Quebec, and it was felt or noticed up to 12 kilometers away from where it happened. It's always good to stay alert if you live nearby, just in case there might be more seismic activity coming."
+  },
+  {
+    "timestamp_utc": "2026-04-15T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had four small quakes. The largest one was a M3.94 near Otter Lake in Quebec, and it was felt both in English and French there. That's our latest event too, and it happened just after noon yesterday. In the past day, we heard about two in Yukon Territory, one in British Columbia, and one where people didn't know exactly where or when it occurred."
   }
 ]
