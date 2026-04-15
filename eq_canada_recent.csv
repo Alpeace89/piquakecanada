@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260301.1404001,2026-03-01T14:04:51.000Z,48.7281,-129.1138,10.0,Mw',3.38,"251 km SSW of Port Hardy, BC/251 km SSO de Port Hardy, BC"
 20260301.1639001,2026-03-01T16:39:44.000Z,54.5712,-118.5646,2.74,MLy,2.59,"Suspected industry-related event, 68 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 68 km SSE de Grande Prairie, AB"
 20260301.1645001,2026-03-01T16:45:06.000Z,46.2761,-74.2809,21.09,MwN,1.4,"17 km ENE of Lac-Supérieur, QC/17 km ENE de Lac-Supérieur, QC"
 20260302.0025001,2026-03-02T00:25:16.000Z,54.5198,-117.6216,1.0,MLy,2.26,"Suspected industry-related event, 54 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 54 km ONO de Fox Creek, AB"
@@ -411,9 +410,11 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260402.2215001,2026-04-02T22:15:49.000Z,49.6096,-66.198,18.0,MwN,1.05,"57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC"
 20260402.2328001,2026-04-02T23:28:22.000Z,49.1139,-122.1751,0.0,ML,1.86,"Blast, 13 km ENE of Abbotsford, BC/Dynamitage, 13 km ENE de Abbotsford, BC"
 20260403.0038001,2026-04-03T00:38:48.000Z,50.8826,-127.1679,10.0,ML1,1.66,"29 km NE of Port Hardy, BC/29 km NE de Port Hardy, BC"
+20260403.0119001,2026-04-03T01:19:15.000Z,41.7755,-81.0712,5.0,MwN,1.55,"62 km ENE of Cleveland, OH/62 km ENE de Cleveland, OH"
 20260403.0152001,2026-04-03T01:52:27.000Z,60.5493,-139.8151,5.0,ML,2.17,"128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
 20260403.0341001,2026-04-03T03:41:23.000Z,53.8867,-131.6127,22.06,ML,2.29,"38 km ESE of Masset, BC/38 km ESE de Masset, BC"
 20260403.0412001,2026-04-03T04:12:48.000Z,60.5191,-140.0286,5.0,ML,3.04,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
+20260403.0548001,2026-04-03T05:48:36.000Z,41.7576,-81.0309,5.0,MwN,1.91,"64 km ENE of Cleveland, OH/64 km ENE de Cleveland, OH"
 20260403.0757001,2026-04-03T07:57:03.000Z,45.927,-74.8204,17.21,MwN,1.62,"14 km SSW of Amherst, QC/14 km SSO de Amherst, QC"
 20260403.0853001,2026-04-03T08:53:08.000Z,58.0453,-137.5192,10.0,ML,2.47,"184 km W of Juneau, AK/184 km O de Juneau, AK"
 20260403.1107001,2026-04-03T11:07:53.000Z,48.5811,-123.0873,9.78,ML,1.34,"27 km NE of Victoria, BC/27 km NE de Victoria, BC"
