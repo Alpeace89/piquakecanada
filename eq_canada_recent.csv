@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260228.2309001,2026-02-28T23:09:47.000Z,60.3799,-139.5148,5.0,ML,2.12,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-20260228.2327001,2026-02-28T23:27:51.000Z,60.3943,-141.5037,5.0,ML,2.52,"222 km W of Haines Junction, YT/222 km O de Haines Junction, YT"
 20260301.0024001,2026-03-01T00:24:41.000Z,49.1477,-94.8796,2.0,MwN,1.19,"30 km ENE of Buffalo Point 36, MB/30 km ENE de Buffalo Point 36, MB"
 20260301.0514001,2026-03-01T05:14:19.000Z,61.1608,-140.0038,5.0,ML,3.2,"58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT"
 20260301.0529001,2026-03-01T05:29:57.000Z,54.5555,-118.5906,1.41,MLy,2.77,"Suspected industry-related event, 70 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 70 km S de Grande Prairie, AB"
