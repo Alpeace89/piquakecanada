@@ -2866,5 +2866,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major seismic events reported in Canada's PiQuake dashboard. However, a M3.94 quake was felt or resented 12 kilometers southeast of Otter Lake, Quebec. This is the largest event recorded in that timeframe. It happened on April 14 at around 4:36 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-04-15T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major quakes reported, but we did see four smaller ones. The largest one measured M3.94 and was felt about 12 kilometers southeast of Otter Lake in Quebec. This is a regular occurrence here, with mostly minor earthquakes that people sometimes feel or notice. Notable places affected included the Yukon Territory (two times), British Columbia (once), and unknown locations too."
   }
 ]
