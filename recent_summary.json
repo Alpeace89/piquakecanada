@@ -1,24 +1,49 @@
 {
-  "generated_utc": "2026-04-15T17:03:01Z",
+  "generated_utc": "2026-04-15T18:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 543,
-  "events_last_24h": 0,
+  "rolling_window_event_count": 546,
+  "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260414.1636003",
-    "time_utc": "2026-04-14T16:36:43.000Z",
-    "latitude": 45.7545,
-    "longitude": -76.3528,
-    "depth_km": 13.17,
-    "mag_type": "Mw",
-    "magnitude": 3.94,
-    "place": "12 km SSE of Otter Lake, QC, felt/12 km SSE de Otter Lake, QC, ressenti",
-    "region": "Unknown"
+    "event_id": "20260415.1025001",
+    "time_utc": "2026-04-15T10:25:43.000Z",
+    "latitude": 48.8591,
+    "longitude": -67.1399,
+    "depth_km": 7.07,
+    "mag_type": "MwN",
+    "magnitude": 0.94,
+    "place": "15 km ESE of Sainte-Félicité, QC/15 km ESE de Sainte-Félicité, QC",
+    "region": "QC"
   },
-  "largest_event_last_24h": null,
-  "deepest_event_last_24h": null,
-  "top_regions_last_24h": [],
-  "summary_text": "As of 2026-04-15 17:03 UTC, the recent Canada earthquake dataset contains 543 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M3.94 at 12 km SSE of Otter Lake, QC, felt/12 km SSE de Otter Lake, QC, ressenti at 2026-04-14T16:36:43.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "largest_event_last_24h": {
+    "event_id": "20260414.2211001",
+    "time_utc": "2026-04-14T22:11:29.000Z",
+    "latitude": 46.8447,
+    "longitude": -70.8275,
+    "depth_km": 17.6,
+    "mag_type": "MwN",
+    "magnitude": 1.24,
+    "place": "8 km NW of Saint-Raphaël, QC/8 km NO de Saint-Raphaël, QC",
+    "region": "QC"
+  },
+  "deepest_event_last_24h": {
+    "event_id": "20260414.2211001",
+    "time_utc": "2026-04-14T22:11:29.000Z",
+    "latitude": 46.8447,
+    "longitude": -70.8275,
+    "depth_km": 17.6,
+    "mag_type": "MwN",
+    "magnitude": 1.24,
+    "place": "8 km NW of Saint-Raphaël, QC/8 km NO de Saint-Raphaël, QC",
+    "region": "QC"
+  },
+  "top_regions_last_24h": [
+    {
+      "region": "QC",
+      "count": 2
+    }
+  ],
+  "summary_text": "As of 2026-04-15 18:03 UTC, the recent Canada earthquake dataset contains 546 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.24 at 8 km NW of Saint-Raphaël, QC/8 km NO de Saint-Raphaël, QC. The deepest event reached 17.60 km at 8 km NW of Saint-Raphaël, QC/8 km NO de Saint-Raphaël, QC. The most recent listed event was M0.94 at 15 km ESE of Sainte-Félicité, QC/15 km ESE de Sainte-Félicité, QC at 2026-04-15T10:25:43.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
 }

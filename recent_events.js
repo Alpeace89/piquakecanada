@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-15T10:25:43.000Z",
+    "magnitude": "0.94",
+    "depth_km": "7.07",
+    "place": "15 km ESE of Sainte-F\u00e9licit\u00e9, QC/15 km ESE de Sainte-F\u00e9licit\u00e9, QC"
+  },
+  {
+    "time_utc": "2026-04-14T22:11:29.000Z",
+    "magnitude": "1.24",
+    "depth_km": "17.6",
+    "place": "8 km NW of Saint-Rapha\u00ebl, QC/8 km NO de Saint-Rapha\u00ebl, QC"
+  },
+  {
     "time_utc": "2026-04-14T16:36:43.000Z",
     "magnitude": "3.94",
     "depth_km": "13.17",
@@ -24,6 +36,12 @@ window.recentEvents = [
     "place": "130 km SW of Whitehorse, YT/130 km SO de Whitehorse, YT"
   },
   {
+    "time_utc": "2026-04-14T05:34:19.000Z",
+    "magnitude": "1.85",
+    "depth_km": "0.55",
+    "place": "55 km SW of Lohbiee 3, BC/55 km SO de Lohbiee 3, BC"
+  },
+  {
     "time_utc": "2026-04-13T23:11:33.000Z",
     "magnitude": "1.51",
     "depth_km": "0.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.28",
     "depth_km": "5.0",
     "place": "123 km WSW of Haines Junction, YT/123 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-13T16:16:28.000Z",
-    "magnitude": "2.86",
-    "depth_km": "5.0",
-    "place": "253 km WSW of Haines Junction, YT/253 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-13T13:41:30.000Z",
-    "magnitude": "2.19",
-    "depth_km": "5.0",
-    "place": "133 km SW of Whitehorse, YT/133 km SO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-04-13T12:26:16.000Z",
-    "magnitude": "1.9",
-    "depth_km": "5.0",
-    "place": "128 km SSW of Whitehorse, YT/128 km SSO de Whitehorse, YT"
   }
 ];

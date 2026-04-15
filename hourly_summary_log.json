@@ -2962,5 +2962,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the PiQuake Canada dashboard in beta, there were no events detected last hour or last 24 hours. The largest event recorded was a magnitude unknown in an unknown location, but not felt by anyone. The latest quake on record was a M3.94 that occurred around 16:37 UTC yesterday near Otter Lake, QC."
+  },
+  {
+    "timestamp_utc": "2026-04-15T18:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no significant events reported on our PiQuake Canada dashboard. However, we saw two minor quakes with a magnitude of M1.24 and M0.94 near Saint-Raphaël in Quebec. The latest quake happened just before noon today. Most of these small tremors have been recorded in the Quebec region."
   }
 ]
