@@ -2920,5 +2920,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no new earthquakes reported in the dashboard. The largest one was a M3.94 near Otter Lake, Quebec, felt and resented by people living there. It happened on April 14th at around 4:36 PM UTC time. Over this period, three events occurred."
+  },
+  {
+    "timestamp_utc": "2026-04-15T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had three little shakes detected across Canada. The largest one was a M3.94 near Otter Lake in Quebec, and it felt pretty strong for some folks who reported it. It's always good to know what's happening underfoot so you can stay safe if something bigger happens."
   }
 ]
