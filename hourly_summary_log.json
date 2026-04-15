@@ -2938,5 +2938,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For those checking in on the PiQuake Canada dashboard, we had a total of two small earthquakes last hour and twenty-four hours. The biggest one was a M3.94 that rattled around 12 kilometers southeast of Otter Lake, QC. It's been felt or sensed there since it happened yesterday at about 4:37 PM UTC. That’s the latest we have on seismic activity in Canada."
+  },
+  {
+    "timestamp_utc": "2026-04-15T14:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the past 24 hours, we've had two minor earthquakes with a magnitude of M3.94 around Otter Lake in Quebec. They were felt and reported as ressenti in both English and French. The latest event happened on April 14th at around 4:36 PM local time. So far today, it's the only quake we've seen in our beta Canada dashboard."
   }
 ]
