@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260301.0024001,2026-03-01T00:24:41.000Z,49.1477,-94.8796,2.0,MwN,1.19,"30 km ENE of Buffalo Point 36, MB/30 km ENE de Buffalo Point 36, MB"
 20260301.0514001,2026-03-01T05:14:19.000Z,61.1608,-140.0038,5.0,ML,3.2,"58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT"
 20260301.0529001,2026-03-01T05:29:57.000Z,54.5555,-118.5906,1.41,MLy,2.77,"Suspected industry-related event, 70 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 70 km S de Grande Prairie, AB"
 20260301.0837001,2026-03-01T08:37:55.000Z,58.9908,-137.8601,5.0,ML,3.13,"245 km SW of Whitehorse, YT/245 km SO de Whitehorse, YT"
