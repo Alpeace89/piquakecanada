@@ -2986,5 +2986,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary of what you have so far on the PiQuake Canada dashboard. In the last 24 hours, we had three small earthquakes with the biggest being M2.72 near Tofino in British Columbia. This is our latest and only event today. Notable areas experiencing activity are Quebec (two events) and B.C., which has one so far this day."
+  },
+  {
+    "timestamp_utc": "2026-04-15T22:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary of the PiQuake Canada dashboard for you. In the last hour, we had no events at all. Over the past 24 hours, there were three recorded quakes. The biggest one was a M2.72 near Tofino in British Columbia. This happened on April 15th around 1:39 PM local time. That's where most of our activity has been coming from; Quebec and BC have seen the most recent events."
   }
 ]
