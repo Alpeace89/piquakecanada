@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260301.1639001,2026-03-01T16:39:44.000Z,54.5712,-118.5646,2.74,MLy,2.59,"Suspected industry-related event, 68 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 68 km SSE de Grande Prairie, AB"
-20260301.1645001,2026-03-01T16:45:06.000Z,46.2761,-74.2809,21.09,MwN,1.4,"17 km ENE of Lac-Supérieur, QC/17 km ENE de Lac-Supérieur, QC"
 20260302.0025001,2026-03-02T00:25:16.000Z,54.5198,-117.6216,1.0,MLy,2.26,"Suspected industry-related event, 54 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 54 km ONO de Fox Creek, AB"
 20260302.0210001,2026-03-02T02:10:21.000Z,61.1587,-140.0181,5.0,ML,2.41,"59 km WSW of Burwash Landing, YT/59 km OSO de Burwash Landing, YT"
 20260302.0218001,2026-03-02T02:18:01.000Z,48.2284,-121.8571,1.0,ML1,1.02,"39 km NE of Everett, WA/39 km NE de Everett, WA"
