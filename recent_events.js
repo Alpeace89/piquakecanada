@@ -36,6 +36,12 @@ window.recentEvents = [
     "place": "83 km WNW of Burwash Landing, YT/83 km ONO de Burwash Landing, YT"
   },
   {
+    "time_utc": "2026-04-14T06:20:16.000Z",
+    "magnitude": "2.25",
+    "depth_km": "3.16",
+    "place": "Suspected industry-related event, 74 km W of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 74 km O de Prespatou, BC"
+  },
+  {
     "time_utc": "2026-04-14T06:16:35.000Z",
     "magnitude": "2.28",
     "depth_km": "2.19",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.51",
     "depth_km": "0.0",
     "place": "Blast, 8 km SW of Chilliwack, BC/Dynamitage, 8 km SO de Chilliwack, BC"
-  },
-  {
-    "time_utc": "2026-04-13T17:23:48.000Z",
-    "magnitude": "2.4",
-    "depth_km": "5.0",
-    "place": "139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
   }
 ];
