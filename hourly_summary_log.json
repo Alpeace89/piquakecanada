@@ -2896,5 +2896,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four quakes in the previous 24 hours. The largest one was a M3.94, felt and ressenti about 12 km southeast of Otter Lake in Quebec. It's the latest event recorded on the system. In total, YT had two, British Columbia had one, and Unknown region had another."
+  },
+  {
+    "timestamp_utc": "2026-04-15T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three in the past 24 hours. The largest event was a M3.94 near Otter Lake, QC, which people felt or heard about. This is the latest event too. In the last 24 hours, Yukon and British Columbia each had one report, with another from an unknown location."
   }
 ]
