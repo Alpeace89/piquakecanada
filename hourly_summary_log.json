@@ -2908,5 +2908,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three minor earthquakes detected in Canada. The largest one was a M3.94 near Otter Lake in Quebec, felt and reported as well. That's about the same magnitude as that latest one which happened on April 14th around 4:36 PM ET. We saw activity across different regions with Yukon Territory having one event, British Columbia another, and one in an unknown location."
+  },
+  {
+    "timestamp_utc": "2026-04-15T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had three little shakes with our PiQuake Canada dashboard. The biggest one was a M3.94 near Otter Lake in Quebec. People felt it and heard about it from 12 kilometers away. That's pretty close! And the place where it happened is often not known, but these past 24 hours there were shakes reported from Yukon Territory, British Columbia, and somewhere unknown too."
   }
 ]

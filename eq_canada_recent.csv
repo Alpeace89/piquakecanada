@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260301.0837001,2026-03-01T08:37:55.000Z,58.9908,-137.8601,5.0,ML,3.13,"245 km SW of Whitehorse, YT/245 km SO de Whitehorse, YT"
 20260301.1404001,2026-03-01T14:04:51.000Z,48.7281,-129.1138,10.0,Mw',3.38,"251 km SSW of Port Hardy, BC/251 km SSO de Port Hardy, BC"
 20260301.1639001,2026-03-01T16:39:44.000Z,54.5712,-118.5646,2.74,MLy,2.59,"Suspected industry-related event, 68 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 68 km SSE de Grande Prairie, AB"
 20260301.1645001,2026-03-01T16:45:06.000Z,46.2761,-74.2809,21.09,MwN,1.4,"17 km ENE of Lac-Supérieur, QC/17 km ENE de Lac-Supérieur, QC"
