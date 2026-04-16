@@ -1,1 +1,1 @@
-Hey folks, it's been a quiet day with no big quakes reported. The largest one so far was M2.72 near Tofino in British Columbia. That happened yesterday afternoon. It's still early days for our new PiQuake Canada dashboard, but it seems the area is experiencing its fair share of small shakes like this one, mostly concentrated in BC.
+The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event yesterday was an unknown magnitude at an unknown location. The latest quake was a M2.72 near Tofino, BC, recorded on April 15th around 1:39 PM local time.

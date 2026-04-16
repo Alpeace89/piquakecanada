@@ -13,9 +13,21 @@ window.recentEvents = [
   },
   {
     "time_utc": "2026-04-14T22:11:29.000Z",
-    "magnitude": "1.24",
-    "depth_km": "17.6",
+    "magnitude": "1.18",
+    "depth_km": "17.55",
     "place": "8 km NW of Saint-Rapha\u00ebl, QC/8 km NO de Saint-Rapha\u00ebl, QC"
+  },
+  {
+    "time_utc": "2026-04-14T21:27:37.000Z",
+    "magnitude": "0.45",
+    "depth_km": "7.71",
+    "place": "14 km WNW of La Pocati\u00e8re, QC/14 km ONO de La Pocati\u00e8re, QC"
+  },
+  {
+    "time_utc": "2026-04-14T17:29:16.000Z",
+    "magnitude": "1.33",
+    "depth_km": "0.0",
+    "place": "Blast, 4 km SSW of Saint Croix, NB/Dynamitage, 4 km SSO de Saint Croix, NB"
   },
   {
     "time_utc": "2026-04-14T16:36:43.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.25",
     "depth_km": "3.16",
     "place": "Suspected industry-related event, 74 km W of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 74 km O de Prespatou, BC"
-  },
-  {
-    "time_utc": "2026-04-14T06:16:35.000Z",
-    "magnitude": "2.28",
-    "depth_km": "2.19",
-    "place": "130 km SW of Whitehorse, YT/130 km SO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-04-14T05:34:19.000Z",
-    "magnitude": "1.85",
-    "depth_km": "0.55",
-    "place": "55 km SW of Lohbiee 3, BC/55 km SO de Lohbiee 3, BC"
   }
 ];
