@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-26T18:03:01Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there were 12 recorded events. In the last 24 hours, 12 earthquake(s) were recorded, with the largest event M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC. The most recent listed event was M1.44 at Blast, 3 km ENE of Rimouski, QC, felt at 2026-03-26T13:01:38Z."
-  },
-  {
     "timestamp_utc": "2026-03-26T18:55:48Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there were 15 seismic events monitored by our PiQuake Canada dashboard. The largest one measured M4.21 and occurred near Port Hardy in British Columbia. We also spotted a suspected industry-related event this afternoon in Alberta. Most of these quakes happened in British Columbia with six, followed by Yukon with six and Alberta with two."
+  },
+  {
+    "timestamp_utc": "2026-04-16T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had 14 PiQuake Canada dashboard events. The largest one was a M4.21 shake happening about 193 km west of Port Hardy in British Columbia and its opposite location in Yukon. Most recent event was a smaller M2.73 near Sturgeon County, Alberta. BC led with six reports, followed by YT with six more and ON with the one report."
   }
 ]
