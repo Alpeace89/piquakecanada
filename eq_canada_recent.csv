@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260302.0509001,2026-03-02T05:09:15.000Z,60.4021,-139.5072,5.0,ML,2.37,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
 20260302.0607001,2026-03-02T06:07:56.000Z,47.6285,-70.1371,9.18,MwN,0.11,"3 km SSE of La Malbaie, QC/3 km SSE de La Malbaie, QC"
 20260302.0622001,2026-03-02T06:22:29.000Z,54.5603,-118.5942,5.02,MLy,2.53,"Suspected industry-related event, 69 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 69 km S de Grande Prairie, AB"
 20260302.0648001,2026-03-02T06:48:57.000Z,54.5535,-118.5323,5.29,MLy,2.99,"Suspected industry-related event, 71 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 71 km SSE de Grande Prairie, AB"

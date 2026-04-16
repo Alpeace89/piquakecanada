@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-26T03:27:38Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there have been three minor earthquakes recorded. In the last 24 hours, 3 earthquake(s) were recorded, with the largest event M4.28 at 93 km SSE of Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC at 2026-03-25T13:25:34Z."
-  },
-  {
     "timestamp_utc": "2026-03-26T03:36:03Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary of the PiQuake Canada dashboard for our beta users: We had no earthquakes in the last hour, but two in the past 24 hours. The largest one was a M2.72 near Tofino, BC and it happened on April 15th at about 1 PM local time. It's been active there lately with another event earlier that day. Most of these events are happening around Quebec and British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-04-16T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey folks, we had a pretty quiet hour on the PiQuake Canada dashboard. In the last 24 hours, two small tremors occurred—both measuring around M2.7 in the Tofino area of British Columbia. The latest event happened just after 1 PM today and was right near where those other quakes were located too. So far this month, we've been seeing activity mainly in Quebec and British Columbia."
   }
 ]
