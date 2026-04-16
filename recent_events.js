@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-16T15:33:25.000Z",
+    "magnitude": "1.1",
+    "depth_km": "0.0",
+    "place": "Blast, 11 km NNW of Orillia, ON/Dynamitage, 11 km NNO de Orillia, ON"
+  },
+  {
     "time_utc": "2026-04-16T08:09:01.000Z",
     "magnitude": "4.21",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.72",
     "depth_km": "0.98",
     "place": "83 km WNW of Burwash Landing, YT/83 km ONO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-04-14T07:22:17.000Z",
-    "magnitude": "1.22",
-    "depth_km": "2.0",
-    "place": "78 km E of Ignace, ON/78 km E de Ignace, ON"
   }
 ];

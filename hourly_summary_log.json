@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-26T13:03:01Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past day, there was one event registered with an earthquake magnitude of M4.28 near Daajing Giids, BC. In the last 24 hours, 1 earthquake(s) were recorded, with the largest event M4.28 at 93 km SSE of Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC at 2026-03-25T13:25:34Z."
-  },
-  {
     "timestamp_utc": "2026-03-26T14:03:01Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no new earthquakes in the last hour, but there was one event yesterday. The largest quake recorded was a M4.21 near Port Hardy, British Columbia, and it happened just after 8 AM local time on April 16th. It's happening again now at about the same place, with nothing unusual going on anywhere else in Canada right now."
+  },
+  {
+    "timestamp_utc": "2026-04-16T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two minor quakes detected by our PiQuake Canada dashboard. The biggest one was a M4.21 near Port Hardy in British Columbia early this morning and there's also been a little shake north of Orillia in Ontario today at about 3:30 PM."
   }
 ]

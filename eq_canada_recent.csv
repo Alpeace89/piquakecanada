@@ -535,3 +535,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260415.1025001,2026-04-15T10:25:43.000Z,48.8591,-67.1399,7.07,MwN,0.94,"15 km ESE of Sainte-Félicité, QC/15 km ESE de Sainte-Félicité, QC"
 20260415.1339001,2026-04-15T13:39:54.000Z,48.6667,-128.5598,10.0,Mw',2.72,"201 km WSW of Tofino, BC/201 km OSO de Tofino, BC"
 20260416.0809001,2026-04-16T08:09:01.000Z,50.4791,-130.2115,10.0,Mw,4.21,"193 km W of Port Hardy, BC/193 km O de Port Hardy, BC"
+20260416.1533001,2026-04-16T15:33:25.000Z,44.6882,-79.4925,0.0,MwN,1.1,"Blast, 11 km NNW of Orillia, ON/Dynamitage, 11 km NNO de Orillia, ON"
