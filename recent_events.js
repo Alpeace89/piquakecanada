@@ -36,6 +36,12 @@ window.recentEvents = [
     "place": "83 km WNW of Burwash Landing, YT/83 km ONO de Burwash Landing, YT"
   },
   {
+    "time_utc": "2026-04-14T07:22:17.000Z",
+    "magnitude": "1.22",
+    "depth_km": "2.0",
+    "place": "78 km E of Ignace, ON/78 km E de Ignace, ON"
+  },
+  {
     "time_utc": "2026-04-14T06:20:16.000Z",
     "magnitude": "2.25",
     "depth_km": "3.16",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.85",
     "depth_km": "0.55",
     "place": "55 km SW of Lohbiee 3, BC/55 km SO de Lohbiee 3, BC"
-  },
-  {
-    "time_utc": "2026-04-13T23:11:33.000Z",
-    "magnitude": "1.51",
-    "depth_km": "0.0",
-    "place": "Blast, 8 km SW of Chilliwack, BC/Dynamitage, 8 km SO de Chilliwack, BC"
   }
 ];
