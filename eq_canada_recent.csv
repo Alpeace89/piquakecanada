@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260302.1904001,2026-03-02T19:04:12.000Z,54.3992,-118.3912,3.98,MLy,1.97,"Suspected industry-related event, 90 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 90 km SSE de Grande Prairie, AB"
-20260302.1931001,2026-03-02T19:31:04.000Z,61.1559,-140.0361,5.0,ML,2.08,"60 km WSW of Burwash Landing, YT/60 km OSO de Burwash Landing, YT"
-20260302.1932001,2026-03-02T19:32:22.000Z,59.8942,-141.7655,5.0,ML,2.72,"253 km WSW of Haines Junction, YT/253 km OSO de Haines Junction, YT"
 20260302.2036001,2026-03-02T20:36:44.000Z,49.0109,-128.0083,10.0,Mw',3.31,"154 km W of Tofino, BC/154 km O de Tofino, BC"
 20260302.2203001,2026-03-02T22:03:01.000Z,60.6154,-139.9085,5.0,ML,2.53,"96 km SSW of Burwash Landing, YT/96 km SSO de Burwash Landing, YT"
 20260302.2203002,2026-03-02T22:03:56.000Z,49.7448,-124.5259,0.0,ML,1.69,"Blast, 10 km S of Powell River, BC/Dynamitage, 10 km S de Powell River, BC"
@@ -538,4 +535,10 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260416.0739001,2026-04-16T07:39:08.000Z,59.7411,-141.5496,5.0,ML,2.78,"250 km WSW of Haines Junction, YT/250 km OSO de Haines Junction, YT"
 20260416.0757001,2026-04-16T07:57:31.000Z,60.0585,-140.2391,5.0,ML1,2.03,"169 km WSW of Haines Junction, YT/169 km OSO de Haines Junction, YT"
 20260416.0809001,2026-04-16T08:09:01.000Z,50.4791,-130.2115,10.0,Mw,4.21,"193 km W of Port Hardy, BC/193 km O de Port Hardy, BC"
+20260416.0814001,2026-04-16T08:14:28.000Z,50.4985,-130.171,10.0,Mw',3.39,"190 km W of Port Hardy, BC/190 km O de Port Hardy, BC"
+20260416.0846001,2026-04-16T08:46:37.000Z,60.0627,-140.2057,5.0,ML,1.94,"167 km WSW of Haines Junction, YT/167 km OSO de Haines Junction, YT"
+20260416.1008001,2026-04-16T10:08:40.000Z,60.1741,-139.595,5.0,ML,2.13,"131 km WSW of Haines Junction, YT/131 km OSO de Haines Junction, YT"
+20260416.1114001,2026-04-16T11:14:16.000Z,60.5094,-140.0364,5.0,ML,2.96,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
+20260416.1402001,2026-04-16T14:02:15.000Z,56.7353,-121.8258,1.0,MLy,2.16,"Suspected industry-related event, 28 km N of Halfway River 168, BC/Événement lié à l'industrie soupconné, 28 km N de Halfway River 168, BC"
+20260416.1415001,2026-04-16T14:15:15.000Z,60.4431,-139.6695,5.0,ML,2.1,"123 km WSW of Haines Junction, YT/123 km OSO de Haines Junction, YT"
 20260416.1533001,2026-04-16T15:33:25.000Z,44.6882,-79.4925,0.0,MwN,1.1,"Blast, 11 km NNW of Orillia, ON/Dynamitage, 11 km NNO de Orillia, ON"
