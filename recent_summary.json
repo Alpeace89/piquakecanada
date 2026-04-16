@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-16T18:03:02Z",
+  "generated_utc": "2026-04-16T19:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 540,
   "events_last_24h": 6,
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-16 18:03 UTC, the recent Canada earthquake dataset contains 540 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.21 at 193 km W of Port Hardy, BC/193 km O de Port Hardy, BC. The deepest event reached 10.00 km at 193 km W of Port Hardy, BC/193 km O de Port Hardy, BC. The most recent listed event was M1.1 at Blast, 11 km NNW of Orillia, ON/Dynamitage, 11 km NNO de Orillia, ON at 2026-04-16T15:33:25.000Z. There were 3 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and YT (2)."
+  "summary_text": "As of 2026-04-16 19:03 UTC, the recent Canada earthquake dataset contains 540 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.21 at 193 km W of Port Hardy, BC/193 km O de Port Hardy, BC. The deepest event reached 10.00 km at 193 km W of Port Hardy, BC/193 km O de Port Hardy, BC. The most recent listed event was M1.1 at Blast, 11 km NNW of Orillia, ON/Dynamitage, 11 km NNO de Orillia, ON at 2026-04-16T15:33:25.000Z. There were 3 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and YT (2)."
 }
