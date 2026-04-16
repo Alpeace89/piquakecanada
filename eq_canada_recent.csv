@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260302.0025001,2026-03-02T00:25:16.000Z,54.5198,-117.6216,1.0,MLy,2.26,"Suspected industry-related event, 54 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 54 km ONO de Fox Creek, AB"
 20260302.0210001,2026-03-02T02:10:21.000Z,61.1587,-140.0181,5.0,ML,2.41,"59 km WSW of Burwash Landing, YT/59 km OSO de Burwash Landing, YT"
 20260302.0218001,2026-03-02T02:18:01.000Z,48.2284,-121.8571,1.0,ML1,1.02,"39 km NE of Everett, WA/39 km NE de Everett, WA"
 20260302.0230001,2026-03-02T02:30:30.000Z,50.0651,-127.8894,10.0,ML,1.74,"49 km SW of Port Alice, BC/49 km SO de Port Alice, BC"

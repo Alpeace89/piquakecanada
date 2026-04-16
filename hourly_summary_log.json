@@ -3,12 +3,6 @@
     "timestamp_utc": "2026-03-26T01:42:19Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there have been three small earthquakes in British Columbia and Alberta. In the last 24 hours, 3 earthquake(s) were recorded, with the largest event M4.28 at 93 km SSE of Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC at 2026-03-25T13:25:34Z."
-  },
-  {
-    "timestamp_utc": "2026-03-26T01:42:19Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
     "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there were three earthquakes reported. In the last 24 hours, 3 earthquake(s) were recorded, with the largest event M4.28 at 93 km SSE of Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC at 2026-03-25T13:25:34Z."
   },
   {
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, we're excited to announce our new PiQuake Canada dashboard is now live in beta. Since the start of April, there have been a total of two recorded quakes within the last 24 hours. The largest event yesterday was a M2.72 near Tofino in British Columbia, and it happened at around 1:40 PM local time. We're keeping an eye on this area as always."
+  },
+  {
+    "timestamp_utc": "2026-04-16T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey folks, we just had two minor earthquakes in the last 24 hours. The biggest one was a M2.72 near Tofino in British Columbia and it happened on April 15th at around 1 PM. It's been quiet for now, with only one event recorded since yesterday. But BC and Quebec have been getting their fair share of these little tremors lately."
   }
 ]
