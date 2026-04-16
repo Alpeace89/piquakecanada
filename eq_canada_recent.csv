@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260302.1536001,2026-03-02T15:36:24.000Z,56.4097,-122.0669,3.79,MLy,2.48,"Suspected industry-related event, 15 km WSW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 15 km OSO de Halfway River 168, BC"
 20260302.1727001,2026-03-02T17:27:29.000Z,54.5597,-118.5711,1.0,MLy,2.43,"Suspected industry-related event, 69 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 69 km SSE de Grande Prairie, AB"
 20260302.1904001,2026-03-02T19:04:12.000Z,54.3992,-118.3912,3.98,MLy,1.97,"Suspected industry-related event, 90 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 90 km SSE de Grande Prairie, AB"
 20260302.1931001,2026-03-02T19:31:04.000Z,61.1559,-140.0361,5.0,ML,2.08,"60 km WSW of Burwash Landing, YT/60 km OSO de Burwash Landing, YT"
@@ -535,3 +534,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260414.2211002,2026-04-14T22:11:29.000Z,46.844,-70.8297,17.55,MwN,1.18,"8 km NW of Saint-Raphaël, QC/8 km NO de Saint-Raphaël, QC"
 20260415.1025001,2026-04-15T10:25:43.000Z,48.8591,-67.1399,7.07,MwN,0.94,"15 km ESE of Sainte-Félicité, QC/15 km ESE de Sainte-Félicité, QC"
 20260415.1339001,2026-04-15T13:39:54.000Z,48.6667,-128.5598,10.0,Mw',2.72,"201 km WSW of Tofino, BC/201 km OSO de Tofino, BC"
+20260416.0809001,2026-04-16T08:09:01.000Z,50.4791,-130.2115,10.0,Mw,4.21,"193 km W of Port Hardy, BC/193 km O de Port Hardy, BC"

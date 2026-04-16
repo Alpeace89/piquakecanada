@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-16T08:09:01.000Z",
+    "magnitude": "4.21",
+    "depth_km": "10.0",
+    "place": "193 km W of Port Hardy, BC/193 km O de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-04-15T13:39:54.000Z",
     "magnitude": "2.72",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.22",
     "depth_km": "2.0",
     "place": "78 km E of Ignace, ON/78 km E de Ignace, ON"
-  },
-  {
-    "time_utc": "2026-04-14T06:20:16.000Z",
-    "magnitude": "2.25",
-    "depth_km": "3.16",
-    "place": "Suspected industry-related event, 74 km W of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 74 km O de Prespatou, BC"
   }
 ];
