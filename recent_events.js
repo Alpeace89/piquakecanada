@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-16T16:03:39.000Z",
+    "magnitude": "2.73",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 11 km WNW of Sturgeon County, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 11 km ONO de Sturgeon County, AB"
+  },
+  {
+    "time_utc": "2026-04-16T15:48:22.000Z",
+    "magnitude": "3.67",
+    "depth_km": "10.0",
+    "place": "198 km W of Port Hardy, BC/198 km O de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-04-16T15:33:25.000Z",
     "magnitude": "1.1",
     "depth_km": "0.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "4.21",
     "depth_km": "10.0",
     "place": "193 km W of Port Hardy, BC/193 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-16T07:57:31.000Z",
-    "magnitude": "2.03",
-    "depth_km": "5.0",
-    "place": "169 km WSW of Haines Junction, YT/169 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-16T07:39:08.000Z",
-    "magnitude": "2.78",
-    "depth_km": "5.0",
-    "place": "250 km WSW of Haines Junction, YT/250 km OSO de Haines Junction, YT"
   }
 ];
