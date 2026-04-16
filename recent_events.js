@@ -12,6 +12,30 @@ window.recentEvents = [
     "place": "193 km W of Port Hardy, BC/193 km O de Port Hardy, BC"
   },
   {
+    "time_utc": "2026-04-16T07:57:31.000Z",
+    "magnitude": "2.03",
+    "depth_km": "5.0",
+    "place": "169 km WSW of Haines Junction, YT/169 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-16T07:39:08.000Z",
+    "magnitude": "2.78",
+    "depth_km": "5.0",
+    "place": "250 km WSW of Haines Junction, YT/250 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-16T04:12:19.000Z",
+    "magnitude": "3.8",
+    "depth_km": "10.0",
+    "place": "175 km W of Port Hardy, BC/175 km O de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-04-16T03:56:45.000Z",
+    "magnitude": "3.18",
+    "depth_km": "10.0",
+    "place": "93 km WSW of Masset, BC/93 km OSO de Masset, BC"
+  },
+  {
     "time_utc": "2026-04-15T13:39:54.000Z",
     "magnitude": "2.72",
     "depth_km": "10.0",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "0.45",
     "depth_km": "7.71",
     "place": "14 km WNW of La Pocati\u00e8re, QC/14 km ONO de La Pocati\u00e8re, QC"
-  },
-  {
-    "time_utc": "2026-04-14T17:29:16.000Z",
-    "magnitude": "1.33",
-    "depth_km": "0.0",
-    "place": "Blast, 4 km SSW of Saint Croix, NB/Dynamitage, 4 km SSO de Saint Croix, NB"
-  },
-  {
-    "time_utc": "2026-04-14T16:36:43.000Z",
-    "magnitude": "3.94",
-    "depth_km": "13.17",
-    "place": "12 km SSE of Otter Lake, QC, felt/12 km SSE de Otter Lake, QC, ressenti"
-  },
-  {
-    "time_utc": "2026-04-14T15:03:08.000Z",
-    "magnitude": "1.56",
-    "depth_km": "29.5",
-    "place": "32 km WSW of Yuquot 1, BC/32 km OSO de Yuquot 1, BC"
-  },
-  {
-    "time_utc": "2026-04-14T12:57:24.000Z",
-    "magnitude": "2.72",
-    "depth_km": "0.98",
-    "place": "83 km WNW of Burwash Landing, YT/83 km ONO de Burwash Landing, YT"
   }
 ];
