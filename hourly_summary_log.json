@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-26T06:03:01Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the last 24 hours, there were three events registered on our Canada earthquake dashboard. In the last 24 hours, 3 earthquake(s) were recorded, with the largest event M4.28 at 93 km SSE of Daajing Giids, BC. The most recent listed event was M4.28 at 93 km SSE of Daajing Giids, BC at 2026-03-25T13:25:34Z."
-  },
-  {
     "timestamp_utc": "2026-03-26T07:03:01Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two small earthquakes with a magnitude of M2.72 each. They both happened around 200 km west-southwest of Tofino in British Columbia and it's still early days, but so far, they've only been happening in Quebec and British Columbia areas."
+  },
+  {
+    "timestamp_utc": "2026-04-16T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major quakes reported overall. However, two minor tremors with a magnitude of M2.72 each occurred in British Columbia, 201 kilometers west-southwest of Tofino and its opposite side. These events happened on April 15 at around 1:39 PM UTC. The area covered by these quakes includes parts of Quebec as well."
   }
 ]
