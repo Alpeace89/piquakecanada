@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event yesterday was an unknown magnitude at an unknown location. The latest quake was a M2.72 near Tofino, BC, recorded on April 15th around 1:39 PM local time.
+Hey folks! It's been a quiet day on the PiQuake Canada dashboard. No earthquakes to report in the last 24 hours, but we had our first shaker of the week yesterday—just a M2.72 near Tofino, BC. Not much to see here, but it's good to know we're all safe!
