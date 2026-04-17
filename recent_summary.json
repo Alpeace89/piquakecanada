@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-04-17T08:03:01Z",
+  "generated_utc": "2026-04-17T09:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 545,
-  "events_last_24h": 10,
+  "rolling_window_event_count": 544,
+  "events_last_24h": 7,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 3,
-  "count_m4plus_last_24h": 1,
+  "count_m3plus_last_24h": 1,
+  "count_m4plus_last_24h": 0,
   "latest_event": {
     "event_id": "20260416.1603001",
     "time_utc": "2026-04-16T16:03:39.000Z",
@@ -18,14 +18,14 @@
     "region": "AB"
   },
   "largest_event_last_24h": {
-    "event_id": "20260416.0809001",
-    "time_utc": "2026-04-16T08:09:01.000Z",
-    "latitude": 50.4791,
-    "longitude": -130.2115,
+    "event_id": "20260416.1548001",
+    "time_utc": "2026-04-16T15:48:22.000Z",
+    "latitude": 50.5558,
+    "longitude": -130.2984,
     "depth_km": 10.0,
-    "mag_type": "Mw",
-    "magnitude": 4.21,
-    "place": "193 km W of Port Hardy, BC/193 km O de Port Hardy, BC",
+    "mag_type": "Mw'",
+    "magnitude": 3.67,
+    "place": "198 km W of Port Hardy, BC/198 km O de Port Hardy, BC",
     "region": "BC"
   },
   "deepest_event_last_24h": {
@@ -41,17 +41,17 @@
   },
   "top_regions_last_24h": [
     {
-      "region": "BC",
-      "count": 4
+      "region": "YT",
+      "count": 3
     },
     {
-      "region": "YT",
-      "count": 4
+      "region": "BC",
+      "count": 2
     },
     {
       "region": "ON",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-17 08:03 UTC, the recent Canada earthquake dataset contains 545 events from the current rolling window. In the last 24 hours, 10 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.21 at 193 km W of Port Hardy, BC/193 km O de Port Hardy, BC. The deepest event reached 10.00 km at 198 km W of Port Hardy, BC/198 km O de Port Hardy, BC. The most recent listed event was M2.73 at Suspected industry-related event, 11 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 11 km ONO de Sturgeon County, AB at 2026-04-16T16:03:39.000Z. There were 3 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and YT (4)."
+  "summary_text": "As of 2026-04-17 09:03 UTC, the recent Canada earthquake dataset contains 544 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.67 at 198 km W of Port Hardy, BC/198 km O de Port Hardy, BC. The deepest event reached 10.00 km at 198 km W of Port Hardy, BC/198 km O de Port Hardy, BC. The most recent listed event was M2.73 at Suspected industry-related event, 11 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 11 km ONO de Sturgeon County, AB at 2026-04-16T16:03:39.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (3) and BC (2)."
 }
