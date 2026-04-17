@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-27T15:03:01Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past day, there was one reported earthquake event in Ontario measuring M1.92 near Ramara at a depth of 2 km. In the last 24 hours, 1 earthquake(s) were recorded, with the largest event M1.92 at 2 km ESE of Ramara, ON. The most recent listed event was M1.92 at 2 km ESE of Ramara, ON at 2026-03-26T17:17:35Z."
-  },
-  {
     "timestamp_utc": "2026-03-27T16:03:01Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three minor events. The largest one was a M2.72 near Grande Prairie in Alberta, linked to an industry event. In that time frame, we saw two more small quakes in Quebec City area. It's pretty quiet lately; most of these were down in those two regions."
+  },
+  {
+    "timestamp_utc": "2026-04-17T22:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two minor quakes monitored by our PiQuake Canada dashboard. The largest one was a tiny M0.45 near Saint-Pascal in Quebec, and another very small shake happened a bit further east around La Malbaie. These events are all pretty much imperceptible for the average person, but they're part of what we track to understand our area better."
   }
 ]
