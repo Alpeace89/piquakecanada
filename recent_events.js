@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-16T19:37:49.000Z",
+    "magnitude": "3.33",
+    "depth_km": "1.0",
+    "place": "Suspected blast, 16 km ESE of Hinton, AB/Dynamitage soupconn\u00e9, 16 km ESE de Hinton, AB"
+  },
+  {
     "time_utc": "2026-04-16T16:03:39.000Z",
     "magnitude": "2.73",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.39",
     "depth_km": "10.0",
     "place": "190 km W of Port Hardy, BC/190 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-16T08:09:01.000Z",
-    "magnitude": "4.21",
-    "depth_km": "10.0",
-    "place": "193 km W of Port Hardy, BC/193 km O de Port Hardy, BC"
   }
 ];
