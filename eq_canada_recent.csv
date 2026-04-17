@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260303.0943001,2026-03-03T09:43:25.000Z,54.7705,-124.275,0.83,ML,2.94,"36 km N of Fort St. James, BC/36 km N de Fort St. James, BC"
 20260303.1236001,2026-03-03T12:36:18.000Z,60.4731,-139.5501,1.0,ML,3.38,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
 20260303.1617001,2026-03-03T16:17:58.000Z,42.867,-78.4228,2.0,MwN,1.69,"37 km E of Buffalo, NY/37 km E de Buffalo, NY"
 20260304.0306001,2026-03-04T03:06:50.000Z,50.647,-120.526,1.0,ML,2.09,"Mining event, 14 km WSW of Kamloops, BC/Événement minier, 14 km OSO de Kamloops, BC"
