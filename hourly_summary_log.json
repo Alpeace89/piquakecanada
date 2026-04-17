@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-27T08:03:01Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there have been six recorded earthquakes with the largest measuring M2.41 near Haines Junction in Yukon Territory. In the last 24 hours, 6 earthquake(s) were recorded, with the largest event M2.41 at 137 km W of Haines Junction, YT. The most recent listed event was M1.92 at 2 km ESE of Ramara, ON at 2026-03-26T17:17:35Z."
-  },
-  {
     "timestamp_utc": "2026-03-27T09:03:01Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there were five events reported by the PiQuake Canada dashboard. The largest one was a M3.67 under Port Hardy, BC and Hinton, AB. Just recently, we had an event of M3.33 near Hinton, AB that was suspected to be from blasting or dynamite."
+  },
+  {
+    "timestamp_utc": "2026-04-17T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the past 24 hours, we've had seven minor quakes with the largest measuring M3.67 about 198 km west of Port Hardy in British Columbia. The latest one was a tiny M-0.02 shake that happened just before dawn today near La Malbaie in Quebec. It looks like Alberta and Quebec have been feeling it more often lately, with three quakes each in the last day."
   }
 ]

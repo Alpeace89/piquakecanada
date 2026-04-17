@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-04-17T14:03:02Z",
+  "generated_utc": "2026-04-17T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 543,
-  "events_last_24h": 5,
+  "rolling_window_event_count": 546,
+  "events_last_24h": 7,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 2,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260416.1937001",
-    "time_utc": "2026-04-16T19:37:49.000Z",
-    "latitude": 53.3678,
-    "longitude": -117.3397,
-    "depth_km": 1.0,
-    "mag_type": "ML",
-    "magnitude": 3.33,
-    "place": "Suspected blast, 16 km ESE of Hinton, AB/Dynamitage soupconné, 16 km ESE de Hinton, AB",
-    "region": "AB"
+    "event_id": "20260417.0337001",
+    "time_utc": "2026-04-17T03:37:58.000Z",
+    "latitude": 47.5684,
+    "longitude": -70.073,
+    "depth_km": 11.33,
+    "mag_type": "MwN",
+    "magnitude": -0.02,
+    "place": "11 km SSE of La Malbaie, QC/11 km SSE de La Malbaie, QC",
+    "region": "QC"
   },
   "largest_event_last_24h": {
     "event_id": "20260416.1548001",
@@ -29,29 +29,29 @@
     "region": "BC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260416.1548001",
-    "time_utc": "2026-04-16T15:48:22.000Z",
-    "latitude": 50.5558,
-    "longitude": -130.2984,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.67,
-    "place": "198 km W of Port Hardy, BC/198 km O de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260417.0255001",
+    "time_utc": "2026-04-17T02:55:01.000Z",
+    "latitude": 47.6264,
+    "longitude": -69.8642,
+    "depth_km": 16.29,
+    "mag_type": "MwN",
+    "magnitude": 0.45,
+    "place": "11 km NNW of Saint-Pascal, QC/11 km NNO de Saint-Pascal, QC",
+    "region": "QC"
   },
   "top_regions_last_24h": [
     {
       "region": "AB",
-      "count": 2
+      "count": 3
     },
     {
-      "region": "YT",
-      "count": 1
+      "region": "QC",
+      "count": 2
     },
     {
       "region": "ON",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-17 14:03 UTC, the recent Canada earthquake dataset contains 543 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.67 at 198 km W of Port Hardy, BC/198 km O de Port Hardy, BC. The deepest event reached 10.00 km at 198 km W of Port Hardy, BC/198 km O de Port Hardy, BC. The most recent listed event was M3.33 at Suspected blast, 16 km ESE of Hinton, AB/Dynamitage soupconné, 16 km ESE de Hinton, AB at 2026-04-16T19:37:49.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (2) and YT (1)."
+  "summary_text": "As of 2026-04-17 15:03 UTC, the recent Canada earthquake dataset contains 546 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.67 at 198 km W of Port Hardy, BC/198 km O de Port Hardy, BC. The deepest event reached 16.29 km at 11 km NNW of Saint-Pascal, QC/11 km NNO de Saint-Pascal, QC. The most recent listed event was M-0.02 at 11 km SSE of La Malbaie, QC/11 km SSE de La Malbaie, QC at 2026-04-17T03:37:58.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (3) and QC (2)."
 }
