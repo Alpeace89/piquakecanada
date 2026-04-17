@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-27T04:03:01Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there have been 11 recorded events across Canada. In the last 24 hours, 11 earthquake(s) were recorded, with the largest event M2.48 at Suspected industry-related event, 31 km W of Blueberry River 205, BC. The most recent listed event was M1.92 at 2 km ESE of Ramara, ON at 2026-03-26T17:17:35Z."
-  },
-  {
     "timestamp_utc": "2026-03-27T05:03:01Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had a total of 7 minor seismic events detected by our PiQuake Canada dashboard. The largest one measured at M3.67 and happened about 198 km west of Port Hardy in British Columbia. In this period, we also caught two industry-related events, with the smallest occurring near Sturgeon County, Alberta."
+  },
+  {
+    "timestamp_utc": "2026-04-17T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of six quakes reported. The biggest one was a M3.67 near Port Hardy in British Columbia and Sturgeon County in Alberta. It's important to note that most of these events were small and not likely natural, with some suspected industry-related causes. That’s the summary folks!"
   }
 ]
