@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-04-17T03:03:01Z",
+  "generated_utc": "2026-04-17T04:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 546,
-  "events_last_24h": 14,
+  "events_last_24h": 13,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 5,
+  "count_m3plus_last_24h": 4,
   "count_m4plus_last_24h": 1,
   "latest_event": {
     "event_id": "20260416.1603001",
@@ -41,17 +41,17 @@
   },
   "top_regions_last_24h": [
     {
-      "region": "BC",
+      "region": "YT",
       "count": 6
     },
     {
-      "region": "YT",
-      "count": 6
+      "region": "BC",
+      "count": 5
     },
     {
       "region": "ON",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-17 03:03 UTC, the recent Canada earthquake dataset contains 546 events from the current rolling window. In the last 24 hours, 14 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.21 at 193 km W of Port Hardy, BC/193 km O de Port Hardy, BC. The deepest event reached 10.00 km at 198 km W of Port Hardy, BC/198 km O de Port Hardy, BC. The most recent listed event was M2.73 at Suspected industry-related event, 11 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 11 km ONO de Sturgeon County, AB at 2026-04-16T16:03:39.000Z. There were 5 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (6) and YT (6)."
+  "summary_text": "As of 2026-04-17 04:03 UTC, the recent Canada earthquake dataset contains 546 events from the current rolling window. In the last 24 hours, 13 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.21 at 193 km W of Port Hardy, BC/193 km O de Port Hardy, BC. The deepest event reached 10.00 km at 198 km W of Port Hardy, BC/198 km O de Port Hardy, BC. The most recent listed event was M2.73 at Suspected industry-related event, 11 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 11 km ONO de Sturgeon County, AB at 2026-04-16T16:03:39.000Z. There were 4 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (6) and BC (5)."
 }
