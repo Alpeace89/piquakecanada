@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-18T01:03:01Z",
+  "generated_utc": "2026-04-18T02:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 545,
   "events_last_24h": 2,
@@ -45,5 +45,5 @@
       "count": 2
     }
   ],
-  "summary_text": "As of 2026-04-18 01:03 UTC, the recent Canada earthquake dataset contains 545 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M0.45 at 11 km NNW of Saint-Pascal, QC/11 km NNO de Saint-Pascal, QC. The deepest event reached 16.29 km at 11 km NNW of Saint-Pascal, QC/11 km NNO de Saint-Pascal, QC. The most recent listed event was M-0.02 at 11 km SSE of La Malbaie, QC/11 km SSE de La Malbaie, QC at 2026-04-17T03:37:58.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
+  "summary_text": "As of 2026-04-18 02:03 UTC, the recent Canada earthquake dataset contains 545 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M0.45 at 11 km NNW of Saint-Pascal, QC/11 km NNO de Saint-Pascal, QC. The deepest event reached 16.29 km at 11 km NNW of Saint-Pascal, QC/11 km NNO de Saint-Pascal, QC. The most recent listed event was M-0.02 at 11 km SSE of La Malbaie, QC/11 km SSE de La Malbaie, QC at 2026-04-17T03:37:58.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
 }
