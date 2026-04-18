@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events for the last 24 hours and we've got a tiny shake at 0.02 magnitude happening around La Malbaie, QC this morning which is pretty quiet for our system. Everything's calm up north!
+The PiQuake Canada dashboard showed no activity in the last hour or day, and the largest event was a tiny M-0.02 near La Malbaie, QC. It happened around midnight on April 17th.
