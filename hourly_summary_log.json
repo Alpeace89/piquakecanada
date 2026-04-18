@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-27T20:56:54Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the last 24 hours, there were two small earthquakes recorded. In the last 24 hours, 2 earthquake(s) were recorded, with the largest event M2.51 at Suspected industry-related event, 58 km W of Fox Creek, AB. The most recent listed event was M2.09 at 101 km SW of Burwash Landing, YT at 2026-03-27T11:08:02Z."
-  },
-  {
     "timestamp_utc": "2026-03-27T21:03:01Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there was one event yesterday. It was a tiny shake with a magnitude of M-0.02, happening just 11 kilometers southeast of La Malbaie, QC/11 km SSE de La Malbaie, QC. This is our latest report, and it's been like this for the whole day, no big shakes or events recorded so far."
+  },
+  {
+    "timestamp_utc": "2026-04-18T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard has had no seismic events in the last hour or day. The largest event recorded was a magnitude of unknown size, happening at an unknown location and time. The latest minor shake registered was a M-0.02 near La Malbaie, QC around 3:38 AM yesterday."
   }
 ]
