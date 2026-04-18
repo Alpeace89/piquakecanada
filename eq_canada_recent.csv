@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260304.2138001,2026-03-04T21:38:18.000Z,53.3843,-117.3023,0.0,ML,3.22,"Blast, 18 km E of Hinton, AB/Dynamitage, 18 km E de Hinton, AB"
 20260305.0145001,2026-03-05T01:45:40.000Z,60.4502,-139.694,5.0,ML,2.26,"124 km WSW of Haines Junction, YT/124 km OSO de Haines Junction, YT"
 20260305.0242001,2026-03-05T02:42:47.000Z,59.4356,-138.6224,5.0,ML,2.88,"159 km SSW of Haines Junction, YT/159 km SSO de Haines Junction, YT"
 20260305.0301001,2026-03-05T03:01:26.000Z,47.335,-76.3233,8.59,MwN,2.05,"107 km NW of Mont-Laurier, QC/107 km NO de Mont-Laurier, QC"
