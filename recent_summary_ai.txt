@@ -1,1 +1,1 @@
-In the past 24 hours, no earthquakes were recorded on our PiQuake Canada dashboard. The largest event was a tiny tremor measuring M-0.02 that happened around 3:38 AM yesterday in the area near La Malbaie, Quebec. Nothing major or noteworthy happened recently.
+In the past 24 hours, there haven't been any earthquakes detected. The largest one recorded was a tiny M-0.02 near La Malbaie, QC, which happened on April 17th at around 3:38 AM. It's pretty small and didn't cause any problems, but it's still being monitored in case bigger ones pop up.
