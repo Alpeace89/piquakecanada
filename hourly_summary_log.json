@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-27T22:41:00Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there were two small earthquakes with the largest measuring M2.51 and occurring near Fox Creek, Alberta, likely related to industry activities. In the last 24 hours, 2 earthquake(s) were recorded, with the largest event M2.51 at Suspected industry-related event, 58 km W of Fox Creek, AB. The most recent listed event was M2.09 at 101 km SW of Burwash Landing, YT at 2026-03-27T11:08:02Z."
-  },
-  {
     "timestamp_utc": "2026-03-27T23:03:01Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were recorded by our PiQuake Canada dashboard. The largest event was a tiny M-0.02 near La Malbaie in Quebec. It happened around midnight on April 17th. Nothing to worry about!"
+  },
+  {
+    "timestamp_utc": "2026-04-18T08:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no recorded earthquakes on the PiQuake Canada dashboard. The largest event was a barely perceptible tremor measuring M-0.02, which happened about 11 kilometers southeast of La Malbaie, Quebec at around 3:37 AM UTC yesterday."
   }
 ]
