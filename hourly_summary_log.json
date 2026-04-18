@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-28T11:03:01Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there was one event with an earthquake magnitude of M2.09 near Burwash Landing in Yukon Territory. In the last 24 hours, 1 earthquake(s) were recorded, with the largest event M2.09 at 101 km SW of Burwash Landing, YT. The most recent listed event was M2.09 at 101 km SW of Burwash Landing, YT at 2026-03-27T11:08:02Z."
-  },
-  {
     "timestamp_utc": "2026-03-28T12:03:01Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the PiQuake Canada dashboard, it's been quiet as usual. No earthquakes to report for the last hour or day. The largest one recorded in the past 24 hours was a tiny M-0.02 near La Malbaie, Quebec. It happened on April 17th around 3:38 AM."
+  },
+  {
+    "timestamp_utc": "2026-04-18T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no recorded earthquakes on the PiQuake Canada dashboard. The largest event was a tiny one measuring M-0.02 and it happened about 11 kilometers southeast of La Malbaie in Quebec around midnight on April 17th. It's the kind of nothingness that makes the Earth move just a teeny bit, but don't worry—it’s still pretty quiet down there!"
   }
 ]
