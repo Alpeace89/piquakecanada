@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260304.1033001,2026-03-04T10:33:12.000Z,60.5942,-139.927,1.0,ML,3.28,"99 km SSW of Burwash Landing, YT/99 km SSO de Burwash Landing, YT"
 20260304.1349001,2026-03-04T13:49:55.000Z,60.5223,-139.9511,1.0,ML,3.5,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
 20260304.1356002,2026-03-04T13:56:57.000Z,47.4366,-69.9079,22.02,MwN,0.37,"12 km NE of La Pocatière, QC/12 km NE de La Pocatière, QC"
 20260304.1859001,2026-03-04T18:59:25.000Z,46.4521,-67.3382,5.0,MwN,1.31,"7 km ESE of Glassville, NB/7 km ESE de Glassville, NB"
