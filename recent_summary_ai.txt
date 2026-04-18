@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day, with a smallest recorded event being M-0.02 happening near La Malbaie, QC at an unknown time. There's nothing to report today.
+The PiQuake Canada dashboard hasn't had any activity in the last hour or day. The largest event recorded was an unknown magnitude happening at an unknown location, way back on April 17th around 3:38 AM. That's pretty quiet for our Canadian seismometer network!
