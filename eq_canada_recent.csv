@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260305.1820001,2026-03-05T18:20:35.000Z,50.3029,-130.2644,10.0,Mw',3.65,"201 km WSW of Port Hardy, BC/201 km OSO de Port Hardy, BC"
-20260305.1842001,2026-03-05T18:42:01.000Z,49.3234,-68.0558,0.0,MwN,1.81,"Blast, 20 km NE of Hauterive, QC/Dynamitage, 20 km NE de Hauterive, QC"
-20260305.1859001,2026-03-05T18:59:10.000Z,52.6641,-132.1005,20.0,ML,1.78,"66 km S of Daajing Giids, BC/66 km S de Daajing Giids, BC"
 20260305.1956001,2026-03-05T19:56:30.000Z,47.5471,-70.298,10.86,MwN,0.37,"16 km SW of La Malbaie, QC/16 km SO de La Malbaie, QC"
 20260305.2039001,2026-03-05T20:39:47.000Z,58.9455,-137.9539,5.0,ML,2.8,"252 km SW of Whitehorse, YT/252 km SO de Whitehorse, YT"
 20260305.2132001,2026-03-05T21:32:51.000Z,54.5094,-117.6533,1.0,MLy,2.3,"Suspected industry-related event, 56 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 56 km ONO de Fox Creek, AB"
