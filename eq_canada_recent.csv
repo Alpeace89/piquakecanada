@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260305.0559001,2026-03-05T05:59:50.000Z,54.2932,-117.7196,4.73,MLy,2.27,"Suspected industry-related event, 60 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 60 km O de Fox Creek, AB"
 20260305.0620001,2026-03-05T06:20:35.000Z,54.5108,-117.6448,3.28,MLy,2.39,"Suspected industry-related event, 56 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 56 km ONO de Fox Creek, AB"
 20260305.1007001,2026-03-05T10:07:37.000Z,60.3538,-139.3778,5.0,ML,2.84,"111 km WSW of Haines Junction, YT/111 km OSO de Haines Junction, YT"
 20260305.1104001,2026-03-05T11:04:50.000Z,60.5647,-139.8764,5.0,ML,2.92,"100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
@@ -310,8 +309,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260329.1807001,2026-03-29T18:07:21.000Z,58.9735,-137.9313,1.0,ML,3.46,"249 km SW of Whitehorse, YT/249 km SO de Whitehorse, YT"
 20260330.0029001,2026-03-30T00:29:05.000Z,61.1898,-139.8997,5.0,ML,1.9,"52 km WSW of Burwash Landing, YT/52 km OSO de Burwash Landing, YT"
 20260330.0146001,2026-03-30T01:46:30.000Z,60.3853,-139.5204,5.0,ML,2.35,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-20260330.0207002,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,Mw',3.24,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
+20260330.0207002,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,Mw',3.24,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0226001,2026-03-30T02:26:44.000Z,48.7307,-128.6557,10.0,Mw',3.64,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
 20260330.0422001,2026-03-30T04:22:51.000Z,54.318,-118.5257,1.0,MLy,2.39,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
 20260330.0605001,2026-03-30T06:05:55.000Z,56.6666,-121.5519,1.0,MLy,2.7,"Suspected industry-related event, 28 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 28 km O de Blueberry River 205, BC"

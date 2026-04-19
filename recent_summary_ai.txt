@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day, and there hasn't been any earthquake event since midnight yesterday. The latest recorded quake was quite small at a magnitude of M-0.02 near La Malbaie, Quebec.
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a tiny one with a magnitude of 'unknown magnitude' at an unknown location and time. The latest event registered was a very small quake, measuring M-0.02, which happened 11 kilometers southeast of La Malbaie, QC on April 17th.
