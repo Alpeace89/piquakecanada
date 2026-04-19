@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260305.2039001,2026-03-05T20:39:47.000Z,58.9455,-137.9539,5.0,ML,2.8,"252 km SW of Whitehorse, YT/252 km SO de Whitehorse, YT"
 20260305.2132001,2026-03-05T21:32:51.000Z,54.5094,-117.6533,1.0,MLy,2.3,"Suspected industry-related event, 56 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 56 km ONO de Fox Creek, AB"
 20260306.0033001,2026-03-06T00:33:27.000Z,41.7797,-81.086,5.0,MwN,2.29,"61 km NE of Cleveland, OH/61 km NE de Cleveland, OH"
 20260306.0307001,2026-03-06T03:07:41.000Z,48.6885,-122.4636,20.25,ML,1.7,"8 km SSE of Bellingham, WA/8 km SSE de Bellingham, WA"
