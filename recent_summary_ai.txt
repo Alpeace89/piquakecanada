@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day, and there's no record of any significant quakes within the past 24 hours either. The latest event was a tiny one measuring M-0.02 near La Malbaie, QC, which happened on April 17 at around 3:38 AM.
+Here's the beta summary for PiQuake Canada dashboard: Nothing significant happened last hour or day, and there hasn't been any big quakes either. The latest quake was tiny, just M-0.02 near La Malbaie in Quebec on April 17th at around 3:38 AM local time.
