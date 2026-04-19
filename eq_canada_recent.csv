@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260305.1747001,2026-03-05T17:47:28.000Z,50.2961,-130.2612,10.0,Mw',3.69,"201 km WSW of Port Hardy, BC/201 km OSO de Port Hardy, BC"
-20260305.1754001,2026-03-05T17:54:17.000Z,52.6253,-132.1226,19.98,ML,3.68,"70 km S of Daajing Giids, BC/70 km S de Daajing Giids, BC"
 20260305.1820001,2026-03-05T18:20:35.000Z,50.3029,-130.2644,10.0,Mw',3.65,"201 km WSW of Port Hardy, BC/201 km OSO de Port Hardy, BC"
 20260305.1842001,2026-03-05T18:42:01.000Z,49.3234,-68.0558,0.0,MwN,1.81,"Blast, 20 km NE of Hauterive, QC/Dynamitage, 20 km NE de Hauterive, QC"
 20260305.1859001,2026-03-05T18:59:10.000Z,52.6641,-132.1005,20.0,ML,1.78,"66 km S of Daajing Giids, BC/66 km S de Daajing Giids, BC"
