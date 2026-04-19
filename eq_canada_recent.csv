@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260305.0620001,2026-03-05T06:20:35.000Z,54.5108,-117.6448,3.28,MLy,2.39,"Suspected industry-related event, 56 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 56 km ONO de Fox Creek, AB"
 20260305.1007001,2026-03-05T10:07:37.000Z,60.3538,-139.3778,5.0,ML,2.84,"111 km WSW of Haines Junction, YT/111 km OSO de Haines Junction, YT"
 20260305.1104001,2026-03-05T11:04:50.000Z,60.5647,-139.8764,5.0,ML,2.92,"100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
 20260305.1128001,2026-03-05T11:28:39.000Z,48.8374,-122.5859,20.46,ML,1.53,"11 km NW of Bellingham, WA/11 km NO de Bellingham, WA"
