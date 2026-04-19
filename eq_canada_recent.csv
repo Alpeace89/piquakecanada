@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260305.0242001,2026-03-05T02:42:47.000Z,59.4356,-138.6224,5.0,ML,2.88,"159 km SSW of Haines Junction, YT/159 km SSO de Haines Junction, YT"
 20260305.0301001,2026-03-05T03:01:26.000Z,47.335,-76.3233,8.59,MwN,2.05,"107 km NW of Mont-Laurier, QC/107 km NO de Mont-Laurier, QC"
 20260305.0416001,2026-03-05T04:16:06.000Z,49.779,-121.5083,5.0,ML,2.07,"11 km SSW of Boston Bar, BC/11 km SSO de Boston Bar, BC"
 20260305.0559001,2026-03-05T05:59:50.000Z,54.2932,-117.7196,4.73,MLy,2.27,"Suspected industry-related event, 60 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 60 km O de Fox Creek, AB"
