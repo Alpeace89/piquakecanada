@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-28T22:03:01Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. There were no events recorded in the past 24 hours and only one event in the last hour. In the last 24 hours, 0 earthquake(s) were recorded, with the largest event unknown magnitude at Unknown location. The most recent listed event was M2.09 at 101 km SW of Burwash Landing, YT at 2026-03-27T11:08:02Z."
-  },
-  {
     "timestamp_utc": "2026-03-28T23:03:01Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no recorded quakes on the PiQuake Canada dashboard. The largest event was a tiny M-0.02 near La Malbaie in Quebec that happened around 3:38 AM yesterday. It's the quietest day yet!"
+  },
+  {
+    "timestamp_utc": "2026-04-19T08:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had no earthquakes detected by our dashboard. The largest one was a tiny M-0.02 near La Malbaie in Quebec. It happened on April 17th at around 3:38 AM. There haven't been any events in the past hour either."
   }
 ]
