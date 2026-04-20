@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260306.0307001,2026-03-06T03:07:41.000Z,48.6885,-122.4636,20.25,ML,1.7,"8 km SSE of Bellingham, WA/8 km SSE de Bellingham, WA"
 20260306.0601001,2026-03-06T06:01:23.000Z,58.9668,-138.0204,5.0,ML,3.03,"253 km SW of Whitehorse, YT/253 km SO de Whitehorse, YT"
 20260306.0626001,2026-03-06T06:26:37.000Z,47.6097,-69.9117,11.77,MwN,0.44,"12 km NW of Saint-Pascal, QC/12 km NO de Saint-Pascal, QC"
 20260306.0812001,2026-03-06T08:12:58.000Z,60.6002,-140.0545,5.0,ML,2.49,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
