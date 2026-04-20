@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-30T13:03:01Z",
-    "mode": "deterministic",
-    "model": null,
-    "summary": "No earthquakes were recorded in the last hour. In the last 24 hours, 1 earthquake(s) were recorded, with the largest event M4.8 at Preliminary; 183 km W   of Port Hardy, BC. The most recent listed event was M4.8 at Preliminary; 183 km W   of Port Hardy, BC at 2026-03-29T17:50:17Z."
-  },
-  {
     "timestamp_utc": "2026-03-30T14:03:01Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were six seismic events in the previous 24 hours. The largest event was a M3.14 happening 203 km WSW of Port Hardy, BC/203 km OSO de Port Hardy, BC, which is when the PiQuake Canada team gets its attention for monitoring and reporting. As of today's latest event at 11:05 am on April 20th, it's been happening in regions like British Columbia (three times) and the Yukon Territory (also three times)."
+  },
+  {
+    "timestamp_utc": "2026-04-20T23:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey there! The PiQuake Canada dashboard shows we had a total of six minor quakes last 24 hours. The largest one was a M3.14, happening about 200 km west-southwest of Port Hardy in British Columbia and Yukon. This area has seen three quakes each in BC and YT in the past day. Check it out!"
   }
 ]
