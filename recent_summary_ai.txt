@@ -1,1 +1,1 @@
-For the PiQuake Canada dashboard in its beta phase, there were no events recorded last hour or last 24 hours. The largest event detected was a magnitude unknown at an unknown location and time. Our latest event happened on April 19th around 10:57 AM local time, measuring just M1.24 near Cap-Chat in Quebec.
+The PiQuake Canada dashboard hasn't had any events in the last hour or 24 hours, and there's no largest event recorded either. The latest event was a M1.24 near Cap-Chat, Quebec, which happened on April 19 at around 10:57 AM UTC.

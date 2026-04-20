@@ -6,6 +6,24 @@ window.recentEvents = [
     "place": "40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"
   },
   {
+    "time_utc": "2026-04-17T12:41:21.000Z",
+    "magnitude": "3.41",
+    "depth_km": "10.0",
+    "place": "260 km WNW of Port Hardy, BC/260 km ONO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-04-17T09:57:28.000Z",
+    "magnitude": "3.14",
+    "depth_km": "5.0",
+    "place": "131 km WSW of Haines Junction, YT/131 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-17T06:22:39.000Z",
+    "magnitude": "1.95",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 43 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 43 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-04-17T03:37:58.000Z",
     "magnitude": "-0.02",
     "depth_km": "11.33",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.72",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 63 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 63 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-04-16T19:37:49.000Z",
-    "magnitude": "3.33",
-    "depth_km": "1.0",
-    "place": "Suspected blast, 16 km ESE of Hinton, AB/Dynamitage soupconn\u00e9, 16 km ESE de Hinton, AB"
-  },
-  {
-    "time_utc": "2026-04-16T16:03:39.000Z",
-    "magnitude": "2.73",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 11 km WNW of Sturgeon County, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 11 km ONO de Sturgeon County, AB"
-  },
-  {
-    "time_utc": "2026-04-16T15:48:22.000Z",
-    "magnitude": "3.67",
-    "depth_km": "10.0",
-    "place": "198 km W of Port Hardy, BC/198 km O de Port Hardy, BC"
   }
 ];

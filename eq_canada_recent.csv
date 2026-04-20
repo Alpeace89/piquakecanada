@@ -512,4 +512,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260417.0255001,2026-04-17T02:55:01.000Z,47.6264,-69.8642,16.29,MwN,0.45,"11 km NNW of Saint-Pascal, QC/11 km NNO de Saint-Pascal, QC"
 20260417.0331001,2026-04-17T03:31:18.000Z,60.5225,-139.7887,5.0,ML,2.25,"127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
 20260417.0337001,2026-04-17T03:37:58.000Z,47.5684,-70.073,11.33,MwN,-0.02,"11 km SSE of La Malbaie, QC/11 km SSE de La Malbaie, QC"
+20260417.0622001,2026-04-17T06:22:39.000Z,54.7976,-118.5986,1.0,MLy,1.95,"Suspected industry-related event, 43 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km SSE de Grande Prairie, AB"
+20260417.0957001,2026-04-17T09:57:28.000Z,60.488,-139.8437,5.0,ML,3.14,"131 km WSW of Haines Junction, YT/131 km OSO de Haines Junction, YT"
+20260417.1241001,2026-04-17T12:41:21.000Z,51.206,-131.1289,10.0,Mw',3.41,"260 km WNW of Port Hardy, BC/260 km ONO de Port Hardy, BC"
 20260419.1057001,2026-04-19T10:57:56.000Z,49.273,-67.1726,17.24,MwN,1.24,"40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"
