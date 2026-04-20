@@ -1,1 +1,1 @@
-In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event was a tiny shake with a magnitude of 0.02, happening about 11 km southeast of La Malbaie in Quebec. It happened at an unknown time but it's not like we see big shakes here.
+The PiQuake Canada dashboard is running smoothly and hasn't logged any quakes in the last hour or day. The largest recorded quake was just a tiny M-0.02 that happened near La Malbaie, QC yesterday at around 3:38 AM. Everything seems to be operating as expected!
