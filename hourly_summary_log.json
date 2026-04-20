@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-29T15:03:01Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. There have been no earthquakes reported within the past 24 hours in Canada. In the last 24 hours, 0 earthquake(s) were recorded, with the largest event unknown magnitude at Unknown location. The most recent listed event was M2.09 at 101 km SW of Burwash Landing, YT at 2026-03-27T11:08:02Z."
-  },
-  {
     "timestamp_utc": "2026-03-29T16:03:01Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard hasn't recorded any quakes in the last hour or day, and there's no specific event that stands out as a big one from the past 24 hours. The latest quake was really small, measuring only M-0.02, happening about 11 km south-southeast of La Malbaie, QC."
+  },
+  {
+    "timestamp_utc": "2026-04-20T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude of 0.02 that occurred near La Malbaie, Quebec on April 17th at around 3:38 am. There hasn't been any activity to report lately."
   }
 ]
