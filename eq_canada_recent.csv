@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260306.0908001,2026-03-06T09:08:05.000Z,48.0468,-122.3849,30.13,ML,2.09,"17 km NW of Everett, WA/17 km NO de Everett, WA"
 20260306.1224001,2026-03-06T12:24:23.000Z,66.024,-135.3464,5.0,ML,3.12,"158 km S of Fort McPherson, NT/158 km S de Fort McPherson, NT"
 20260306.1756001,2026-03-06T17:56:43.000Z,44.3252,-64.692,0.0,MwN,1.58,"Blast, 15 km WSW of Bridgewater, NS/Dynamitage, 15 km OSO de Bridgewater, NS"
 20260306.1951001,2026-03-06T19:51:29.000Z,60.5148,-140.0249,5.0,ML,2.45,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
