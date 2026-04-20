@@ -521,5 +521,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260417.2210001,2026-04-17T22:10:41.000Z,57.9421,-136.7018,5.0,ML,3.12,"140 km WSW of Juneau, AK/140 km OSO de Juneau, AK"
 20260417.2212001,2026-04-17T22:12:47.000Z,49.5587,-126.9018,26.04,ML,0.98,"21 km WSW of Yuquot 1, BC/21 km OSO de Yuquot 1, BC"
 20260417.2310001,2026-04-17T23:10:46.000Z,45.7592,-76.3604,11.42,MwN,1.77,"12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC"
-20260418.2156002,2026-04-18T21:56:33.000Z,53.9384,-113.4092,1.63,MLy,4.15,"Industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie, 12 km ONO de Sturgeon County, AB, ressenti"
+20260418.2156003,2026-04-18T21:56:33.000Z,53.9389,-113.4074,1.69,MLy,4.15,"Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB, ressent"
 20260419.1057001,2026-04-19T10:57:56.000Z,49.273,-67.1726,17.24,MwN,1.24,"40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"

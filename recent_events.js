@@ -8,8 +8,8 @@ window.recentEvents = [
   {
     "time_utc": "2026-04-18T21:56:33.000Z",
     "magnitude": "4.15",
-    "depth_km": "1.63",
-    "place": "Industry-related event, 12 km WNW of Sturgeon County, AB, felt/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie, 12 km ONO de Sturgeon County, AB, ressenti"
+    "depth_km": "1.69",
+    "place": "Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 12 km ONO de Sturgeon County, AB, ressent"
   },
   {
     "time_utc": "2026-04-17T23:10:46.000Z",
