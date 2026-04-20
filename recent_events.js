@@ -12,6 +12,12 @@ window.recentEvents = [
     "place": "Industry-related event, 12 km WNW of Sturgeon County, AB, felt/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie, 12 km ONO de Sturgeon County, AB, ressenti"
   },
   {
+    "time_utc": "2026-04-17T23:10:46.000Z",
+    "magnitude": "1.77",
+    "depth_km": "11.42",
+    "place": "12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC"
+  },
+  {
     "time_utc": "2026-04-17T22:12:47.000Z",
     "magnitude": "0.98",
     "depth_km": "26.04",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.41",
     "depth_km": "10.0",
     "place": "260 km WNW of Port Hardy, BC/260 km ONO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-17T09:57:28.000Z",
-    "magnitude": "3.14",
-    "depth_km": "5.0",
-    "place": "131 km WSW of Haines Junction, YT/131 km OSO de Haines Junction, YT"
   }
 ];

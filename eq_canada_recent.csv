@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260306.1756001,2026-03-06T17:56:43.000Z,44.3252,-64.692,0.0,MwN,1.58,"Blast, 15 km WSW of Bridgewater, NS/Dynamitage, 15 km OSO de Bridgewater, NS"
 20260306.1951001,2026-03-06T19:51:29.000Z,60.5148,-140.0249,5.0,ML,2.45,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
 20260306.2034001,2026-03-06T20:34:50.000Z,60.444,-139.5816,5.0,ML,2.73,"118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
 20260307.0134001,2026-03-07T01:34:19.000Z,60.5383,-140.0679,5.0,ML,2.37,"141 km W of Haines Junction, YT/141 km O de Haines Junction, YT"
@@ -521,5 +520,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260417.2204001,2026-04-17T22:04:31.000Z,57.9101,-136.7124,5.0,ML,4.03,"142 km WSW of Juneau, AK/142 km OSO de Juneau, AK"
 20260417.2210001,2026-04-17T22:10:41.000Z,57.9421,-136.7018,5.0,ML,3.12,"140 km WSW of Juneau, AK/140 km OSO de Juneau, AK"
 20260417.2212001,2026-04-17T22:12:47.000Z,49.5587,-126.9018,26.04,ML,0.98,"21 km WSW of Yuquot 1, BC/21 km OSO de Yuquot 1, BC"
+20260417.2310001,2026-04-17T23:10:46.000Z,45.7592,-76.3604,11.42,MwN,1.77,"12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC"
 20260418.2156002,2026-04-18T21:56:33.000Z,53.9384,-113.4092,1.63,MLy,4.15,"Industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie, 12 km ONO de Sturgeon County, AB, ressenti"
 20260419.1057001,2026-04-19T10:57:56.000Z,49.273,-67.1726,17.24,MwN,1.24,"40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"
