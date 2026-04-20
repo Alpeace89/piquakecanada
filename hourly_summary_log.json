@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-30T07:03:01Z",
-    "mode": "deterministic",
-    "model": null,
-    "summary": "No earthquakes were recorded in the last hour. In the last 24 hours, 1 earthquake(s) were recorded, with the largest event M4.8 at Preliminary; 183 km W   of Port Hardy, BC. The most recent listed event was M4.8 at Preliminary; 183 km W   of Port Hardy, BC at 2026-03-29T17:50:17Z."
-  },
-  {
     "timestamp_utc": "2026-03-30T08:03:02Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event detected was M1.24, and it happened on April 19th around Cap-Chat, Quebec, about 40 km west-northwest of its location and 40 km east-southeast. It's just a normal part of what we see in the region."
+  },
+  {
+    "timestamp_utc": "2026-04-20T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event was of unknown magnitude happening at an unknown location on an unknown time yesterday. The latest activity was a M1.24 quake, which is pretty minor and mostly felt by animals. It happened about 40 km west-northwest of Cap-Chat, Quebec, in the northwestern part of the province."
   }
 ]

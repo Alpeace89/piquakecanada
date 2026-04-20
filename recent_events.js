@@ -6,6 +6,36 @@ window.recentEvents = [
     "place": "40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"
   },
   {
+    "time_utc": "2026-04-18T21:56:33.000Z",
+    "magnitude": "4.15",
+    "depth_km": "1.63",
+    "place": "Industry-related event, 12 km WNW of Sturgeon County, AB, felt/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie, 12 km ONO de Sturgeon County, AB, ressenti"
+  },
+  {
+    "time_utc": "2026-04-17T22:12:47.000Z",
+    "magnitude": "0.98",
+    "depth_km": "26.04",
+    "place": "21 km WSW of Yuquot 1, BC/21 km OSO de Yuquot 1, BC"
+  },
+  {
+    "time_utc": "2026-04-17T22:10:41.000Z",
+    "magnitude": "3.12",
+    "depth_km": "5.0",
+    "place": "140 km WSW of Juneau, AK/140 km OSO de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-04-17T22:04:31.000Z",
+    "magnitude": "4.03",
+    "depth_km": "5.0",
+    "place": "142 km WSW of Juneau, AK/142 km OSO de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-04-17T20:26:02.000Z",
+    "magnitude": "1.6",
+    "depth_km": "5.0",
+    "place": "5 km NNW of Grimsby, ON/5 km NNO de Grimsby, ON"
+  },
+  {
     "time_utc": "2026-04-17T13:28:43.000Z",
     "magnitude": "3.06",
     "depth_km": "10.0",
@@ -28,35 +58,5 @@ window.recentEvents = [
     "magnitude": "3.14",
     "depth_km": "5.0",
     "place": "131 km WSW of Haines Junction, YT/131 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-17T06:22:39.000Z",
-    "magnitude": "1.95",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 43 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 43 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-04-17T03:37:58.000Z",
-    "magnitude": "-0.02",
-    "depth_km": "11.33",
-    "place": "11 km SSE of La Malbaie, QC/11 km SSE de La Malbaie, QC"
-  },
-  {
-    "time_utc": "2026-04-17T03:31:18.000Z",
-    "magnitude": "2.25",
-    "depth_km": "5.0",
-    "place": "127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-17T02:55:01.000Z",
-    "magnitude": "0.45",
-    "depth_km": "16.29",
-    "place": "11 km NNW of Saint-Pascal, QC/11 km NNO de Saint-Pascal, QC"
-  },
-  {
-    "time_utc": "2026-04-17T02:42:40.000Z",
-    "magnitude": "1.65",
-    "depth_km": "5.0",
-    "place": "34 km SW of Chilco Lake 1A, BC/34 km SO de Chilco Lake 1A, BC"
   }
 ];
