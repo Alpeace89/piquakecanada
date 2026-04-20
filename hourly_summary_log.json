@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-29T20:03:01Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there was one event with a magnitude of M4.8 near Port Hardy in British Columbia. In the last 24 hours, 1 earthquake(s) were recorded, with the largest event M4.8 at Preliminary; 183 km W of Port Hardy, BC. The most recent listed event was M4.8 at Preliminary; 183 km W of Port Hardy, BC at 2026-03-29T17:50:17Z."
-  },
-  {
     "timestamp_utc": "2026-03-29T21:03:01Z",
     "mode": "AI",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no recorded earthquakes. The largest event was a tiny tremor with a magnitude of 0.02 that happened near La Malbaie in Quebec on April 17th at around 3:38 am. It's pretty quiet out there, folks!"
+  },
+  {
+    "timestamp_utc": "2026-04-20T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is showing no activity for the last 24 hours. The largest event recorded was a tiny magnitude 0.02 near La Malbaie, QC on April 17th. It's quiet out there!"
   }
 ]
