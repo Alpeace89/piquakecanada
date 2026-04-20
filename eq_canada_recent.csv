@@ -508,5 +508,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260416.1937001,2026-04-16T19:37:49.000Z,53.3678,-117.3397,1.0,ML,3.33,"Suspected blast, 16 km ESE of Hinton, AB/Dynamitage soupconné, 16 km ESE de Hinton, AB"
 20260416.2108001,2026-04-16T21:08:17.000Z,54.6166,-118.5662,1.0,MLy,2.72,"Suspected industry-related event, 63 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 63 km SSE de Grande Prairie, AB"
 20260416.2159001,2026-04-16T21:59:36.000Z,44.7696,-68.0432,5.0,MwN,1.14,"58 km E of Bangor, ME/58 km E de Bangor, ME"
+20260417.0242001,2026-04-17T02:42:40.000Z,51.1965,-124.4376,5.0,ML,1.65,"34 km SW of Chilco Lake 1A, BC/34 km SO de Chilco Lake 1A, BC"
 20260417.0255001,2026-04-17T02:55:01.000Z,47.6264,-69.8642,16.29,MwN,0.45,"11 km NNW of Saint-Pascal, QC/11 km NNO de Saint-Pascal, QC"
+20260417.0331001,2026-04-17T03:31:18.000Z,60.5225,-139.7887,5.0,ML,2.25,"127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
 20260417.0337001,2026-04-17T03:37:58.000Z,47.5684,-70.073,11.33,MwN,-0.02,"11 km SSE of La Malbaie, QC/11 km SSE de La Malbaie, QC"
+20260419.1057001,2026-04-19T10:57:56.000Z,49.273,-67.1726,17.24,MwN,1.24,"40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"

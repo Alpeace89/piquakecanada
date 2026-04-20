@@ -1,1 +1,1 @@
-In the last 24 hours, there were no recorded quakes at all. The largest one was a tiny 0.02 magnitude near La Malbaie in Quebec. It happened on April 17th around 3:38 AM. That's it for the dashboard folks.
+For the PiQuake Canada dashboard in its beta phase, there were no events recorded last hour or last 24 hours. The largest event detected was a magnitude unknown at an unknown location and time. Our latest event happened on April 19th around 10:57 AM local time, measuring just M1.24 near Cap-Chat in Quebec.
