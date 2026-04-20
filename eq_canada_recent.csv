@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260306.1951001,2026-03-06T19:51:29.000Z,60.5148,-140.0249,5.0,ML,2.45,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
 20260306.2034001,2026-03-06T20:34:50.000Z,60.444,-139.5816,5.0,ML,2.73,"118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
 20260307.0134001,2026-03-07T01:34:19.000Z,60.5383,-140.0679,5.0,ML,2.37,"141 km W of Haines Junction, YT/141 km O de Haines Junction, YT"
 20260307.0218001,2026-03-07T02:18:15.000Z,54.5035,-117.6072,1.0,MLy,2.18,"Suspected industry-related event, 53 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 53 km ONO de Fox Creek, AB"
@@ -104,6 +103,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260315.0857001,2026-03-15T08:57:32.000Z,49.169,-89.611,0.93,MwN,1.39,"Mining event, Lac des Iles Mine, ON/Événement minier, Mine Lac des Îles,Lac des Iles, ON"
 20260315.1248001,2026-03-15T12:48:43.000Z,49.4171,-127.1904,33.11,ML,2.46,"67 km SW of Tahsis, BC/67 km SO de Tahsis, BC"
 20260315.1433001,2026-03-15T14:33:01.000Z,54.3172,-118.5609,5.0,MLy,3.13,"Suspected industry-related event, 60 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 60 km NE de Grande Cache, AB"
+20260315.2122001,2026-03-15T21:22:01.000Z,48.2517,-78.4518,3.11,MwN,2.46,"Mining event, LaRonde - Zone 5 Mine, QC/Événement minier, Mine LaRonde - Zone 5, QC"
 20260316.0219001,2026-03-16T02:19:02.000Z,54.391,-117.2301,5.0,MLy,2.87,"Suspected industry-related event, 27 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 27 km O de Fox Creek, AB"
 20260316.0248001,2026-03-16T02:48:01.000Z,60.4398,-139.4916,5.0,ML,2.66,"114 km WSW of Haines Junction, YT/114 km OSO de Haines Junction, YT"
 20260316.0339001,2026-03-16T03:39:44.000Z,47.5966,-70.2271,11.6,MwN,0.12,"8 km SW of La Malbaie, QC/8 km SO de La Malbaie, QC"
@@ -521,5 +521,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260417.2210001,2026-04-17T22:10:41.000Z,57.9421,-136.7018,5.0,ML,3.12,"140 km WSW of Juneau, AK/140 km OSO de Juneau, AK"
 20260417.2212001,2026-04-17T22:12:47.000Z,49.5587,-126.9018,26.04,ML,0.98,"21 km WSW of Yuquot 1, BC/21 km OSO de Yuquot 1, BC"
 20260417.2310001,2026-04-17T23:10:46.000Z,45.7592,-76.3604,11.42,MwN,1.77,"12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC"
+20260418.1554001,2026-04-18T15:54:16.000Z,47.4552,-70.0535,14.91,MwN,0.65,"10 km N of La Pocatière, QC/10 km N de La Pocatière, QC"
 20260418.2156003,2026-04-18T21:56:33.000Z,53.9389,-113.4074,1.69,MLy,4.15,"Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB, ressent"
 20260419.1057001,2026-04-19T10:57:56.000Z,49.273,-67.1726,17.24,MwN,1.24,"40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"
+20260420.0418001,2026-04-20T04:18:46.000Z,50.0629,-127.9649,10.0,ML,2.17,"53 km SW of Port Alice, BC/53 km SO de Port Alice, BC"

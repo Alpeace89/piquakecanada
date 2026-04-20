@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day, and there's no largest event recorded within that period. The latest quake was a M1.24 near Cap-Chat, Quebec, which happened on April 19th at around 10:58 AM UTC time.
+In the last 24 hours, there was one event recorded by our PiQuake Canada dashboard. It measured M2.17 and happened near Port Alice in British Columbia. That's right where it did before—a small tremor that we've been monitoring closely with our beta system.

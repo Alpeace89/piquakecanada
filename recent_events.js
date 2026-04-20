@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-20T04:18:46.000Z",
+    "magnitude": "2.17",
+    "depth_km": "10.0",
+    "place": "53 km SW of Port Alice, BC/53 km SO de Port Alice, BC"
+  },
+  {
     "time_utc": "2026-04-19T10:57:56.000Z",
     "magnitude": "1.24",
     "depth_km": "17.24",
@@ -10,6 +16,12 @@ window.recentEvents = [
     "magnitude": "4.15",
     "depth_km": "1.69",
     "place": "Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 12 km ONO de Sturgeon County, AB, ressent"
+  },
+  {
+    "time_utc": "2026-04-18T15:54:16.000Z",
+    "magnitude": "0.65",
+    "depth_km": "14.91",
+    "place": "10 km N of La Pocati\u00e8re, QC/10 km N de La Pocati\u00e8re, QC"
   },
   {
     "time_utc": "2026-04-17T23:10:46.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "3.06",
     "depth_km": "10.0",
     "place": "198 km W of Port Hardy, BC/198 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-17T12:43:14.000Z",
-    "magnitude": "3.19",
-    "depth_km": "10.0",
-    "place": "260 km WNW of Port Hardy, BC/260 km ONO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-17T12:41:21.000Z",
-    "magnitude": "3.41",
-    "depth_km": "10.0",
-    "place": "260 km WNW of Port Hardy, BC/260 km ONO de Port Hardy, BC"
   }
 ];
