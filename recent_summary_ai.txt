@@ -1,1 +1,1 @@
-In the last 24 hours, no quakes were reported on our PiQuake Canada dashboard. The latest quake measured M-0.02 and happened near La Malbaie in Quebec. This is just a tiny little shake, nothing to be worried about.
+In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event was a tiny shake with a magnitude of 0.02, happening about 11 km southeast of La Malbaie in Quebec. It happened at an unknown time but it's not like we see big shakes here.
