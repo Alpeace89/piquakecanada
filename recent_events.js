@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-21T02:48:34.000Z",
+    "magnitude": "2.15",
+    "depth_km": "12.33",
+    "place": "8 km ESE of Namur, QC, felt/8 km ESE de Namur, QC, ressenti"
+  },
+  {
     "time_utc": "2026-04-20T21:08:13.000Z",
     "magnitude": "2.96",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.14",
     "depth_km": "10.0",
     "place": "203 km WSW of Port Hardy, BC/203 km OSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-20T08:27:53.000Z",
-    "magnitude": "2.94",
-    "depth_km": "5.0",
-    "place": "136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
   }
 ];

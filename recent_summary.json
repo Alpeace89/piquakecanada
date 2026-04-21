@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-04-21T18:03:02Z",
+  "generated_utc": "2026-04-21T19:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 532,
-  "events_last_24h": 1,
+  "rolling_window_event_count": 534,
+  "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260420.2108001",
-    "time_utc": "2026-04-20T21:08:13.000Z",
-    "latitude": 48.7697,
-    "longitude": -128.913,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 2.96,
-    "place": "240 km SSW of Port Hardy, BC/240 km SSO de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260421.0248001",
+    "time_utc": "2026-04-21T02:48:34.000Z",
+    "latitude": 45.8623,
+    "longitude": -74.8454,
+    "depth_km": 12.33,
+    "mag_type": "MwN",
+    "magnitude": 2.15,
+    "place": "8 km ESE of Namur, QC, felt/8 km ESE de Namur, QC, ressenti",
+    "region": "Unknown"
   },
   "largest_event_last_24h": {
     "event_id": "20260420.2108001",
@@ -29,21 +29,25 @@
     "region": "BC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260420.2108001",
-    "time_utc": "2026-04-20T21:08:13.000Z",
-    "latitude": 48.7697,
-    "longitude": -128.913,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 2.96,
-    "place": "240 km SSW of Port Hardy, BC/240 km SSO de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260421.0248001",
+    "time_utc": "2026-04-21T02:48:34.000Z",
+    "latitude": 45.8623,
+    "longitude": -74.8454,
+    "depth_km": 12.33,
+    "mag_type": "MwN",
+    "magnitude": 2.15,
+    "place": "8 km ESE of Namur, QC, felt/8 km ESE de Namur, QC, ressenti",
+    "region": "Unknown"
   },
   "top_regions_last_24h": [
     {
       "region": "BC",
       "count": 1
+    },
+    {
+      "region": "Unknown",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-21 18:03 UTC, the recent Canada earthquake dataset contains 532 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.96 at 240 km SSW of Port Hardy, BC/240 km SSO de Port Hardy, BC. The deepest event reached 10.00 km at 240 km SSW of Port Hardy, BC/240 km SSO de Port Hardy, BC. The most recent listed event was M2.96 at 240 km SSW of Port Hardy, BC/240 km SSO de Port Hardy, BC at 2026-04-20T21:08:13.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was BC."
+  "summary_text": "As of 2026-04-21 19:03 UTC, the recent Canada earthquake dataset contains 534 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.96 at 240 km SSW of Port Hardy, BC/240 km SSO de Port Hardy, BC. The deepest event reached 12.33 km at 8 km ESE of Namur, QC, felt/8 km ESE de Namur, QC, ressenti. The most recent listed event was M2.15 at 8 km ESE of Namur, QC, felt/8 km ESE de Namur, QC, ressenti at 2026-04-21T02:48:34.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (1) and Unknown (1)."
 }

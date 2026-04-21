@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-31T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no new earthquakes reported on the PiQuake Canada dashboard. The largest event was a M3.64 near Port Hardy in British Columbia at 2 AM today. Since then, we've had seven minor quakes with the latest being a tiny one just outside Coquitlam. Most of these quakes happened in BC with a few in Yukon and Alberta."
-  },
-  {
     "timestamp_utc": "2026-03-31T02:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, we had our first shake this morning with a M2.96 near Port Hardy in British Columbia. It was the largest event in the last 24 hours and it's been quiet since then as well. Not much happening out there, but that's what makes it exciting—there’s always something new to discover!"
+  },
+  {
+    "timestamp_utc": "2026-04-21T19:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no events reported on the PiQuake Canada dashboard. However, we had two minor quakes - one measuring M2.96 about 200 km southwest of Port Hardy in British Columbia and another smaller one at M2.15 near Namur in Quebec."
   }
 ]
