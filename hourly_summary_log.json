@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-30T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of 8 events reported on our PiQuake Canada dashboard. The biggest one was a M3.64 under Port Hardy in BC at 02:26 UTC yesterday. That's followed by an M1.48 near Coquitlam, also in BC. Most of these quakes happened in the Western provinces like British Columbia and Yukon Territory with five and two respectively."
-  },
-  {
     "timestamp_utc": "2026-03-30T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick rundown of the PiQuake Canada dashboard for today. We had no seismic events in the last hour or day, but we saw one small quake yesterday measuring M2.12 near Grande Prairie, Alberta. The place where it happened is suspected to be an industry-related event, though we're not sure exactly what caused it and when it occurred. It's a bit of a mystery, folks!"
+  },
+  {
+    "timestamp_utc": "2026-04-21T15:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three minor quakes in the past day. The largest one measured M3.62 and happened about 240 km southwest of Port Hardy, BC. It was followed by another quake that day which was a bit smaller at M3.42, also near Port Hardy. Those areas have been active with these little jolts over the last 24 hours."
   }
 ]

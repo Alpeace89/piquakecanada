@@ -528,3 +528,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260420.1120001,2026-04-20T11:20:55.000Z,60.5054,-140.0263,5.0,ML,2.17,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
 20260420.1240001,2026-04-20T12:40:59.000Z,54.6459,-118.6082,1.0,MLy,2.02,"Suspected industry-related event, 60 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 60 km SSE de Grande Prairie, AB"
 20260420.1344001,2026-04-20T13:44:23.000Z,54.6512,-118.6012,1.0,MLy,2.12,"Suspected industry-related event, 59 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 59 km SSE de Grande Prairie, AB"
+20260420.1453001,2026-04-20T14:53:54.000Z,60.5471,-139.9599,5.0,ML,2.36,"135 km W of Haines Junction, YT/135 km O de Haines Junction, YT"
+20260420.1543001,2026-04-20T15:43:55.000Z,48.823,-129.0565,10.0,Mw',3.62,"239 km SSW of Port Hardy, BC/239 km SSO de Port Hardy, BC"
+20260420.1637001,2026-04-20T16:37:01.000Z,48.8217,-128.988,10.0,Mw',3.19,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
+20260420.1659001,2026-04-20T16:59:01.000Z,48.7609,-128.9713,10.0,Mw',3.42,"243 km SSW of Port Hardy, BC/243 km SSO de Port Hardy, BC"
