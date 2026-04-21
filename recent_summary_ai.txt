@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there were six in the past day. The biggest one was a M3.14 under Port Hardy area and it happened yesterday at around noon. BC had three of these quakes while YK (Yukon) also got three, making that their top region for the day.
+In the last 24 hours, we've had six small quakes recorded by our PiQuake Canada dashboard. The biggest one was a M3.14 near Port Hardy in British Columbia. This place has been quite active lately, with BC and Yukon Territory having three quakes each in the past day.
