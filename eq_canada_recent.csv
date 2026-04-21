@@ -535,3 +535,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260420.1659001,2026-04-20T16:59:01.000Z,48.7609,-128.9713,10.0,Mw',3.42,"243 km SSW of Port Hardy, BC/243 km SSO de Port Hardy, BC"
 20260420.2108001,2026-04-20T21:08:13.000Z,48.7697,-128.913,10.0,Mw',2.96,"240 km SSW of Port Hardy, BC/240 km SSO de Port Hardy, BC"
 20260421.0248001,2026-04-21T02:48:34.000Z,45.8623,-74.8454,12.33,MwN,2.15,"8 km ESE of Namur, QC, felt/8 km ESE de Namur, QC, ressenti"
+20260421.2015002,2026-04-21T20:15:22.000Z,50.9614,-130.8078,10.0,Mw',4.19,"234 km W of Port Hardy, BC/234 km O de Port Hardy, BC"

@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-21T20:15:22.000Z",
+    "magnitude": "4.19",
+    "depth_km": "10.0",
+    "place": "234 km W of Port Hardy, BC/234 km O de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-04-21T02:48:34.000Z",
     "magnitude": "2.15",
     "depth_km": "12.33",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.17",
     "depth_km": "5.0",
     "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-20T11:05:23.000Z",
-    "magnitude": "3.14",
-    "depth_km": "10.0",
-    "place": "203 km WSW of Port Hardy, BC/203 km OSO de Port Hardy, BC"
   }
 ];
