@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260307.0134001,2026-03-07T01:34:19.000Z,60.5383,-140.0679,5.0,ML,2.37,"141 km W of Haines Junction, YT/141 km O de Haines Junction, YT"
 20260307.0218001,2026-03-07T02:18:15.000Z,54.5035,-117.6072,1.0,MLy,2.18,"Suspected industry-related event, 53 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 53 km ONO de Fox Creek, AB"
 20260307.0310001,2026-03-07T03:10:02.000Z,54.3023,-117.7152,1.0,MLy,2.51,"Suspected industry-related event, 60 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 60 km O de Fox Creek, AB"
 20260307.0339001,2026-03-07T03:39:40.000Z,60.5681,-139.8146,5.0,ML,2.22,"127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
