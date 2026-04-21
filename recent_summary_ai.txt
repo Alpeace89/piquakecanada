@@ -1,1 +1,1 @@
-In the last 24 hours, there was one small earthquake with a magnitude of M3.14 near Port Hardy in British Columbia. This is quite common and not something to be alarmed about; it happens every so often. The latest quake occurred on April 20th at around noon local time.
+The PiQuake Canada dashboard shows no events in the last hour, but we had one event yesterday that was a M3.14 under Port Hardy, BC. That's the largest quake in the past 24 hours and it happened on April 20th at around 11:05 AM local time. It's the only earthquake reported here for that region this period.
