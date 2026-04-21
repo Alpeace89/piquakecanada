@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-30T19:03:01Z",
-    "mode": "AI",
-    "model": "qwen2.5:3b",
-    "summary": "No earthquakes were recorded in the last hour. In the past 24 hours, there was one event with a magnitude of M1.9 near Burwash Landing in Yukon Territory, Canada. In the last 24 hours, 1 earthquake(s) were recorded, with the largest event M1.9 at 52 km WSW of Burwash Landing, YT. The most recent listed event was M1.9 at 52 km WSW of Burwash Landing, YT at 2026-03-30T00:29:05Z."
-  },
-  {
     "timestamp_utc": "2026-03-30T19:42:48Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey there! The PiQuake Canada dashboard shows we had no new earthquakes in the last hour, but over the past 24 hours, six quakes were recorded. The biggest one was a M3.14 near Port Hardy, BC/Port Hardy, BC—pretty close to where it happened yesterday too. And the top areas experiencing these shakes are British Columbia and the Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-04-21T05:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were four events yesterday. The largest one registered a M3.14 near Port Hardy in British Columbia, and it happened on April 20th at about 11 AM local time. Most of these quakes have been seen in Yukon and British Columbia regions."
   }
 ]
