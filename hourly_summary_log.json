@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-30T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had no major quakes in Canada's main event list. The largest one registered was M3.64 near Port Hardy in British Columbia. That happened this morning at about 02:27 AM local time. Meanwhile, there were a couple of smaller blasts or dynamite explosions reported nearby Coquitlam too."
-  },
-  {
     "timestamp_utc": "2026-03-30T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three minor quakes in the past day. The largest one measured M3.62 and happened about 240 km southwest of Port Hardy, BC. It was followed by another quake that day which was a bit smaller at M3.42, also near Port Hardy. Those areas have been active with these little jolts over the last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-04-21T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the past 24 hours, we've had no major quakes. But on April 20th at around 5 PM and 9 PM, there were two small tremors near Port Hardy in British Columbia, both measuring just over M3. The latest one was a little bit smaller at M2.96. BC is the top region where these quakes have been happening lately."
   }
 ]

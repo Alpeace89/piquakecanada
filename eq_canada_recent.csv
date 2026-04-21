@@ -532,3 +532,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260420.1543001,2026-04-20T15:43:55.000Z,48.823,-129.0565,10.0,Mw',3.62,"239 km SSW of Port Hardy, BC/239 km SSO de Port Hardy, BC"
 20260420.1637001,2026-04-20T16:37:01.000Z,48.8217,-128.988,10.0,Mw',3.19,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
 20260420.1659001,2026-04-20T16:59:01.000Z,48.7609,-128.9713,10.0,Mw',3.42,"243 km SSW of Port Hardy, BC/243 km SSO de Port Hardy, BC"
+20260420.2108001,2026-04-20T21:08:13.000Z,48.7697,-128.913,10.0,Mw',2.96,"240 km SSW of Port Hardy, BC/240 km SSO de Port Hardy, BC"
