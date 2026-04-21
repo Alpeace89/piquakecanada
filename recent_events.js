@@ -42,21 +42,21 @@ window.recentEvents = [
     "place": "76 km W of Daajing Giids, BC/76 km O de Daajing Giids, BC"
   },
   {
+    "time_utc": "2026-04-19T12:50:27.000Z",
+    "magnitude": "3.34",
+    "depth_km": "1.0",
+    "place": "139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-19T11:41:07.000Z",
+    "magnitude": "2.77",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 12 km WNW of Sturgeon County, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 12 km ONO de Sturgeon County, AB"
+  },
+  {
     "time_utc": "2026-04-19T10:57:56.000Z",
     "magnitude": "1.24",
     "depth_km": "17.24",
     "place": "40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"
-  },
-  {
-    "time_utc": "2026-04-18T21:56:33.000Z",
-    "magnitude": "4.15",
-    "depth_km": "1.69",
-    "place": "Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 12 km ONO de Sturgeon County, AB, ressent"
-  },
-  {
-    "time_utc": "2026-04-18T15:54:16.000Z",
-    "magnitude": "0.65",
-    "depth_km": "14.91",
-    "place": "10 km N of La Pocati\u00e8re, QC/10 km N de La Pocati\u00e8re, QC"
   }
 ];
