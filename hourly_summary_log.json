@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-31T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major seismic events reported, but we saw three small tremors. The largest one was a M2.39 that occurred near Grande Cache in Alberta linked to some kind of industrial activity. In British Columbia, they had a small blast too, which is far away from Coquitlam."
-  },
-  {
     "timestamp_utc": "2026-03-31T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were a total of 2 earthquakes reported. The largest one measured M2.96 and happened about 240 km south-southwest of Port Hardy in British Columbia. This was followed by another quake that measured M2.15 around 8 km east southeast of Namur in Quebec, which people could feel or experienced. Both events occurred within the past day."
+  },
+  {
+    "timestamp_utc": "2026-04-21T21:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but we had two small quakes yesterday. The biggest one registered a M2.96 and happened 240 km south-southwest of Port Hardy, BC. Then there was another M2.15 quake today at 2:48 AM, which people felt or sensed in Namur, QC. That's how our dashboard keeps track for anyone interested in earthquakes!"
   }
 ]
