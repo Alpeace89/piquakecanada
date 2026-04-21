@@ -1,24 +1,24 @@
 {
-  "generated_utc": "2026-04-21T13:03:01Z",
+  "generated_utc": "2026-04-21T14:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 526,
+  "rolling_window_event_count": 529,
   "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260420.1105001",
-    "time_utc": "2026-04-20T11:05:23.000Z",
-    "latitude": 50.1999,
-    "longitude": -130.2462,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.14,
-    "place": "203 km WSW of Port Hardy, BC/203 km OSO de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260420.1344001",
+    "time_utc": "2026-04-20T13:44:23.000Z",
+    "latitude": 54.6512,
+    "longitude": -118.6012,
+    "depth_km": 1.0,
+    "mag_type": "MLy",
+    "magnitude": 2.12,
+    "place": "Suspected industry-related event, 59 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 59 km SSE de Grande Prairie, AB",
+    "region": "AB"
   },
   "largest_event_last_24h": null,
   "deepest_event_last_24h": null,
   "top_regions_last_24h": [],
-  "summary_text": "As of 2026-04-21 13:03 UTC, the recent Canada earthquake dataset contains 526 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M3.14 at 203 km WSW of Port Hardy, BC/203 km OSO de Port Hardy, BC at 2026-04-20T11:05:23.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "summary_text": "As of 2026-04-21 14:03 UTC, the recent Canada earthquake dataset contains 529 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M2.12 at Suspected industry-related event, 59 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 59 km SSE de Grande Prairie, AB at 2026-04-20T13:44:23.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }

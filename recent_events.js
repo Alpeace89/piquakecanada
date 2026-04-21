@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-20T13:44:23.000Z",
+    "magnitude": "2.12",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 59 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km SSE de Grande Prairie, AB"
+  },
+  {
+    "time_utc": "2026-04-20T12:40:59.000Z",
+    "magnitude": "2.02",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 60 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 60 km SSE de Grande Prairie, AB"
+  },
+  {
+    "time_utc": "2026-04-20T11:20:55.000Z",
+    "magnitude": "2.17",
+    "depth_km": "5.0",
+    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-20T11:05:23.000Z",
     "magnitude": "3.14",
     "depth_km": "10.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "3.62",
     "depth_km": "18.26",
     "place": "76 km W of Daajing Giids, BC/76 km O de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-04-19T12:50:27.000Z",
-    "magnitude": "3.34",
-    "depth_km": "1.0",
-    "place": "139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-19T11:41:07.000Z",
-    "magnitude": "2.77",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 12 km WNW of Sturgeon County, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 12 km ONO de Sturgeon County, AB"
-  },
-  {
-    "time_utc": "2026-04-19T10:57:56.000Z",
-    "magnitude": "1.24",
-    "depth_km": "17.24",
-    "place": "40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"
   }
 ];
