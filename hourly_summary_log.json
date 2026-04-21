@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-30T20:25:20Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the PiQuake Canada dashboard, we've had a quiet day with no events recorded in the last hour. Over the past 24 hours, there have been seven small tremors. The largest one was M3.64 and it happened just after midnight today. We also saw a smaller shake from earlier this evening near Douglas 8 in British Columbia. Most of these quakes have been happening around BC with four in BC, two in Yukon, and one in Alberta during that period."
-  },
-  {
     "timestamp_utc": "2026-03-30T20:30:39Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes have been recorded by our PiQuake Canada dashboard. The largest event was a mystery with an unknown magnitude occurring in an unmarked spot, and we didn't get to see any quakes today either. The latest quake was M3.14 near Port Hardy, BC, just yesterday at about 11:05 AM local time."
+  },
+  {
+    "timestamp_utc": "2026-04-21T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, there haven't been any reported quakes on the PiQuake Canada dashboard. The largest one recorded was a M3.14 at an unknown location. This is the only event in the last 24 hours and it happened around noon on April 20th."
   }
 ]

@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260307.1256001,2026-03-07T12:56:34.000Z,54.617,-118.5543,6.59,MLy,2.88,"Suspected industry-related event, 63 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 63 km SSE de Grande Prairie, AB"
 20260307.1714001,2026-03-07T17:14:28.000Z,60.5472,-139.6927,2.0,ML,2.51,"121 km W of Haines Junction, YT/121 km O de Haines Junction, YT"
 20260307.1721001,2026-03-07T17:21:53.000Z,49.7574,-126.9663,35.47,ML,1.63,"28 km SW of Tahsis, BC/28 km SO de Tahsis, BC"
 20260307.2327001,2026-03-07T23:27:12.000Z,60.4148,-139.5349,5.0,ML,2.45,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"

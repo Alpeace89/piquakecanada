@@ -1,1 +1,1 @@
-In the last 24 hours, no earthquakes have been recorded by our PiQuake Canada dashboard. The largest event was a mystery with an unknown magnitude occurring in an unmarked spot, and we didn't get to see any quakes today either. The latest quake was M3.14 near Port Hardy, BC, just yesterday at about 11:05 AM local time.
+In the past 24 hours, there haven't been any reported quakes on the PiQuake Canada dashboard. The largest one recorded was a M3.14 at an unknown location. This is the only event in the last 24 hours and it happened around noon on April 20th.
