@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-31T02:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no significant earthquake events reported. However, we saw a small shake with a magnitude of M3.64 around Port Hardy in British Columbia early that morning. There have also been two smaller quakes this evening—one near Coquitlam and another at a construction site. It's mostly quiet down here on the west coast, but these little bursts show there's still some activity happening beneath our feet."
-  },
-  {
     "timestamp_utc": "2026-03-31T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no events reported on the PiQuake Canada dashboard. However, we had two minor quakes - one measuring M2.96 about 200 km southwest of Port Hardy in British Columbia and another smaller one at M2.15 near Namur in Quebec."
+  },
+  {
+    "timestamp_utc": "2026-04-21T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were a total of 2 earthquakes reported. The largest one measured M2.96 and happened about 240 km south-southwest of Port Hardy in British Columbia. This was followed by another quake that measured M2.15 around 8 km east southeast of Namur in Quebec, which people could feel or experienced. Both events occurred within the past day."
   }
 ]

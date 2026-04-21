@@ -511,6 +511,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260417.2212001,2026-04-17T22:12:47.000Z,49.5587,-126.9018,26.04,ML,0.98,"21 km WSW of Yuquot 1, BC/21 km OSO de Yuquot 1, BC"
 20260417.2310001,2026-04-17T23:10:46.000Z,45.7592,-76.3604,11.42,MwN,1.77,"12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC"
 20260418.0057001,2026-04-18T00:57:53.000Z,49.2454,-119.9444,5.0,ML,2.43,"9 km WNW of Keremeos, BC/9 km ONO de Keremeos, BC"
+20260418.0417001,2026-04-18T04:17:39.000Z,53.288,-132.9899,15.49,ML,1.67,"60 km W of Daajing Giids, BC/60 km O de Daajing Giids, BC"
 20260418.0847001,2026-04-18T08:47:17.000Z,60.5101,-139.8227,1.0,ML,2.84,"129 km W of Haines Junction, YT/129 km O de Haines Junction, YT"
 20260418.1554001,2026-04-18T15:54:16.000Z,47.4552,-70.0535,14.91,MwN,0.65,"10 km N of La Pocatière, QC/10 km N de La Pocatière, QC"
 20260418.2156003,2026-04-18T21:56:33.000Z,53.9389,-113.4074,1.69,MLy,4.15,"Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB, ressent"
