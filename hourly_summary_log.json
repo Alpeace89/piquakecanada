@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-31T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had two minor quakes in Canada. The biggest one was a M2.3 just south of Douglas, BC at around 6:46 PM on March 30th, and then there was another one measuring M1.48 near Coquitlam, BC at about 7:53 PM. That's all we saw in the last 24 hours for Canada."
-  },
-  {
     "timestamp_utc": "2026-03-31T14:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had one earthquake event with a magnitude of M4.19 near Port Hardy in British Columbia. That's quite a bump for that area, and it was just yesterday afternoon. This is our first shake-up from this region on our new PiQuake Canada dashboard, so stay tuned for more updates!"
+  },
+  {
+    "timestamp_utc": "2026-04-22T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one quake event recorded by our PiQuake Canada dashboard. It measured at M4.19 and happened about 234 kilometers west of Port Hardy in British Columbia. That's the latest we've seen from this region so far."
   }
 ]
