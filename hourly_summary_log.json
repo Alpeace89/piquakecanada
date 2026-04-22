@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-31T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had two minor quakes in British Columbia. The largest one measured M2.3 about 14 km south-southwest of Douglas 8, BC at 6:45 PM on March 30th. Just a day earlier, there was another shake measuring M1.48 near Coquitlam, BC around 7:53 PM. Most of these quakes happened in British Columbia."
-  },
-  {
     "timestamp_utc": "2026-03-31T19:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one small quake yesterday evening near Port Hardy in British Columbia. The largest event of the day measured M4.19 and occurred just after 8 PM on April 21st. This is where it all started as the latest recorded activity."
+  },
+  {
+    "timestamp_utc": "2026-04-22T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one earthquake event recorded in Canada's British Columbia. The largest quake measured at M4.19 occurred about 234 km west or northwest of Port Hardy around 8:15 PM on April 20th local time. It looks like this is a new record for the day, with no other quakes reported since then in Canada's westernmost province."
   }
 ]
