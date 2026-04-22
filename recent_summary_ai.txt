@@ -1,1 +1,1 @@
-In the past 24 hours, there have been no earthquakes reported on the PiQuake Canada dashboard. But in that short time span, we did see two quakes happening, one of which was a M4.19 near Port Hardy, BC and another one exactly 234 km away but still in British Columbia. This latest event happened just after midnight UTC yesterday.
+The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It measured M4.19 and happened about 234 km west of Port Hardy, BC or northwest of Port Hardy, BC. That's what we've seen so far today as well.
