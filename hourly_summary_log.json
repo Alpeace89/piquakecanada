@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-01T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had five seismic events reported across Canada. The largest one was a M3.36 near Tofino in British Columbia, which happened on March 31st at around 3 PM local time. Most of these events occurred in Alberta and British Columbia regions."
-  },
-  {
     "timestamp_utc": "2026-04-01T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one earthquake recorded by our PiQuake Canada dashboard. It measured M4.19 and happened about 234 kilometers west of Port Hardy in British Columbia. This is the largest quake we've seen today. It's important to note this region has had at least one earthquake so far today."
+  },
+  {
+    "timestamp_utc": "2026-04-22T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows activity with one event in the last hour and two events yesterday. The largest event was a M4.19 near Port Hardy, BC at about 8 PM today. There's also a smaller quake this afternoon around Victoria, BC. Mostly happening in British Columbia so far today."
   }
 ]
