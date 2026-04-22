@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260308.0733001,2026-03-08T07:33:24.000Z,49.248,-91.6015,2.0,MwN,0.5,"19 km SSE of Ignace, ON/19 km SSE de Ignace, ON"
-20260308.0733002,2026-03-08T07:33:46.000Z,52.463,-127.1081,10.0,ML,2.07,"28 km WNW of Bella Coola 1, BC/28 km ONO de Bella Coola 1, BC"
-20260308.0746001,2026-03-08T07:46:21.000Z,54.6666,-118.5798,1.0,MLy,3.06,"Suspected industry-related event, 58 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 58 km SSE de Grande Prairie, AB"
 20260308.0822001,2026-03-08T08:22:30.000Z,48.9638,-123.6429,14.8,ML,2.02,"13 km ESE of Ladysmith, BC/13 km ESE de Ladysmith, BC"
 20260308.0828001,2026-03-08T08:28:18.000Z,60.5256,-139.917,5.0,ML,2.91,"134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"
 20260308.1205001,2026-03-08T12:05:05.000Z,49.3624,-127.7678,10.0,Mw',3.06,"79 km SSW of Houpsitas 6, BC/79 km SSO de Houpsitas 6, BC"

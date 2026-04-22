@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-31T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major earthquakes reported, but we did catch two small quakes. The largest one was a M2.3 near Douglas in BC, which happened around 18:46 on March 30th. There's also a smaller blast event that registered at M1.48 close to Coquitlam, both happening just before 20:00 last night."
-  },
-  {
     "timestamp_utc": "2026-03-31T16:03:01Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one earthquake event recorded by the PiQuake Canada dashboard. It had a magnitude of M4.19 and happened about 234 km west or northwest of Port Hardy in British Columbia. This is the largest quake they've detected recently."
+  },
+  {
+    "timestamp_utc": "2026-04-22T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M4.19 quake happening 234 km west of Port Hardy in British Columbia at 10:15 PM on April 21st. This is the largest quake recorded in the last 24 hours and the latest event on the dashboard. BC appears as the top region for quakes today."
   }
 ]
