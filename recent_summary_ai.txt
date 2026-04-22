@@ -1,1 +1,1 @@
-In the last 24 hours, we had one seismic event with a magnitude of M4.19 near Port Hardy in British Columbia. It happened on April 21st at around 8:15 PM Pacific time. The top region for these events was British Columbia.
+In the last 24 hours, there was one earthquake with a magnitude of M4.19 that happened roughly 234 kilometers west or northwest of Port Hardy in British Columbia. It occurred on April 21st around 8:15 PM local time. This is the only quake we've recorded in our beta dashboard so far this month.
