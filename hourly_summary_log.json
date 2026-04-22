@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-01T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but we had five quakes yesterday. The biggest one was a M3.36 shake that happened near Tofino, BC and its offshore version. It's been happening more in Alberta compared to British Columbia lately."
-  },
-  {
     "timestamp_utc": "2026-04-01T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows activity with one event in the last hour and two events yesterday. The largest event was a M4.19 near Port Hardy, BC at about 8 PM today. There's also a smaller quake this afternoon around Victoria, BC. Mostly happening in British Columbia so far today."
+  },
+  {
+    "timestamp_utc": "2026-04-22T16:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no significant quakes reported in Canada's dashboard. However, a M4.19 quake shook areas 234 km west of Port Hardy, BC and another one of M2.65 near Victoria, BC. These are our latest events which occurred yesterday at around 8:15 PM and 2:34 PM respectively."
   }
 ]
