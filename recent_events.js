@@ -1,9 +1,21 @@
 window.recentEvents = [
   {
     "time_utc": "2026-04-22T14:33:50.000Z",
+    "magnitude": "2.69",
+    "depth_km": "33.66",
+    "place": "19 km SW of Victoria, BC/19 km SO de Victoria, BC"
+  },
+  {
+    "time_utc": "2026-04-22T14:33:50.000Z",
     "magnitude": "2.65",
     "depth_km": "33.56",
     "place": "19 km SW of Victoria, BC/19 km SO de Victoria, BC"
+  },
+  {
+    "time_utc": "2026-04-21T22:17:36.000Z",
+    "magnitude": "3.06",
+    "depth_km": "0.0",
+    "place": "Blast, 11 km WSW of Trend Mine, BC/Dynamitage, 11 km OSO de la mine Trend, BC"
   },
   {
     "time_utc": "2026-04-21T20:40:08.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "3.62",
     "depth_km": "10.0",
     "place": "239 km SSW of Port Hardy, BC/239 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-20T14:53:54.000Z",
-    "magnitude": "2.36",
-    "depth_km": "5.0",
-    "place": "135 km W of Haines Junction, YT/135 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-20T13:44:23.000Z",
-    "magnitude": "2.12",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 59 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km SSE de Grande Prairie, AB"
   }
 ];
