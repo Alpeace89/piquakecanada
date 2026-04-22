@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260308.2150001,2026-03-08T21:50:40.000Z,47.6532,-69.9889,20.36,MwN,0.54,"12 km E of La Malbaie, QC/12 km E de La Malbaie, QC"
 20260308.2238001,2026-03-08T22:38:00.000Z,60.3185,-141.0956,19.15,ML,2.46,"202 km WSW of Haines Junction, YT/202 km OSO de Haines Junction, YT"
 20260309.0038001,2026-03-09T00:38:00.000Z,59.8991,-141.7358,5.0,ML,2.29,"251 km WSW of Haines Junction, YT/251 km OSO de Haines Junction, YT"
 20260309.0117001,2026-03-09T01:17:05.000Z,54.3909,-117.2024,5.0,MLy,2.26,"Suspected industry-related event, 26 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 26 km O de Fox Creek, AB"

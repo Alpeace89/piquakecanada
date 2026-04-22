@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-01T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had no new earthquake events reported. However, there have been three small quakes recorded since yesterday morning. The largest one measured M3.36 and happened near Tofino in British Columbia. That's close to where it was last night too, just a few hundred kilometers away from the west southwest of Tofino in both directions."
-  },
-  {
     "timestamp_utc": "2026-04-01T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of two recorded quakes on our PiQuake Canada dashboard. The biggest one was a M3.06 near some mining operations in British Columbia, followed by another quake that measured M2.69 about 19 km away from Victoria. It seems like things are pretty quiet down here in BC with most of the recent activity happening in the B.C. region."
+  },
+  {
+    "timestamp_utc": "2026-04-22T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were two minor tremors recorded. The largest one measured M3.06 near a mine in British Columbia and occurred about 22 hours ago. Since then, another quake of magnitude M2.69 hit just outside Victoria at around noon today. BC has been the most active region over the past day with these small shakes."
   }
 ]
