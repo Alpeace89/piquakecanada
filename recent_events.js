@@ -6,12 +6,6 @@ window.recentEvents = [
     "place": "19 km SW of Victoria, BC/19 km SO de Victoria, BC"
   },
   {
-    "time_utc": "2026-04-22T14:33:50.000Z",
-    "magnitude": "2.65",
-    "depth_km": "33.56",
-    "place": "19 km SW of Victoria, BC/19 km SO de Victoria, BC"
-  },
-  {
     "time_utc": "2026-04-21T22:17:36.000Z",
     "magnitude": "3.06",
     "depth_km": "0.0",
@@ -58,5 +52,11 @@ window.recentEvents = [
     "magnitude": "3.62",
     "depth_km": "10.0",
     "place": "239 km SSW of Port Hardy, BC/239 km SSO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-04-20T14:53:54.000Z",
+    "magnitude": "2.36",
+    "depth_km": "5.0",
+    "place": "135 km W of Haines Junction, YT/135 km O de Haines Junction, YT"
   }
 ];
