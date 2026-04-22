@@ -1,1 +1,1 @@
-In the last 24 hours, there were no major seismic events reported. However, a quake with a magnitude of M4.19 hit about 234 km west or northwest of Port Hardy in British Columbia. It happened on April 21st at around 8:15 PM Pacific Time.
+In the past 24 hours, there have been no earthquakes reported on the PiQuake Canada dashboard. But in that short time span, we did see two quakes happening, one of which was a M4.19 near Port Hardy, BC and another one exactly 234 km away but still in British Columbia. This latest event happened just after midnight UTC yesterday.
