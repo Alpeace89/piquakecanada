@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-03-31T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary for our PiQuake Canada dashboard in plain Canadian English: There were no new earthquakes reported last hour, but two small ones hit British Columbia yesterday. The biggest one was a M2.3 near Douglas, BC and another M1.48 close to Coquitlam caused by dynamite blasts. Most of these happened in the BC region."
-  },
-  {
     "timestamp_utc": "2026-03-31T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one quake event recorded by our PiQuake Canada dashboard. It measured at M4.19 and happened about 234 kilometers west of Port Hardy in British Columbia. That's the latest we've seen from this region so far."
+  },
+  {
+    "timestamp_utc": "2026-04-22T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one earthquake event recorded by the PiQuake Canada dashboard. It had a magnitude of M4.19 and happened about 234 km west or northwest of Port Hardy in British Columbia. This is the largest quake they've detected recently."
   }
 ]

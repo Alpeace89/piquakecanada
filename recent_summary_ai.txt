@@ -1,1 +1,1 @@
-In the last 24 hours, there was one quake event recorded by our PiQuake Canada dashboard. It measured at M4.19 and happened about 234 kilometers west of Port Hardy in British Columbia. That's the latest we've seen from this region so far.
+In the last 24 hours, there was one earthquake event recorded by the PiQuake Canada dashboard. It had a magnitude of M4.19 and happened about 234 km west or northwest of Port Hardy in British Columbia. This is the largest quake they've detected recently.
