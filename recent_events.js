@@ -24,10 +24,28 @@ window.recentEvents = [
     "place": "234 km W of Port Hardy, BC/234 km O de Port Hardy, BC"
   },
   {
+    "time_utc": "2026-04-21T18:27:04.000Z",
+    "magnitude": "1.47",
+    "depth_km": "29.28",
+    "place": "38 km SSE of Bamfield, BC/38 km SSE de Bamfield, BC"
+  },
+  {
+    "time_utc": "2026-04-21T05:39:22.000Z",
+    "magnitude": "2.42",
+    "depth_km": "5.0",
+    "place": "211 km S of Fort McPherson, NT/211 km S de Fort McPherson, NT"
+  },
+  {
     "time_utc": "2026-04-21T02:48:34.000Z",
     "magnitude": "2.15",
     "depth_km": "12.33",
     "place": "8 km ESE of Namur, QC, felt/8 km ESE de Namur, QC, ressenti"
+  },
+  {
+    "time_utc": "2026-04-21T01:13:03.000Z",
+    "magnitude": "2.08",
+    "depth_km": "19.09",
+    "place": "56 km SSW of Daajing Giids, BC/56 km SSO de Daajing Giids, BC"
   },
   {
     "time_utc": "2026-04-20T21:08:13.000Z",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "3.42",
     "depth_km": "10.0",
     "place": "243 km SSW of Port Hardy, BC/243 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-20T16:37:01.000Z",
-    "magnitude": "3.19",
-    "depth_km": "10.0",
-    "place": "237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-20T15:43:55.000Z",
-    "magnitude": "3.62",
-    "depth_km": "10.0",
-    "place": "239 km SSW of Port Hardy, BC/239 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-20T14:53:54.000Z",
-    "magnitude": "2.36",
-    "depth_km": "5.0",
-    "place": "135 km W of Haines Junction, YT/135 km O de Haines Junction, YT"
   }
 ];
