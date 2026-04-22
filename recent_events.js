@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "19 km SW of Victoria, BC/19 km SO de Victoria, BC"
   },
   {
+    "time_utc": "2026-04-21T20:40:08.000Z",
+    "magnitude": "3.65",
+    "depth_km": "10.0",
+    "place": "206 km W of Tofino, BC/206 km O de Tofino, BC"
+  },
+  {
     "time_utc": "2026-04-21T20:15:22.000Z",
     "magnitude": "4.19",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.12",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 59 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-04-20T12:40:59.000Z",
-    "magnitude": "2.02",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 60 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 60 km SSE de Grande Prairie, AB"
   }
 ];

@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but had two in the past day. The largest event was a M4.19 near Port Hardy on April 20th at around 8 PM. A smaller one happened just this afternoon in Victoria, with a magnitude of M2.65. Most activity is happening in British Columbia.
+In the last 24 hours, we've had three minor quakes in Canada. The biggest one was a M4.19 near Port Hardy in British Columbia, and another M2.65 close to Victoria. Most of these happened in BC.
