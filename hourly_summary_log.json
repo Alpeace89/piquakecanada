@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-02T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no big earthquakes reported. But we did see a M4.5 quake near Morinville, Alberta. It's been our biggest event and happened on April 1st at night. That area has had activity before, especially in British Columbia and Alberta regions."
-  },
-  {
     "timestamp_utc": "2026-04-02T05:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in beta and hasn't recorded any events for the last 24 hours. The largest event it's aware of happened a couple of days ago, with a magnitude of M2.69 near Victoria, BC. Nothing serious has been detected since then."
+  },
+  {
+    "timestamp_utc": "2026-04-23T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, there was just one earthquake reported by our PiQuake Canada dashboard. It measured M2.24 and occurred about 59 kilometers south-southwest of Daajing Giids in British Columbia. This is where we've seen activity since then as well, with no other notable events recorded."
   }
 ]

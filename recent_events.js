@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-23T05:17:57.000Z",
+    "magnitude": "2.24",
+    "depth_km": "14.57",
+    "place": "59 km SSW of Daajing Giids, BC/59 km SSO de Daajing Giids, BC"
+  },
+  {
     "time_utc": "2026-04-22T14:33:50.000Z",
     "magnitude": "2.69",
     "depth_km": "33.66",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.15",
     "depth_km": "12.33",
     "place": "8 km ESE of Namur, QC, felt/8 km ESE de Namur, QC, ressenti"
-  },
-  {
-    "time_utc": "2026-04-21T02:05:27.000Z",
-    "magnitude": "0.9",
-    "depth_km": "5.0",
-    "place": "18 km NW of Orillia, ON/18 km NO de Orillia, ON"
   }
 ];
