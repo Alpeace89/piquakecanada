@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard has had no events in the last hour, but there was one event yesterday. It was a M2.69 shake that happened 19 kilometers southwest of Victoria and 19 kilometers south of Victoria at around 14:30 UTC on April 22nd.
+The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. The largest quake registered at M2.69 happened about 19 km southwest of Victoria, BC/SO de Victoria, BC. That's where it occurred back on April 22nd. It seems to be happening more often in British Columbia region lately.
