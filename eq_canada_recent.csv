@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260309.1436001,2026-03-09T14:36:12.000Z,54.6091,-118.5677,1.0,MLy,3.15,"Suspected industry-related event, 64 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 64 km SSE de Grande Prairie, AB"
 20260309.1604001,2026-03-09T16:04:28.000Z,60.4246,-139.4952,5.0,ML,2.87,"114 km WSW of Haines Junction, YT/114 km OSO de Haines Junction, YT"
 20260309.1627001,2026-03-09T16:27:48.000Z,60.4104,-139.5103,5.0,ML,2.21,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
 20260309.1750001,2026-03-09T17:50:56.000Z,60.5068,-139.6439,5.0,ML,2.17,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
@@ -500,7 +499,9 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260418.0057001,2026-04-18T00:57:53.000Z,49.2454,-119.9444,5.0,ML,2.43,"9 km WNW of Keremeos, BC/9 km ONO de Keremeos, BC"
 20260418.0417001,2026-04-18T04:17:39.000Z,53.288,-132.9899,15.49,ML,1.67,"60 km W of Daajing Giids, BC/60 km O de Daajing Giids, BC"
 20260418.0847001,2026-04-18T08:47:17.000Z,60.5101,-139.8227,1.0,ML,2.84,"129 km W of Haines Junction, YT/129 km O de Haines Junction, YT"
+20260418.1150001,2026-04-18T11:50:41.000Z,48.9169,-85.0664,2.0,MwN,1.5,"13 km NNW of Sugar Zone Mine, ON/13 km NNO de la mine Sugar Zone, ON"
 20260418.1554001,2026-04-18T15:54:16.000Z,47.4552,-70.0535,14.91,MwN,0.65,"10 km N of La Pocatière, QC/10 km N de La Pocatière, QC"
+20260418.1753001,2026-04-18T17:53:20.000Z,48.833,-85.0184,2.0,MwN,1.95,"3 km NNW of Sugar Zone Mine, ON/3 km NNO de la mine Sugar Zone, ON"
 20260418.2156004,2026-04-18T21:56:33.000Z,53.9389,-113.4074,1.69,MLy,4.15,"Industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie, 12 km ONO de Sturgeon County, AB, ressenti"
 20260419.1057001,2026-04-19T10:57:56.000Z,49.273,-67.1726,17.24,MwN,1.24,"40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"
 20260419.1141001,2026-04-19T11:41:07.000Z,53.9284,-113.4097,1.0,MLy,2.77,"Suspected industry-related event, 12 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB"
@@ -528,4 +529,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260421.2015002,2026-04-21T20:15:22.000Z,50.9614,-130.8078,10.0,Mw',4.19,"234 km W of Port Hardy, BC/234 km O de Port Hardy, BC"
 20260421.2040001,2026-04-21T20:40:08.000Z,48.8778,-128.7028,10.0,Mw',3.65,"206 km W of Tofino, BC/206 km O de Tofino, BC"
 20260421.2217001,2026-04-21T22:17:36.000Z,54.9496,-121.0916,0.0,ML,3.06,"Blast, 11 km WSW of Trend Mine, BC/Dynamitage, 11 km OSO de la mine Trend, BC"
+20260421.2222001,2026-04-21T22:22:36.000Z,45.6286,-79.9206,2.0,MwN,0.76,"13 km N of McKellar, ON/13 km N de McKellar, ON"
+20260422.0740001,2026-04-22T07:40:23.000Z,49.1057,-91.653,2.0,MwN,0.91,"39 km N of Atikokan, ON/39 km N de Atikokan, ON"
 20260422.1433002,2026-04-22T14:33:50.000Z,48.3005,-123.5431,33.66,ML,2.69,"19 km SW of Victoria, BC/19 km SO de Victoria, BC"

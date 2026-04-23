@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-02T01:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had four seismic events in Canada. The largest one measured M4.5 near Morinville, Alberta/Preliminary, and it happened on April 1st at around midnight. It's not every day we see a big quake like this, so our dashboard is keeping an eye on the area to make sure everything's okay. We've had two events in New Brunswick and one each in British Columbia and Alberta since then."
-  },
-  {
     "timestamp_utc": "2026-04-02T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here’s a quick summary for the PiQuake Canada dashboard in plain Canadian English. So far, we’ve had one seismic event last hour and one in the past day with a magnitude of M2.69 near Victoria, BC. That was the largest event today and it happened on April 22nd at around 1:34 PM local time. It’s been mostly quiet here in British Columbia for the last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-04-23T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a magnitude unknown, happening at an unknown location and time. The latest quake registered as M2.69 about 19 km southwest of Victoria, BC around 14:33 on the 22nd. There are currently no regions with notable seismic activity reported."
   }
 ]

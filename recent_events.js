@@ -6,6 +6,18 @@ window.recentEvents = [
     "place": "19 km SW of Victoria, BC/19 km SO de Victoria, BC"
   },
   {
+    "time_utc": "2026-04-22T07:40:23.000Z",
+    "magnitude": "0.91",
+    "depth_km": "2.0",
+    "place": "39 km N of Atikokan, ON/39 km N de Atikokan, ON"
+  },
+  {
+    "time_utc": "2026-04-21T22:22:36.000Z",
+    "magnitude": "0.76",
+    "depth_km": "2.0",
+    "place": "13 km N of McKellar, ON/13 km N de McKellar, ON"
+  },
+  {
     "time_utc": "2026-04-21T22:17:36.000Z",
     "magnitude": "3.06",
     "depth_km": "0.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "0.9",
     "depth_km": "5.0",
     "place": "18 km NW of Orillia, ON/18 km NO de Orillia, ON"
-  },
-  {
-    "time_utc": "2026-04-21T01:13:03.000Z",
-    "magnitude": "2.08",
-    "depth_km": "19.09",
-    "place": "56 km SSW of Daajing Giids, BC/56 km SSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-04-20T21:08:13.000Z",
-    "magnitude": "2.96",
-    "depth_km": "10.0",
-    "place": "240 km SSW of Port Hardy, BC/240 km SSO de Port Hardy, BC"
   }
 ];

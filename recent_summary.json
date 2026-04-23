@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-04-23T14:03:02Z",
+  "generated_utc": "2026-04-23T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 530,
-  "events_last_24h": 1,
+  "rolling_window_event_count": 533,
+  "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -17,33 +17,8 @@
     "place": "19 km SW of Victoria, BC/19 km SO de Victoria, BC",
     "region": "BC"
   },
-  "largest_event_last_24h": {
-    "event_id": "20260422.1433002",
-    "time_utc": "2026-04-22T14:33:50.000Z",
-    "latitude": 48.3005,
-    "longitude": -123.5431,
-    "depth_km": 33.66,
-    "mag_type": "ML",
-    "magnitude": 2.69,
-    "place": "19 km SW of Victoria, BC/19 km SO de Victoria, BC",
-    "region": "BC"
-  },
-  "deepest_event_last_24h": {
-    "event_id": "20260422.1433002",
-    "time_utc": "2026-04-22T14:33:50.000Z",
-    "latitude": 48.3005,
-    "longitude": -123.5431,
-    "depth_km": 33.66,
-    "mag_type": "ML",
-    "magnitude": 2.69,
-    "place": "19 km SW of Victoria, BC/19 km SO de Victoria, BC",
-    "region": "BC"
-  },
-  "top_regions_last_24h": [
-    {
-      "region": "BC",
-      "count": 1
-    }
-  ],
-  "summary_text": "As of 2026-04-23 14:03 UTC, the recent Canada earthquake dataset contains 530 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.69 at 19 km SW of Victoria, BC/19 km SO de Victoria, BC. The deepest event reached 33.66 km at 19 km SW of Victoria, BC/19 km SO de Victoria, BC. The most recent listed event was M2.69 at 19 km SW of Victoria, BC/19 km SO de Victoria, BC at 2026-04-22T14:33:50.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was BC."
+  "largest_event_last_24h": null,
+  "deepest_event_last_24h": null,
+  "top_regions_last_24h": [],
+  "summary_text": "As of 2026-04-23 15:03 UTC, the recent Canada earthquake dataset contains 533 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M2.69 at 19 km SW of Victoria, BC/19 km SO de Victoria, BC at 2026-04-22T14:33:50.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }
