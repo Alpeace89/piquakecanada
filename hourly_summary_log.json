@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-02T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had four events in our PiQuake Canada dashboard. The largest one was a M4.5 near Morinville, Alberta. That's where it happened; a short distance northeast of that place. This is just part of what our system captures, showing activity across different regions like New Brunswick and British Columbia as well."
-  },
-  {
     "timestamp_utc": "2026-04-02T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a magnitude unknown, happening at an unknown location and time. The latest quake registered as M2.69 about 19 km southwest of Victoria, BC around 14:33 on the 22nd. There are currently no regions with notable seismic activity reported."
+  },
+  {
+    "timestamp_utc": "2026-04-23T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is still in beta and hasn't recorded any events for the last 24 hours. The largest event it's aware of happened a couple of days ago, with a magnitude of M2.69 near Victoria, BC. Nothing serious has been detected since then."
   }
 ]
