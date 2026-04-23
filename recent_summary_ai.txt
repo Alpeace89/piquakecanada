@@ -1,1 +1,1 @@
-In the last 24 hours, there was one event reported by our PiQuake Canada dashboard. It measured M2.24 and happened about 59 km south-southwest of Daajing Giids in British Columbia. This is the largest earthquake we've recorded recently, and it just occurred on April 23 at around 5:18 AM UTC.
+The PiQuake Canada dashboard showed no earthquakes in the last hour, but there was one event recorded yesterday. The largest quake was a M2.24 near Daajing Giids in British Columbia, and it happened at 5:17 AM today local time. BC is where we saw activity today.
