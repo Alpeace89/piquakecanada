@@ -1,1 +1,1 @@
-For the PiQuake Canada dashboard, we had no events reported in the last hour. However, yesterday there was one event with a magnitude of M2.69 near Victoria, BC. This is our latest activity and it happened on April 22nd at around 1:34 PM local time. The main region affected was BC.
+The PiQuake Canada dashboard shows no events in the last hour, but we had one event yesterday that was a M2.69 near Victoria, BC. That's the largest shake we've seen in the past 24 hours and it happened at around 1 PM local time. It's happening more often in British Columbia right now.
