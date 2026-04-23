@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-01T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had 3 PiQuake Canada dashboard events. The largest one was a M3.36 near Tofino in British Columbia, happening on March 31st at about 3:57 PM. This area has been active with two more quakes in Alberta and one in BC too."
-  },
-  {
     "timestamp_utc": "2026-04-01T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks! We've got one minor earthquake event in the last 24 hours, measuring M2.69 around Victoria, BC. It's close to the coast and about 19 kilometers away from where you might be reading this. This is just a normal part of our seismically active region, nothing to worry about or notice outside of any earthquake monitoring dashboards."
+  },
+  {
+    "timestamp_utc": "2026-04-23T00:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard showed no events in the last hour, but there was one event yesterday. It measured M2.69 and happened 19 kilometers southwest of Victoria, British Columbia, or 19 km south of Victoria, BC. That's what we've seen so far this week."
   }
 ]
