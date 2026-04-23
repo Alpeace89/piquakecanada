@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-01T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of 3 PiQuake Canada dashboard events. The largest event was a M3.36 near Tofino in British Columbia, and it happened on March 31 at around 3 PM local time. This area has been active with two more events in the last 24 hours as well."
-  },
-  {
     "timestamp_utc": "2026-04-01T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but we had one event yesterday that was a M2.69 near Victoria, BC. That's the largest shake we've seen in the past 24 hours and it happened at around 1 PM local time. It's happening more often in British Columbia right now."
+  },
+  {
+    "timestamp_utc": "2026-04-23T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had one event in Canada's west coast, a PiQuake alert near Victoria at a magnitude of M2.69. It happened just after noon on April 22nd and it was located about 19 kilometers southwest or south-southwest of Victoria, so folks there should know it’s not something to ignore but also nothing to panic over."
   }
 ]
