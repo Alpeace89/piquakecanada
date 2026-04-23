@@ -42,6 +42,12 @@ window.recentEvents = [
     "place": "8 km ESE of Namur, QC, felt/8 km ESE de Namur, QC, ressenti"
   },
   {
+    "time_utc": "2026-04-21T02:05:27.000Z",
+    "magnitude": "0.9",
+    "depth_km": "5.0",
+    "place": "18 km NW of Orillia, ON/18 km NO de Orillia, ON"
+  },
+  {
     "time_utc": "2026-04-21T01:13:03.000Z",
     "magnitude": "2.08",
     "depth_km": "19.09",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.96",
     "depth_km": "10.0",
     "place": "240 km SSW of Port Hardy, BC/240 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-20T16:59:01.000Z",
-    "magnitude": "3.42",
-    "depth_km": "10.0",
-    "place": "243 km SSW of Port Hardy, BC/243 km SSO de Port Hardy, BC"
   }
 ];

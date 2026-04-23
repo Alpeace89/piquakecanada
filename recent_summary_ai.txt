@@ -1,1 +1,1 @@
-In the last 24 hours, there was one earthquake recorded by our PiQuake Canada dashboard. The largest event was a M2.69 about 19 kilometers southwest of Victoria, BC, and it happened on April 22 at around 1:33 PM local time. This is happening in an area we call BC which has had activity recently.
+The PiQuake Canada dashboard had a quiet day with no events reported in the last hour. But yesterday, there was just one shake recorded, measuring M2.69 and happening near Victoria, BC. It's the latest event we've seen since the beginning of April.
