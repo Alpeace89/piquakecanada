@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-02T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no reported events on the PiQuake Canada dashboard. However, a M4.5 earthquake was preliminarily located near Morinville in Alberta. This is the only event we have to report from this period."
-  },
-  {
     "timestamp_utc": "2026-04-02T07:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, one earthquake event was recorded by our PiQuake Canada dashboard. It measured M2.24 and happened about 59 kilometers southwest of Daajing Giids in British Columbia. This is the latest activity we've seen on our platform. The most recent event matches this magnitude and location."
+  },
+  {
+    "timestamp_utc": "2026-04-23T19:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one event reported by our PiQuake Canada dashboard. It measured M2.24 and happened about 59 km south-southwest of Daajing Giids in British Columbia. This is the largest earthquake we've recorded recently, and it just occurred on April 23 at around 5:18 AM UTC."
   }
 ]

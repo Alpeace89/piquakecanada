@@ -12,6 +12,12 @@ window.recentEvents = [
     "place": "19 km SW of Victoria, BC/19 km SO de Victoria, BC"
   },
   {
+    "time_utc": "2026-04-22T12:33:03.000Z",
+    "magnitude": "0.5",
+    "depth_km": "12.07",
+    "place": "15 km ESE of La Malbaie, QC/15 km ESE de La Malbaie, QC"
+  },
+  {
     "time_utc": "2026-04-22T07:40:23.000Z",
     "magnitude": "0.91",
     "depth_km": "2.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.42",
     "depth_km": "5.0",
     "place": "211 km S of Fort McPherson, NT/211 km S de Fort McPherson, NT"
-  },
-  {
-    "time_utc": "2026-04-21T02:48:34.000Z",
-    "magnitude": "2.15",
-    "depth_km": "12.33",
-    "place": "8 km ESE of Namur, QC, felt/8 km ESE de Namur, QC, ressenti"
   }
 ];
