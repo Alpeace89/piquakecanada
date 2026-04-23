@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-02T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had two minor earthquakes with a magnitude of M4.5 each. They both happened in the area near Morinville, Alberta. This is the first time we've seen so many small quakes in one day. Both were detected just after midnight yesterday."
-  },
-  {
     "timestamp_utc": "2026-04-02T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard showed no earthquakes in the last hour, but there was one event recorded yesterday. The largest quake was a M2.24 near Daajing Giids in British Columbia, and it happened at 5:17 AM today local time. BC is where we saw activity today."
+  },
+  {
+    "timestamp_utc": "2026-04-23T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there was one event yesterday. The largest quake of the day measured M2.24 and happened about 59 kilometers south-southwest of a place called Daajing Giids in British Columbia. That's where we saw our latest earthquake as well."
   }
 ]

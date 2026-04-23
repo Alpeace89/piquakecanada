@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard showed no earthquakes in the last hour, but there was one event recorded yesterday. The largest quake was a M2.24 near Daajing Giids in British Columbia, and it happened at 5:17 AM today local time. BC is where we saw activity today.
+The PiQuake Canada dashboard shows no activity in the last hour, but there was one event yesterday. The largest quake of the day measured M2.24 and happened about 59 kilometers south-southwest of a place called Daajing Giids in British Columbia. That's where we saw our latest earthquake as well.
