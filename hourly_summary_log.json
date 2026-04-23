@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-01T10:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three quakes in the past day. The largest one was a M3.36 near Tofino, BC, and it happened yesterday at about 3:57 PM local time. Most of these quakes have been happening in Alberta and British Columbia."
-  },
-  {
     "timestamp_utc": "2026-04-01T11:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard showed no events in the last hour, but there was one event yesterday. It measured M2.69 and happened 19 kilometers southwest of Victoria, British Columbia, or 19 km south of Victoria, BC. That's what we've seen so far this week."
+  },
+  {
+    "timestamp_utc": "2026-04-23T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one report of a small quake at M2.69 near Victoria this past day. It's the largest shake we've seen since our beta started, and it happened about 19 kilometers southwest of Victoria. This is where many residents live and work, so we're keeping an eye on things to make sure everyone is safe."
   }
 ]

@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260309.0038001,2026-03-09T00:38:00.000Z,59.8991,-141.7358,5.0,ML,2.29,"251 km WSW of Haines Junction, YT/251 km OSO de Haines Junction, YT"
 20260309.0117001,2026-03-09T01:17:05.000Z,54.3909,-117.2024,5.0,MLy,2.26,"Suspected industry-related event, 26 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 26 km O de Fox Creek, AB"
 20260309.0136001,2026-03-09T01:36:46.000Z,48.0926,-77.8733,1.25,MwN,1.61,"Mining event, Goldex Mine, QC/Événement minier, Mine Goldex, QC"
 20260309.0251001,2026-03-09T02:51:48.000Z,54.6193,-118.5706,4.3,MLy,2.33,"Suspected industry-related event, 63 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 63 km SSE de Grande Prairie, AB"
