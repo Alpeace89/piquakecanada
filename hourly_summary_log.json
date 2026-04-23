@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-01T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary of what you can expect on the PiQuake Canada dashboard in beta right now: There have been no big earthquakes recorded this hour, but one M2.45 quake shook off near Minto, New Brunswick yesterday at around 3 am local time. This is the largest event we've seen since our system started up a few days ago, and it's happened mostly in New Brunswick with just one report."
-  },
-  {
     "timestamp_utc": "2026-04-01T20:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there was one small earthquake yesterday. The largest event recorded was a M2.69 near Victoria, BC, happening at about 14:30 on April 22nd. This is where it's located, and that's all we know for now."
+  },
+  {
+    "timestamp_utc": "2026-04-23T10:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard has had no events in the last hour, but there was one event yesterday. It was a M2.69 shake that happened 19 kilometers southwest of Victoria and 19 kilometers south of Victoria at around 14:30 UTC on April 22nd."
   }
 ]
