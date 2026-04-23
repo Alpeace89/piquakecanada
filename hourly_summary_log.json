@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-01T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and there hasn't been any notable seismic event recorded since March 31st around Tofino, BC. The latest quake was a small M3.36 just outside of that area. Sounds like it's been pretty quiet down there lately."
-  },
-  {
     "timestamp_utc": "2026-04-01T19:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but one event recorded yesterday at a magnitude of M2.69. The largest quake in the past 24 hours was near Victoria, BC/Victoria, Mexico, and that's where all activity is happening now. It's been quiet overall though, with just that single earthquake making waves."
+  },
+  {
+    "timestamp_utc": "2026-04-23T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there was one small earthquake yesterday. The largest event recorded was a M2.69 near Victoria, BC, happening at about 14:30 on April 22nd. This is where it's located, and that's all we know for now."
   }
 ]
