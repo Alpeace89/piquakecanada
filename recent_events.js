@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-24T05:56:24.000Z",
+    "magnitude": "2.63",
+    "depth_km": "29.38",
+    "place": "45 km WSW of Refuge Cove 6, BC/45 km OSO de Refuge Cove 6, BC"
+  },
+  {
     "time_utc": "2026-04-24T03:40:04.000Z",
     "magnitude": "2.08",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "0.5",
     "depth_km": "12.07",
     "place": "15 km ESE of La Malbaie, QC/15 km ESE de La Malbaie, QC"
-  },
-  {
-    "time_utc": "2026-04-22T07:40:23.000Z",
-    "magnitude": "0.91",
-    "depth_km": "2.0",
-    "place": "39 km N of Atikokan, ON/39 km N de Atikokan, ON"
   }
 ];

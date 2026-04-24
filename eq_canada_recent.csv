@@ -466,6 +466,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260416.0908001,2026-04-16T09:08:55.000Z,60.3922,-139.5808,5.0,ML,2.13,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
 20260416.1008001,2026-04-16T10:08:40.000Z,60.1741,-139.595,5.0,ML,2.13,"131 km WSW of Haines Junction, YT/131 km OSO de Haines Junction, YT"
 20260416.1114001,2026-04-16T11:14:16.000Z,60.5094,-140.0364,5.0,ML,2.96,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
+20260416.1126001,2026-04-16T11:26:41.000Z,60.516,-140.0433,5.0,ML,2.06,"141 km W of Haines Junction, YT/141 km O de Haines Junction, YT"
 20260416.1217001,2026-04-16T12:17:16.000Z,53.9283,-113.3562,1.0,MLy,2.44,"Suspected industry-related event, 9 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 9 km ONO de Sturgeon County, AB"
 20260416.1402001,2026-04-16T14:02:15.000Z,56.7353,-121.8258,1.0,MLy,2.16,"Suspected industry-related event, 28 km N of Halfway River 168, BC/Événement lié à l'industrie soupconné, 28 km N de Halfway River 168, BC"
 20260416.1415001,2026-04-16T14:15:15.000Z,60.4431,-139.6695,5.0,ML,2.1,"123 km WSW of Haines Junction, YT/123 km OSO de Haines Junction, YT"
@@ -551,3 +552,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260424.0124001,2026-04-24T01:24:45.000Z,60.5313,-139.759,5.0,ML,2.14,"125 km W of Haines Junction, YT/125 km O de Haines Junction, YT"
 20260424.0141001,2026-04-24T01:41:21.000Z,46.9008,-71.3073,5.84,MwN,1.27,"12 km NW of Québec, QC/12 km NO de Québec, QC"
 20260424.0340001,2026-04-24T03:40:04.000Z,60.4945,-139.9906,5.0,ML,2.08,"138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"
+20260424.0556001,2026-04-24T05:56:24.000Z,49.2779,-126.8783,29.38,ML,2.63,"45 km WSW of Refuge Cove 6, BC/45 km OSO de Refuge Cove 6, BC"
