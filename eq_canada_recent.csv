@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260310.1604001,2026-03-10T16:04:41.000Z,61.1588,-139.9989,5.0,ML,2.3,"58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT"
 20260310.1848001,2026-03-10T18:48:03.000Z,49.702,-127.1224,32.39,ML,2.17,"41 km SW of Tahsis, BC/41 km SO de Tahsis, BC"
 20260310.2100001,2026-03-10T21:00:57.000Z,45.7273,-77.2718,9.24,MwN,0.78,"16 km SW of Pembroke, ON/16 km SO de Pembroke, ON"
 20260311.0044001,2026-03-11T00:44:39.000Z,46.6887,-66.9445,5.0,MwN,0.93,"42 km SE of Plaster Rock, NB/42 km SE de Plaster Rock, NB"
@@ -475,6 +474,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260416.1533001,2026-04-16T15:33:25.000Z,44.6882,-79.4925,0.0,MwN,1.1,"Blast, 11 km NNW of Orillia, ON/Dynamitage, 11 km NNO de Orillia, ON"
 20260416.1548001,2026-04-16T15:48:22.000Z,50.5558,-130.2984,10.0,Mw',3.67,"198 km W of Port Hardy, BC/198 km O de Port Hardy, BC"
 20260416.1603001,2026-04-16T16:03:39.000Z,53.9332,-113.3936,1.0,MLy,2.73,"Suspected industry-related event, 11 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 11 km ONO de Sturgeon County, AB"
+20260416.1612001,2026-04-16T16:12:57.000Z,72.4032,-128.9769,30.0,ML,3.32,"135 km WNW of Sachs Harbour, NT/135 km ONO de Sachs Harbour, NT"
 20260416.1937001,2026-04-16T19:37:49.000Z,53.3678,-117.3397,1.0,ML,3.33,"Suspected blast, 16 km ESE of Hinton, AB/Dynamitage soupconné, 16 km ESE de Hinton, AB"
 20260416.2108001,2026-04-16T21:08:17.000Z,54.6166,-118.5662,1.0,MLy,2.72,"Suspected industry-related event, 63 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 63 km SSE de Grande Prairie, AB"
 20260416.2159001,2026-04-16T21:59:36.000Z,44.7696,-68.0432,5.0,MwN,1.14,"58 km E of Bangor, ME/58 km E de Bangor, ME"
