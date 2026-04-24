@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-03T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of 8 events detected. The biggest one measured M3.09 and happened near Haines Junction in the Yukon and Ontario on April 2nd. That's not too much activity, but we saw two events each in Alberta and Yukon with one in Alaska as well."
-  },
-  {
     "timestamp_utc": "2026-04-03T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but had three small quakes in the past 24 hours. The largest one was a M2.14 and happened near Haines Junction, Yukon Territory, both east and west of it. The latest quake clocked at M2.08 also occurred there around midnight. Most of these shakes were felt in Yukon and British Columbia regions."
+  },
+  {
+    "timestamp_utc": "2026-04-24T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were five detected over the past day. The largest was a M2.14 near Haines Junction in the Yukon and British Columbia yesterday at around midnight. This is followed by another M2.08 off the coast of Yukon today at 3:40 AM. Most activity has been reported in the Yukon Territory region over the last 24 hours."
   }
 ]

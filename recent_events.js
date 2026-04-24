@@ -6,10 +6,22 @@ window.recentEvents = [
     "place": "138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"
   },
   {
+    "time_utc": "2026-04-24T01:41:21.000Z",
+    "magnitude": "1.27",
+    "depth_km": "5.84",
+    "place": "12 km NW of Qu\u00e9bec, QC/12 km NO de Qu\u00e9bec, QC"
+  },
+  {
     "time_utc": "2026-04-24T01:24:45.000Z",
     "magnitude": "2.14",
     "depth_km": "5.0",
     "place": "125 km W of Haines Junction, YT/125 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-24T01:14:49.000Z",
+    "magnitude": "1.06",
+    "depth_km": "5.0",
+    "place": "17 km W of Quispamsis - Rothesay, NB/17 km O de Quispamsis - Rothesay, NB"
   },
   {
     "time_utc": "2026-04-23T18:35:07.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "0.91",
     "depth_km": "2.0",
     "place": "39 km N of Atikokan, ON/39 km N de Atikokan, ON"
-  },
-  {
-    "time_utc": "2026-04-21T22:22:36.000Z",
-    "magnitude": "0.76",
-    "depth_km": "2.0",
-    "place": "13 km N of McKellar, ON/13 km N de McKellar, ON"
-  },
-  {
-    "time_utc": "2026-04-21T22:17:36.000Z",
-    "magnitude": "3.06",
-    "depth_km": "0.0",
-    "place": "Blast, 11 km WSW of Trend Mine, BC/Dynamitage, 11 km OSO de la mine Trend, BC"
   }
 ];
