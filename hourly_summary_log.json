@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-02T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had no major seismic events reported. However, a M4.5 quake hit 18 km northeast of Morinville in Alberta and was preliminarily called as such. This is our latest event too. The region with the most recent quakes within Alberta clocked in at one occurrence."
-  },
-  {
     "timestamp_utc": "2026-04-02T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, we've got a new addition to our PiQuake Canada dashboard. Since the last update, there's been one event recorded, and it was a M2.24 quake located about 59 kilometers south-southwest of Daajing Giids in British Columbia. That's pretty much it for today — no big shocks in the past 24 hours, but we've got our eyes on BC as that's where the biggest event last night came from."
+  },
+  {
+    "timestamp_utc": "2026-04-24T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey there! In the last 24 hours, we had one earthquake with a magnitude of M2.24 near Daajing Giids in British Columbia. That's it for now; nothing major happened outside that region. It was the largest event since our dashboard went live yesterday. Keep an eye out if you're in or around BC as there might be some minor rumbling, but don't worry—these are pretty small quakes and usually not a cause for concern."
   }
 ]
