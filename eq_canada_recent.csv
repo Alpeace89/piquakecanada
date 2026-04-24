@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260310.1848001,2026-03-10T18:48:03.000Z,49.702,-127.1224,32.39,ML,2.17,"41 km SW of Tahsis, BC/41 km SO de Tahsis, BC"
 20260310.2100001,2026-03-10T21:00:57.000Z,45.7273,-77.2718,9.24,MwN,0.78,"16 km SW of Pembroke, ON/16 km SO de Pembroke, ON"
 20260311.0044001,2026-03-11T00:44:39.000Z,46.6887,-66.9445,5.0,MwN,0.93,"42 km SE of Plaster Rock, NB/42 km SE de Plaster Rock, NB"
 20260311.0438001,2026-03-11T04:38:46.000Z,54.3096,-117.6939,1.0,MLy,1.92,"Suspected industry-related event, 58 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 58 km O de Fox Creek, AB"

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-03T07:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major earthquake events reported on the PiQuake Canada dashboard. However, a small-scale industry-related quake measuring M2.73 hit Grande Prairie in Alberta. The latest event was a blast at Coaticook in Quebec with a magnitude of M1.65. These are all considered minor and not causing any significant concerns or impacts."
-  },
-  {
     "timestamp_utc": "2026-04-03T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were six quakes recorded over the past 24 hours. The largest one was a M2.63 near Refuge Cove in British Columbia, which happened at 5:56 AM on April 24th. This place has been quite active lately with two quakes reported in BC and two more in Yukon Territory within just one day."
+  },
+  {
+    "timestamp_utc": "2026-04-24T19:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there have been five quakes recorded in the past 24 hours. The largest quake was a M2.63 that happened around 45 km west-southwest of Refuge Cove 6, BC. This is where the latest event occurred just before 6 am UTC on April 24th. The top regions for earthquakes last 24 hours were Yukon Territory with two quakes, New Brunswick with one, and Quebec with another."
   }
 ]
