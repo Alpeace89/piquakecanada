@@ -1,24 +1,53 @@
 {
-  "generated_utc": "2026-04-24T13:03:02Z",
+  "generated_utc": "2026-04-24T14:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 547,
-  "events_last_24h": 0,
+  "rolling_window_event_count": 550,
+  "events_last_24h": 3,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260423.0517001",
-    "time_utc": "2026-04-23T05:17:57.000Z",
-    "latitude": 52.745,
-    "longitude": -132.3209,
-    "depth_km": 14.57,
+    "event_id": "20260424.0340001",
+    "time_utc": "2026-04-24T03:40:04.000Z",
+    "latitude": 60.4945,
+    "longitude": -139.9906,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 2.24,
-    "place": "59 km SSW of Daajing Giids, BC/59 km SSO de Daajing Giids, BC",
+    "magnitude": 2.08,
+    "place": "138 km W of Haines Junction, YT/138 km O de Haines Junction, YT",
+    "region": "YT"
+  },
+  "largest_event_last_24h": {
+    "event_id": "20260424.0124001",
+    "time_utc": "2026-04-24T01:24:45.000Z",
+    "latitude": 60.5313,
+    "longitude": -139.759,
+    "depth_km": 5.0,
+    "mag_type": "ML",
+    "magnitude": 2.14,
+    "place": "125 km W of Haines Junction, YT/125 km O de Haines Junction, YT",
+    "region": "YT"
+  },
+  "deepest_event_last_24h": {
+    "event_id": "20260423.1835001",
+    "time_utc": "2026-04-23T18:35:07.000Z",
+    "latitude": 50.3265,
+    "longitude": -126.8429,
+    "depth_km": 13.95,
+    "mag_type": "ML",
+    "magnitude": 0.73,
+    "place": "31 km SSE of Hyde Creek, BC/31 km SSE de Hyde Creek, BC",
     "region": "BC"
   },
-  "largest_event_last_24h": null,
-  "deepest_event_last_24h": null,
-  "top_regions_last_24h": [],
-  "summary_text": "As of 2026-04-24 13:03 UTC, the recent Canada earthquake dataset contains 547 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M2.24 at 59 km SSW of Daajing Giids, BC/59 km SSO de Daajing Giids, BC at 2026-04-23T05:17:57.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "top_regions_last_24h": [
+    {
+      "region": "YT",
+      "count": 2
+    },
+    {
+      "region": "BC",
+      "count": 1
+    }
+  ],
+  "summary_text": "As of 2026-04-24 14:03 UTC, the recent Canada earthquake dataset contains 550 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.14 at 125 km W of Haines Junction, YT/125 km O de Haines Junction, YT. The deepest event reached 13.95 km at 31 km SSE of Hyde Creek, BC/31 km SSE de Hyde Creek, BC. The most recent listed event was M2.08 at 138 km W of Haines Junction, YT/138 km O de Haines Junction, YT at 2026-04-24T03:40:04.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and BC (1)."
 }

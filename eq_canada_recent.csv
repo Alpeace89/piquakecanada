@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260310.1332001,2026-03-10T13:32:14.000Z,46.3089,-65.9118,5.0,MwN,0.69,"15 km N of Chipman, NB/15 km N de Chipman, NB"
 20260310.1604001,2026-03-10T16:04:41.000Z,61.1588,-139.9989,5.0,ML,2.3,"58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT"
 20260310.1848001,2026-03-10T18:48:03.000Z,49.702,-127.1224,32.39,ML,2.17,"41 km SW of Tahsis, BC/41 km SO de Tahsis, BC"
 20260310.2100001,2026-03-10T21:00:57.000Z,45.7273,-77.2718,9.24,MwN,0.78,"16 km SW of Pembroke, ON/16 km SO de Pembroke, ON"
@@ -546,3 +545,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260422.1233001,2026-04-22T12:33:03.000Z,47.5898,-69.9673,12.07,MwN,0.5,"15 km ESE of La Malbaie, QC/15 km ESE de La Malbaie, QC"
 20260422.1433002,2026-04-22T14:33:50.000Z,48.3005,-123.5431,33.66,ML,2.69,"19 km SW of Victoria, BC/19 km SO de Victoria, BC"
 20260423.0517001,2026-04-23T05:17:57.000Z,52.745,-132.3209,14.57,ML,2.24,"59 km SSW of Daajing Giids, BC/59 km SSO de Daajing Giids, BC"
+20260423.0939001,2026-04-23T09:39:21.000Z,59.194,-137.2381,5.0,ML,2.18,"206 km SW of Whitehorse, YT/206 km SO de Whitehorse, YT"
+20260423.1835001,2026-04-23T18:35:07.000Z,50.3265,-126.8429,13.95,ML,0.73,"31 km SSE of Hyde Creek, BC/31 km SSE de Hyde Creek, BC"
+20260424.0124001,2026-04-24T01:24:45.000Z,60.5313,-139.759,5.0,ML,2.14,"125 km W of Haines Junction, YT/125 km O de Haines Junction, YT"
+20260424.0340001,2026-04-24T03:40:04.000Z,60.4945,-139.9906,5.0,ML,2.08,"138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"

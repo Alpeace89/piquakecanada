@@ -1,5 +1,29 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-24T03:40:04.000Z",
+    "magnitude": "2.08",
+    "depth_km": "5.0",
+    "place": "138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-24T01:24:45.000Z",
+    "magnitude": "2.14",
+    "depth_km": "5.0",
+    "place": "125 km W of Haines Junction, YT/125 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-23T18:35:07.000Z",
+    "magnitude": "0.73",
+    "depth_km": "13.95",
+    "place": "31 km SSE of Hyde Creek, BC/31 km SSE de Hyde Creek, BC"
+  },
+  {
+    "time_utc": "2026-04-23T09:39:21.000Z",
+    "magnitude": "2.18",
+    "depth_km": "5.0",
+    "place": "206 km SW of Whitehorse, YT/206 km SO de Whitehorse, YT"
+  },
+  {
     "time_utc": "2026-04-23T05:17:57.000Z",
     "magnitude": "2.24",
     "depth_km": "14.57",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "3.06",
     "depth_km": "0.0",
     "place": "Blast, 11 km WSW of Trend Mine, BC/Dynamitage, 11 km OSO de la mine Trend, BC"
-  },
-  {
-    "time_utc": "2026-04-21T20:40:08.000Z",
-    "magnitude": "3.65",
-    "depth_km": "10.0",
-    "place": "206 km W of Tofino, BC/206 km O de Tofino, BC"
-  },
-  {
-    "time_utc": "2026-04-21T20:15:22.000Z",
-    "magnitude": "4.19",
-    "depth_km": "10.0",
-    "place": "234 km W of Port Hardy, BC/234 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-21T18:27:04.000Z",
-    "magnitude": "1.47",
-    "depth_km": "29.28",
-    "place": "38 km SSE of Bamfield, BC/38 km SSE de Bamfield, BC"
-  },
-  {
-    "time_utc": "2026-04-21T05:39:22.000Z",
-    "magnitude": "2.42",
-    "depth_km": "5.0",
-    "place": "211 km S of Fort McPherson, NT/211 km S de Fort McPherson, NT"
   }
 ];
