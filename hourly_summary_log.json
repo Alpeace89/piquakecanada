@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-02T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were 13 events yesterday. The biggest one was a M4.5 felt near Sturgeon County, Alberta, from an industry-related blast. The latest event recorded today was a small M1.36 near Wickham, New Brunswick, from dynamite blasting. Most of these happened in British Columbia, Alberta, and the Yukon Territory over the past 24 hours."
-  },
-  {
     "timestamp_utc": "2026-04-02T19:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we saw one earthquake event with a magnitude of M2.24 near Daajing Giids in British Columbia. That was our only quake for the past day and it happened on April 23rd at around 5:18 AM. It's located about 60 km south-southwest from where Daajing Giids is situated, which is a mountain range in BC. We're keeping an eye on this area as part of our regular monitoring to stay alert for any future quakes."
+  },
+  {
+    "timestamp_utc": "2026-04-24T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a summary for the PiQuake Canada dashboard in plain Canadian English: No earthquakes were detected last hour or day, and the largest event was an unknown magnitude happening at an unknown location. The latest recorded quake was a M2.24 near Daajing Giids, BC."
   }
 ]
