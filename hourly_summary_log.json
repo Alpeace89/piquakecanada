@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-02T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there were 14 minor quakes reported across Canada. The largest one felt near Sturgeon County in Alberta was a M4.5 event. The latest quake was a small blast near Coaticook in Quebec. Most of these occurred in British Columbia, Alberta, and Yukon Territory."
-  },
-  {
     "timestamp_utc": "2026-04-02T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were detected in our Canada dashboard. The largest event recorded was a M2.24 near Daajing Giids, BC, which happened around 05:17 UTC on April 23rd. It's important to note that this is just one event and we monitor for any seismic activity."
+  },
+  {
+    "timestamp_utc": "2026-04-24T08:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't recorded any seismic events in the last hour or day. The largest event detected was a magnitude unknown at an unspecified location, which happened earlier on April 23rd around 5:18 am. Nothing significant has been reported from our monitoring since then either."
   }
 ]
