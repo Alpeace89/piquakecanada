@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-03T01:30:50Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were nine in the past 24 hours. The largest event was a M3.09 near Haines Junction and Osogoos, YT on the day before. It seems like most of these quakes happen in areas like Alaska and Yukon Territory."
-  },
-  {
     "timestamp_utc": "2026-04-03T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, with a largest event being an unknown magnitude at an unknown location. The latest quake was a M2.24 that occurred on April 23rd around 5:18 am local time, about 59 km south-southwest of Daajing Giids, BC."
+  },
+  {
+    "timestamp_utc": "2026-04-24T13:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, no events were recorded on the PiQuake Canada dashboard. The largest event was an unknown magnitude occurring in an unknown location with an unknown time. Our latest update shows a M2.24 quake happened about 59 kilometers southwest of Daajing Giids, BC, around 05:17 UTC on April 23rd."
   }
 ]
