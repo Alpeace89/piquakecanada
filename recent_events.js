@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-24T09:39:50.000Z",
+    "magnitude": "2.22",
+    "depth_km": "5.0",
+    "place": "133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-24T05:56:24.000Z",
     "magnitude": "2.63",
     "depth_km": "29.38",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.69",
     "depth_km": "33.66",
     "place": "19 km SW of Victoria, BC/19 km SO de Victoria, BC"
-  },
-  {
-    "time_utc": "2026-04-22T12:33:03.000Z",
-    "magnitude": "0.5",
-    "depth_km": "12.07",
-    "place": "15 km ESE of La Malbaie, QC/15 km ESE de La Malbaie, QC"
   }
 ];

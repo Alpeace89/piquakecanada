@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-03T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no reported major earthquakes but a few minor events. The largest one was an M2.73 near Grande Prairie in Alberta that might have been related to industry. We also had a small blast at Coaticook in Quebec. Most of these happened in Alberta and New Brunswick with the rest in Quebec."
-  },
-  {
     "timestamp_utc": "2026-04-03T09:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there have been five quakes recorded in the past 24 hours. The largest quake was a M2.63 that happened around 45 km west-southwest of Refuge Cove 6, BC. This is where the latest event occurred just before 6 am UTC on April 24th. The top regions for earthquakes last 24 hours were Yukon Territory with two quakes, New Brunswick with one, and Quebec with another."
+  },
+  {
+    "timestamp_utc": "2026-04-24T20:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had six PiQuake Canada dashboard events. The largest one was a M2.63 near Refuge Cove in British Columbia at around 05:56 UTC on April 24th. And just an hour earlier, there was another shake measuring M2.22 about 133 km west of Haines Junction in the Yukon Territory. It looks like most of these events have been happening in Yukon and New Brunswick regions."
   }
 ]
