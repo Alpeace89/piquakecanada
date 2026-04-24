@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day, and there's been a magnitude M2.24 earthquake reported yesterday around midnight near Daajing Giids, BC. That's it for today’s updates folks!
+The PiQuake Canada dashboard shows no events in the last hour or day, with a largest event being an unknown magnitude at an unknown location. The latest quake was a M2.24 that occurred on April 23rd around 5:18 am local time, about 59 km south-southwest of Daajing Giids, BC.
