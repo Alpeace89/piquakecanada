@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-02T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had 14 PiQuake Canada events reported. The largest one was a M4.5 from an industry-related blast in Sturgeon County, Alberta, which people could feel. Our latest event was a small dynamite blast near Coaticook in Quebec at 17:38 UTC today. Mostly happening in BC, AB, and YT with most of the events in these three provinces."
-  },
-  {
     "timestamp_utc": "2026-04-02T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a summary for the PiQuake Canada dashboard in plain Canadian English: No earthquakes were detected last hour or day, and the largest event was an unknown magnitude happening at an unknown location. The latest recorded quake was a M2.24 near Daajing Giids, BC."
+  },
+  {
+    "timestamp_utc": "2026-04-24T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, no earthquakes were detected in our Canada dashboard. The largest event recorded was a M2.24 near Daajing Giids, BC, which happened around 05:17 UTC on April 23rd. It's important to note that this is just one event and we monitor for any seismic activity."
   }
 ]

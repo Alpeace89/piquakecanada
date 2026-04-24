@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260310.0632001,2026-03-10T06:32:57.000Z,60.5542,-139.9686,5.0,ML,2.71,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
 20260310.1048001,2026-03-10T10:48:15.000Z,54.3001,-118.5456,1.0,MLy,2.42,"Suspected industry-related event, 59 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 59 km NE de Grande Cache, AB"
 20260310.1108001,2026-03-10T11:08:31.000Z,66.6054,-136.1274,10.0,ML,2.35,"107 km SSW of Fort McPherson, NT/107 km SSO de Fort McPherson, NT"
 20260310.1229001,2026-03-10T12:29:19.000Z,54.5847,-118.5016,1.0,MLy,2.69,"Suspected industry-related event, 68 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 68 km SSE de Grande Prairie, AB"

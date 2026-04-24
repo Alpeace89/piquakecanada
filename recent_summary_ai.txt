@@ -1,1 +1,1 @@
-Here's a summary for the PiQuake Canada dashboard in plain Canadian English: No earthquakes were detected last hour or day, and the largest event was an unknown magnitude happening at an unknown location. The latest recorded quake was a M2.24 near Daajing Giids, BC.
+In the last 24 hours, no earthquakes were detected in our Canada dashboard. The largest event recorded was a M2.24 near Daajing Giids, BC, which happened around 05:17 UTC on April 23rd. It's important to note that this is just one event and we monitor for any seismic activity.
