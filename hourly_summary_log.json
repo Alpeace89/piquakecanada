@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-03T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of 5 PiQuake Canada events. The largest one was M2.73 near Grande Prairie in Alberta and is suspected to be related to industry work. Just yesterday afternoon, there was also an M1.65 event where dynamite was used in Coaticook, Quebec. The top regions for the last 24 hours were British Columbia, Yukon, and Alberta."
-  },
-  {
     "timestamp_utc": "2026-04-03T07:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had six seismic events on our PiQuake Canada dashboard. The largest one was a M2.63 just west-southwest of Refuge Cove in British Columbia and Yukon territories. That's where it happened. This is part of what we're monitoring to keep everyone safe and informed."
+  },
+  {
+    "timestamp_utc": "2026-04-24T18:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were six quakes recorded over the past 24 hours. The largest one was a M2.63 near Refuge Cove in British Columbia, which happened at 5:56 AM on April 24th. This place has been quite active lately with two quakes reported in BC and two more in Yukon Territory within just one day."
   }
 ]
