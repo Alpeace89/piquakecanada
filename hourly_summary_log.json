@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-02T17:03:01Z",
-    "mode": "deterministic",
-    "model": null,
-    "summary": "Canada recorded 11 earthquakes in the last 24 hours, with the largest event M4.5 at 18 km NE of Morinville, AB/Preliminaire; 18 km NE de Morinville, AB. No earthquakes were recorded in the last hour. The most recent listed event was M2.73 at Suspected industry-related event, 43 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 43 km S de Grande Prairie, AB at 2026-04-02T08:33:51Z."
-  },
-  {
     "timestamp_utc": "2026-04-02T18:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there was one event yesterday. The largest quake recorded recently happened near Daajing Giids, BC and measured M2.24. It's happening a bit southwest of where earthquakes have been occurring."
+  },
+  {
+    "timestamp_utc": "2026-04-24T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we saw one earthquake event with a magnitude of M2.24 near Daajing Giids in British Columbia. That was our only quake for the past day and it happened on April 23rd at around 5:18 AM. It's located about 60 km south-southwest from where Daajing Giids is situated, which is a mountain range in BC. We're keeping an eye on this area as part of our regular monitoring to stay alert for any future quakes."
   }
 ]
