@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-02T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of 7 events detected. The largest event was a M4.5 near Morinville, Alberta at around 11 PM yesterday. And today, just after dawn, there was another little shake in Grande Cache area that measured M2.17 - not big enough to worry about but still interesting. So far this week, most of the activity has been happening in Alberta and British Columbia."
-  },
-  {
     "timestamp_utc": "2026-04-02T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey there! In the last 24 hours, we had one earthquake with a magnitude of M2.24 near Daajing Giids in British Columbia. That's it for now; nothing major happened outside that region. It was the largest event since our dashboard went live yesterday. Keep an eye out if you're in or around BC as there might be some minor rumbling, but don't worry—these are pretty small quakes and usually not a cause for concern."
+  },
+  {
+    "timestamp_utc": "2026-04-24T03:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there was one event yesterday. The largest quake happened near Daajing Giids in British Columbia with a magnitude of M2.24, detected around midnight our time. That's the only thing to report from the past 24 hours."
   }
 ]
