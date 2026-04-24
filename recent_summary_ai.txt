@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day, and there's a small quake reported yesterday that was just slightly under magnitude 2. That's it for today—no quakes to report!
+For those using the PiQuake Canada dashboard in beta, there haven't been any earthquakes reported in the last hour or day. The largest event detected was an unknown magnitude from an unknown location yesterday at around 5:18 am. We saw one small quake happen earlier today near Daajing Giids, BC.

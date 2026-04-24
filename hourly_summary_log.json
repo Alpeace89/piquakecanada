@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-02T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there were no significant earthquake events reported in Canada. But a M4.5 magnitude event was felt near Sturgeon County, AB. It's an industry-related quake. A smaller blast event registered at M1.65 occurred just north of Coaticook in Quebec. These are all the recorded quakes within that time frame across various regions including Alberta and Yukon Territories, with Alaska also seeing some activity recently."
-  },
-  {
     "timestamp_utc": "2026-04-02T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and there's a small quake reported yesterday that was just slightly under magnitude 2. That's it for today—no quakes to report!"
+  },
+  {
+    "timestamp_utc": "2026-04-24T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For those using the PiQuake Canada dashboard in beta, there haven't been any earthquakes reported in the last hour or day. The largest event detected was an unknown magnitude from an unknown location yesterday at around 5:18 am. We saw one small quake happen earlier today near Daajing Giids, BC."
   }
 ]
