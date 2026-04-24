@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard is currently in beta and hasn't recorded any seismic events in the last hour or day. The largest event detected was a magnitude unknown at an unspecified location, which happened earlier on April 23rd around 5:18 am. Nothing significant has been reported from our monitoring since then either.
+The PiQuake Canada dashboard shows no activity in the last hour or day, and there's a small quake reported yesterday that was just slightly under magnitude 2. That's it for today—no quakes to report!
