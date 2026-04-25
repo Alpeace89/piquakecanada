@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-04-25T06:03:01Z",
+  "generated_utc": "2026-04-25T07:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 551,
+  "rolling_window_event_count": 550,
   "events_last_24h": 1,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
@@ -45,5 +45,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-25 06:03 UTC, the recent Canada earthquake dataset contains 551 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.22 at 133 km W of Haines Junction, YT/133 km O de Haines Junction, YT. The deepest event reached 5.00 km at 133 km W of Haines Junction, YT/133 km O de Haines Junction, YT. The most recent listed event was M2.22 at 133 km W of Haines Junction, YT/133 km O de Haines Junction, YT at 2026-04-24T09:39:50.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was YT."
+  "summary_text": "As of 2026-04-25 07:03 UTC, the recent Canada earthquake dataset contains 550 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.22 at 133 km W of Haines Junction, YT/133 km O de Haines Junction, YT. The deepest event reached 5.00 km at 133 km W of Haines Junction, YT/133 km O de Haines Junction, YT. The most recent listed event was M2.22 at 133 km W of Haines Junction, YT/133 km O de Haines Junction, YT at 2026-04-24T09:39:50.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was YT."
 }
