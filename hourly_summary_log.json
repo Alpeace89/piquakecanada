@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-03T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were two quakes yesterday. The largest one measured M1.65 and happened at Blast, 8 km S of Coaticook, QC or Dynamitage, 8 km S de Coaticook, QC on April 2nd at around 5:38 PM local time."
-  },
-  {
     "timestamp_utc": "2026-04-03T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had six little shakes reported. The biggest one was a M2.63 near two places in British Columbia and Yukon. That's right next door to each other. In the past hour, there were no quakes at all. We saw some action from Yukon Territory, New Brunswick, and Quebec too."
+  },
+  {
+    "timestamp_utc": "2026-04-25T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major quakes reported. But we did see three smaller ones—two in Yukon and one in British Columbia. The biggest was a M2.63 shake near Refuge Cove, BC, which happened just before midnight yesterday. If you live in those areas, it's always good to keep an eye on the dashboard for any more updates."
   }
 ]
