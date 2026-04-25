@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-03T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is still in its beta phase, but so far, there haven't been any earthquakes recorded within the last 24 hours. The latest event was a M1.65 near Coaticook, Quebec, and that's all we've seen since our last update."
-  },
-  {
     "timestamp_utc": "2026-04-03T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had one earthquake event in the Yukon region measuring M2.22 near Haines Junction. This was our largest quake and it happened on April 24th at around 9:39 AM local time. It's all part of what we're seeing with the PiQuake Canada dashboard as we continue to monitor these events."
+  },
+  {
+    "timestamp_utc": "2026-04-25T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had one event on our PiQuake Canada dashboard. It was a M2.22 quake near Haines Junction in the Yukon Territory and its other end close to Ontario. That's the largest shake since our system went live yesterday. All these happenings are happening in the Yukon region."
   }
 ]
