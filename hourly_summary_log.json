@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-03T16:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but we had one event yesterday. It was a M1.65 quake happening at Blast and Dynamitage, both about 8 km south of Coaticook in Quebec. This is the largest quake recorded recently here on the dashboard."
-  },
-  {
     "timestamp_utc": "2026-04-03T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three PiQuake Canada dashboard events. The largest one was a M2.63 just west-southwest of Refuge Cove in British Columbia and Haines Junction in Yukon, happening at around 5:56 AM on April 24th. That night, there was also another event with a magnitude of M2.22 near Haines Junction, Yukon. Most of these quakes happened in the territories last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-04-25T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two minor earthquakes with the largest measuring M2.63 near Refuge Cove in British Columbia and another at Haines Junction in Yukon. It's pretty quiet lately, but it seems there have been no activity in the past hour either. The latest one was measured at M2.22 and happened earlier today."
   }
 ]
