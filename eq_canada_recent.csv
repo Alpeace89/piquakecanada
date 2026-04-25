@@ -1,8 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260311.1113001,2026-03-11T11:13:47.000Z,60.3994,-139.4937,5.0,ML,2.36,"115 km WSW of Haines Junction, YT/115 km OSO de Haines Junction, YT"
-20260311.1115001,2026-03-11T11:15:22.000Z,49.8408,-123.5796,5.0,ML1,0.99,"34 km WNW of Squamish, BC/34 km ONO de Squamish, BC"
-20260311.1128001,2026-03-11T11:28:13.000Z,61.4925,-140.6542,5.0,ML,2.02,"100 km S of Beaver Creek, YT/100 km S de Beaver Creek, YT"
-20260311.1156001,2026-03-11T11:56:29.000Z,61.5103,-140.672,5.0,ML,2.09,"98 km S of Beaver Creek, YT/98 km S de Beaver Creek, YT"
 20260312.0114001,2026-03-12T01:14:32.000Z,61.5046,-140.714,5.0,ML,2.1,"98 km S of Beaver Creek, YT/98 km S de Beaver Creek, YT"
 20260312.0714001,2026-03-12T07:14:42.000Z,61.4984,-140.6743,5.0,ML,2.75,"99 km S of Beaver Creek, YT/99 km S de Beaver Creek, YT"
 20260312.1044001,2026-03-12T10:44:19.000Z,49.5204,-127.6797,28.94,ML,1.48,"61 km SSW of Houpsitas 6, BC/61 km SSO de Houpsitas 6, BC"
