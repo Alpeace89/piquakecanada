@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260311.0438001,2026-03-11T04:38:46.000Z,54.3096,-117.6939,1.0,MLy,1.92,"Suspected industry-related event, 58 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 58 km O de Fox Creek, AB"
 20260311.0604001,2026-03-11T06:04:21.000Z,60.4943,-139.978,5.0,ML,2.4,"138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"
 20260311.1113001,2026-03-11T11:13:47.000Z,60.3994,-139.4937,5.0,ML,2.36,"115 km WSW of Haines Junction, YT/115 km OSO de Haines Junction, YT"
 20260311.1115001,2026-03-11T11:15:22.000Z,49.8408,-123.5796,5.0,ML1,0.99,"34 km WNW of Squamish, BC/34 km ONO de Squamish, BC"
