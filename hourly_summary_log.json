@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-05T11:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no earthquakes recorded by our PiQuake Canada dashboard. The largest event was a M1.65 near Coaticook in Quebec on April 2nd at around 5:38 PM local time. Nothing significant has happened lately to warrant attention from us."
-  },
-  {
     "timestamp_utc": "2026-04-05T12:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one earthquake event detected. The largest quake measured M2.99 and happened about 11 kilometers southeast of Amherstburg, Ontario. It was felt or reported in that area as well as nearby places like St. Thomas. That's it for now - that's the latest news from our PiQuake Canada dashboard."
+  },
+  {
+    "timestamp_utc": "2026-04-26T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had one event with a magnitude of M2.99, felt and resented near Amherstburg, Ontario. This is the latest activity recorded by our PiQuake Canada dashboard and it's the largest event since the system started its beta testing phase back in April."
   }
 ]
