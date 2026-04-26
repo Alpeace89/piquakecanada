@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-26T14:32:04.000Z",
+    "magnitude": "2.99",
+    "depth_km": "5.0",
+    "place": "11 km SSE of Amherstburg, ON, felt/11 km SSE de Amherstburg, ON, ressenti"
+  },
+  {
     "time_utc": "2026-04-24T09:39:50.000Z",
     "magnitude": "2.22",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.24",
     "depth_km": "14.57",
     "place": "59 km SSW of Daajing Giids, BC/59 km SSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-04-22T14:33:50.000Z",
-    "magnitude": "2.69",
-    "depth_km": "33.66",
-    "place": "19 km SW of Victoria, BC/19 km SO de Victoria, BC"
   }
 ];

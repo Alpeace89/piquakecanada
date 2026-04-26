@@ -1,24 +1,49 @@
 {
-  "generated_utc": "2026-04-26T18:03:02Z",
+  "generated_utc": "2026-04-26T19:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 536,
-  "events_last_24h": 0,
+  "rolling_window_event_count": 537,
+  "events_last_24h": 1,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260424.0939001",
-    "time_utc": "2026-04-24T09:39:50.000Z",
-    "latitude": 60.5655,
-    "longitude": -139.921,
+    "event_id": "20260426.1432001",
+    "time_utc": "2026-04-26T14:32:04.000Z",
+    "latitude": 42.0237,
+    "longitude": -83.0145,
     "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 2.22,
-    "place": "133 km W of Haines Junction, YT/133 km O de Haines Junction, YT",
-    "region": "YT"
+    "mag_type": "MwN",
+    "magnitude": 2.99,
+    "place": "11 km SSE of Amherstburg, ON, felt/11 km SSE de Amherstburg, ON, ressenti",
+    "region": "Unknown"
   },
-  "largest_event_last_24h": null,
-  "deepest_event_last_24h": null,
-  "top_regions_last_24h": [],
-  "summary_text": "As of 2026-04-26 18:03 UTC, the recent Canada earthquake dataset contains 536 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M2.22 at 133 km W of Haines Junction, YT/133 km O de Haines Junction, YT at 2026-04-24T09:39:50.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "largest_event_last_24h": {
+    "event_id": "20260426.1432001",
+    "time_utc": "2026-04-26T14:32:04.000Z",
+    "latitude": 42.0237,
+    "longitude": -83.0145,
+    "depth_km": 5.0,
+    "mag_type": "MwN",
+    "magnitude": 2.99,
+    "place": "11 km SSE of Amherstburg, ON, felt/11 km SSE de Amherstburg, ON, ressenti",
+    "region": "Unknown"
+  },
+  "deepest_event_last_24h": {
+    "event_id": "20260426.1432001",
+    "time_utc": "2026-04-26T14:32:04.000Z",
+    "latitude": 42.0237,
+    "longitude": -83.0145,
+    "depth_km": 5.0,
+    "mag_type": "MwN",
+    "magnitude": 2.99,
+    "place": "11 km SSE of Amherstburg, ON, felt/11 km SSE de Amherstburg, ON, ressenti",
+    "region": "Unknown"
+  },
+  "top_regions_last_24h": [
+    {
+      "region": "Unknown",
+      "count": 1
+    }
+  ],
+  "summary_text": "As of 2026-04-26 19:03 UTC, the recent Canada earthquake dataset contains 537 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.99 at 11 km SSE of Amherstburg, ON, felt/11 km SSE de Amherstburg, ON, ressenti. The deepest event reached 5.00 km at 11 km SSE of Amherstburg, ON, felt/11 km SSE de Amherstburg, ON, ressenti. The most recent listed event was M2.99 at 11 km SSE of Amherstburg, ON, felt/11 km SSE de Amherstburg, ON, ressenti at 2026-04-26T14:32:04.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was Unknown."
 }
