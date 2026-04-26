@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events have been recorded in the last hour or day, and we don't know where the biggest event happened. The latest event was a M2.22 near Haines Junction in the Yukon Territory, which occurred at around 9:39 AM on April 24th.
+The PiQuake Canada dashboard shows no activity for the last 24 hours, and we haven't detected any earthquakes of magnitude 2.22 or larger in that time frame either. The latest quake recorded was a M2.22 near Haines Junction, Yukon, which happened on April 24 at around 9:39 AM local time.
