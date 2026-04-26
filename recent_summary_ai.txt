@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day. The largest event detected was a magnitude unknown, happening at an unknown location. It's pretty quiet around here; our latest shake-up was a M2.22 just before 9 AM on April 24th.
+The PiQuake Canada dashboard shows no activity events in the last hour or day. The largest event recorded was an unknown magnitude at an unknown location, which happened outside of Canada's borders. Our latest event was a M2.22 near Haines Junction in the Yukon Territory, and it occurred on April 24th at about 9:39 AM UTC.

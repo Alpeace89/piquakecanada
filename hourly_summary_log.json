@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-05T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, no earthquakes were reported on the PiQuake Canada dashboard. The largest event was a minor shake measuring M1.65 and occurred in the region near Coaticook, both Quebec, which is where dynamite blasts happen sometimes. It's just one of those regular occurrences we track to keep everyone informed about seismic activity in Canada."
-  },
-  {
     "timestamp_utc": "2026-04-05T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event detected was a magnitude unknown, happening at an unknown location. It's pretty quiet around here; our latest shake-up was a M2.22 just before 9 AM on April 24th."
+  },
+  {
+    "timestamp_utc": "2026-04-26T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity events in the last hour or day. The largest event recorded was an unknown magnitude at an unknown location, which happened outside of Canada's borders. Our latest event was a M2.22 near Haines Junction in the Yukon Territory, and it occurred on April 24th at about 9:39 AM UTC."
   }
 ]
