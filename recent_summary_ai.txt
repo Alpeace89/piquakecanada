@@ -1,1 +1,1 @@
-In the past 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The largest event was a magnitude unknown and it happened at an unknown location and time. However, in the last hour, no earthquakes were detected either.
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event was an unknown magnitude at an unknown location, and there hasn't been a notable quake to report since April 24th around Haines Junction, Yukon Territory.

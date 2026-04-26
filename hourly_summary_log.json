@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-05T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and there was a small tremor of M1.65 at Blast, 8 km S of Coaticook, QC/Dynamitage, 8 km S de Coaticook, QC on April 2nd. That's all we've got for now; things have been pretty quiet lately."
-  },
-  {
     "timestamp_utc": "2026-04-05T07:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The largest event was a magnitude unknown and it happened at an unknown location and time. However, in the last hour, no earthquakes were detected either."
+  },
+  {
+    "timestamp_utc": "2026-04-26T18:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event was an unknown magnitude at an unknown location, and there hasn't been a notable quake to report since April 24th around Haines Junction, Yukon Territory."
   }
 ]

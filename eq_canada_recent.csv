@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260312.1737001,2026-03-12T17:37:26.000Z,65.2887,-134.2762,10.0,ML,3.35,"204 km NNE of Mayo, YT/204 km NNE de Mayo, YT"
 20260312.2106001,2026-03-12T21:06:45.000Z,48.0926,-77.8733,1.37,MwN,1.97,"Mining event, Goldex Mine, QC/Événement minier, Mine Goldex, QC"
 20260312.2353002,2026-03-12T23:53:49.000Z,57.1229,-121.8757,1.0,MLy,2.96,"Suspected industry-related event, 54 km WNW of Prespatou, BC/Événement lié à l'industrie soupconné, 54 km ONO de Prespatou, BC"
 20260312.2359001,2026-03-12T23:59:03.000Z,50.6652,-128.2167,1.0,ML,1.55,"15 km W of Holberg, BC/15 km O de Holberg, BC"
