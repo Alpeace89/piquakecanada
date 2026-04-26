@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-05T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard hasn't had any events in the last hour or day, and the largest event recorded was a M1.65 just outside of Coaticook, Quebec, yesterday afternoon. It's been quiet out there!"
-  },
-  {
     "timestamp_utc": "2026-04-05T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was M2.22, which happened near Haines Junction, Yukon and its offshore neighbor at an unknown time."
+  },
+  {
+    "timestamp_utc": "2026-04-26T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event detected was a magnitude unknown, happening at an unknown location. It's pretty quiet around here; our latest shake-up was a M2.22 just before 9 AM on April 24th."
   }
 ]
