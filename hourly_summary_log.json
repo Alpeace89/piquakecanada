@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-04T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no reported earthquakes using our PiQuake Canada dashboard. The largest event measured at M1.65 and happened in Coaticook, Quebec, around 8 km south-southeast of that location during a dynamite blast on April 2nd."
-  },
-  {
     "timestamp_utc": "2026-04-04T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in its beta phase, and there haven't been any earthquakes recorded in the last 24 hours. The largest event detected was a M2.22 near Haines Junction in the far north of Yukon Territory. It happened on April 24th at around 9:39 AM local time."
+  },
+  {
+    "timestamp_utc": "2026-04-26T07:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is up and running with no events recorded in the last hour or day. The largest event detected was of unknown magnitude, happening at an unknown location at an unknown time. Our latest report shows a M2.22 quake near Haines Junction, YT, just after 9:40 AM on April 24th."
   }
 ]
