@@ -1,1 +1,1 @@
-In the past 24 hours, we've had one seismic event with a magnitude of M2.99 near Amherstburg, Ontario, that was felt and noticed in both English and French versions. This is our latest activity as well since it happened just yesterday at around 1:30 PM UTC.
+In the last 24 hours, there was one earthquake event detected. The largest quake measured M2.99 and happened about 11 kilometers southeast of Amherstburg, Ontario. It was felt or reported in that area as well as nearby places like St. Thomas. That's it for now - that's the latest news from our PiQuake Canada dashboard.
