@@ -1,1 +1,1 @@
-Hey there! We've had zero earthquakes in the last hour and nothing new since yesterday. The biggest one was a tiny M2.22 that happened near Haines Junction, Yukon—about 133 kilometers away from where it started. It all happened way back on April 24th at about 9:39 AM. That's what we've got for now in the PiQuake Canada dashboard.
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was M2.22, which happened near Haines Junction, Yukon and its offshore neighbor at an unknown time.
