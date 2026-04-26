@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-04T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last hour, there were no recorded quakes. In the past day, also nothing big happened. The largest quake was a M1.65 that happened near Coaticook in Quebec, Canada. It's important to note though that the exact time and location are unknown as of now."
-  },
-  {
     "timestamp_utc": "2026-04-04T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there haven't been any earthquake events recorded on the PiQuake Canada dashboard. The latest event was a small one measuring M2.22, happening about 133 kilometers west and another 133 kilometers east of Haines Junction in the Yukon Territory. It's all pretty quiet up there at the moment."
+  },
+  {
+    "timestamp_utc": "2026-04-26T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event yesterday was unknown magnitude at an unknown location. Today, there was a minor shake with a M2.22 near Haines Junction, Yukon and its opposite side."
   }
 ]
