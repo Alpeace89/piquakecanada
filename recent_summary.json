@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-27T16:03:01Z",
+  "generated_utc": "2026-04-27T17:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 536,
   "events_last_24h": 1,
@@ -7,36 +7,36 @@
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 1,
   "latest_event": {
-    "event_id": "20260426.2312001",
+    "event_id": "20260426.2312002",
     "time_utc": "2026-04-26T23:12:53.000Z",
-    "latitude": 71.2497,
-    "longitude": -133.7476,
+    "latitude": 71.2369,
+    "longitude": -133.7208,
     "depth_km": 35.0,
     "mag_type": "ML",
-    "magnitude": 4.19,
-    "place": "202 km N of Tuktoyaktuk, NT/202 km N de Tuktoyaktuk, NT",
+    "magnitude": 4.31,
+    "place": "200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT",
     "region": "NT"
   },
   "largest_event_last_24h": {
-    "event_id": "20260426.2312001",
+    "event_id": "20260426.2312002",
     "time_utc": "2026-04-26T23:12:53.000Z",
-    "latitude": 71.2497,
-    "longitude": -133.7476,
+    "latitude": 71.2369,
+    "longitude": -133.7208,
     "depth_km": 35.0,
     "mag_type": "ML",
-    "magnitude": 4.19,
-    "place": "202 km N of Tuktoyaktuk, NT/202 km N de Tuktoyaktuk, NT",
+    "magnitude": 4.31,
+    "place": "200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT",
     "region": "NT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260426.2312001",
+    "event_id": "20260426.2312002",
     "time_utc": "2026-04-26T23:12:53.000Z",
-    "latitude": 71.2497,
-    "longitude": -133.7476,
+    "latitude": 71.2369,
+    "longitude": -133.7208,
     "depth_km": 35.0,
     "mag_type": "ML",
-    "magnitude": 4.19,
-    "place": "202 km N of Tuktoyaktuk, NT/202 km N de Tuktoyaktuk, NT",
+    "magnitude": 4.31,
+    "place": "200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT",
     "region": "NT"
   },
   "top_regions_last_24h": [
@@ -45,5 +45,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-27 16:03 UTC, the recent Canada earthquake dataset contains 536 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.19 at 202 km N of Tuktoyaktuk, NT/202 km N de Tuktoyaktuk, NT. The deepest event reached 35.00 km at 202 km N of Tuktoyaktuk, NT/202 km N de Tuktoyaktuk, NT. The most recent listed event was M4.19 at 202 km N of Tuktoyaktuk, NT/202 km N de Tuktoyaktuk, NT at 2026-04-26T23:12:53.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active region was NT."
+  "summary_text": "As of 2026-04-27 17:03 UTC, the recent Canada earthquake dataset contains 536 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.31 at 200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT. The deepest event reached 35.00 km at 200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT. The most recent listed event was M4.31 at 200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT at 2026-04-26T23:12:53.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active region was NT."
 }

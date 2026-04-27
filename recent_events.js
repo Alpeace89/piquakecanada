@@ -1,9 +1,9 @@
 window.recentEvents = [
   {
     "time_utc": "2026-04-26T23:12:53.000Z",
-    "magnitude": "4.19",
+    "magnitude": "4.31",
     "depth_km": "35.0",
-    "place": "202 km N of Tuktoyaktuk, NT/202 km N de Tuktoyaktuk, NT"
+    "place": "200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT"
   },
   {
     "time_utc": "2026-04-26T14:32:04.000Z",
