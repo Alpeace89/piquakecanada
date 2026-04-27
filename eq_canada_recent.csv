@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260313.0635001,2026-03-13T06:35:56.000Z,53.4934,-133.2615,14.56,ML,2.71,"82 km WNW of Daajing Giids, BC/82 km ONO de Daajing Giids, BC"
 20260313.1146001,2026-03-13T11:46:00.000Z,48.7265,-129.128,10.0,Mw',2.96,"251 km SSW of Port Hardy, BC/251 km SSO de Port Hardy, BC"
 20260313.1459001,2026-03-13T14:59:35.000Z,49.1656,-113.9559,1.0,ML,3.46,"13 km SSW of Twin Butte, AB/13 km SSO de Twin Butte, AB"
 20260313.1727001,2026-03-13T17:27:06.000Z,60.5202,-139.8828,5.0,ML,2.81,"132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
