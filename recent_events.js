@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-27T04:22:38.000Z",
+    "magnitude": "2.97",
+    "depth_km": "16.37",
+    "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
+  },
+  {
+    "time_utc": "2026-04-27T03:08:50.000Z",
+    "magnitude": "2.13",
+    "depth_km": "5.0",
+    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-27T02:57:17.000Z",
     "magnitude": "3.66",
     "depth_km": "5.0",
@@ -18,6 +30,18 @@ window.recentEvents = [
     "place": "200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT"
   },
   {
+    "time_utc": "2026-04-26T23:09:22.000Z",
+    "magnitude": "3.66",
+    "depth_km": "1.0",
+    "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-26T19:59:41.000Z",
+    "magnitude": "2.97",
+    "depth_km": "1.76",
+    "place": "Suspected industry-related event, 56 km WNW of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 56 km ONO de Prespatou, BC"
+  },
+  {
     "time_utc": "2026-04-26T14:32:04.000Z",
     "magnitude": "2.89",
     "depth_km": "5.0",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "2.37",
     "depth_km": "5.0",
     "place": "47 km ESE of Watertown, NY/47 km ESE de Watertown, NY"
-  },
-  {
-    "time_utc": "2026-04-25T23:07:48.000Z",
-    "magnitude": "2.35",
-    "depth_km": "5.0",
-    "place": "29 km S of Caribou Mine, NB/29 km S de la mine Caribou, NB"
-  },
-  {
-    "time_utc": "2026-04-25T16:27:57.000Z",
-    "magnitude": "0.71",
-    "depth_km": "7.83",
-    "place": "11 km WSW of Saint-Sim\u00e9on, QC/11 km OSO de Saint-Sim\u00e9on, QC"
-  },
-  {
-    "time_utc": "2026-04-24T20:32:34.000Z",
-    "magnitude": "1.52",
-    "depth_km": "26.21",
-    "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
-  },
-  {
-    "time_utc": "2026-04-24T14:53:06.000Z",
-    "magnitude": "2.65",
-    "depth_km": "10.0",
-    "place": "188 km W of Juneau, AK/188 km O de Juneau, AK"
   }
 ];

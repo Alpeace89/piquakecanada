@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-06T11:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is still in beta and shows no events for the last hour or day. The largest event recorded in the last 24 hours was a magnitude unknown at an unknown location, and the latest activity was a M1.65 near Coaticook, QC that happened on April 2nd around 5:38 PM."
-  },
-  {
     "timestamp_utc": "2026-04-06T12:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three quakes. The biggest one was a M4.31 that happened about 200 km north of Tuktoyaktuk in the Northwest Territories. That's close to Juneau in Alaska where we also saw another shake with a magnitude of M3.66 this morning at around 2:57 AM. These are all happening in Canada, so it’s something our PiQuake dashboard is keeping an eye on for anyone who might be interested."
+  },
+  {
+    "timestamp_utc": "2026-04-27T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had six earthquakes reported. The biggest one was a M4.31 that happened near Tuktoyaktuk in the far north. Since then, there's been another small quake at Bellingham in Washington state. It looks like Yukon and Northwest Territories have seen the most activity lately with three quakes each in the last day."
   }
 ]
