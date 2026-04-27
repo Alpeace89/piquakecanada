@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260313.2006001,2026-03-13T20:06:34.000Z,50.0072,-114.7839,0.0,ML,2.88,"Blast, 10 km E of Elkford, BC/Dynamitage, 10 km E de Elkford, BC"
 20260313.2128001,2026-03-13T21:28:06.000Z,49.2914,-128.1441,10.0,Mw',3.77,"135 km SSW of Port Alice, BC/135 km SSO de Port Alice, BC"
 20260314.0208001,2026-03-14T02:08:18.000Z,52.7713,-132.3346,16.49,ML,1.89,"56 km SSW of Daajing Giids, BC/56 km SSO de Daajing Giids, BC"
 20260314.0821001,2026-03-14T08:21:31.000Z,54.3809,-117.2178,6.2,MLy,2.48,"Suspected industry-related event, 27 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 27 km O de Fox Creek, AB"
@@ -534,6 +533,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260426.0159001,2026-04-26T01:59:46.000Z,43.7446,-75.4199,5.0,MwN,2.37,"47 km ESE of Watertown, NY/47 km ESE de Watertown, NY"
 20260426.1204001,2026-04-26T12:04:01.000Z,47.3722,-70.3185,15.05,MwN,0.71,"6 km ESE of L'Isle-aux-Coudres, QC/6 km ESE de L'Isle-aux-Coudres, QC"
 20260426.1432002,2026-04-26T14:32:04.000Z,42.0306,-83.042,5.0,MwN,2.89,"10 km S of Amherstburg, ON, felt/10 km S de Amherstburg, ON, ressenti"
+20260426.1807001,2026-04-26T18:07:22.000Z,54.906,-121.1284,0.0,ML,3.14,"Blast, 15 km SW of Trend Mine, BC/Dynamitage, 15 km SO de la mine Trend, BC"
 20260426.1959001,2026-04-26T19:59:41.000Z,57.1208,-121.9107,1.76,MLy,2.97,"Suspected industry-related event, 56 km WNW of Prespatou, BC/Événement lié à l'industrie soupconné, 56 km ONO de Prespatou, BC"
 20260426.2309001,2026-04-26T23:09:22.000Z,60.4129,-139.5455,1.0,ML,3.66,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
 20260426.2312002,2026-04-26T23:12:53.000Z,71.2369,-133.7208,35.0,ML,4.31,"200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT"
@@ -541,3 +541,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260427.0257001,2026-04-27T02:57:17.000Z,57.7684,-137.9768,5.0,ML,3.66,"218 km WSW of Juneau, AK/218 km OSO de Juneau, AK"
 20260427.0308001,2026-04-27T03:08:50.000Z,60.4256,-139.5885,5.0,ML,2.13,"119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
 20260427.0422001,2026-04-27T04:22:38.000Z,48.5592,-122.6341,16.37,ML,2.97,"25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
+20260427.0705001,2026-04-27T07:05:07.000Z,60.7274,-139.9395,5.0,ML,2.74,"87 km SW of Burwash Landing, YT/87 km SO de Burwash Landing, YT"
+20260427.1440001,2026-04-27T14:40:04.000Z,54.5653,-118.5882,1.0,MLy,2.31,"Suspected industry-related event, 69 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 69 km SSE de Grande Prairie, AB"
+20260427.1514001,2026-04-27T15:14:31.000Z,61.335,-140.9183,5.0,ML,2.4,"103 km W of Burwash Landing, YT/103 km O de Burwash Landing, YT"
+20260427.1538001,2026-04-27T15:38:46.000Z,59.6879,-136.1722,5.0,ML,1.59,"127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
