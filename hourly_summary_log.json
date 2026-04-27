@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-06T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event was a magnitude unknown located somewhere near Coaticook, QC, happening on April 2nd at around 5:38 PM. It's the only thing we've seen since then. No other events have been recorded."
-  },
-  {
     "timestamp_utc": "2026-04-06T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there were a total of ten recorded earthquakes. The largest one was a M4.31 that occurred near Tuktoyaktuk in the North Territories at about 11 PM on April 26th. A smaller quake last night near Whitehorse in Yukon measured M1.59. The top regions where these quakes happened were Nunavut, Northwest Territories, and Alaska."
+  },
+  {
+    "timestamp_utc": "2026-04-27T23:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had 10 quakes reported on our PiQuake Canada dashboard. The biggest one was a M4.31 near Tuktoyaktuk which happened yesterday at 11 PM. We also saw another small quake this afternoon in Whitehorse area with a strength of M1.59. Most of these occurred in the Yukon and North Territories regions."
   }
 ]
