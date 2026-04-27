@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-05T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no earthquakes detected by our Canada PiQuake dashboard. The largest one recorded was a M1.65 and it happened around Blast or Dynamitage in Coaticook, Quebec. This is the only event we have logged since our beta launch yesterday."
-  },
-  {
     "timestamp_utc": "2026-04-05T20:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but we had two minor quakes yesterday. The largest one was a M4.19 near Tuktoyaktuk, which happened just after midnight UTC. That's the latest quake we've recorded too. Most activity is coming from regions listed as Unknown and NT since our top regions for today."
+  },
+  {
+    "timestamp_utc": "2026-04-27T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two in the past day. The biggest event was a M4.19 near Tuktoyaktuk, which happened yesterday at about 11 PM local time."
   }
 ]

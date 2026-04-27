@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but we had two minor quakes yesterday. The largest one was a M4.19 near Tuktoyaktuk, which happened just after midnight UTC. That's the latest quake we've recorded too. Most activity is coming from regions listed as Unknown and NT since our top regions for today.
+The PiQuake Canada dashboard shows no events in the last hour, but there were two in the past day. The biggest event was a M4.19 near Tuktoyaktuk, which happened yesterday at about 11 PM local time.
