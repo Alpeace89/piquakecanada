@@ -1,1 +1,1 @@
-In the last 24 hours, we had one event on our dashboard, a M4.31 just north of Tuktoyaktuk in the North Territories. It's the largest one since we started beta testing. The latest one happened yesterday at about 11 PM local time.
+Here's a quick summary of the PiQuake Canada dashboard for our beta users: We had one small earthquake event last 24 hours, measuring M4.31 near Tuktoyaktuk in the Northwest Territories. That was it for yesterday and today we're still seeing activity out there.
