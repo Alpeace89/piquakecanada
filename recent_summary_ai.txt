@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there were two quakes in the previous day. The biggest one was a M4.19 near Tuktoyaktuk, which happened on April 26th at about 11 PM our time. There are only two known locations for these quakes so far.
+The PiQuake Canada dashboard shows that there were no new quakes detected in the last hour, but two earthquakes happened yesterday. The largest one measured M4.19 and occurred 202 kilometers north of Tuktoyaktuk, Northwest Territories. That's where we got our latest earthquake update as well.
