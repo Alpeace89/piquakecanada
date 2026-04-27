@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-05T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary for the PiQuake Canada dashboard in plain Canadian English: The PiQuake Canada dashboard shows no seismic events recorded in the last hour or day. The largest event from the previous 24 hours was of an unknown magnitude at an unknown location, and it happened around 17:38 UTC on April 2nd. Not a single blast occurred today, so everything's quiet as a mouse."
-  },
-  {
     "timestamp_utc": "2026-04-05T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, it's been a quiet day with no seismic activity to report. However, we did catch one small shake last night, measuring M4.19, about 200 km north of Tuktoyaktuk in the North Territories. It was our only event for the past 24 hours and continues to show up as the largest from just a day ago. Keep your eyes on that area if you're around, it's where all the action has been recently."
+  },
+  {
+    "timestamp_utc": "2026-04-27T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey there! We've had a quiet night with no major quakes to report so far in the last hour, but over the past day we saw two minor tremors. The biggest one measured at M4.19 and happened just north of Tuktoyaktuk, Northwest Territories around 23:10 UTC on April 26th. That's it for today—nothing too exciting, just a little bit of seismic activity to keep an eye on in the area."
   }
 ]
