@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-06T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last hour, there haven't been any earthquakes reported. The largest one recorded in the last 24 hours was a M1.65 near Coaticook, Quebec. This happened around 17:38 UTC on April 2nd. So far today, nothing major has shaken things up anywhere in Canada."
-  },
-  {
     "timestamp_utc": "2026-04-06T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no major events were detected by our PiQuake Canada dashboard. However, we did see two minor quakes with a magnitude of M4.19. The largest one happened around 23:00 UTC on April 26th, 2026, about 202 kilometers north of Tuktoyaktuk in the Northwest Territories. Both quakes were located in an area called \"Unknown\" and also the Northwest Territories region."
+  },
+  {
+    "timestamp_utc": "2026-04-27T10:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two quakes in the previous day. The biggest one was a M4.19 near Tuktoyaktuk, which happened on April 26th at about 11 PM our time. There are only two known locations for these quakes so far."
   }
 ]
