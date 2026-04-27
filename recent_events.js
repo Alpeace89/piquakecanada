@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-26T23:12:53.000Z",
+    "magnitude": "4.19",
+    "depth_km": "35.0",
+    "place": "202 km N of Tuktoyaktuk, NT/202 km N de Tuktoyaktuk, NT"
+  },
+  {
     "time_utc": "2026-04-26T14:32:04.000Z",
     "magnitude": "2.99",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.18",
     "depth_km": "5.0",
     "place": "206 km SW of Whitehorse, YT/206 km SO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-04-23T05:17:57.000Z",
-    "magnitude": "2.24",
-    "depth_km": "14.57",
-    "place": "59 km SSW of Daajing Giids, BC/59 km SSO de Daajing Giids, BC"
   }
 ];

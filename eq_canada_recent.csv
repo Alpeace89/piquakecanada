@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260312.2353002,2026-03-12T23:53:49.000Z,57.1229,-121.8757,1.0,MLy,2.96,"Suspected industry-related event, 54 km WNW of Prespatou, BC/Événement lié à l'industrie soupconné, 54 km ONO de Prespatou, BC"
-20260312.2359001,2026-03-12T23:59:03.000Z,50.6652,-128.2167,1.0,ML,1.55,"15 km W of Holberg, BC/15 km O de Holberg, BC"
 20260313.0456002,2026-03-13T04:56:32.000Z,51.1229,-124.4778,5.0,ML,2.17,"54 km SW of Lohbiee 3, BC/54 km SO de Lohbiee 3, BC"
 20260313.0635001,2026-03-13T06:35:56.000Z,53.4934,-133.2615,14.56,ML,2.71,"82 km WNW of Daajing Giids, BC/82 km ONO de Daajing Giids, BC"
 20260313.1146001,2026-03-13T11:46:00.000Z,48.7265,-129.128,10.0,Mw',2.96,"251 km SSW of Port Hardy, BC/251 km SSO de Port Hardy, BC"
@@ -535,3 +533,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260424.0556001,2026-04-24T05:56:24.000Z,49.2779,-126.8783,29.38,ML,2.63,"45 km WSW of Refuge Cove 6, BC/45 km OSO de Refuge Cove 6, BC"
 20260424.0939001,2026-04-24T09:39:50.000Z,60.5655,-139.921,5.0,ML,2.22,"133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
 20260426.1432001,2026-04-26T14:32:04.000Z,42.0237,-83.0145,5.0,MwN,2.99,"11 km SSE of Amherstburg, ON, felt/11 km SSE de Amherstburg, ON, ressenti"
+20260426.2312001,2026-04-26T23:12:53.000Z,71.2497,-133.7476,35.0,ML,4.19,"202 km N of Tuktoyaktuk, NT/202 km N de Tuktoyaktuk, NT"
