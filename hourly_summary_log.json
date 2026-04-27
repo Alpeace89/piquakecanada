@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-06T10:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude M1.65 that occurred on April 2nd around Coaticook, Quebec. It was likely from dynamite explosions as it's listed both as Dynamitage and Blast nearby."
-  },
-  {
     "timestamp_utc": "2026-04-06T11:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary of the PiQuake Canada dashboard for our beta users: We had one small earthquake event last 24 hours, measuring M4.31 near Tuktoyaktuk in the Northwest Territories. That was it for yesterday and today we're still seeing activity out there."
+  },
+  {
+    "timestamp_utc": "2026-04-27T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had three quakes. The biggest one was a M4.31 that happened about 200 km north of Tuktoyaktuk in the Northwest Territories. That's close to Juneau in Alaska where we also saw another shake with a magnitude of M3.66 this morning at around 2:57 AM. These are all happening in Canada, so it’s something our PiQuake dashboard is keeping an eye on for anyone who might be interested."
   }
 ]

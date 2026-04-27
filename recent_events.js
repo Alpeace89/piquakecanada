@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-27T02:57:17.000Z",
+    "magnitude": "3.66",
+    "depth_km": "5.0",
+    "place": "218 km WSW of Juneau, AK/218 km OSO de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-04-27T01:30:33.000Z",
+    "magnitude": "2.09",
+    "depth_km": "5.0",
+    "place": "120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-26T23:12:53.000Z",
     "magnitude": "4.31",
     "depth_km": "35.0",
@@ -24,6 +36,18 @@ window.recentEvents = [
     "place": "47 km ESE of Watertown, NY/47 km ESE de Watertown, NY"
   },
   {
+    "time_utc": "2026-04-25T23:07:48.000Z",
+    "magnitude": "2.35",
+    "depth_km": "5.0",
+    "place": "29 km S of Caribou Mine, NB/29 km S de la mine Caribou, NB"
+  },
+  {
+    "time_utc": "2026-04-25T16:27:57.000Z",
+    "magnitude": "0.71",
+    "depth_km": "7.83",
+    "place": "11 km WSW of Saint-Sim\u00e9on, QC/11 km OSO de Saint-Sim\u00e9on, QC"
+  },
+  {
     "time_utc": "2026-04-24T20:32:34.000Z",
     "magnitude": "1.52",
     "depth_km": "26.21",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "2.65",
     "depth_km": "10.0",
     "place": "188 km W of Juneau, AK/188 km O de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-04-24T09:54:54.000Z",
-    "magnitude": "2.61",
-    "depth_km": "17.28",
-    "place": "50 km WSW of Daajing Giids, BC/50 km OSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-04-24T09:39:50.000Z",
-    "magnitude": "2.22",
-    "depth_km": "5.0",
-    "place": "133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-24T05:56:24.000Z",
-    "magnitude": "2.63",
-    "depth_km": "29.38",
-    "place": "45 km WSW of Refuge Cove 6, BC/45 km OSO de Refuge Cove 6, BC"
-  },
-  {
-    "time_utc": "2026-04-24T03:40:04.000Z",
-    "magnitude": "2.08",
-    "depth_km": "5.0",
-    "place": "138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"
   }
 ];
