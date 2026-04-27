@@ -12,10 +12,28 @@ window.recentEvents = [
     "place": "10 km S of Amherstburg, ON, felt/10 km S de Amherstburg, ON, ressenti"
   },
   {
+    "time_utc": "2026-04-26T12:04:01.000Z",
+    "magnitude": "0.71",
+    "depth_km": "15.05",
+    "place": "6 km ESE of L'Isle-aux-Coudres, QC/6 km ESE de L'Isle-aux-Coudres, QC"
+  },
+  {
     "time_utc": "2026-04-26T01:59:46.000Z",
     "magnitude": "2.37",
     "depth_km": "5.0",
     "place": "47 km ESE of Watertown, NY/47 km ESE de Watertown, NY"
+  },
+  {
+    "time_utc": "2026-04-24T14:53:06.000Z",
+    "magnitude": "2.65",
+    "depth_km": "10.0",
+    "place": "188 km W of Juneau, AK/188 km O de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-04-24T09:54:54.000Z",
+    "magnitude": "2.61",
+    "depth_km": "17.28",
+    "place": "50 km WSW of Daajing Giids, BC/50 km OSO de Daajing Giids, BC"
   },
   {
     "time_utc": "2026-04-24T09:39:50.000Z",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.27",
     "depth_km": "5.84",
     "place": "12 km NW of Qu\u00e9bec, QC/12 km NO de Qu\u00e9bec, QC"
-  },
-  {
-    "time_utc": "2026-04-24T01:24:45.000Z",
-    "magnitude": "2.14",
-    "depth_km": "5.0",
-    "place": "125 km W of Haines Junction, YT/125 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-24T01:14:49.000Z",
-    "magnitude": "1.06",
-    "depth_km": "5.0",
-    "place": "17 km W of Quispamsis - Rothesay, NB/17 km O de Quispamsis - Rothesay, NB"
-  },
-  {
-    "time_utc": "2026-04-23T18:35:07.000Z",
-    "magnitude": "0.73",
-    "depth_km": "13.95",
-    "place": "31 km SSE of Hyde Creek, BC/31 km SSE de Hyde Creek, BC"
   }
 ];
