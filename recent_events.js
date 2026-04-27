@@ -24,6 +24,12 @@ window.recentEvents = [
     "place": "47 km ESE of Watertown, NY/47 km ESE de Watertown, NY"
   },
   {
+    "time_utc": "2026-04-24T20:32:34.000Z",
+    "magnitude": "1.52",
+    "depth_km": "26.21",
+    "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
+  },
+  {
     "time_utc": "2026-04-24T14:53:06.000Z",
     "magnitude": "2.65",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.08",
     "depth_km": "5.0",
     "place": "138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-24T01:41:21.000Z",
-    "magnitude": "1.27",
-    "depth_km": "5.84",
-    "place": "12 km NW of Qu\u00e9bec, QC/12 km NO de Qu\u00e9bec, QC"
   }
 ];
