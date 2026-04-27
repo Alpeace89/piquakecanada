@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events reported in the last hour, but there were two earthquakes recorded yesterday. The largest one measured M4.19 and happened 202 km north of Tuktoyaktuk, both in the Northern Territories. It's been a quiet day since then too.
+In the last 24 hours, we had two quakes in Canada. The largest one was a M4.19 near Tuktoyaktuk, NT/202 km N of Tuktoyaktuk, NT, which happened just before midnight UTC. That's not too big but it shows we're getting data from that area.

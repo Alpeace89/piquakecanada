@@ -7,9 +7,15 @@ window.recentEvents = [
   },
   {
     "time_utc": "2026-04-26T14:32:04.000Z",
-    "magnitude": "2.99",
+    "magnitude": "2.89",
     "depth_km": "5.0",
-    "place": "11 km SSE of Amherstburg, ON, felt/11 km SSE de Amherstburg, ON, ressenti"
+    "place": "10 km S of Amherstburg, ON, felt/10 km S de Amherstburg, ON, ressenti"
+  },
+  {
+    "time_utc": "2026-04-26T01:59:46.000Z",
+    "magnitude": "2.37",
+    "depth_km": "5.0",
+    "place": "47 km ESE of Watertown, NY/47 km ESE de Watertown, NY"
   },
   {
     "time_utc": "2026-04-24T09:39:50.000Z",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "0.73",
     "depth_km": "13.95",
     "place": "31 km SSE of Hyde Creek, BC/31 km SSE de Hyde Creek, BC"
-  },
-  {
-    "time_utc": "2026-04-23T09:39:21.000Z",
-    "magnitude": "2.18",
-    "depth_km": "5.0",
-    "place": "206 km SW of Whitehorse, YT/206 km SO de Whitehorse, YT"
   }
 ];
