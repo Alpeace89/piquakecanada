@@ -1,1 +1,1 @@
-In the last 24 hours, we've had 7 PiQuake Canada dashboard events. The largest event was a M3.66 near Juneau in Alaska, and the latest one was a M1.59 near Whitehorse in Yukon. The top regions with most activity were Yukon Territory (4), Alaska (1), and Washington (1).
+In the past 24 hours, we had 6 seismic events monitored by our PiQuake Canada dashboard. The largest event recorded was a M2.97 near Bellingham, Washington and Whitehorse, Yukon at around 04:22 UTC on April 27th. It's just another day in the land of Pizquakes up here in the north!
