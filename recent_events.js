@@ -1,9 +1,21 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-28T14:28:42.000Z",
+    "magnitude": "2.25",
+    "depth_km": "30.0",
+    "place": "84 km SSW of Houpsitas 6, BC/84 km SSO de Houpsitas 6, BC"
+  },
+  {
     "time_utc": "2026-04-28T13:26:09.000Z",
     "magnitude": "4.15",
     "depth_km": "1.0",
     "place": "75 km W of Burwash Landing, YT/75 km O de Burwash Landing, YT"
+  },
+  {
+    "time_utc": "2026-04-28T12:45:50.000Z",
+    "magnitude": "2.44",
+    "depth_km": "21.94",
+    "place": "55 km SSW of Daajing Giids, BC/55 km SSO de Daajing Giids, BC"
   },
   {
     "time_utc": "2026-04-27T18:50:37.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.31",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 69 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 69 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-04-27T07:05:07.000Z",
-    "magnitude": "2.74",
-    "depth_km": "5.0",
-    "place": "87 km SW of Burwash Landing, YT/87 km SO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-04-27T04:22:38.000Z",
-    "magnitude": "2.97",
-    "depth_km": "16.37",
-    "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
   }
 ];

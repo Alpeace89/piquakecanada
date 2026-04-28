@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-07T10:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't recorded any earthquakes over the last 24 hours. The largest quake it's seen was a M1.65, which happened on April 2nd near Coaticook, Quebec. There haven't been any notable regions reporting increased activity either."
-  },
-  {
     "timestamp_utc": "2026-04-07T11:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four earthquakes recorded yesterday. The largest one was a M4.15 and happened 75 km west of Burwash Landing in the Yukon Territory, which is also 75 km east of Burwash Landing. It happened on April 28th at around 1:26 PM UTC time."
+  },
+  {
+    "timestamp_utc": "2026-04-28T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the PiQuake Canada dashboard, we had zero events in the last hour but five reports of small earthquakes in the past day. The biggest one was a M4.15 near Burwash Landing in Yukon and another one nearby in British Columbia clocked at M2.25 today at 2:28 PM. Most of these quakes were reported in the Yukon Territory, with two each from that area and another two from British Columbia."
   }
 ]
