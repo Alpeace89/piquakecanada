@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-28T13:26:09.000Z",
+    "magnitude": "4.08",
+    "depth_km": "5.0",
+    "place": "74 km W of Burwash Landing, YT/74 km O de Burwash Landing, YT"
+  },
+  {
     "time_utc": "2026-04-27T15:38:46.000Z",
     "magnitude": "1.59",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "4.31",
     "depth_km": "35.0",
     "place": "200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT"
-  },
-  {
-    "time_utc": "2026-04-26T23:09:22.000Z",
-    "magnitude": "3.66",
-    "depth_km": "1.0",
-    "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
   }
 ];

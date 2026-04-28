@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260314.1313001,2026-03-14T13:13:24.000Z,60.5127,-139.8478,5.0,ML,2.07,"130 km W of Haines Junction, YT/130 km O de Haines Junction, YT"
 20260314.1649001,2026-03-14T16:49:30.000Z,47.5249,-70.0847,3.54,MwN,0.73,"15 km SSE of La Malbaie, QC/15 km SSE de La Malbaie, QC"
 20260314.2033001,2026-03-14T20:33:16.000Z,50.0123,-66.1733,17.32,MwN,2.03,"22 km S of Maliotenam, QC/22 km S de Maliotenam, QC"
 20260314.2104001,2026-03-14T21:04:32.000Z,54.3993,-118.3825,1.0,MLy,2.25,"Suspected industry-related event, 90 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 90 km SSE de Grande Prairie, AB"
@@ -194,8 +193,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260329.1807001,2026-03-29T18:07:21.000Z,58.9735,-137.9313,1.0,ML,3.46,"249 km SW of Whitehorse, YT/249 km SO de Whitehorse, YT"
 20260330.0029001,2026-03-30T00:29:05.000Z,61.1898,-139.8997,5.0,ML,1.9,"52 km WSW of Burwash Landing, YT/52 km OSO de Burwash Landing, YT"
 20260330.0146001,2026-03-30T01:46:30.000Z,60.3853,-139.5204,5.0,ML,2.35,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-20260330.0207002,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,Mw',3.24,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
+20260330.0207002,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,Mw',3.24,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0226001,2026-03-30T02:26:44.000Z,48.7307,-128.6557,10.0,Mw',3.64,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
 20260330.0422001,2026-03-30T04:22:51.000Z,54.318,-118.5257,1.0,MLy,2.39,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
 20260330.0605001,2026-03-30T06:05:55.000Z,56.6666,-121.5519,1.0,MLy,2.7,"Suspected industry-related event, 28 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 28 km O de Blueberry River 205, BC"
@@ -537,3 +536,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260427.1440001,2026-04-27T14:40:04.000Z,54.5653,-118.5882,1.0,MLy,2.31,"Suspected industry-related event, 69 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 69 km SSE de Grande Prairie, AB"
 20260427.1514001,2026-04-27T15:14:31.000Z,61.335,-140.9183,5.0,ML,2.4,"103 km W of Burwash Landing, YT/103 km O de Burwash Landing, YT"
 20260427.1538001,2026-04-27T15:38:46.000Z,59.6879,-136.1722,5.0,ML,1.59,"127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
+20260428.1326001,2026-04-28T13:26:09.000Z,61.4402,-140.3687,5.0,ML,4.08,"74 km W of Burwash Landing, YT/74 km O de Burwash Landing, YT"
