@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-28T21:22:36.000Z",
+    "magnitude": "3.16",
+    "depth_km": "0.0",
+    "place": "Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB"
+  },
+  {
     "time_utc": "2026-04-28T16:28:47.000Z",
     "magnitude": "2.67",
     "depth_km": "3.17",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.87",
     "depth_km": "14.75",
     "place": "50 km W of Daajing Giids, BC/50 km O de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-04-28T02:06:25.000Z",
-    "magnitude": "2.56",
-    "depth_km": "0.0",
-    "place": "Blast, 14 km SW of Trend Mine, BC/Dynamitage, 14 km SO de la mine Trend, BC"
   }
 ];
