@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-04-28T04:03:01Z",
+  "generated_utc": "2026-04-28T05:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 548,
-  "events_last_24h": 5,
+  "events_last_24h": 4,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -18,26 +18,26 @@
     "region": "YT"
   },
   "largest_event_last_24h": {
-    "event_id": "20260427.0422001",
-    "time_utc": "2026-04-27T04:22:38.000Z",
-    "latitude": 48.5592,
-    "longitude": -122.6341,
-    "depth_km": 16.37,
+    "event_id": "20260427.0705001",
+    "time_utc": "2026-04-27T07:05:07.000Z",
+    "latitude": 60.7274,
+    "longitude": -139.9395,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 2.97,
-    "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA",
-    "region": "WA"
+    "magnitude": 2.74,
+    "place": "87 km SW of Burwash Landing, YT/87 km SO de Burwash Landing, YT",
+    "region": "YT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260427.0422001",
-    "time_utc": "2026-04-27T04:22:38.000Z",
-    "latitude": 48.5592,
-    "longitude": -122.6341,
-    "depth_km": 16.37,
+    "event_id": "20260427.1538001",
+    "time_utc": "2026-04-27T15:38:46.000Z",
+    "latitude": 59.6879,
+    "longitude": -136.1722,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 2.97,
-    "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA",
-    "region": "WA"
+    "magnitude": 1.59,
+    "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT",
+    "region": "YT"
   },
   "top_regions_last_24h": [
     {
@@ -45,13 +45,9 @@
       "count": 3
     },
     {
-      "region": "WA",
-      "count": 1
-    },
-    {
       "region": "AB",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-28 04:03 UTC, the recent Canada earthquake dataset contains 548 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.97 at 25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA. The deepest event reached 16.37 km at 25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA. The most recent listed event was M1.59 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT at 2026-04-27T15:38:46.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (3) and WA (1)."
+  "summary_text": "As of 2026-04-28 05:03 UTC, the recent Canada earthquake dataset contains 548 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.74 at 87 km SW of Burwash Landing, YT/87 km SO de Burwash Landing, YT. The deepest event reached 5.00 km at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT. The most recent listed event was M1.59 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT at 2026-04-27T15:38:46.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (3) and AB (1)."
 }

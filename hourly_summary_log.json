@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-06T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was M1.65, happening near Coaticook, Quebec, on April 2nd around 5:38 PM local time. No regions are highlighted as having more activity than usual."
-  },
-  {
     "timestamp_utc": "2026-04-06T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had five quakes tracked by our PiQuake Canada dashboard. The biggest one was a M2.97 near Bellingham, Washington/Whitehorse, Yukon. That's just slightly above the magnitude threshold where you might feel something. In that same period, there were three in YT (Yukon), one each in WA (Washington) and AB (Alberta)."
+  },
+  {
+    "timestamp_utc": "2026-04-28T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major quakes reported in Canada's dashboard. The largest one was a M2.74 near Burwash Landing and Whitehorse, while the most recent quake measured at M1.59 about 127 km south-southwest of Whitehorse. Notably, this region had three quakes centered around YT within that period."
   }
 ]
