@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-04-28T07:03:02Z",
+  "generated_utc": "2026-04-28T08:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 548,
-  "events_last_24h": 4,
+  "events_last_24h": 3,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -18,14 +18,14 @@
     "region": "YT"
   },
   "largest_event_last_24h": {
-    "event_id": "20260427.0705001",
-    "time_utc": "2026-04-27T07:05:07.000Z",
-    "latitude": 60.7274,
-    "longitude": -139.9395,
+    "event_id": "20260427.1514001",
+    "time_utc": "2026-04-27T15:14:31.000Z",
+    "latitude": 61.335,
+    "longitude": -140.9183,
     "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 2.74,
-    "place": "87 km SW of Burwash Landing, YT/87 km SO de Burwash Landing, YT",
+    "magnitude": 2.4,
+    "place": "103 km W of Burwash Landing, YT/103 km O de Burwash Landing, YT",
     "region": "YT"
   },
   "deepest_event_last_24h": {
@@ -42,12 +42,12 @@
   "top_regions_last_24h": [
     {
       "region": "YT",
-      "count": 3
+      "count": 2
     },
     {
       "region": "AB",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-28 07:03 UTC, the recent Canada earthquake dataset contains 548 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.74 at 87 km SW of Burwash Landing, YT/87 km SO de Burwash Landing, YT. The deepest event reached 5.00 km at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT. The most recent listed event was M1.59 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT at 2026-04-27T15:38:46.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (3) and AB (1)."
+  "summary_text": "As of 2026-04-28 08:03 UTC, the recent Canada earthquake dataset contains 548 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.4 at 103 km W of Burwash Landing, YT/103 km O de Burwash Landing, YT. The deepest event reached 5.00 km at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT. The most recent listed event was M1.59 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT at 2026-04-27T15:38:46.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and AB (1)."
 }
