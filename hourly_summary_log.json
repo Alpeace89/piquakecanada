@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-07T15:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there have been no recorded earthquakes. The largest event was a magnitude unknown happening in an unknown location at an unknown time. The latest quake registered M1.86, occurring about 67 km east-northeast of Rochester, both in Canada and the US."
-  },
-  {
     "timestamp_utc": "2026-04-07T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows there was one event detected in the last hour, and eleven events yesterday. The largest event recorded recently was a M4.15 near Burwash Landing in Yukon/BC. There have been two dynamite blasts today, triggering smaller earthquakes around Hinton in Alberta."
+  },
+  {
+    "timestamp_utc": "2026-04-28T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no new earthquakes in the last hour, but there were eleven in the past day. The largest event was a M4.15 near Burwash Landing in Yukon and Hinton in Alberta. This is what we've seen so far today with an M3.16 shake east of Hinton."
   }
 ]
