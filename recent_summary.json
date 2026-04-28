@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-04-28T15:03:01Z",
+  "generated_utc": "2026-04-28T16:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 538,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 542,
+  "events_last_24h": 4,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 1,
@@ -29,21 +29,29 @@
     "region": "YT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260428.1326001",
-    "time_utc": "2026-04-28T13:26:09.000Z",
-    "latitude": 61.4402,
-    "longitude": -140.3687,
-    "depth_km": 5.0,
+    "event_id": "20260427.1850001",
+    "time_utc": "2026-04-27T18:50:37.000Z",
+    "latitude": 48.5498,
+    "longitude": -122.6378,
+    "depth_km": 18.01,
     "mag_type": "ML",
-    "magnitude": 4.08,
-    "place": "74 km W of Burwash Landing, YT/74 km O de Burwash Landing, YT",
-    "region": "YT"
+    "magnitude": 1.81,
+    "place": "26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA",
+    "region": "WA"
   },
   "top_regions_last_24h": [
     {
       "region": "YT",
-      "count": 3
+      "count": 2
+    },
+    {
+      "region": "BC",
+      "count": 1
+    },
+    {
+      "region": "WA",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-28 15:03 UTC, the recent Canada earthquake dataset contains 538 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.08 at 74 km W of Burwash Landing, YT/74 km O de Burwash Landing, YT. The deepest event reached 5.00 km at 74 km W of Burwash Landing, YT/74 km O de Burwash Landing, YT. The most recent listed event was M4.08 at 74 km W of Burwash Landing, YT/74 km O de Burwash Landing, YT at 2026-04-28T13:26:09.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active region was YT."
+  "summary_text": "As of 2026-04-28 16:03 UTC, the recent Canada earthquake dataset contains 542 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.08 at 74 km W of Burwash Landing, YT/74 km O de Burwash Landing, YT. The deepest event reached 18.01 km at 26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA. The most recent listed event was M4.08 at 74 km W of Burwash Landing, YT/74 km O de Burwash Landing, YT at 2026-04-28T13:26:09.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and BC (1)."
 }

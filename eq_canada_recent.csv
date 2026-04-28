@@ -536,4 +536,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260427.1440001,2026-04-27T14:40:04.000Z,54.5653,-118.5882,1.0,MLy,2.31,"Suspected industry-related event, 69 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 69 km SSE de Grande Prairie, AB"
 20260427.1514001,2026-04-27T15:14:31.000Z,61.335,-140.9183,5.0,ML,2.4,"103 km W of Burwash Landing, YT/103 km O de Burwash Landing, YT"
 20260427.1538001,2026-04-27T15:38:46.000Z,59.6879,-136.1722,5.0,ML,1.59,"127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
+20260427.1600001,2026-04-27T16:00:39.000Z,60.5625,-139.7262,5.0,ML,2.9,"123 km W of Haines Junction, YT/123 km O de Haines Junction, YT"
+20260427.1740001,2026-04-27T17:40:06.000Z,50.2077,-127.8108,15.23,ML,1.75,"33 km SW of Port Alice, BC/33 km SO de Port Alice, BC"
+20260427.1805001,2026-04-27T18:05:10.000Z,60.5399,-139.8893,5.0,ML,2.12,"132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
+20260427.1850001,2026-04-27T18:50:37.000Z,48.5498,-122.6378,18.01,ML,1.81,"26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA"
 20260428.1326001,2026-04-28T13:26:09.000Z,61.4402,-140.3687,5.0,ML,4.08,"74 km W of Burwash Landing, YT/74 km O de Burwash Landing, YT"

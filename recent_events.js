@@ -6,6 +6,30 @@ window.recentEvents = [
     "place": "74 km W of Burwash Landing, YT/74 km O de Burwash Landing, YT"
   },
   {
+    "time_utc": "2026-04-27T18:50:37.000Z",
+    "magnitude": "1.81",
+    "depth_km": "18.01",
+    "place": "26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA"
+  },
+  {
+    "time_utc": "2026-04-27T18:05:10.000Z",
+    "magnitude": "2.12",
+    "depth_km": "5.0",
+    "place": "132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-27T17:40:06.000Z",
+    "magnitude": "1.75",
+    "depth_km": "15.23",
+    "place": "33 km SW of Port Alice, BC/33 km SO de Port Alice, BC"
+  },
+  {
+    "time_utc": "2026-04-27T16:00:39.000Z",
+    "magnitude": "2.9",
+    "depth_km": "5.0",
+    "place": "123 km W of Haines Junction, YT/123 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-27T15:38:46.000Z",
     "magnitude": "1.59",
     "depth_km": "5.0",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "2.97",
     "depth_km": "16.37",
     "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
-  },
-  {
-    "time_utc": "2026-04-27T03:08:50.000Z",
-    "magnitude": "2.13",
-    "depth_km": "5.0",
-    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-27T02:57:17.000Z",
-    "magnitude": "3.66",
-    "depth_km": "5.0",
-    "place": "218 km WSW of Juneau, AK/218 km OSO de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-04-27T01:30:33.000Z",
-    "magnitude": "2.09",
-    "depth_km": "5.0",
-    "place": "120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-26T23:12:53.000Z",
-    "magnitude": "4.31",
-    "depth_km": "35.0",
-    "place": "200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT"
   }
 ];

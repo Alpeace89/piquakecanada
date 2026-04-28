@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-07T08:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event was a M1.65 near Coaticook, Quebec, which happened on April 2nd at around 5:38 PM local time. There hasn't been any significant seismic events lately."
-  },
-  {
     "timestamp_utc": "2026-04-07T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had no major quakes reported. But one M4.08 hit near Burwash Landing in Yukon and another happened just offshore. It's been a quiet day so far for earthquakes here in Canada."
+  },
+  {
+    "timestamp_utc": "2026-04-28T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the last 24 hours, we had four minor quakes registered in Canada. The largest one was a M4.08 near Burwash Landing, which happened just after noon yesterday. This is part of our ongoing monitoring to keep you informed about what's happening under our feet."
   }
 ]
