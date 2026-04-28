@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-04-28T18:03:01Z",
+  "generated_utc": "2026-04-28T19:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 543,
-  "events_last_24h": 5,
+  "rolling_window_event_count": 546,
+  "events_last_24h": 6,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 1,
   "latest_event": {
-    "event_id": "20260428.1428002",
-    "time_utc": "2026-04-28T14:28:42.000Z",
-    "latitude": 49.3113,
-    "longitude": -127.7433,
-    "depth_km": 30.0,
+    "event_id": "20260428.1628001",
+    "time_utc": "2026-04-28T16:28:47.000Z",
+    "latitude": 59.1493,
+    "longitude": -138.6944,
+    "depth_km": 3.17,
     "mag_type": "ML",
-    "magnitude": 2.25,
-    "place": "84 km SSW of Houpsitas 6, BC/84 km SSO de Houpsitas 6, BC",
-    "region": "BC"
+    "magnitude": 2.67,
+    "place": "190 km SSW of Haines Junction, YT/190 km SSO de Haines Junction, YT",
+    "region": "YT"
   },
   "largest_event_last_24h": {
     "event_id": "20260428.1326002",
@@ -42,16 +42,12 @@
   "top_regions_last_24h": [
     {
       "region": "YT",
-      "count": 2
+      "count": 4
     },
     {
       "region": "BC",
       "count": 2
-    },
-    {
-      "region": "WA",
-      "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-28 18:03 UTC, the recent Canada earthquake dataset contains 543 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.15 at 75 km W of Burwash Landing, YT/75 km O de Burwash Landing, YT. The deepest event reached 30.00 km at 84 km SSW of Houpsitas 6, BC/84 km SSO de Houpsitas 6, BC. The most recent listed event was M2.25 at 84 km SSW of Houpsitas 6, BC/84 km SSO de Houpsitas 6, BC at 2026-04-28T14:28:42.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and BC (2)."
+  "summary_text": "As of 2026-04-28 19:03 UTC, the recent Canada earthquake dataset contains 546 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.15 at 75 km W of Burwash Landing, YT/75 km O de Burwash Landing, YT. The deepest event reached 30.00 km at 84 km SSW of Houpsitas 6, BC/84 km SSO de Houpsitas 6, BC. The most recent listed event was M2.67 at 190 km SSW of Haines Junction, YT/190 km SSO de Haines Junction, YT at 2026-04-28T16:28:47.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (4) and BC (2)."
 }

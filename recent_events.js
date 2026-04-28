@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-28T16:28:47.000Z",
+    "magnitude": "2.67",
+    "depth_km": "3.17",
+    "place": "190 km SSW of Haines Junction, YT/190 km SSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-28T15:22:22.000Z",
+    "magnitude": "2.36",
+    "depth_km": "5.0",
+    "place": "113 km WSW of Haines Junction, YT/113 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-28T14:28:42.000Z",
     "magnitude": "2.25",
     "depth_km": "30.0",
@@ -16,6 +28,12 @@ window.recentEvents = [
     "magnitude": "2.44",
     "depth_km": "21.94",
     "place": "55 km SSW of Daajing Giids, BC/55 km SSO de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-04-28T07:59:18.000Z",
+    "magnitude": "2.53",
+    "depth_km": "1.0",
+    "place": "64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
   },
   {
     "time_utc": "2026-04-27T18:50:37.000Z",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.9",
     "depth_km": "5.0",
     "place": "123 km W of Haines Junction, YT/123 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-27T15:38:46.000Z",
-    "magnitude": "1.59",
-    "depth_km": "5.0",
-    "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-04-27T15:14:31.000Z",
-    "magnitude": "2.4",
-    "depth_km": "5.0",
-    "place": "103 km W of Burwash Landing, YT/103 km O de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-04-27T14:40:04.000Z",
-    "magnitude": "2.31",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 69 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 69 km SSE de Grande Prairie, AB"
   }
 ];
