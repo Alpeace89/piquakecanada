@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-06T16:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and there's only one tiny shake recorded recently measuring M1.65 near Coaticook, QC. It's nothing major, just a little vibration from dynamite blasting."
-  },
-  {
     "timestamp_utc": "2026-04-06T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major events recorded on the PiQuake Canada dashboard. However, we did see a M3.66 quake near Juneau, Alaska and a smaller one near Whitehorse in Yukon. The most active regions this past day were Yukon with five quakes, Alaska with one, and Washington State with one."
+  },
+  {
+    "timestamp_utc": "2026-04-28T01:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major events in terms of magnitude or impact, but we did catch a few smaller quakes. The largest one was M3.66 near Juneau and Whitehorse, while the latest one recorded was M1.59 around Whitehorse earlier today. Notable areas with more activity included Yukon Territory (YT), Alaska (AK), and Washington State (WA)."
   }
 ]
