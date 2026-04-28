@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-04-28T01:03:02Z",
+  "generated_utc": "2026-04-28T02:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 549,
-  "events_last_24h": 8,
+  "events_last_24h": 7,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
@@ -42,7 +42,7 @@
   "top_regions_last_24h": [
     {
       "region": "YT",
-      "count": 5
+      "count": 4
     },
     {
       "region": "AK",
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-28 01:03 UTC, the recent Canada earthquake dataset contains 549 events from the current rolling window. In the last 24 hours, 8 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.66 at 218 km WSW of Juneau, AK/218 km OSO de Juneau, AK. The deepest event reached 16.37 km at 25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA. The most recent listed event was M1.59 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT at 2026-04-27T15:38:46.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (5) and AK (1)."
+  "summary_text": "As of 2026-04-28 02:03 UTC, the recent Canada earthquake dataset contains 549 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.66 at 218 km WSW of Juneau, AK/218 km OSO de Juneau, AK. The deepest event reached 16.37 km at 25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA. The most recent listed event was M1.59 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT at 2026-04-27T15:38:46.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (4) and AK (1)."
 }
