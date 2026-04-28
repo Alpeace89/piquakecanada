@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260314.1649001,2026-03-14T16:49:30.000Z,47.5249,-70.0847,3.54,MwN,0.73,"15 km SSE of La Malbaie, QC/15 km SSE de La Malbaie, QC"
 20260314.2033001,2026-03-14T20:33:16.000Z,50.0123,-66.1733,17.32,MwN,2.03,"22 km S of Maliotenam, QC/22 km S de Maliotenam, QC"
 20260314.2104001,2026-03-14T21:04:32.000Z,54.3993,-118.3825,1.0,MLy,2.25,"Suspected industry-related event, 90 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 90 km SSE de Grande Prairie, AB"
 20260314.2230001,2026-03-14T22:30:25.000Z,49.6006,-127.7097,17.92,ML1,1.48,"53 km SSW of Houpsitas 6, BC/53 km SSO de Houpsitas 6, BC"
@@ -540,4 +539,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260427.1740001,2026-04-27T17:40:06.000Z,50.2077,-127.8108,15.23,ML,1.75,"33 km SW of Port Alice, BC/33 km SO de Port Alice, BC"
 20260427.1805001,2026-04-27T18:05:10.000Z,60.5399,-139.8893,5.0,ML,2.12,"132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
 20260427.1850001,2026-04-27T18:50:37.000Z,48.5498,-122.6378,18.01,ML,1.81,"26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA"
-20260428.1326001,2026-04-28T13:26:09.000Z,61.4402,-140.3687,5.0,ML,4.08,"74 km W of Burwash Landing, YT/74 km O de Burwash Landing, YT"
+20260428.1326002,2026-04-28T13:26:09.000Z,61.4406,-140.379,1.0,ML,4.15,"75 km W of Burwash Landing, YT/75 km O de Burwash Landing, YT"

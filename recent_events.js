@@ -1,9 +1,9 @@
 window.recentEvents = [
   {
     "time_utc": "2026-04-28T13:26:09.000Z",
-    "magnitude": "4.08",
-    "depth_km": "5.0",
-    "place": "74 km W of Burwash Landing, YT/74 km O de Burwash Landing, YT"
+    "magnitude": "4.15",
+    "depth_km": "1.0",
+    "place": "75 km W of Burwash Landing, YT/75 km O de Burwash Landing, YT"
   },
   {
     "time_utc": "2026-04-27T18:50:37.000Z",

@@ -1,1 +1,1 @@
-For the last 24 hours, we had four minor quakes registered in Canada. The largest one was a M4.08 near Burwash Landing, which happened just after noon yesterday. This is part of our ongoing monitoring to keep you informed about what's happening under our feet.
+The PiQuake Canada dashboard shows no events in the last hour, but there were four earthquakes recorded yesterday. The largest one was a M4.15 and happened 75 km west of Burwash Landing in the Yukon Territory, which is also 75 km east of Burwash Landing. It happened on April 28th at around 1:26 PM UTC time.

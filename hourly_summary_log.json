@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-07T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there have been no recorded events on the PiQuake Canada dashboard. The latest event was a small one measuring M1.65 that happened in Blasting area and near Dynamitage, both about 8 km south of Coaticook in Quebec. No other activity has been logged since then."
-  },
-  {
     "timestamp_utc": "2026-04-07T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the last 24 hours, we had four minor quakes registered in Canada. The largest one was a M4.08 near Burwash Landing, which happened just after noon yesterday. This is part of our ongoing monitoring to keep you informed about what's happening under our feet."
+  },
+  {
+    "timestamp_utc": "2026-04-28T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four earthquakes recorded yesterday. The largest one was a M4.15 and happened 75 km west of Burwash Landing in the Yukon Territory, which is also 75 km east of Burwash Landing. It happened on April 28th at around 1:26 PM UTC time."
   }
 ]
