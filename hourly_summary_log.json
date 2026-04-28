@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-07T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no seismic events detected in the last 24 hours, and it's all quiet with an unknown magnitude event that happened on April 2nd around 5 PM. There hasn't been any activity since then either, so it looks like we're still coasting without much of a tremor to report."
-  },
-  {
     "timestamp_utc": "2026-04-07T05:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had three little earthquakes. The biggest one measured M2.4 near Burwash Landing and Whitehorse areas in the Yukon Territory. That happened on April 27th at around 3 PM. It seems to be pretty common for these parts to have small shakes like this from time to time. Last night, there was a smaller event with a magnitude of M1.59 near those same places too. We've been tracking these activities in the top regions of YT and Alberta (AB) over the last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-04-28T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were three earthquakes reported. The largest one measured M2.4 and happened near Burwash Landing in the Yukon Territory. That's quite close to another minor quake that morning too, which was a tiny M1.59 not far from Whitehorse. It seems most of these have been happening in the Yukon region with two occurrences there, while Alberta had one."
   }
 ]
