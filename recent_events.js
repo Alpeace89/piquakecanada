@@ -36,27 +36,27 @@ window.recentEvents = [
     "place": "64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
   },
   {
+    "time_utc": "2026-04-28T05:15:17.000Z",
+    "magnitude": "2.15",
+    "depth_km": "3.17",
+    "place": "Suspected industry-related event, 65 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 65 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-04-28T04:12:05.000Z",
     "magnitude": "2.47",
     "depth_km": "1.0",
     "place": "116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
   },
   {
-    "time_utc": "2026-04-27T18:50:37.000Z",
-    "magnitude": "1.81",
-    "depth_km": "18.01",
-    "place": "26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA"
+    "time_utc": "2026-04-28T02:28:11.000Z",
+    "magnitude": "1.87",
+    "depth_km": "14.75",
+    "place": "50 km W of Daajing Giids, BC/50 km O de Daajing Giids, BC"
   },
   {
-    "time_utc": "2026-04-27T18:05:10.000Z",
-    "magnitude": "2.12",
-    "depth_km": "5.0",
-    "place": "132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-27T17:40:06.000Z",
-    "magnitude": "1.75",
-    "depth_km": "15.23",
-    "place": "33 km SW of Port Alice, BC/33 km SO de Port Alice, BC"
+    "time_utc": "2026-04-28T02:06:25.000Z",
+    "magnitude": "2.56",
+    "depth_km": "0.0",
+    "place": "Blast, 14 km SW of Trend Mine, BC/Dynamitage, 14 km SO de la mine Trend, BC"
   }
 ];
