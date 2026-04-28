@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-07T12:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The largest one was a M1.65 that occurred near Coaticook in Quebec. This is just about the smallest magnitude we've seen lately."
-  },
-  {
     "timestamp_utc": "2026-04-07T13:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but had six in the past day. The biggest one was a M4.15 near Burwash Landing and Haines Junction yesterday at around 13:26 AM local time. Since then, there has been a smaller quake this afternoon in another part of Yukon. Most of these events are happening in Yukon Territory with two in British Columbia as well."
+  },
+  {
+    "timestamp_utc": "2026-04-28T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had 7 PiQuake Canada dashboard events, with the biggest one being a M4.15 near Burwash Landing in Yukon and Haines Junction in British Columbia. The latest event was an M2.67 about 190 km southwest of Haines Junction yesterday afternoon. Notable regions hit were Yukon Territory and British Columbia."
   }
 ]

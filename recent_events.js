@@ -36,6 +36,12 @@ window.recentEvents = [
     "place": "64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
   },
   {
+    "time_utc": "2026-04-28T04:12:05.000Z",
+    "magnitude": "2.47",
+    "depth_km": "1.0",
+    "place": "116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-04-27T18:50:37.000Z",
     "magnitude": "1.81",
     "depth_km": "18.01",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.75",
     "depth_km": "15.23",
     "place": "33 km SW of Port Alice, BC/33 km SO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-04-27T16:00:39.000Z",
-    "magnitude": "2.9",
-    "depth_km": "5.0",
-    "place": "123 km W of Haines Junction, YT/123 km O de Haines Junction, YT"
   }
 ];

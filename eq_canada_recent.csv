@@ -539,6 +539,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260427.1740001,2026-04-27T17:40:06.000Z,50.2077,-127.8108,15.23,ML,1.75,"33 km SW of Port Alice, BC/33 km SO de Port Alice, BC"
 20260427.1805001,2026-04-27T18:05:10.000Z,60.5399,-139.8893,5.0,ML,2.12,"132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
 20260427.1850001,2026-04-27T18:50:37.000Z,48.5498,-122.6378,18.01,ML,1.81,"26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA"
+20260428.0412001,2026-04-28T04:12:05.000Z,60.4063,-139.511,1.0,ML,2.47,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
 20260428.0759001,2026-04-28T07:59:18.000Z,61.1169,-140.0763,1.0,ML,2.53,"64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
 20260428.1245001,2026-04-28T12:45:50.000Z,52.8415,-132.5278,21.94,ML,2.44,"55 km SSW of Daajing Giids, BC/55 km SSO de Daajing Giids, BC"
 20260428.1326002,2026-04-28T13:26:09.000Z,61.4406,-140.379,1.0,ML,4.15,"75 km W of Burwash Landing, YT/75 km O de Burwash Landing, YT"
