@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-07T01:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no earthquakes detected by our PiQuake Canada dashboard. The largest event was a M1.65 near Coaticook in Quebec, recorded on April 2nd at around 5:38 PM local time. It's a reminder that while we don't see frequent quakes here, it's always good to stay alert."
-  },
-  {
     "timestamp_utc": "2026-04-07T02:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were three small tremors reported. The largest one measured M2.4 and happened around Burwash Landing in the Yukon Territory. A smaller shake with a magnitude of M1.59 occurred about an hour earlier near Whitehorse in the same territory. These quakes mostly happened in the Yukon Territory but also showed up in Alberta."
+  },
+  {
+    "timestamp_utc": "2026-04-28T10:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major events reported. However, we had three small quakes. The largest one measured M2.4 and happened about 103 kilometers west of Burwash Landing in Yukon. That was followed by a smaller quake at around 127 kilometers southwest of Whitehorse in Yukon. These are pretty minor, but it's still worth keeping an eye on as we track the activity in Canada's north."
   }
 ]
