@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-04-27T23:03:02Z",
+  "generated_utc": "2026-04-28T00:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 549,
-  "events_last_24h": 10,
+  "events_last_24h": 8,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 3,
-  "count_m4plus_last_24h": 1,
+  "count_m3plus_last_24h": 1,
+  "count_m4plus_last_24h": 0,
   "latest_event": {
     "event_id": "20260427.1538001",
     "time_utc": "2026-04-27T15:38:46.000Z",
@@ -18,40 +18,40 @@
     "region": "YT"
   },
   "largest_event_last_24h": {
-    "event_id": "20260426.2312002",
-    "time_utc": "2026-04-26T23:12:53.000Z",
-    "latitude": 71.2369,
-    "longitude": -133.7208,
-    "depth_km": 35.0,
+    "event_id": "20260427.0257001",
+    "time_utc": "2026-04-27T02:57:17.000Z",
+    "latitude": 57.7684,
+    "longitude": -137.9768,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 4.31,
-    "place": "200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT",
-    "region": "NT"
+    "magnitude": 3.66,
+    "place": "218 km WSW of Juneau, AK/218 km OSO de Juneau, AK",
+    "region": "AK"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260426.2312002",
-    "time_utc": "2026-04-26T23:12:53.000Z",
-    "latitude": 71.2369,
-    "longitude": -133.7208,
-    "depth_km": 35.0,
+    "event_id": "20260427.0422001",
+    "time_utc": "2026-04-27T04:22:38.000Z",
+    "latitude": 48.5592,
+    "longitude": -122.6341,
+    "depth_km": 16.37,
     "mag_type": "ML",
-    "magnitude": 4.31,
-    "place": "200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT",
-    "region": "NT"
+    "magnitude": 2.97,
+    "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA",
+    "region": "WA"
   },
   "top_regions_last_24h": [
     {
       "region": "YT",
-      "count": 6
-    },
-    {
-      "region": "NT",
-      "count": 1
+      "count": 5
     },
     {
       "region": "AK",
       "count": 1
+    },
+    {
+      "region": "WA",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-27 23:03 UTC, the recent Canada earthquake dataset contains 549 events from the current rolling window. In the last 24 hours, 10 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.31 at 200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT. The deepest event reached 35.00 km at 200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT. The most recent listed event was M1.59 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT at 2026-04-27T15:38:46.000Z. There were 3 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (6) and NT (1)."
+  "summary_text": "As of 2026-04-28 00:03 UTC, the recent Canada earthquake dataset contains 549 events from the current rolling window. In the last 24 hours, 8 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.66 at 218 km WSW of Juneau, AK/218 km OSO de Juneau, AK. The deepest event reached 16.37 km at 25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA. The most recent listed event was M1.59 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT at 2026-04-27T15:38:46.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (5) and AK (1)."
 }
