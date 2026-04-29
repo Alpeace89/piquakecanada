@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260315.0304001,2026-03-15T03:04:08.000Z,49.169,-89.611,0.85,MwN,1.66,"Mining event, Lac des Iles Mine, ON/Événement minier, Mine Lac des Îles,Lac des Iles, ON"
 20260315.0611001,2026-03-15T06:11:27.000Z,47.0109,-66.5626,5.0,MwN,1.87,"64 km E of Plaster Rock, NB/64 km E de Plaster Rock, NB"
 20260315.0857001,2026-03-15T08:57:32.000Z,49.169,-89.611,0.93,MwN,1.39,"Mining event, Lac des Iles Mine, ON/Événement minier, Mine Lac des Îles,Lac des Iles, ON"
 20260315.1248001,2026-03-15T12:48:43.000Z,49.4171,-127.1904,33.11,ML,2.46,"67 km SW of Tahsis, BC/67 km SO de Tahsis, BC"
