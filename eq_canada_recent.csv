@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260315.0005001,2026-03-15T00:05:14.000Z,49.7545,-66.2605,18.0,MwN,2.33,"53 km SE of Port-Cartier, QC/53 km SE de Port-Cartier, QC"
-20260315.0017001,2026-03-15T00:17:53.000Z,49.3451,-120.5312,0.0,ML,2.72,"Blast, 13 km S of Princeton, BC/Dynamitage, 13 km S de Princeton, BC"
-20260315.0034001,2026-03-15T00:34:34.000Z,47.0028,-66.5808,5.0,MwN,2.26,"63 km E of Plaster Rock, NB/63 km E de Plaster Rock, NB"
 20260315.0304001,2026-03-15T03:04:08.000Z,49.169,-89.611,0.85,MwN,1.66,"Mining event, Lac des Iles Mine, ON/Événement minier, Mine Lac des Îles,Lac des Iles, ON"
 20260315.0611001,2026-03-15T06:11:27.000Z,47.0109,-66.5626,5.0,MwN,1.87,"64 km E of Plaster Rock, NB/64 km E de Plaster Rock, NB"
 20260315.0857001,2026-03-15T08:57:32.000Z,49.169,-89.611,0.93,MwN,1.39,"Mining event, Lac des Iles Mine, ON/Événement minier, Mine Lac des Îles,Lac des Iles, ON"
