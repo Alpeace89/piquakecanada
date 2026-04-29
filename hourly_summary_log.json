@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-08T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is still in beta and we've had no activity recorded in the last 24 hours. The latest event was a M1.92 mining-related quake, but it happened quite some time ago on April 6th at around 5:27 AM UTC, way back when you were probably sound asleep. No worries though, everything's calm and quiet down here!"
-  },
-  {
     "timestamp_utc": "2026-04-08T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were five recorded quakes in the past 24 hours. The biggest one was a M4.15 near Burwash Landing, Yukon and Hinton, Alberta earlier this month. In that time frame, three quakes happened in the Yukon territory while one each occurred in British Columbia and Alberta."
+  },
+  {
+    "timestamp_utc": "2026-04-29T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had four small quakes. The biggest one was a M3.16 just east of Hinton in Alberta and another nearby dynamite blast site. That's it for now, folks—nothing too major happening out there. Most recent activity is from April 28th around the YT, BC, and AB regions."
   }
 ]
