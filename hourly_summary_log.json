@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-08T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there haven't been any recorded earthquakes in Canada on the PiQuake dashboard. The largest event was a M1.92 near Kirkland Lake, ON, which happened at around 5:27 AM on April 6th. It's one of those mining events that happen underground from time to time."
-  },
-  {
     "timestamp_utc": "2026-04-08T07:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were six in the past day. The biggest one was a M4.15 near Burwash Landing, Yukon yesterday at about 1 PM local time. We also had a minor blast from dynamite work in Hinton, Alberta yesterday evening around 9 PM. The most active areas have been in the Yukon and Alberta provinces."
+  },
+  {
+    "timestamp_utc": "2026-04-29T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were five recorded quakes in the past 24 hours. The biggest one was a M4.15 near Burwash Landing, Yukon and Hinton, Alberta earlier this month. In that time frame, three quakes happened in the Yukon territory while one each occurred in British Columbia and Alberta."
   }
 ]
