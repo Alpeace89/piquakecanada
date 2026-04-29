@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-04-29T21:03:02Z",
+  "generated_utc": "2026-04-29T22:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 545,
-  "events_last_24h": 5,
+  "rolling_window_event_count": 544,
+  "events_last_24h": 3,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 2,
+  "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
     "event_id": "20260429.0919001",
@@ -18,15 +18,15 @@
     "region": "YT"
   },
   "largest_event_last_24h": {
-    "event_id": "20260428.2122001",
-    "time_utc": "2026-04-28T21:22:36.000Z",
-    "latitude": 53.3873,
-    "longitude": -117.3311,
-    "depth_km": 0.0,
-    "mag_type": "MLy",
-    "magnitude": 3.16,
-    "place": "Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB",
-    "region": "AB"
+    "event_id": "20260428.2314001",
+    "time_utc": "2026-04-28T23:14:16.000Z",
+    "latitude": 48.924,
+    "longitude": -128.6349,
+    "depth_km": 10.0,
+    "mag_type": "Mw'",
+    "magnitude": 3.15,
+    "place": "201 km W of Tofino, BC/201 km O de Tofino, BC",
+    "region": "BC"
   },
   "deepest_event_last_24h": {
     "event_id": "20260428.2314001",
@@ -45,13 +45,9 @@
       "count": 2
     },
     {
-      "region": "AB",
-      "count": 1
-    },
-    {
-      "region": "QC",
+      "region": "YT",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-29 21:03 UTC, the recent Canada earthquake dataset contains 545 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.16 at Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB. The deepest event reached 10.00 km at 201 km W of Tofino, BC/201 km O de Tofino, BC. The most recent listed event was M2.71 at 133 km WSW of Haines Junction, YT/133 km OSO de Haines Junction, YT at 2026-04-29T09:19:54.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (2) and AB (1)."
+  "summary_text": "As of 2026-04-29 22:03 UTC, the recent Canada earthquake dataset contains 544 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.15 at 201 km W of Tofino, BC/201 km O de Tofino, BC. The deepest event reached 10.00 km at 201 km W of Tofino, BC/201 km O de Tofino, BC. The most recent listed event was M2.71 at 133 km WSW of Haines Junction, YT/133 km OSO de Haines Junction, YT at 2026-04-29T09:19:54.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (2) and YT (1)."
 }
