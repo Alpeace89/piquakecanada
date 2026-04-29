@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260315.0857001,2026-03-15T08:57:32.000Z,49.169,-89.611,0.93,MwN,1.39,"Mining event, Lac des Iles Mine, ON/Événement minier, Mine Lac des Îles,Lac des Iles, ON"
 20260315.1248001,2026-03-15T12:48:43.000Z,49.4171,-127.1904,33.11,ML,2.46,"67 km SW of Tahsis, BC/67 km SO de Tahsis, BC"
 20260315.1433001,2026-03-15T14:33:01.000Z,54.3172,-118.5609,5.0,MLy,3.13,"Suspected industry-related event, 60 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 60 km NE de Grande Cache, AB"
 20260315.2122001,2026-03-15T21:22:01.000Z,48.2517,-78.4518,3.11,MwN,2.46,"Mining event, LaRonde - Zone 5 Mine, QC/Événement minier, Mine LaRonde - Zone 5, QC"
