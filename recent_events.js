@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-29T09:19:54.000Z",
+    "magnitude": "2.71",
+    "depth_km": "1.0",
+    "place": "133 km WSW of Haines Junction, YT/133 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-04-29T08:42:33.000Z",
+    "magnitude": "2.3",
+    "depth_km": "0.71",
+    "place": "32 km W of Squamish, BC/32 km O de Squamish, BC"
+  },
+  {
     "time_utc": "2026-04-28T23:14:16.000Z",
     "magnitude": "3.15",
     "depth_km": "10.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.44",
     "depth_km": "21.94",
     "place": "55 km SSW of Daajing Giids, BC/55 km SSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-04-28T07:59:18.000Z",
-    "magnitude": "2.53",
-    "depth_km": "1.0",
-    "place": "64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-04-28T05:15:17.000Z",
-    "magnitude": "2.15",
-    "depth_km": "3.17",
-    "place": "Suspected industry-related event, 65 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 65 km SSE de Grande Prairie, AB"
   }
 ];
