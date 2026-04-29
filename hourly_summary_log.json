@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-07T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event detected was an unknown magnitude at an unknown location. The latest quake recorded was a M1.86 near Rochester, which happened on April 5th around 10:21 PM ET."
-  },
-  {
     "timestamp_utc": "2026-04-07T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no new earthquakes in the last hour, but there were eleven in the past day. The largest event was a M4.15 near Burwash Landing in Yukon and Hinton in Alberta. This is what we've seen so far today with an M3.16 shake east of Hinton."
+  },
+  {
+    "timestamp_utc": "2026-04-29T00:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had 11 PiQuake Canada dashboard events. The largest event was a M4.15 near Burwash Landing in Yukon and Yellowknife in Northwest Territories, happening on April 28th at 13:26 UTC. We also saw one from dynamiters just outside Hinton in Alberta. Most of these quakes happened in British Columbia with four, followed by two each in Alberta and the territories."
   }
 ]
