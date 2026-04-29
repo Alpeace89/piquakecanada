@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-08T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is still in beta but hasn't had any seismic events recorded since yesterday. The last known event was a small one measuring M1.92, happening near Kirkland Lake, ON, and it happened about a week ago on April 6th at around 5:27 AM."
-  },
-  {
     "timestamp_utc": "2026-04-08T09:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had four small quakes. The biggest one was a M3.16 just east of Hinton in Alberta and another nearby dynamite blast site. That's it for now, folks—nothing too major happening out there. Most recent activity is from April 28th around the YT, BC, and AB regions."
+  },
+  {
+    "timestamp_utc": "2026-04-29T15:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had four minor seismic events reported. The largest one was a M3.16 near Hinton in Alberta and another M1.54 close to Thetford Mines in Quebec. Most of these happened in the Territories (two), Alberta, and Quebec regions. It's important to note that PiQuake Canada monitors all local seismic activity for safety and awareness."
   }
 ]

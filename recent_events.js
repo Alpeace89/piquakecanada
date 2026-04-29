@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-28T21:50:48.000Z",
+    "magnitude": "1.54",
+    "depth_km": "0.0",
+    "place": "Blast, 4 km SSW of Thetford Mines, QC/Dynamitage, 4 km SSO de Thetford Mines, QC"
+  },
+  {
     "time_utc": "2026-04-28T21:22:36.000Z",
     "magnitude": "3.16",
     "depth_km": "0.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.47",
     "depth_km": "1.0",
     "place": "116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-28T02:28:11.000Z",
-    "magnitude": "1.87",
-    "depth_km": "14.75",
-    "place": "50 km W of Daajing Giids, BC/50 km O de Daajing Giids, BC"
   }
 ];

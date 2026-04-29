@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-29T14:03:01Z",
+  "generated_utc": "2026-04-29T15:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 542,
   "events_last_24h": 4,
@@ -7,15 +7,15 @@
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260428.2122001",
-    "time_utc": "2026-04-28T21:22:36.000Z",
-    "latitude": 53.3873,
-    "longitude": -117.3311,
+    "event_id": "20260428.2150001",
+    "time_utc": "2026-04-28T21:50:48.000Z",
+    "latitude": 46.0681,
+    "longitude": -71.3272,
     "depth_km": 0.0,
-    "mag_type": "MLy",
-    "magnitude": 3.16,
-    "place": "Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB",
-    "region": "AB"
+    "mag_type": "MwN",
+    "magnitude": 1.54,
+    "place": "Blast, 4 km SSW of Thetford Mines, QC/Dynamitage, 4 km SSO de Thetford Mines, QC",
+    "region": "QC"
   },
   "largest_event_last_24h": {
     "event_id": "20260428.2122001",
@@ -29,15 +29,15 @@
     "region": "AB"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260428.1428002",
-    "time_utc": "2026-04-28T14:28:42.000Z",
-    "latitude": 49.3113,
-    "longitude": -127.7433,
-    "depth_km": 30.0,
+    "event_id": "20260428.1522001",
+    "time_utc": "2026-04-28T15:22:22.000Z",
+    "latitude": 60.3141,
+    "longitude": -139.3819,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 2.25,
-    "place": "84 km SSW of Houpsitas 6, BC/84 km SSO de Houpsitas 6, BC",
-    "region": "BC"
+    "magnitude": 2.36,
+    "place": "113 km WSW of Haines Junction, YT/113 km OSO de Haines Junction, YT",
+    "region": "YT"
   },
   "top_regions_last_24h": [
     {
@@ -45,13 +45,13 @@
       "count": 2
     },
     {
-      "region": "BC",
+      "region": "AB",
       "count": 1
     },
     {
-      "region": "AB",
+      "region": "QC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-29 14:03 UTC, the recent Canada earthquake dataset contains 542 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.16 at Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB. The deepest event reached 30.00 km at 84 km SSW of Houpsitas 6, BC/84 km SSO de Houpsitas 6, BC. The most recent listed event was M3.16 at Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB at 2026-04-28T21:22:36.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and BC (1)."
+  "summary_text": "As of 2026-04-29 15:03 UTC, the recent Canada earthquake dataset contains 542 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.16 at Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB. The deepest event reached 5.00 km at 113 km WSW of Haines Junction, YT/113 km OSO de Haines Junction, YT. The most recent listed event was M1.54 at Blast, 4 km SSW of Thetford Mines, QC/Dynamitage, 4 km SSO de Thetford Mines, QC at 2026-04-28T21:50:48.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and AB (1)."
 }
