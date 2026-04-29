@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-08T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour but had one event yesterday. The largest earthquake recorded was a M4.05 near Whitehorse, YT around 11:19 AM today, and it's happening again now. That's the latest we've seen in our area over the past day."
-  },
-  {
     "timestamp_utc": "2026-04-08T14:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there have been five minor quakes reported over the past day. The largest one was a M3.16 near Hinton, Alberta, and another M2.71 happened yesterday afternoon in Yukon Territory. BC seems to be where most of these little shakes are happening, with two each recorded in British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-04-29T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we had 5 earthquakes reported. The largest one was a M3.16 near Hinton in Alberta and the smallest one was a M2.71 near Haines Junction in Yukon. It seems like British Columbia, Alberta, and Quebec have been more active with two each in the last 24 hours."
   }
 ]
