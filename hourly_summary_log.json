@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-08T09:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary for the PiQuake Canada dashboard in plain Canadian English: For the past 24 hours, there haven't been any reported quakes on our system. The largest one recorded was only M1.92 and it happened near Kirkland Lake, ON from someone mining operations. It's not every day we see activity like this, but nothing too scary or big to worry about."
-  },
-  {
     "timestamp_utc": "2026-04-08T10:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had four minor seismic events reported. The largest one was a M3.16 near Hinton in Alberta and another M1.54 close to Thetford Mines in Quebec. Most of these happened in the Territories (two), Alberta, and Quebec regions. It's important to note that PiQuake Canada monitors all local seismic activity for safety and awareness."
+  },
+  {
+    "timestamp_utc": "2026-04-29T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major events reported on the PiQuake Canada dashboard. However, we did catch a M3.16 quake in Hinton, AB/Eastern Alberta and a smaller one of M1.54 near Thetford Mines, Quebec. These are just some minor tremors from our region's regular activity."
   }
 ]
