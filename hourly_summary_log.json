@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-08T11:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there were no recorded quakes on the PiQuake Canada dashboard. The largest event was a M1.92 near Kirkland Lake in Ontario. It's important to note that this is the only quake we've had since our last check."
-  },
-  {
     "timestamp_utc": "2026-04-08T12:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had two quakes detected by our PiQuake Canada dashboard. The largest one was a M3.16 near Hinton, Alberta on April 28th at about 9 PM local time, and another smaller one with a magnitude of M1.54 happened in Quebec, close to Thetford Mines around the same time. These are our most recent quake reports."
+  },
+  {
+    "timestamp_utc": "2026-04-29T18:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three small tremors recorded in the last 24 hours. The largest one was a M3.16 near Hinton, Alberta, and another minor quake occurred about 200 km away in British Columbia. These are just tiny tremors that don't pose any threat, but they help us understand how often such events happen in these areas."
   }
 ]

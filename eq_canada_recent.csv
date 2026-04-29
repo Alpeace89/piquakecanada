@@ -541,3 +541,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260428.1628001,2026-04-28T16:28:47.000Z,59.1493,-138.6944,3.17,ML,2.67,"190 km SSW of Haines Junction, YT/190 km SSO de Haines Junction, YT"
 20260428.2122001,2026-04-28T21:22:36.000Z,53.3873,-117.3311,0.0,MLy,3.16,"Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB"
 20260428.2150001,2026-04-28T21:50:48.000Z,46.0681,-71.3272,0.0,MwN,1.54,"Blast, 4 km SSW of Thetford Mines, QC/Dynamitage, 4 km SSO de Thetford Mines, QC"
+20260428.2314001,2026-04-28T23:14:16.000Z,48.924,-128.6349,10.0,Mw',3.15,"201 km W of Tofino, BC/201 km O de Tofino, BC"
