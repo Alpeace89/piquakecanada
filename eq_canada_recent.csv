@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260316.0615001,2026-03-16T06:15:25.000Z,47.4174,-70.3794,9.42,MwN,-0.44,"10 km ESE of Baie-Saint-Paul, QC/10 km ESE de Baie-Saint-Paul, QC"
 20260316.0753001,2026-03-16T07:53:02.000Z,54.392,-117.2295,5.0,MLy,3.31,"Suspected industry-related event, 27 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 27 km O de Fox Creek, AB"
 20260316.1523002,2026-03-16T15:23:07.000Z,45.3137,-73.4537,0.0,MwN,1.72,"Blast, 15 km W of Saint-Jean-sur-Richelieu, QC/Dynamitage, 15 km O de Saint-Jean-sur-Richelieu, QC"
 20260316.1558001,2026-03-16T15:58:57.000Z,60.5878,-139.7557,5.0,ML,2.71,"124 km W of Haines Junction, YT/124 km O de Haines Junction, YT"
