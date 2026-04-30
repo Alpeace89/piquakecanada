@@ -1,53 +1,53 @@
 {
-  "generated_utc": "2026-04-30T01:03:02Z",
+  "generated_utc": "2026-04-30T02:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 544,
-  "events_last_24h": 2,
-  "events_last_hour": 0,
-  "count_m3plus_last_24h": 0,
-  "count_m4plus_last_24h": 0,
+  "rolling_window_event_count": 545,
+  "events_last_24h": 3,
+  "events_last_hour": 1,
+  "count_m3plus_last_24h": 1,
+  "count_m4plus_last_24h": 1,
   "latest_event": {
-    "event_id": "20260429.0919001",
-    "time_utc": "2026-04-29T09:19:54.000Z",
-    "latitude": 60.4694,
-    "longitude": -139.8758,
-    "depth_km": 1.0,
+    "event_id": "20260430.0105003",
+    "time_utc": "2026-04-30T01:05:39.000Z",
+    "latitude": 60.497,
+    "longitude": -139.6344,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 2.71,
-    "place": "133 km WSW of Haines Junction, YT/133 km OSO de Haines Junction, YT",
+    "magnitude": 4.12,
+    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT",
     "region": "YT"
   },
   "largest_event_last_24h": {
-    "event_id": "20260429.0919001",
-    "time_utc": "2026-04-29T09:19:54.000Z",
-    "latitude": 60.4694,
-    "longitude": -139.8758,
-    "depth_km": 1.0,
+    "event_id": "20260430.0105003",
+    "time_utc": "2026-04-30T01:05:39.000Z",
+    "latitude": 60.497,
+    "longitude": -139.6344,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 2.71,
-    "place": "133 km WSW of Haines Junction, YT/133 km OSO de Haines Junction, YT",
+    "magnitude": 4.12,
+    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT",
     "region": "YT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260429.0919001",
-    "time_utc": "2026-04-29T09:19:54.000Z",
-    "latitude": 60.4694,
-    "longitude": -139.8758,
-    "depth_km": 1.0,
+    "event_id": "20260430.0105003",
+    "time_utc": "2026-04-30T01:05:39.000Z",
+    "latitude": 60.497,
+    "longitude": -139.6344,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 2.71,
-    "place": "133 km WSW of Haines Junction, YT/133 km OSO de Haines Junction, YT",
+    "magnitude": 4.12,
+    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT",
     "region": "YT"
   },
   "top_regions_last_24h": [
     {
-      "region": "BC",
-      "count": 1
+      "region": "YT",
+      "count": 2
     },
     {
-      "region": "YT",
+      "region": "BC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-30 01:03 UTC, the recent Canada earthquake dataset contains 544 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.71 at 133 km WSW of Haines Junction, YT/133 km OSO de Haines Junction, YT. The deepest event reached 1.00 km at 133 km WSW of Haines Junction, YT/133 km OSO de Haines Junction, YT. The most recent listed event was M2.71 at 133 km WSW of Haines Junction, YT/133 km OSO de Haines Junction, YT at 2026-04-29T09:19:54.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (1) and YT (1)."
+  "summary_text": "As of 2026-04-30 02:03 UTC, the recent Canada earthquake dataset contains 545 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 1 in the last hour. The largest event in the last 24 hours was M4.12 at 119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT. The deepest event reached 5.00 km at 119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT. The most recent listed event was M4.12 at 119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT at 2026-04-30T01:05:39.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and BC (1)."
 }

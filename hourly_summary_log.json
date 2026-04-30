@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-08T19:03:02Z",
-    "mode": "deterministic",
-    "model": null,
-    "summary": "Canada recorded 4 earthquakes in the last 24 hours, with the largest event M3.97 at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT. No earthquakes were recorded in the last hour. The most recent listed event was M1.75 at 10 km SE of Dundee, QC/10 km SE de Dundee, QC at 2026-04-08T17:41:46Z."
-  },
-  {
     "timestamp_utc": "2026-04-08T20:03:02Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of two earthquakes recorded on our PiQuake Canada dashboard. The biggest one was a M2.71 happening about 133 km west-southwest of Haines Junction in both Yukon Territory and Ontario. This is where it all started, and that's the last known event as of April 29th at around 9:19 AM UTC time zone."
+  },
+  {
+    "timestamp_utc": "2026-04-30T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary of the PiQuake Canada dashboard for today. We had one event in the last hour and three events over the past 24 hours. The largest event was a M4.12 just west southwest of Haines Junction, Yukon/BC yesterday at around midnight. This area has been active with two events happening there in the last 24 hours."
   }
 ]
