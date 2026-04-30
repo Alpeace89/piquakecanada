@@ -18,6 +18,18 @@ window.recentEvents = [
     "place": "32 km W of Squamish, BC/32 km O de Squamish, BC"
   },
   {
+    "time_utc": "2026-04-29T05:24:27.000Z",
+    "magnitude": "0.45",
+    "depth_km": "25.04",
+    "place": "77 km NNE of Matane, QC/77 km NNE de Matane, QC"
+  },
+  {
+    "time_utc": "2026-04-29T04:22:46.000Z",
+    "magnitude": "1.8",
+    "depth_km": "18.36",
+    "place": "16 km WSW of Amherst, QC/16 km OSO de Amherst, QC"
+  },
+  {
     "time_utc": "2026-04-28T23:14:16.000Z",
     "magnitude": "3.15",
     "depth_km": "10.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.36",
     "depth_km": "5.0",
     "place": "113 km WSW of Haines Junction, YT/113 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-28T14:28:42.000Z",
-    "magnitude": "2.25",
-    "depth_km": "30.0",
-    "place": "84 km SSW of Houpsitas 6, BC/84 km SSO de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-04-28T13:26:09.000Z",
-    "magnitude": "4.15",
-    "depth_km": "1.0",
-    "place": "75 km W of Burwash Landing, YT/75 km O de Burwash Landing, YT"
   }
 ];
