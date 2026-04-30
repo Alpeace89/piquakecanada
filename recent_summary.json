@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-04-30T20:03:01Z",
+  "generated_utc": "2026-04-30T21:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 554,
   "events_last_24h": 4,
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-04-30 20:03 UTC, the recent Canada earthquake dataset contains 554 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.12 at 119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT. The deepest event reached 13.44 km at 13 km SSE of Otter Lake, QC, felt/13 km SSE de Otter Lake, QC, ressenti. The most recent listed event was M1.62 at Blast, 18 km WNW of Haliburton Village, ON/Dynamitage, 18 km ONO de Haliburton Village, ON at 2026-04-30T17:00:28.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (1) and YT (1)."
+  "summary_text": "As of 2026-04-30 21:03 UTC, the recent Canada earthquake dataset contains 554 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.12 at 119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT. The deepest event reached 13.44 km at 13 km SSE of Otter Lake, QC, felt/13 km SSE de Otter Lake, QC, ressenti. The most recent listed event was M1.62 at Blast, 18 km WNW of Haliburton Village, ON/Dynamitage, 18 km ONO de Haliburton Village, ON at 2026-04-30T17:00:28.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (1) and YT (1)."
 }
