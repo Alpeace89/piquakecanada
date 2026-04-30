@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-09T12:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had three little quakes. The biggest one was a M1.75, and it happened around 5:40 PM on April 8th in an area that's 10 km southeast of Dundee, Quebec or just south of there. It's been quiet the past hour though with no activity at all."
-  },
-  {
     "timestamp_utc": "2026-04-09T13:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one seismic event recorded on our PiQuake Canada dashboard. It measured M4.12 and happened in a place near Haines Junction, Yukon. That's pretty much it - nothing major but still something worth keeping an eye on."
+  },
+  {
+    "timestamp_utc": "2026-04-30T18:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey there! It's been a quiet 24 hours for PiQuake Canada, with just one seismic event. The biggest one was a M4.12 shake that hit the area around Haines Junction in the Yukon and Ontario about an hour ago. That's our latest update and it's happening pretty regularly down there, with YUKON being the hotspot region right now."
   }
 ]
