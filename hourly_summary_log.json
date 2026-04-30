@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-08T17:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It measured M4.05 and happened about 125 km southwest of Whitehorse in the Yukon Territory. That's the largest quake we've seen today as well."
-  },
-  {
     "timestamp_utc": "2026-04-08T18:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three minor earthquakes with a maximum magnitude of M3.15. The latest one was measured at M2.71 and occurred just before noon yesterday in the Yukon Territory. Most of these happened near Tofino on Vancouver Island and Haines Junction in the Yukon."
+  },
+  {
+    "timestamp_utc": "2026-04-30T00:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had two minor earthquakes with a magnitude of M2.71 each in Haines Junction area, one occurring on April 29th at around 09:19 AM local time. This was our only earthquake event for the whole day and it happened just yesterday, so no big news here."
   }
 ]
