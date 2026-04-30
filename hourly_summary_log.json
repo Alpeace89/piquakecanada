@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-08T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had four minor tremors across Canada. The largest one measured M3.97 about 100 km southwest of Whitehorse in Yukon Territory. That's a bit far from our main dashboard area where it also shook Dundee in Quebec at a magnitude of 1.75 around 10 km southeast. These tiny quakes are mostly unknown, but we do see activity around there and in the YT region too."
-  },
-  {
     "timestamp_utc": "2026-04-08T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three quakes in the past 24 hours. The largest one was a M4.12 near Haines Junction in the Yukon and nearby areas of British Columbia. This is where we get our latest earthquake report from yesterday at around midnight, April 30th."
+  },
+  {
+    "timestamp_utc": "2026-04-30T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the last 24 hours, we've had three minor quakes registered by our PiQuake Canada dashboard. The biggest one was a M4.12 hit near Haines Junction in the Yukon and British Columbia regions. This is pretty typical for this area where small earthquakes happen quite often."
   }
 ]
