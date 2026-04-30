@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-09T02:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had four seismic events monitored by our PiQuake Canada dashboard. The largest one measured M3.97 and happened about 127 kilometers south-southwest of Whitehorse in the Yukon, close to where another smaller quake occurred earlier today around Dundee in Quebec. It's been a quiet week overall with only these four events reported in our top regions which are Unknown, Yukon Territory, and Quebec."
-  },
-  {
     "timestamp_utc": "2026-04-09T04:03:10Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the PiQuake Canada dashboard, we've had zero seismic events in the last hour but three in the past 24 hours. The largest was a M4.12 near Haines Junction in Yukon and Oso, also in Yukon, which happened yesterday at about 1 AM local time. That's where our latest event is too, from just now."
+  },
+  {
+    "timestamp_utc": "2026-04-30T09:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of 2 quakes detected. The largest one was an M4.12 near Haines Junction in the Yukon Territory, which happened just after midnight yesterday. This is our latest and only event for today. Notable areas with activity are the Yukon Territory, where we saw two quakes occur last night."
   }
 ]
