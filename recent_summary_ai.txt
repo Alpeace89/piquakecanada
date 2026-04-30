@@ -1,1 +1,1 @@
-In the last 24 hours, we had a total of 2 quakes detected. The largest one was an M4.12 near Haines Junction in the Yukon Territory, which happened just after midnight yesterday. This is our latest and only event for today. Notable areas with activity are the Yukon Territory, where we saw two quakes occur last night.
+In the last 24 hours, there was one earthquake event recorded. The largest one measured at M4.12 and happened near Haines Junction in Yukon. That's it for today's activity on our PiQuake Canada dashboard.
