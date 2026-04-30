@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-09T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of seven PiQuake Canada dashboard events. The largest event was a M3.79 near Sturgeon County in Alberta linked to some industry activity. That's right after a M2.78 shake that happened earlier today in Port Hardy, British Columbia. The busiest areas were Yukon and Quebec with two events each in the last 24 hours."
-  },
-  {
     "timestamp_utc": "2026-04-09T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three small quakes monitored by our PiQuake Canada dashboard. The biggest one was a M4.12 near Haines Junction in the Yukon and nearby Ontario. That's quite strong but not to worry about. Then there were two more minor shakes, both felt around Otter Lake in Quebec. It’s all part of how things work down here under our feet."
+  },
+  {
+    "timestamp_utc": "2026-04-30T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major earthquakes recorded in the dashboard. However, we saw four small quakes with the largest being a M4.12 near Haines Junction in Yukon and another one close to Haliburton Village in Ontario, both of which happened around midnight UTC yesterday. The latest event was just a minor tremor related to dynamite blasting work."
   }
 ]

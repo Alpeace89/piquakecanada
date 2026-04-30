@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-04-30T17:00:28.000Z",
+    "magnitude": "1.62",
+    "depth_km": "0.0",
+    "place": "Blast, 18 km WNW of Haliburton Village, ON/Dynamitage, 18 km ONO de Haliburton Village, ON"
+  },
+  {
     "time_utc": "2026-04-30T15:53:26.000Z",
     "magnitude": "1.94",
     "depth_km": "13.44",
@@ -16,6 +22,12 @@ window.recentEvents = [
     "magnitude": "2.74",
     "depth_km": "10.0",
     "place": "253 km SW of Port Hardy, BC/253 km SO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-04-29T18:48:33.000Z",
+    "magnitude": "1.61",
+    "depth_km": "13.24",
+    "place": "79 km W of Daajing Giids, BC/79 km O de Daajing Giids, BC"
   },
   {
     "time_utc": "2026-04-29T09:19:54.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.32",
     "depth_km": "0.0",
     "place": "Blast, 14 km NNE of Cariboo D, BC/Dynamitage, 14 km NNE de Cariboo D, BC"
-  },
-  {
-    "time_utc": "2026-04-28T23:14:16.000Z",
-    "magnitude": "3.15",
-    "depth_km": "10.0",
-    "place": "201 km W of Tofino, BC/201 km O de Tofino, BC"
-  },
-  {
-    "time_utc": "2026-04-28T21:50:48.000Z",
-    "magnitude": "1.54",
-    "depth_km": "0.0",
-    "place": "Blast, 4 km SSW of Thetford Mines, QC/Dynamitage, 4 km SSO de Thetford Mines, QC"
   }
 ];
