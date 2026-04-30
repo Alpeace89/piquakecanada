@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-09T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four seismic events in the past 24 hours. The largest one was a M3.97 near Whitehorse in Yukon and Quebec, which happened earlier today. In the last 24 hours, two regions experienced quakes—Yukon and Quebec each had one."
-  },
-  {
     "timestamp_utc": "2026-04-09T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is showing no events in the last hour, but we had one event yesterday. The largest quake was a M4.12 near Haines Junction in the Yukon territory and Ontario of Yukon, which happened just after midnight UTC on April 30th. It's helping us understand what’s happening with quakes in Canada."
+  },
+  {
+    "timestamp_utc": "2026-04-30T13:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M4.12 earthquake located 119 km west-southwest of Haines Junction, Yukon and 119 km northwest of Haines Junction, Yukon. This is the largest quake we saw today, and it's been happening in Yukon Territory all day long."
   }
 ]
