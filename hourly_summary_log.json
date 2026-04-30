@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-09T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had seven PiQuake Canada dashboard events. The largest one was a M3.79 event from an industry-related source in Sturgeon County, AB, which people felt but likely wasn't naturally occurring. The most recent event clocked in at a M2.78, around 214 km west of Port Hardy, BC. In the top regions for yesterday, we had three unknowns, two in Yukon (YT) and one in Quebec (QC)."
-  },
-  {
     "timestamp_utc": "2026-04-09T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we saw four seismic events. The biggest one was a M4.12 near Haines Junction in Yukon and another place nearby. That's quite impressive! We also had one small tremor near Haliburton Village in Ontario, which sounds like it might have been related to some dynamite work. That’s pretty active down there with places in British Columbia, Yukon Territory, and an unknown location all reporting activity."
+  },
+  {
+    "timestamp_utc": "2026-04-30T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four in the past day. The biggest one was a M4.12 near Haines Junction, Yukon and another at Haliburton Village, Ontario from dynamite blasting. Notable regions with activity this period are British Columbia, Yukon Territory, and Unknown, where all events occurred."
   }
 ]

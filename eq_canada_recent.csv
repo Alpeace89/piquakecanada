@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260316.2113001,2026-03-16T21:13:15.000Z,59.8861,-136.7944,5.0,ML,2.66,"130 km SW of Whitehorse, YT/130 km SO de Whitehorse, YT"
 20260316.2235001,2026-03-16T22:35:37.000Z,47.8932,-69.8439,5.7,MwN,1.74,"7 km NNE of Saint-Siméon, QC/7 km NNE de Saint-Siméon, QC"
 20260316.2357001,2026-03-16T23:57:22.000Z,47.4365,-70.1388,16.34,MwN,0.65,"11 km NW of La Pocatière, QC/11 km NO de La Pocatière, QC"
 20260317.0000001,2026-03-17T00:00:00.000Z,59.5749,-138.6064,5.0,ML,2.72,"144 km SSW of Haines Junction, YT/144 km SSO de Haines Junction, YT"
@@ -171,8 +170,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260329.1807001,2026-03-29T18:07:21.000Z,58.9735,-137.9313,1.0,ML,3.46,"249 km SW of Whitehorse, YT/249 km SO de Whitehorse, YT"
 20260330.0029001,2026-03-30T00:29:05.000Z,61.1898,-139.8997,5.0,ML,1.9,"52 km WSW of Burwash Landing, YT/52 km OSO de Burwash Landing, YT"
 20260330.0146001,2026-03-30T01:46:30.000Z,60.3853,-139.5204,5.0,ML,2.35,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0207002,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,Mw',3.24,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
+20260330.0207001,2026-03-30T02:07:45.000Z,48.7808,-128.5633,10.0,MLSn,2.62,"229 km SSW of Port Hardy, BC/229 km SSO de Port Hardy, BC"
 20260330.0226001,2026-03-30T02:26:44.000Z,48.7307,-128.6557,10.0,Mw',3.64,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
 20260330.0422001,2026-03-30T04:22:51.000Z,54.318,-118.5257,1.0,MLy,2.39,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
 20260330.0605001,2026-03-30T06:05:55.000Z,56.6666,-121.5519,1.0,MLy,2.7,"Suspected industry-related event, 28 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 28 km O de Blueberry River 205, BC"
@@ -530,6 +529,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260427.1805001,2026-04-27T18:05:10.000Z,60.5399,-139.8893,5.0,ML,2.12,"132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
 20260427.1850001,2026-04-27T18:50:37.000Z,48.5498,-122.6378,18.01,ML,1.81,"26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA"
 20260427.2154001,2026-04-27T21:54:12.000Z,54.5868,-118.5681,1.0,MLy,2.01,"Suspected industry-related event, 67 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 67 km SSE de Grande Prairie, AB"
+20260427.2309001,2026-04-27T23:09:57.000Z,50.6261,-130.4494,10.0,Mw',2.92,"208 km W of Port Hardy, BC/208 km O de Port Hardy, BC"
 20260428.0206001,2026-04-28T02:06:25.000Z,54.9041,-121.0928,0.0,ML,2.56,"Blast, 14 km SW of Trend Mine, BC/Dynamitage, 14 km SO de la mine Trend, BC"
 20260428.0228001,2026-04-28T02:28:11.000Z,53.2104,-132.832,14.75,ML,1.87,"50 km W of Daajing Giids, BC/50 km O de Daajing Giids, BC"
 20260428.0412001,2026-04-28T04:12:05.000Z,60.4063,-139.511,1.0,ML,2.47,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
