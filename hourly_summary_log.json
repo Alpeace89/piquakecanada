@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-10T02:03:01Z",
-    "mode": "deterministic",
-    "model": null,
-    "summary": "Canada recorded 5 earthquakes in the last 24 hours, with the largest event M3.79 at Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB, ressent. No earthquakes were recorded in the last hour. The most recent listed event was M1.32 at Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC at 2026-04-09T16:23:59Z."
-  },
-  {
     "timestamp_utc": "2026-04-10T03:03:01Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two little quakes. The biggest one was a M1.94 near Otter Lake in Quebec, and it felt like a shake for people nearby. Then there was another small one at Haliburton Village in Ontario where they were doing some dynamite work. That's all from the last 24 hours on our PiQuake Canada dashboard."
+  },
+  {
+    "timestamp_utc": "2026-05-01T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major quakes reported. However, we did have two small earthquakes - one in Quebec and another near Haliburton Village in Ontario. The largest quake was a M1.94 that people could feel about 13 km south-southeast of Otter Lake. There's also a smaller one at M1.62 today where dynamite blasting occurred nearby. So far, it looks like everything is quiet across Canada and no major shakes were reported."
   }
 ]
