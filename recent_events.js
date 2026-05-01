@@ -54,9 +54,9 @@ window.recentEvents = [
     "place": "13 km SSE of Otter Lake, QC, felt/13 km SSE de Otter Lake, QC, ressenti"
   },
   {
-    "time_utc": "2026-04-30T01:05:39.000Z",
-    "magnitude": "4.07",
-    "depth_km": "5.0",
-    "place": "121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
+    "time_utc": "2026-04-30T04:25:10.000Z",
+    "magnitude": "1.14",
+    "depth_km": "1.0",
+    "place": "4 km SSE of Surrey, BC/4 km SSE de Surrey, BC"
   }
 ];
