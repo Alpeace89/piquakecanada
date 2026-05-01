@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-09T19:03:01Z",
-    "mode": "deterministic",
-    "model": null,
-    "summary": "Canada recorded 6 earthquakes in the last 24 hours, with the largest event M3.79 at Suspected industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB, ressent. No earthquakes were recorded in the last hour. The most recent listed event was M1.32 at Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC at 2026-04-09T16:23:59Z."
-  },
-  {
     "timestamp_utc": "2026-04-09T20:03:01Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've seen three PiQuake Canada dashboard updates with a big one measuring M4.12 just southwest of Haines Junction in Yukon and another small one near Haliburton Village in Ontario. The highest event was a magnitude 4.12 quake on April 30th at around midnight UTC time, while the most recent one rated at M1.62 happened shortly after lunchtime that day. Notable places where we've been tracking activity include Yukon and Ontario with one each."
+  },
+  {
+    "timestamp_utc": "2026-05-01T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we saw three small earthquakes with the largest measuring M4.12 near Haines Junction in Yukon and a smaller one around Haliburton Village in Ontario. These are pretty minor quakes that don't pose any immediate threats, but it's always good to stay alert for unusual seismic activity."
   }
 ]

@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260317.0024001,2026-03-17T00:24:26.000Z,47.4806,-70.0856,12.89,MwN,1.86,"13 km NNW of La Pocatière, QC/13 km NNO de La Pocatière, QC"
 20260317.0351001,2026-03-17T03:51:40.000Z,52.7233,-132.2917,16.88,ML,2.02,"61 km SSW of Daajing Giids, BC/61 km SSO de Daajing Giids, BC"
 20260317.0908001,2026-03-17T09:08:20.000Z,70.3181,-133.1812,30.0,ML,4.11,"97 km N of Tuktoyaktuk, NT/97 km N de Tuktoyaktuk, NT"
 20260317.0922001,2026-03-17T09:22:41.000Z,54.8229,-118.7358,5.89,MLy,2.39,"Suspected industry-related event, 39 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 39 km S de Grande Prairie, AB"
