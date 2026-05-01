@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-10T03:03:01Z",
-    "mode": "deterministic",
-    "model": null,
-    "summary": "Canada recorded 3 earthquakes in the last 24 hours, with the largest event M2.78 at 214 km W of Port Hardy, BC/214 km O de Port Hardy, BC. No earthquakes were recorded in the last hour. The most recent listed event was M1.32 at Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC at 2026-04-09T16:23:59Z."
-  },
-  {
     "timestamp_utc": "2026-04-10T04:03:01Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major quakes reported. However, we did have two small earthquakes - one in Quebec and another near Haliburton Village in Ontario. The largest quake was a M1.94 that people could feel about 13 km south-southeast of Otter Lake. There's also a smaller one at M1.62 today where dynamite blasting occurred nearby. So far, it looks like everything is quiet across Canada and no major shakes were reported."
+  },
+  {
+    "timestamp_utc": "2026-05-01T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a summary of the PiQuake Canada dashboard for public facing use: In the last 24 hours, there were no big earthquakes detected overall. However, we did see two minor quakes—both less than magnitude 2—and one in Quebec and another in Ontario. The latest quake was around Haliburton Village in Ontario where dynamite blasting occurred. It's pretty small though, barely felt by anyone."
   }
 ]
