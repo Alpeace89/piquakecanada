@@ -54,9 +54,9 @@ window.recentEvents = [
     "place": "13 km SSE of Otter Lake, QC, felt/13 km SSE de Otter Lake, QC, ressenti"
   },
   {
-    "time_utc": "2026-04-30T04:25:10.000Z",
-    "magnitude": "1.14",
+    "time_utc": "2026-04-30T07:04:39.000Z",
+    "magnitude": "2.24",
     "depth_km": "1.0",
-    "place": "4 km SSE of Surrey, BC/4 km SSE de Surrey, BC"
+    "place": "Suspected industry-related event, 64 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 64 km SSE de Grande Prairie, AB"
   }
 ];
