@@ -54,9 +54,9 @@ window.recentEvents = [
     "place": "13 km SSE of Otter Lake, QC, felt/13 km SSE de Otter Lake, QC, ressenti"
   },
   {
-    "time_utc": "2026-04-30T07:04:39.000Z",
-    "magnitude": "2.24",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 64 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 64 km SSE de Grande Prairie, AB"
+    "time_utc": "2026-04-30T10:56:11.000Z",
+    "magnitude": "3.38",
+    "depth_km": "5.0",
+    "place": "243 km SW of Whitehorse, YT/243 km SO de Whitehorse, YT"
   }
 ];

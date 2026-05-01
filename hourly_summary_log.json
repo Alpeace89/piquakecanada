@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-10T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had two minor seismic events in Canada. The largest one measured M1.32 near Rivière-au-Renard, QC and a smaller one at M1.22 close to Baie-Saint-Paul, QC. These are pretty common occurrences and usually don't cause any problems. Notable areas with recent activity include Quebec province."
-  },
-  {
     "timestamp_utc": "2026-04-10T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had seven PiQuake Canada events. The largest one was a M3.34 near Juneau in Alaska at 8:10 AM yesterday, and we also saw a M2.29 event just outside Bellingham in Washington around noon today. Most of these happenings have been in British Columbia's Yukon, Washington State, and Quebec regions."
+  },
+  {
+    "timestamp_utc": "2026-05-01T18:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there have been no major earthquakes reported. However, we've seen seven quakes with the largest one measuring M3.34 off the coast of Alaska and another at a smaller M2.29 near Bellingham, Washington. The top regions for these events are Yukon Territory with two, Washington State with two more, and Quebec had one too."
   }
 ]
