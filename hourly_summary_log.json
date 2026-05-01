@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-10T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks, we had a quiet hour with just zero events. But in the past 24 hours, we had three shakes with the biggest one measuring M4.57 near Juneau, Alaska. That's our latest event too! It looks like British Columbia, Yukon Territory, and Alaska were the hot spots for quakes in this short period."
-  },
-  {
     "timestamp_utc": "2026-04-10T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but in the previous 24 hours, we had seven quakes with the biggest one being a M3.34 near Juneau, Alaska. The latest quake was a M2.29 about 25 km south-southwest of Bellingham, Washington. The areas most active lately are Yukon Territory, Washington state, and Quebec."
+  },
+  {
+    "timestamp_utc": "2026-05-01T20:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had seven minor seismic events detected by our PiQuake Canada dashboard. The largest one was a M3.34 near Juneau in Alaska at 8:10 AM today, and there's another M2.29 quake just outside Bellingham in Washington that occurred this afternoon around 12:06 PM. Most of these quakes have been happening in the Yukon Territory, British Columbia, and Quebec regions."
   }
 ]

@@ -54,9 +54,9 @@ window.recentEvents = [
     "place": "13 km SSE of Otter Lake, QC, felt/13 km SSE de Otter Lake, QC, ressenti"
   },
   {
-    "time_utc": "2026-04-30T10:56:11.000Z",
-    "magnitude": "3.38",
-    "depth_km": "5.0",
-    "place": "243 km SW of Whitehorse, YT/243 km SO de Whitehorse, YT"
+    "time_utc": "2026-04-30T14:57:15.000Z",
+    "magnitude": "0.92",
+    "depth_km": "1.0",
+    "place": "22 km NE of Sayward, BC/22 km NE de Sayward, BC"
   }
 ];
