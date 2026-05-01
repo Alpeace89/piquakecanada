@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-10T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the past 24 hours, there have been no major seismic events reported. However, two minor earthquakes with magnitudes of M2.26 and M1.32 were detected, one near Sainte-Anne-des-Montsns in Quebec and another near Rivière-au-Renard, also in Quebec. These are the only events recorded since our last update on April 9th."
-  },
-  {
     "timestamp_utc": "2026-04-10T09:03:02Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two minor earthquakes detected. The largest one was a M1.94 near Otter Lake in Quebec which people felt or experienced. Just recently, another small tremor measuring M1.62 happened around Haliburton Village in Ontario during dynamite blasting activities. That's it for the latest activity on our PiQuake Canada dashboard!"
+  },
+  {
+    "timestamp_utc": "2026-05-01T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four events yesterday. The largest event was a M2.17 quake that happened just after midnight UTC near Port Alice, BC. It's been quiet as of now with quakes happening mainly in Ontario and Quebec."
   }
 ]

@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-01T00:31:05.000Z",
+    "magnitude": "2.17",
+    "depth_km": "10.0",
+    "place": "138 km SSW of Port Alice, BC/138 km SSO de Port Alice, BC"
+  },
+  {
+    "time_utc": "2026-04-30T21:45:24.000Z",
+    "magnitude": "1.72",
+    "depth_km": "9.31",
+    "place": "12 km NNW of Cap-Chat, QC/12 km NNO de Cap-Chat, QC"
+  },
+  {
     "time_utc": "2026-04-30T17:00:28.000Z",
     "magnitude": "1.62",
     "depth_km": "0.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "0.45",
     "depth_km": "25.04",
     "place": "77 km NNE of Matane, QC/77 km NNE de Matane, QC"
-  },
-  {
-    "time_utc": "2026-04-29T04:22:46.000Z",
-    "magnitude": "1.8",
-    "depth_km": "18.36",
-    "place": "16 km WSW of Amherst, QC/16 km OSO de Amherst, QC"
-  },
-  {
-    "time_utc": "2026-04-28T23:46:52.000Z",
-    "magnitude": "2.32",
-    "depth_km": "0.0",
-    "place": "Blast, 14 km NNE of Cariboo D, BC/Dynamitage, 14 km NNE de Cariboo D, BC"
   }
 ];
