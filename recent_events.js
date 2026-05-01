@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-01T08:10:39.000Z",
+    "magnitude": "3.34",
+    "depth_km": "5.0",
+    "place": "157 km WNW of Juneau, AK/157 km ONO de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-05-01T04:59:29.000Z",
+    "magnitude": "1.85",
+    "depth_km": "5.0",
+    "place": "121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-01T01:27:24.000Z",
+    "magnitude": "1.94",
+    "depth_km": "5.0",
+    "place": "120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-05-01T00:31:05.000Z",
     "magnitude": "2.17",
     "depth_km": "10.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.61",
     "depth_km": "13.24",
     "place": "79 km W of Daajing Giids, BC/79 km O de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-04-29T09:19:54.000Z",
-    "magnitude": "2.71",
-    "depth_km": "1.0",
-    "place": "133 km WSW of Haines Junction, YT/133 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-29T08:42:33.000Z",
-    "magnitude": "2.3",
-    "depth_km": "0.71",
-    "place": "32 km W of Squamish, BC/32 km O de Squamish, BC"
-  },
-  {
-    "time_utc": "2026-04-29T05:24:27.000Z",
-    "magnitude": "0.45",
-    "depth_km": "25.04",
-    "place": "77 km NNE of Matane, QC/77 km NNE de Matane, QC"
   }
 ];

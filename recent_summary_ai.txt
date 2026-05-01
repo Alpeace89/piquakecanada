@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there were four events yesterday. The largest event was a M2.17 quake that happened just after midnight UTC near Port Alice, BC. It's been quiet as of now with quakes happening mainly in Ontario and Quebec.
+The PiQuake Canada dashboard shows no events in the last hour but had seven quakes in the past day. The largest was a M3.34 near Juneau, Alaska yesterday at 8:10 AM local time. It's happening more frequently now than usual, and most of these were unknown regions.
