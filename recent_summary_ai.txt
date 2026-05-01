@@ -1,1 +1,1 @@
-In the last 24 hours, we saw three small earthquakes with the largest measuring M4.12 near Haines Junction in Yukon and a smaller one around Haliburton Village in Ontario. These are pretty minor quakes that don't pose any immediate threats, but it's always good to stay alert for unusual seismic activity.
+The PiQuake Canada dashboard shows no seismic events in the last hour, but there were two smaller quakes yesterday. The largest one was a M1.94 near Otter Lake, felt and ressenti there, and another M1.62 from dynamite blasting at Haliburton Village, both within 24 hours.
