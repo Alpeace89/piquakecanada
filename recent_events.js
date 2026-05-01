@@ -48,15 +48,15 @@ window.recentEvents = [
     "place": "Blast, 18 km WNW of Haliburton Village, ON/Dynamitage, 18 km ONO de Haliburton Village, ON"
   },
   {
+    "time_utc": "2026-04-30T16:59:57.000Z",
+    "magnitude": "2.26",
+    "depth_km": "10.0",
+    "place": "74 km SSW of Houpsitas 6, BC/74 km SSO de Houpsitas 6, BC"
+  },
+  {
     "time_utc": "2026-04-30T15:53:26.000Z",
     "magnitude": "1.94",
     "depth_km": "13.44",
     "place": "13 km SSE of Otter Lake, QC, felt/13 km SSE de Otter Lake, QC, ressenti"
-  },
-  {
-    "time_utc": "2026-04-30T14:57:15.000Z",
-    "magnitude": "0.92",
-    "depth_km": "1.0",
-    "place": "22 km NE of Sayward, BC/22 km NE de Sayward, BC"
   }
 ];
