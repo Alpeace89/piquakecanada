@@ -36,6 +36,12 @@ window.recentEvents = [
     "place": "138 km SSW of Port Alice, BC/138 km SSO de Port Alice, BC"
   },
   {
+    "time_utc": "2026-04-30T22:43:29.000Z",
+    "magnitude": "1.93",
+    "depth_km": "18.83",
+    "place": "38 km E of Seattle, WA/38 km E de Seattle, WA"
+  },
+  {
     "time_utc": "2026-04-30T21:45:24.000Z",
     "magnitude": "1.72",
     "depth_km": "9.31",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.26",
     "depth_km": "10.0",
     "place": "74 km SSW of Houpsitas 6, BC/74 km SSO de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-04-30T15:53:26.000Z",
-    "magnitude": "1.94",
-    "depth_km": "13.44",
-    "place": "13 km SSE of Otter Lake, QC, felt/13 km SSE de Otter Lake, QC, ressenti"
   }
 ];
