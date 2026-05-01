@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-10T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the past 24 hours, there have been no major seismic events reported. But we did catch a M4.57 shake in Alaska yesterday afternoon. It was located about 140 km west-southwest of Juneau and near the capital city of Sitka. This is our largest event since PiQuake Canada went live, and it's been happening pretty regularly with three such events recorded so far."
-  },
-  {
     "timestamp_utc": "2026-04-11T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've seen a total of 7 earthquakes monitored by our PiQuake Canada dashboard. The largest event was a M3.34 that happened about 157 km west-northwest of Juneau, Alaska at around 8:10 AM on May 1st. That's followed closely by another M2.29 earthquake near Bellingham, Washington which occurred earlier today at noon."
+  },
+  {
+    "timestamp_utc": "2026-05-01T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there have been six recorded earthquakes across Canada. The largest one was a M3.34 near Juneau, Alaska at around midnight UTC. That night another small quake hit Bellingham, Washington. The top regions with recent activity were Yukon Territory and Washington State, each having two events."
   }
 ]
