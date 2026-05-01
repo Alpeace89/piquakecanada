@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-05-01T14:03:01Z",
+  "generated_utc": "2026-05-01T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 552,
-  "events_last_24h": 7,
+  "rolling_window_event_count": 554,
+  "events_last_24h": 9,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260501.0810001",
-    "time_utc": "2026-05-01T08:10:39.000Z",
-    "latitude": 58.568,
-    "longitude": -137.0769,
-    "depth_km": 5.0,
+    "event_id": "20260501.1206001",
+    "time_utc": "2026-05-01T12:06:14.000Z",
+    "latitude": 48.5527,
+    "longitude": -122.634,
+    "depth_km": 18.33,
     "mag_type": "ML",
-    "magnitude": 3.34,
-    "place": "157 km WNW of Juneau, AK/157 km ONO de Juneau, AK",
-    "region": "AK"
+    "magnitude": 2.29,
+    "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA",
+    "region": "WA"
   },
   "largest_event_last_24h": {
     "event_id": "20260501.0810001",
@@ -29,15 +29,15 @@
     "region": "AK"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260430.1553001",
-    "time_utc": "2026-04-30T15:53:26.000Z",
-    "latitude": 45.7469,
-    "longitude": -76.3578,
-    "depth_km": 13.44,
-    "mag_type": "MwN",
-    "magnitude": 1.94,
-    "place": "13 km SSE of Otter Lake, QC, felt/13 km SSE de Otter Lake, QC, ressenti",
-    "region": "Unknown"
+    "event_id": "20260501.1206001",
+    "time_utc": "2026-05-01T12:06:14.000Z",
+    "latitude": 48.5527,
+    "longitude": -122.634,
+    "depth_km": 18.33,
+    "mag_type": "ML",
+    "magnitude": 2.29,
+    "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA",
+    "region": "WA"
   },
   "top_regions_last_24h": [
     {
@@ -45,13 +45,13 @@
       "count": 2
     },
     {
-      "region": "Unknown",
-      "count": 1
+      "region": "WA",
+      "count": 2
     },
     {
-      "region": "ON",
+      "region": "Unknown",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-01 14:03 UTC, the recent Canada earthquake dataset contains 552 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.34 at 157 km WNW of Juneau, AK/157 km ONO de Juneau, AK. The deepest event reached 13.44 km at 13 km SSE of Otter Lake, QC, felt/13 km SSE de Otter Lake, QC, ressenti. The most recent listed event was M3.34 at 157 km WNW of Juneau, AK/157 km ONO de Juneau, AK at 2026-05-01T08:10:39.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and Unknown (1)."
+  "summary_text": "As of 2026-05-01 15:03 UTC, the recent Canada earthquake dataset contains 554 events from the current rolling window. In the last 24 hours, 9 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.34 at 157 km WNW of Juneau, AK/157 km ONO de Juneau, AK. The deepest event reached 18.33 km at 25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA. The most recent listed event was M2.29 at 25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA at 2026-05-01T12:06:14.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and WA (2)."
 }

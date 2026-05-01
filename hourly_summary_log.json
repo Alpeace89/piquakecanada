@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-10T11:03:01Z",
-    "mode": "deterministic",
-    "model": null,
-    "summary": "Canada recorded 2 earthquakes in the last 24 hours, with the largest event M2.26 at 57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC. No earthquakes were recorded in the last hour. The most recent listed event was M1.32 at Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC at 2026-04-09T16:23:59Z."
-  },
-  {
     "timestamp_utc": "2026-04-10T12:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour but had seven quakes in the past day. The largest was a M3.34 near Juneau, Alaska yesterday at 8:10 AM local time. It's happening more frequently now than usual, and most of these were unknown regions."
+  },
+  {
+    "timestamp_utc": "2026-05-01T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, our PiQuake Canada dashboard recorded nine minor earthquakes. The largest was a M3.34 near Juneau in Alaska at 8:10 AM yesterday, while we also had another one just earlier today near Bellingham in Washington state around noon. We've seen activity in regions like Yukon and Washington, with the rest being unknown locations."
   }
 ]

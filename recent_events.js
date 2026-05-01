@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-01T12:06:14.000Z",
+    "magnitude": "2.29",
+    "depth_km": "18.33",
+    "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
+  },
+  {
+    "time_utc": "2026-05-01T12:01:00.000Z",
+    "magnitude": "1.62",
+    "depth_km": "15.26",
+    "place": "24 km SSW of Bellingham, WA/24 km SSO de Bellingham, WA"
+  },
+  {
     "time_utc": "2026-05-01T08:10:39.000Z",
     "magnitude": "3.34",
     "depth_km": "5.0",
@@ -43,20 +55,8 @@ window.recentEvents = [
   },
   {
     "time_utc": "2026-04-30T01:05:39.000Z",
-    "magnitude": "4.12",
+    "magnitude": "4.07",
     "depth_km": "5.0",
-    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-04-29T22:41:08.000Z",
-    "magnitude": "2.74",
-    "depth_km": "10.0",
-    "place": "253 km SW of Port Hardy, BC/253 km SO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-04-29T18:48:33.000Z",
-    "magnitude": "1.61",
-    "depth_km": "13.24",
-    "place": "79 km W of Daajing Giids, BC/79 km O de Daajing Giids, BC"
+    "place": "121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
   }
 ];
