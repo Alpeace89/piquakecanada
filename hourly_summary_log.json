@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-09T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were six minor quakes reported. The largest one was a M3.79 near Sturgeon County, AB, felt to be an industry-related event. We also had two blasts in Rivière-au-Renard, QC and another in Unknown region nearby. That's it for the latest seismic activity!"
-  },
-  {
     "timestamp_utc": "2026-04-09T19:03:01Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three little earthquakes—two in Ontario and one in Yukon. The biggest one was a M4.12 near Haines Junction in the Yukon Territory. Just today, another tiny quake with a strength of M1.62 shook Haliburton Village in Ontario. It looks like we’ve been active all around Canada with events reported in the Yukon and Ontario regions."
+  },
+  {
+    "timestamp_utc": "2026-05-01T00:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've seen three PiQuake Canada dashboard updates with a big one measuring M4.12 just southwest of Haines Junction in Yukon and another small one near Haliburton Village in Ontario. The highest event was a magnitude 4.12 quake on April 30th at around midnight UTC time, while the most recent one rated at M1.62 happened shortly after lunchtime that day. Notable places where we've been tracking activity include Yukon and Ontario with one each."
   }
 ]
