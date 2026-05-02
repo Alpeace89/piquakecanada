@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-11T10:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday that measured M4.57 near Juneau, AK/OSO de Juneau, AK. That's our largest event for today so far and it happened just before noon UTC on April 10th. It's happening in a region we call 'AK' which is where the majority of events have been coming from recently."
-  },
-  {
     "timestamp_utc": "2026-04-11T11:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick update on our PiQuake Canada dashboard. In the last 24 hours, we had three quakes reported—two in Washington and one in Alaska. The biggest one was a M3.34 near Juneau, which happened yesterday at about noon local time. There have been no major earthquakes lately; the latest one was a smaller M2.29 just a few hours ago around Bellingham. Our dashboard shows most activity is happening along the coasts of Washington and Alaska."
+  },
+  {
+    "timestamp_utc": "2026-05-02T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two quakes yesterday. The biggest one was a M2.29 near Bellingham, which happened early on April first. This is what we see for today's update too—it was another M2.29 just outside of Bellingham around midday."
   }
 ]
