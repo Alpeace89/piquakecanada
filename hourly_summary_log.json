@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-12T02:03:02Z",
-    "mode": "deterministic",
-    "model": null,
-    "summary": "No earthquakes were recorded in Canada in the last 24 hours. The most recent listed event was M4.57 at 141 km WSW of Juneau, AK/141 km OSO de Juneau, AK at 2026-04-10T16:43:17Z."
-  },
-  {
     "timestamp_utc": "2026-04-12T03:03:01Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the past 24 hours, there have been no earthquakes detected in the Canada dashboard. The largest event recorded was a M2.29 that happened 25 km south southwest of Bellingham, WA and another event at the same place earlier."
+  },
+  {
+    "timestamp_utc": "2026-05-02T23:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For those excited to try out the new PiQuake Canada dashboard, there haven't been any seismic events reported in the last 24 hours. The largest one detected was a minor M2.29 that happened on April 30th around noon local time near Bellingham, Washington. It's the first event we've recorded since our beta launch."
   }
 ]
