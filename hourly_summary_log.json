@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-11T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there was one earthquake event in Canada's Aleutian Islands region, measuring M4.57 near Juneau, Alaska. This was the largest and most recent quake we have recorded, happening on April 9th at around 4:43 PM local time."
-  },
-  {
     "timestamp_utc": "2026-04-11T14:03:01Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were two quakes yesterday. The largest one was a M2.29 near Bellingham, WA/SA and happened on April 30th at about 12:06 PM GMT. It's been quiet here lately with everything happening in Washington State."
+  },
+  {
+    "timestamp_utc": "2026-05-02T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey folks! We had a couple of little shakes last 24 hours, with no biggies to report. The biggest one was a M2.29 near Bellingham, and it happened on April 30th at around 12 PM. It's just a regular PiQuake alert – keep your earthquake monitors handy though!"
   }
 ]

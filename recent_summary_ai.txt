@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were two quakes yesterday. The largest one was a M2.29 near Bellingham, WA/SA and happened on April 30th at about 12:06 PM GMT. It's been quiet here lately with everything happening in Washington State.
+Hey folks! We had a couple of little shakes last 24 hours, with no biggies to report. The biggest one was a M2.29 near Bellingham, and it happened on April 30th at around 12 PM. It's just a regular PiQuake alert – keep your earthquake monitors handy though!
