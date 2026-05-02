@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260318.1553001,2026-03-18T15:53:17.000Z,48.9484,-128.2802,10.0,Mw',2.99,"175 km W of Tofino, BC/175 km O de Tofino, BC"
-20260318.1559001,2026-03-18T15:59:14.000Z,51.9552,-124.6549,5.0,ML,2.12,"52 km WSW of Redstone Flat 1, BC/52 km OSO de Redstone Flat 1, BC"
 20260318.2130001,2026-03-18T21:30:37.000Z,65.4893,-134.097,5.0,ML,3.69,"219 km S of Fort McPherson, NT/219 km S de Fort McPherson, NT"
 20260318.2209001,2026-03-18T22:09:12.000Z,66.3439,-142.3535,5.0,ML,2.94,"175 km SW of Old Crow, YT/175 km SO de Old Crow, YT"
 20260318.2231001,2026-03-18T22:31:34.000Z,59.7946,-139.1188,1.0,ML,1.93,"139 km SW of Haines Junction, YT/139 km SO de Haines Junction, YT"
