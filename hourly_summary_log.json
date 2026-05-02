@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-11T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had three small earthquakes. The biggest one was a M4.57 near Juneau in Alaska. This is happening pretty regularly in British Columbia, Yukon Territory and Alaska. It's like having some shaking underfoot in those places more often than usual."
-  },
-  {
     "timestamp_utc": "2026-04-11T04:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in beta, but it's tracking four small earthquakes over the past day. The largest one was a M3.34 near Juneau, Alaska, and another M2.29 not far from Bellingham, Washington. It seems most of these quakes have happened in Washington state and Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-05-02T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick snapshot of the PiQuake Canada dashboard for today. We had no big quakes last hour, but in the past day, we recorded four small ones with the biggest being a M3.34 near Juneau and Bellingham. The most recent quake was a M2.29 about 25 km south-southwest of Bellingham yesterday afternoon. Most of these happened in Washington and Yukon Territory, while Alaska had one too."
   }
 ]
