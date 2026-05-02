@@ -1,1 +1,1 @@
-Hey folks! We had a couple of little shakes last 24 hours, with no biggies to report. The biggest one was a M2.29 near Bellingham, and it happened on April 30th at around 12 PM. It's just a regular PiQuake alert – keep your earthquake monitors handy though!
+In the last 24 hours, we've had one earthquake event in Canada's western part. The largest one was a M2.29 near Bellingham, which happened on April 30th at around 12:06 PM local time. That's where our dashboard is keeping an eye on seismic activity for all to see.
