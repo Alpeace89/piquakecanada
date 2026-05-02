@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260318.1448001,2026-03-18T14:48:44.000Z,48.9646,-128.3176,10.0,Mw',3.0,"177 km W of Tofino, BC/177 km O de Tofino, BC"
 20260318.1553001,2026-03-18T15:53:17.000Z,48.9484,-128.2802,10.0,Mw',2.99,"175 km W of Tofino, BC/175 km O de Tofino, BC"
 20260318.1559001,2026-03-18T15:59:14.000Z,51.9552,-124.6549,5.0,ML,2.12,"52 km WSW of Redstone Flat 1, BC/52 km OSO de Redstone Flat 1, BC"
 20260318.2130001,2026-03-18T21:30:37.000Z,65.4893,-134.097,5.0,ML,3.69,"219 km S of Fort McPherson, NT/219 km S de Fort McPherson, NT"
