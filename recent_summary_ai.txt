@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard is still in beta and hasn't had any quakes recorded over the last 24 hours. The largest event we saw was a magnitude unknown one from an unknown location at an unknown time. But yesterday around noon, we had a M2.29 quake that happened 25 km south-southwest of Bellingham, WA or about 25 km southeast of Bellingham, WA.
+For the past 24 hours, there have been no earthquakes detected in the Canada dashboard. The largest event recorded was a M2.29 that happened 25 km south southwest of Bellingham, WA and another event at the same place earlier.
