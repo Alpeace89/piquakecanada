@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-11T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It happened near Juneau, Alaska with a magnitude of M4.57 and it occurred at about 16:43 UTC on April 10th. That's our latest activity so far this cycle."
-  },
-  {
     "timestamp_utc": "2026-04-11T16:03:01Z",
     "mode": "deterministic",
     "model": null,
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had one earthquake event in Canada's western part. The largest one was a M2.29 near Bellingham, which happened on April 30th at around 12:06 PM local time. That's where our dashboard is keeping an eye on seismic activity for all to see."
+  },
+  {
+    "timestamp_utc": "2026-05-02T13:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The biggest earthquake recorded was M2.29, which happened about 25 km south-southwest of Bellingham, Washington, on May 1st at around noon our time. It's been a quiet period so far."
   }
 ]
