@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-12T21:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had no earthquakes reported and there's a magnitude M4.57 event that happened on April 10th around Juneau in Alaska. It's still unknown where exactly it was located but it's not uncommon for little quakes like this to happen out there."
-  },
-  {
     "timestamp_utc": "2026-04-12T22:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary for the PiQuake Canada dashboard: No events were recorded in the last 24 hours. The largest event was an unknown magnitude happening somewhere near Bellingham, WA. It happened on May 1st at about 12:06 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-05-03T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the past 24 hours, no earthquakes have been detected on the PiQuake Canada dashboard. The largest quake recorded was a M2.29 that occurred around Bellingham, WA back in May 1st. There haven't been any events in the last hour either."
   }
 ]
