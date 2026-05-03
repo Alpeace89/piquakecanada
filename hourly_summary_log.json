@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-13T03:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the PiQuake Canada dashboard in its beta stage, there haven't been any seismic events detected in the last 24 hours. The largest event seen was a magnitude unknown with an unspecified location and time. The latest recorded activity was a M4.57 quake near Juneau, AK, which happened on April 10th at about 4:43 PM UTC."
-  },
-  {
     "timestamp_utc": "2026-04-13T04:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, with a largest event being an unknown magnitude happening at an unknown location. The latest recorded quake was a M2.29 near Bellingham, WA/BC, happened on May 1st at about noon."
+  },
+  {
+    "timestamp_utc": "2026-05-03T23:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes were detected last hour or in the past day. The largest recorded event was an unknown magnitude, happening at an unknown location and time. The latest quake measured M2.29 hit 25 km south-southwest of Bellingham, WA/25 km southwest of Bellingham, WA, around May 1st at about noon."
   }
 ]
