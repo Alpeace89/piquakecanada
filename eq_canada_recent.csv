@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260319.0126001,2026-03-19T01:26:51.000Z,49.6084,-127.383,19.69,ML,2.32,"47 km S of Houpsitas 6, BC/47 km S de Houpsitas 6, BC"
-20260319.0136001,2026-03-19T01:36:53.000Z,59.8588,-140.4561,5.0,ML,2.32,"190 km WSW of Haines Junction, YT/190 km OSO de Haines Junction, YT"
-20260319.0148001,2026-03-19T01:48:22.000Z,49.2746,-67.3979,23.07,MwN,1.31,"48 km NNE of Matane, QC/48 km NNE de Matane, QC"
 20260319.0331001,2026-03-19T03:31:43.000Z,60.5113,-140.0159,5.0,ML,3.28,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
 20260319.0536001,2026-03-19T05:36:19.000Z,60.5674,-139.7668,5.0,ML,2.14,"125 km W of Haines Junction, YT/125 km O de Haines Junction, YT"
 20260319.0656001,2026-03-19T06:56:25.000Z,61.6626,-141.6381,5.0,ML,2.22,"89 km SSW of Beaver Creek, YT/89 km SSO de Beaver Creek, YT"
