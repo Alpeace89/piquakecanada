@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event was a mystery magnitude that happened somewhere unknown on an unknown time. But we did get a smaller shake with a magnitude of M2.29, which occurred around noon yesterday near Bellingham, Washington.
+The PiQuake Canada dashboard is still in its beta stage, but we've had zero events recorded over the last 24 hours. The largest event so far was a M2.29 that happened on May 1st near Bellingham, WA/De Bellingham, WA. It's all good though; things are quiet down there.
