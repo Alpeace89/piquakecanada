@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest quake recorded was a M2.29 that happened 25 km south-southwest of Bellingham, WA yesterday at about noon local time. That's it for activity this period.
+Hey folks, it's been a quiet few days for PiQuake Canada. No earthquakes to report in the last hour or day. The biggest one we saw was M2.29 around Bellingham, Washington on April Fool’s Day. Things have been pretty calm lately and there haven't been any new areas showing up as having more activity recently.
