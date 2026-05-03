@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-13T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and there's no largest event magnitude recorded either. The latest event was a M4.57 that happened on April 10th at around 4 PM Alaska time, near Juneau in Alaska. Nothing much to report here, seems like it's been pretty quiet recently."
-  },
-  {
     "timestamp_utc": "2026-04-13T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in its beta stage, but we've had zero events recorded over the last 24 hours. The largest event so far was a M2.29 that happened on May 1st near Bellingham, WA/De Bellingham, WA. It's all good though; things are quiet down there."
+  },
+  {
+    "timestamp_utc": "2026-05-03T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there have been no detected events on the PiQuake Canada dashboard. The largest event recorded was a M2.29 that occurred 25 km south-southwest of Bellingham, Washington/25 km southwest of Bellingham, WA, back in May 1st at about noon UTC. So far so good!"
   }
 ]
