@@ -1,1 +1,1 @@
-Here's a quick summary for our PiQuake Canada dashboard in plain Canadian English: No events were recorded last hour or day, and there’s no largest event known to us. The latest minor tremor was an M2.29 near Bellingham, WA/SA de Bellingham, WA on May 1st at about noon local time.
+Here's a quick summary for the PiQuake Canada dashboard: No events were recorded in the last 24 hours. The largest event was an unknown magnitude happening somewhere near Bellingham, WA. It happened on May 1st at about 12:06 PM local time.
