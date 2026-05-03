@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260319.0656001,2026-03-19T06:56:25.000Z,61.6626,-141.6381,5.0,ML,2.22,"89 km SSW of Beaver Creek, YT/89 km SSO de Beaver Creek, YT"
 20260319.0834001,2026-03-19T08:34:00.000Z,60.5879,-140.0518,5.0,ML,2.42,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
 20260319.0836001,2026-03-19T08:36:50.000Z,47.4888,-70.1117,12.1,MwN,0.65,"14 km NNW of La Pocatière, QC/14 km NNO de La Pocatière, QC"
 20260319.0853001,2026-03-19T08:53:57.000Z,59.8831,-140.4225,5.0,ML,2.52,"187 km WSW of Haines Junction, YT/187 km OSO de Haines Junction, YT"
