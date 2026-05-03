@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260319.1153001,2026-03-19T11:53:42.000Z,50.5956,-130.2526,10.0,Mw',3.36,"195 km W of Port Hardy, BC/195 km O de Port Hardy, BC"
 20260319.1217001,2026-03-19T12:17:29.000Z,49.5659,-66.3339,18.0,MwN,1.03,"50 km NNE of Sainte-Anne-des-Monts, QC/50 km NNE de Sainte-Anne-des-Monts, QC"
 20260319.1253001,2026-03-19T12:53:45.000Z,60.5467,-139.7634,5.0,ML,2.32,"125 km W of Haines Junction, YT/125 km O de Haines Junction, YT"
 20260319.1645001,2026-03-19T16:45:38.000Z,54.5462,-118.5524,1.0,MLy,2.09,"Suspected industry-related event, 71 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 71 km SSE de Grande Prairie, AB"
