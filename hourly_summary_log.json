@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-13T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and the largest event of the past 24 hours had an unknown magnitude from an unknown location. The latest quake recorded was M1.41 near Oshawa, ON, which happened on April 12th at about 6:11 PM."
-  },
-  {
     "timestamp_utc": "2026-04-14T00:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary of the PiQuake Canada dashboard for you. In the last 24 hours, there were no detected quakes at all. The largest one recorded was a mystery with an unknown magnitude happening near Halfway River in British Columbia where people felt it too. It happened on May 3rd around noon."
+  },
+  {
+    "timestamp_utc": "2026-05-04T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is showing no seismic activity in the last hour or day. The largest event recorded was a M3.1 quake which happened on May 3rd around 4:53 PM, but its exact location and when it occurred are still unknown. It's like spotting nothing on your backyard for an entire day without any earthquakes."
   }
 ]
