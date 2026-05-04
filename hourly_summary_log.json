@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-14T00:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard has been updated with no earthquakes reported in the last hour or day. The largest event recorded was a magnitude unknown located at an unknown place, which happened before midnight on April 12th. Since then, nothing significant has been detected."
-  },
-  {
     "timestamp_utc": "2026-04-14T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is showing no seismic activity in the last hour or day. The largest event recorded was a M3.1 quake which happened on May 3rd around 4:53 PM, but its exact location and when it occurred are still unknown. It's like spotting nothing on your backyard for an entire day without any earthquakes."
+  },
+  {
+    "timestamp_utc": "2026-05-04T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event recorded was M3.1, which happened near Juneau, Alaska, on May 3 at around 4:53 PM local time. There haven't been any epicenters reported for today yet."
   }
 ]

@@ -538,6 +538,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260502.0321001,2026-05-02T03:21:05.000Z,47.5263,-70.2148,12.56,MwN,0.54,"15 km SSW of La Malbaie, QC/15 km SSO de La Malbaie, QC"
 20260502.0830001,2026-05-02T08:30:42.000Z,45.018,-67.6936,6.13,MwN,1.4,"36 km WSW of St. Stephen, NB/36 km OSO de St. Stephen, NB"
 20260502.0944001,2026-05-02T09:44:47.000Z,47.0655,-64.4983,18.0,MwN,1.97,"39 km E of Hardwicke, NB/39 km E de Hardwicke, NB"
+20260502.1542001,2026-05-02T15:42:27.000Z,53.3921,-117.3236,0.0,MLy,2.42,"Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB"
 20260502.2307001,2026-05-02T23:07:49.000Z,45.6449,-74.3238,16.43,MwN,1.39,"1 km SE of Lachute, QC/1 km SE de Lachute, QC"
 20260503.0500002,2026-05-03T05:00:38.000Z,49.1416,-128.0442,10.0,Mw',2.82,"144 km W of Marktosis 15, BC/144 km O de Marktosis 15, BC"
 20260503.0850001,2026-05-03T08:50:28.000Z,44.5383,-79.1502,2.0,MwN,1.47,"2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"

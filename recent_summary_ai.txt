@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard is showing no seismic activity in the last hour or day. The largest event recorded was a M3.1 quake which happened on May 3rd around 4:53 PM, but its exact location and when it occurred are still unknown. It's like spotting nothing on your backyard for an entire day without any earthquakes.
+The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event recorded was M3.1, which happened near Juneau, Alaska, on May 3 at around 4:53 PM local time. There haven't been any epicenters reported for today yet.

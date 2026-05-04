@@ -42,6 +42,12 @@ window.recentEvents = [
     "place": "1 km SE of Lachute, QC/1 km SE de Lachute, QC"
   },
   {
+    "time_utc": "2026-05-02T15:42:27.000Z",
+    "magnitude": "2.42",
+    "depth_km": "0.0",
+    "place": "Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB"
+  },
+  {
     "time_utc": "2026-05-02T09:44:47.000Z",
     "magnitude": "1.97",
     "depth_km": "18.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.4",
     "depth_km": "6.13",
     "place": "36 km WSW of St. Stephen, NB/36 km OSO de St. Stephen, NB"
-  },
-  {
-    "time_utc": "2026-05-02T03:21:05.000Z",
-    "magnitude": "0.54",
-    "depth_km": "12.56",
-    "place": "15 km SSW of La Malbaie, QC/15 km SSO de La Malbaie, QC"
   }
 ];
