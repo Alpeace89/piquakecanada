@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-03T08:51:14.000Z",
+    "magnitude": "1.86",
+    "depth_km": "2.0",
+    "place": "2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
+  },
+  {
+    "time_utc": "2026-05-03T08:50:28.000Z",
+    "magnitude": "1.47",
+    "depth_km": "2.0",
+    "place": "2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
+  },
+  {
     "time_utc": "2026-05-01T12:06:14.000Z",
     "magnitude": "2.29",
     "depth_km": "18.33",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.72",
     "depth_km": "9.31",
     "place": "12 km NNW of Cap-Chat, QC/12 km NNO de Cap-Chat, QC"
-  },
-  {
-    "time_utc": "2026-04-30T17:00:28.000Z",
-    "magnitude": "1.62",
-    "depth_km": "0.0",
-    "place": "Blast, 18 km WNW of Haliburton Village, ON/Dynamitage, 18 km ONO de Haliburton Village, ON"
-  },
-  {
-    "time_utc": "2026-04-30T16:59:57.000Z",
-    "magnitude": "2.26",
-    "depth_km": "10.0",
-    "place": "74 km SSW of Houpsitas 6, BC/74 km SSO de Houpsitas 6, BC"
   }
 ];
