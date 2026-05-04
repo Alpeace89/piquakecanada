@@ -18,10 +18,28 @@ window.recentEvents = [
     "place": "2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
   },
   {
+    "time_utc": "2026-05-01T23:57:36.000Z",
+    "magnitude": "2.73",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 68 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 68 km NE de Grande Cache, AB"
+  },
+  {
+    "time_utc": "2026-05-01T21:31:36.000Z",
+    "magnitude": "2.62",
+    "depth_km": "5.0",
+    "place": "88 km SW of Carcross, YT/88 km SO de Carcross, YT"
+  },
+  {
     "time_utc": "2026-05-01T17:53:42.000Z",
     "magnitude": "2.74",
     "depth_km": "5.0",
     "place": "50 km WSW of Beaver Creek, YT/50 km OSO de Beaver Creek, YT"
+  },
+  {
+    "time_utc": "2026-05-01T17:09:27.000Z",
+    "magnitude": "1.32",
+    "depth_km": "0.0",
+    "place": "Blast, 75 km ENE of Atikokan, ON/Dynamitage, 75 km ENE de Atikokan, ON"
   },
   {
     "time_utc": "2026-05-01T16:48:32.000Z",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.04",
     "depth_km": "14.38",
     "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
-  },
-  {
-    "time_utc": "2026-05-01T12:06:14.000Z",
-    "magnitude": "2.29",
-    "depth_km": "18.33",
-    "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
-  },
-  {
-    "time_utc": "2026-05-01T12:01:00.000Z",
-    "magnitude": "1.62",
-    "depth_km": "15.26",
-    "place": "24 km SSW of Bellingham, WA/24 km SSO de Bellingham, WA"
-  },
-  {
-    "time_utc": "2026-05-01T08:41:29.000Z",
-    "magnitude": "1.03",
-    "depth_km": "18.0",
-    "place": "13 km N of Roberval, QC/13 km N de Roberval, QC"
   }
 ];
