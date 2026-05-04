@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-13T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there were no reported quakes by our PiQuake Canada dashboard. The largest one was a M4.57 that happened about 141 km west-southwest of Juneau, AK/OSO de Juneau, AK, which is where an earthquake can occur naturally. This was the latest quake we tracked."
-  },
-  {
     "timestamp_utc": "2026-04-13T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been no recorded seismic events on the PiQuake Canada dashboard. The largest event was a mystery as we don't know its magnitude or location, but it occurred somewhere around Bellingham in Washington state back when it was time to shake things up at about noon today."
+  },
+  {
+    "timestamp_utc": "2026-05-04T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no recorded quakes on the PiQuake Canada dashboard. The largest quake was a M2.29 that happened about 25 km south-southwest of Bellingham, WA around midday on May 1st. It's the only quake we have information on for this period."
   }
 ]
