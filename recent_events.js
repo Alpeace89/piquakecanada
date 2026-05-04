@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-03T21:12:55.000Z",
+    "magnitude": "2.64",
+    "depth_km": "0.0",
+    "place": "Blast, 70 km SE of Abbotsford, BC/Dynamitage, 70 km SE de Abbotsford, BC"
+  },
+  {
     "time_utc": "2026-05-03T16:53:01.000Z",
     "magnitude": "3.1",
     "depth_km": "1.0",
@@ -36,27 +42,21 @@ window.recentEvents = [
     "place": "144 km W of Marktosis 15, BC/144 km O de Marktosis 15, BC"
   },
   {
+    "time_utc": "2026-05-03T00:34:40.000Z",
+    "magnitude": "2.92",
+    "depth_km": "1.0",
+    "place": "159 km W of Juneau, AK/159 km O de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-05-03T00:04:55.000Z",
+    "magnitude": "2.44",
+    "depth_km": "0.0",
+    "place": "Blast, 20 km NNE of Cariboo D, BC/Dynamitage, 20 km NNE de Cariboo D, BC"
+  },
+  {
     "time_utc": "2026-05-02T23:07:49.000Z",
     "magnitude": "1.39",
     "depth_km": "16.43",
     "place": "1 km SE of Lachute, QC/1 km SE de Lachute, QC"
-  },
-  {
-    "time_utc": "2026-05-02T15:42:27.000Z",
-    "magnitude": "2.42",
-    "depth_km": "0.0",
-    "place": "Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB"
-  },
-  {
-    "time_utc": "2026-05-02T09:44:47.000Z",
-    "magnitude": "1.97",
-    "depth_km": "18.0",
-    "place": "39 km E of Hardwicke, NB/39 km E de Hardwicke, NB"
-  },
-  {
-    "time_utc": "2026-05-02T08:30:42.000Z",
-    "magnitude": "1.4",
-    "depth_km": "6.13",
-    "place": "36 km WSW of St. Stephen, NB/36 km OSO de St. Stephen, NB"
   }
 ];
