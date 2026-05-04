@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-13T16:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard showed no events in the last hour, but there was one event yesterday. The largest quake recorded happened earlier today near Oshawa, it was a M1.41 and it's still being felt. That's the latest news from our monitoring system."
-  },
-  {
     "timestamp_utc": "2026-04-13T17:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard hasn't logged any events in the last hour or day. The largest event was an unknown magnitude at an unknown location, which happened on May 1st around noon UTC time. That's it for now; we've had no activity to report from this region recently."
+  },
+  {
+    "timestamp_utc": "2026-05-04T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the past 24 hours, no earthquakes have been recorded on the PiQuake Canada dashboard. The largest event was a magnitude of M2.29 that occurred 25 km south-southwest of Bellingham, WA and 25 km southeast of Bellingham, WA. This is the first time in over a week there haven't been any events reported."
   }
 ]
