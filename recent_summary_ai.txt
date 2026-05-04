@@ -1,1 +1,1 @@
-Hey folks, it looks like things are quiet around here. No earthquakes to report in the last 24 hours and only one little quake last hour too—way back on May 1st near Bellingham, WA. The biggest one was a small M2.29 shake, just for kicks!
+The PiQuake Canada dashboard hasn't logged any events in the last hour or day. The largest event was an unknown magnitude at an unknown location, which happened on May 1st around noon UTC time. That's it for now; we've had no activity to report from this region recently.

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-13T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there was just one seismic event reported on the PiQuake Canada dashboard. It measured M1.41 and happened about 58 kilometers southeast of Oshawa in Ontario. That's the largest shake we've seen today or in the past 24 hours."
-  },
-  {
     "timestamp_utc": "2026-04-13T16:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, it looks like things are quiet around here. No earthquakes to report in the last 24 hours and only one little quake last hour too—way back on May 1st near Bellingham, WA. The biggest one was a small M2.29 shake, just for kicks!"
+  },
+  {
+    "timestamp_utc": "2026-05-04T11:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard hasn't logged any events in the last hour or day. The largest event was an unknown magnitude at an unknown location, which happened on May 1st around noon UTC time. That's it for now; we've had no activity to report from this region recently."
   }
 ]
