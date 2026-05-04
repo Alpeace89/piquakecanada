@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-13T18:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary of the latest PiQuake Canada dashboard update. In the last 24 hours, we've had one seismic event with a magnitude of M1.41, happening about 58 km southeast of Oshawa, Ontario. This is the largest quake in that time period and the same place as yesterday's quake. It happened on April 12th at around 6:11 PM UTC."
-  },
-  {
     "timestamp_utc": "2026-04-13T19:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in beta and hasn't had any activity reports for the last 24 hours. The largest event recorded was a M1.86, which happened just outside of Ramara, Ontario. It's been quiet out there so far."
+  },
+  {
+    "timestamp_utc": "2026-05-04T14:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey there! The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event was a minor M1.82 near Maniwaki, QC/ONO of Maniwaki, QC that happened on May 3rd at about noon our time. No big shakes here lately though."
   }
 ]

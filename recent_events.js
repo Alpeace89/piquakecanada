@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-03T12:59:52.000Z",
+    "magnitude": "1.82",
+    "depth_km": "22.53",
+    "place": "24 km WNW of Maniwaki, QC/24 km ONO de Maniwaki, QC"
+  },
+  {
     "time_utc": "2026-05-03T08:51:14.000Z",
     "magnitude": "1.86",
     "depth_km": "2.0",
@@ -24,6 +30,12 @@ window.recentEvents = [
     "place": "24 km SSW of Bellingham, WA/24 km SSO de Bellingham, WA"
   },
   {
+    "time_utc": "2026-05-01T08:41:29.000Z",
+    "magnitude": "1.03",
+    "depth_km": "18.0",
+    "place": "13 km N of Roberval, QC/13 km N de Roberval, QC"
+  },
+  {
     "time_utc": "2026-05-01T08:10:39.000Z",
     "magnitude": "3.34",
     "depth_km": "5.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.17",
     "depth_km": "10.0",
     "place": "138 km SSW of Port Alice, BC/138 km SSO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-04-30T22:43:29.000Z",
-    "magnitude": "1.93",
-    "depth_km": "18.83",
-    "place": "38 km E of Seattle, WA/38 km E de Seattle, WA"
-  },
-  {
-    "time_utc": "2026-04-30T21:45:24.000Z",
-    "magnitude": "1.72",
-    "depth_km": "9.31",
-    "place": "12 km NNW of Cap-Chat, QC/12 km NNO de Cap-Chat, QC"
   }
 ];
