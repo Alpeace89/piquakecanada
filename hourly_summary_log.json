@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-14T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the PiQuake Canada dashboard, we've had a quiet 24 hours with no earthquakes reported. The last big one was barely noticeable at M1.41 near Oshawa on April 12th. We don't have any locations or dates for smaller events in this time frame either."
-  },
-  {
     "timestamp_utc": "2026-04-14T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there haven't been any recorded earthquakes on the PiQuake Canada dashboard. The largest event was an unknown magnitude happening in an unknown location at an unknown time. Just yesterday, a M2.64 quake occurred near Abbotsford, BC. That's about 70 km southeast of Abbotsford, which is where the dynamite blasting happens too, so it sounds like there might have been some shaking from that as well."
+  },
+  {
+    "timestamp_utc": "2026-05-04T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary for the PiQuake Canada dashboard in plain Canadian English. In the last 24 hours, there were no recorded quakes at all. The largest one was just under three magnitude units, happening near some blasting work sites in Abbotsford. It happened around midnight our time on May 3rd."
   }
 ]
