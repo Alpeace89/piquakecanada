@@ -1,1 +1,1 @@
-In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest one recorded was a magnitude unknown event at an unknown location. Our latest quake was a M2.29 that occurred on May 1st around noon in Bellingham, Washington and its southern side.
+In the last hour, there haven't been any earthquakes detected. The largest event in the past 24 hours was a magnitude unknown earthquake located somewhere near Bellingham, WA. It happened on April 30th at about noon. That's it for today's activity.
