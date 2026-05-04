@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260320.1709001,2026-03-20T17:09:51.000Z,60.7467,-139.8945,5.0,ML,2.9,"83 km SW of Burwash Landing, YT/83 km SO de Burwash Landing, YT"
-20260320.1719001,2026-03-20T17:19:45.000Z,60.6424,-139.9323,5.0,ML,2.82,"94 km SSW of Burwash Landing, YT/94 km SSO de Burwash Landing, YT"
 20260320.2219001,2026-03-20T22:19:27.000Z,47.4683,-70.1097,20.17,MwN,0.69,"20 km S of La Malbaie, QC/20 km S de La Malbaie, QC"
 20260320.2336001,2026-03-20T23:36:04.000Z,45.2872,-75.6991,11.87,MwN,0.53,"10 km WSW of Ottawa, ON/10 km OSO de Ottawa, ON"
 20260321.0048001,2026-03-21T00:48:42.000Z,67.3353,-126.2975,10.0,ML,2.33,"34 km NNW of Colville Lake, NT/34 km NNO de Colville Lake, NT"
@@ -539,3 +537,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260503.0850001,2026-05-03T08:50:28.000Z,44.5383,-79.1502,2.0,MwN,1.47,"2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
 20260503.0851001,2026-05-03T08:51:14.000Z,44.54,-79.1476,2.0,MwN,1.86,"2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
 20260503.1259001,2026-05-03T12:59:52.000Z,46.429,-76.2714,22.53,MwN,1.82,"24 km WNW of Maniwaki, QC/24 km ONO de Maniwaki, QC"
+20260503.1355001,2026-05-03T13:55:48.000Z,56.6923,-121.8228,5.5,MLy,3.43,"Suspected industry-related event, 24 km N of Halfway River 168, BC, felt/Événement lié à l'industrie soupconné, 24 km N de Halfway River 168, BC, ressent"

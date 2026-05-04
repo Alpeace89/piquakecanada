@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-13T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there haven't been any earthquakes recorded on the PiQuake Canada dashboard. The latest quake measured M1.41 and happened about 58 km southeast of Oshawa, Ontario. It's the only event we have data for in that period."
-  },
-  {
     "timestamp_utc": "2026-04-13T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, with the largest event being a M1.82 that occurred on May 3rd around Maniwaki, Quebec. Nothing major has been detected since then either."
+  },
+  {
+    "timestamp_utc": "2026-05-04T18:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary of the PiQuake Canada dashboard for you. In the last 24 hours, there were no detected quakes at all. The largest one recorded was a mystery with an unknown magnitude happening near Halfway River in British Columbia where people felt it too. It happened on May 3rd around noon."
   }
 ]

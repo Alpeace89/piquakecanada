@@ -1,24 +1,24 @@
 {
-  "generated_utc": "2026-05-04T17:03:02Z",
+  "generated_utc": "2026-05-04T18:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 540,
+  "rolling_window_event_count": 539,
   "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260503.1259001",
-    "time_utc": "2026-05-03T12:59:52.000Z",
-    "latitude": 46.429,
-    "longitude": -76.2714,
-    "depth_km": 22.53,
-    "mag_type": "MwN",
-    "magnitude": 1.82,
-    "place": "24 km WNW of Maniwaki, QC/24 km ONO de Maniwaki, QC",
-    "region": "QC"
+    "event_id": "20260503.1355001",
+    "time_utc": "2026-05-03T13:55:48.000Z",
+    "latitude": 56.6923,
+    "longitude": -121.8228,
+    "depth_km": 5.5,
+    "mag_type": "MLy",
+    "magnitude": 3.43,
+    "place": "Suspected industry-related event, 24 km N of Halfway River 168, BC, felt/Événement lié à l'industrie soupconné, 24 km N de Halfway River 168, BC, ressent",
+    "region": "Unknown"
   },
   "largest_event_last_24h": null,
   "deepest_event_last_24h": null,
   "top_regions_last_24h": [],
-  "summary_text": "As of 2026-05-04 17:03 UTC, the recent Canada earthquake dataset contains 540 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M1.82 at 24 km WNW of Maniwaki, QC/24 km ONO de Maniwaki, QC at 2026-05-03T12:59:52.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "summary_text": "As of 2026-05-04 18:03 UTC, the recent Canada earthquake dataset contains 539 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M3.43 at Suspected industry-related event, 24 km N of Halfway River 168, BC, felt/Événement lié à l'industrie soupconné, 24 km N de Halfway River 168, BC, ressent at 2026-05-03T13:55:48.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }

@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-03T13:55:48.000Z",
+    "magnitude": "3.43",
+    "depth_km": "5.5",
+    "place": "Suspected industry-related event, 24 km N of Halfway River 168, BC, felt/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 24 km N de Halfway River 168, BC, ressent"
+  },
+  {
     "time_utc": "2026-05-03T12:59:52.000Z",
     "magnitude": "1.82",
     "depth_km": "22.53",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.69",
     "depth_km": "31.37",
     "place": "37 km SW of Tahsis, BC/37 km SO de Tahsis, BC"
-  },
-  {
-    "time_utc": "2026-05-01T12:57:50.000Z",
-    "magnitude": "1.04",
-    "depth_km": "14.38",
-    "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
   }
 ];
