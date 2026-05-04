@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-13T19:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity events today, and the latest earthquake was a small M1.41 near Oshawa in Ontario. No regions have had any notable seismicity lately either."
-  },
-  {
     "timestamp_utc": "2026-04-13T20:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey there! The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event was a minor M1.82 near Maniwaki, QC/ONO of Maniwaki, QC that happened on May 3rd at about noon our time. No big shakes here lately though."
+  },
+  {
+    "timestamp_utc": "2026-05-04T15:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and we had a small quake with a magnitude of M1.82 about 24 km west-northwest of Maniwaki, Quebec on May 3rd at around noon UTC. Nothing major to report here, just another quiet day for our earthquake tracker."
   }
 ]

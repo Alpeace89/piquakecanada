@@ -18,6 +18,30 @@ window.recentEvents = [
     "place": "2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
   },
   {
+    "time_utc": "2026-05-01T17:53:42.000Z",
+    "magnitude": "2.74",
+    "depth_km": "5.0",
+    "place": "50 km WSW of Beaver Creek, YT/50 km OSO de Beaver Creek, YT"
+  },
+  {
+    "time_utc": "2026-05-01T16:48:32.000Z",
+    "magnitude": "1.12",
+    "depth_km": "0.0",
+    "place": "Suspected blast, 21 km NNW of Beaupr\u00e9, QC/Dynamitage soupconn\u00e9, 21 km NNO de Beaupr\u00e9, QC"
+  },
+  {
+    "time_utc": "2026-05-01T16:06:08.000Z",
+    "magnitude": "1.69",
+    "depth_km": "31.37",
+    "place": "37 km SW of Tahsis, BC/37 km SO de Tahsis, BC"
+  },
+  {
+    "time_utc": "2026-05-01T12:57:50.000Z",
+    "magnitude": "1.04",
+    "depth_km": "14.38",
+    "place": "25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
+  },
+  {
     "time_utc": "2026-05-01T12:06:14.000Z",
     "magnitude": "2.29",
     "depth_km": "18.33",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "1.03",
     "depth_km": "18.0",
     "place": "13 km N of Roberval, QC/13 km N de Roberval, QC"
-  },
-  {
-    "time_utc": "2026-05-01T08:10:39.000Z",
-    "magnitude": "3.34",
-    "depth_km": "5.0",
-    "place": "157 km WNW of Juneau, AK/157 km ONO de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-05-01T04:59:29.000Z",
-    "magnitude": "1.85",
-    "depth_km": "5.0",
-    "place": "121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-01T01:27:24.000Z",
-    "magnitude": "1.94",
-    "depth_km": "5.0",
-    "place": "120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-01T00:31:05.000Z",
-    "magnitude": "2.17",
-    "depth_km": "10.0",
-    "place": "138 km SSW of Port Alice, BC/138 km SSO de Port Alice, BC"
   }
 ];

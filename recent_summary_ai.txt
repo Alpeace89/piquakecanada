@@ -1,1 +1,1 @@
-Hey there! The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event was a minor M1.82 near Maniwaki, QC/ONO of Maniwaki, QC that happened on May 3rd at about noon our time. No big shakes here lately though.
+The PiQuake Canada dashboard shows no events in the last hour or day, and we had a small quake with a magnitude of M1.82 about 24 km west-northwest of Maniwaki, Quebec on May 3rd at around noon UTC. Nothing major to report here, just another quiet day for our earthquake tracker.
