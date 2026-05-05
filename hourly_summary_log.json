@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-14T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there was one minor earthquake with a magnitude of M2.86 near Haines Junction in the Yukon Territory. This event happened on April 13th at around 4:16 PM UTC and it's the largest we've seen since our dashboard went live. It looks like most of this activity has been centered around the Yukon region, so far."
-  },
-  {
     "timestamp_utc": "2026-04-14T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no recorded earthquakes by PiQuake Canada's dashboard. The largest event was an unknown magnitude occurring in an unspecified location. The latest quake reported was a M2.64 near Abbotsford on May 3rd at around 9 PM, BC time."
+  },
+  {
+    "timestamp_utc": "2026-05-05T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the past hour or day, and the largest event recorded was a M2.64 near some blasting sites southeast of Abbotsford. The last known quake happened just before midnight on May 3rd."
   }
 ]
