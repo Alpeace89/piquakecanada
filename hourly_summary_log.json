@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-15T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four recorded quakes over the past day. The largest one was a M3.94 near Otter Lake, QC, which most people felt or noticed slightly. This latest quake happened on April 14th at about 4:36 PM. Most of these quakes were in Yukon Territory and British Columbia with one unexplained location too."
-  },
-  {
     "timestamp_utc": "2026-04-15T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were seven quakes recorded over the past 24 hours. The largest event was a M3.52 near Tofino, BC on May 5th at around 1 PM local time. It happened in an area that saw another quake of the same magnitude yesterday."
+  },
+  {
+    "timestamp_utc": "2026-05-05T20:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey folks, we had a quiet hour with no quakes reported. But in the last 24 hours, we saw seven little rumblings, the biggest one measuring M3.52 near Tofino in British Columbia. That latest event happened yesterday at around noon, and it was pretty much the only shake-up in our region. The main action came from BC with three shakes, then two more off in Yukon Territory, while a mystery quake happened somewhere unknown too."
   }
 ]
