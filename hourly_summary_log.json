@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-14T05:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no earthquakes detected by our PiQuake Canada dashboard. The largest one recorded was a M1.41 near Oshawa, ON that happened on April 12 at about 6 PM. It's just another day in our dashboard without any big shakes or news to report."
-  },
-  {
     "timestamp_utc": "2026-04-14T06:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is showing no events in the last hour or day, and the largest event recorded was a M2.64 near Abbotsford, BC. It happened on May 3rd around 9 PM local time. There hasn't been much activity to report lately."
+  },
+  {
+    "timestamp_utc": "2026-05-05T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard has not had any activity in the last hour or day. The largest event recorded was a magnitude unknown one that happened at an unknown location and time. In the last 24 hours, there were no events logged on this dashboard either. The latest event noted was a M2.64 quake happening near Abbotsford, BC."
   }
 ]
