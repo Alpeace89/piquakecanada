@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "257 km WSW of Tofino, BC/257 km OSO de Tofino, BC"
   },
   {
+    "time_utc": "2026-05-05T04:46:19.000Z",
+    "magnitude": "3.1",
+    "depth_km": "1.57",
+    "place": "Suspected industry-related event, 67 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 67 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-05-05T00:34:50.000Z",
     "magnitude": "3.34",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.11",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 20 km N of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 20 km N de Halfway River 168, BC"
-  },
-  {
-    "time_utc": "2026-05-03T21:12:55.000Z",
-    "magnitude": "2.64",
-    "depth_km": "0.0",
-    "place": "Blast, 70 km SE of Abbotsford, BC/Dynamitage, 70 km SE de Abbotsford, BC"
   }
 ];
