@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard is currently in its beta phase, and so far, there hasn't been any seismic activity recorded within the last 24 hours. The latest event was a M2.64 magnitude shake that happened near Abbotsford at around 9 PM on May 3rd.
+The PiQuake Canada dashboard is still in beta and hasn't had any earthquakes recorded recently. The largest event was a tiny one measuring M2.64 that happened near Abbotsford, BC on May 3rd at about 9 PM. There haven’t been many events to track yet though.
