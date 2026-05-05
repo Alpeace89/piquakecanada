@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-14T10:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there haven't been any earthquakes recorded on the PiQuake Canada dashboard. The largest one was a minor M1.41 that happened about 58 km southeast of Oshawa, Ontario. This is the only event we have for the past day."
-  },
-  {
     "timestamp_utc": "2026-04-14T11:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in beta and hasn't had any earthquakes recorded recently. The largest event was a tiny one measuring M2.64 that happened near Abbotsford, BC on May 3rd at about 9 PM. There haven’t been many events to track yet though."
+  },
+  {
+    "timestamp_utc": "2026-05-05T06:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard hasn't had any quakes in the last hour or day, and there's no record of any notable quakes happening within its coverage area. The latest minor quake was a M2.64 near Abbotsford, BC, which happened on May 3rd at around 9 PM local time."
   }
 ]
