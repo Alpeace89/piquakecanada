@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-04T00:52:13.000Z",
+    "magnitude": "2.11",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 20 km N of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 20 km N de Halfway River 168, BC"
+  },
+  {
     "time_utc": "2026-05-03T21:12:55.000Z",
     "magnitude": "2.64",
     "depth_km": "0.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.44",
     "depth_km": "0.0",
     "place": "Blast, 20 km NNE of Cariboo D, BC/Dynamitage, 20 km NNE de Cariboo D, BC"
-  },
-  {
-    "time_utc": "2026-05-02T23:07:49.000Z",
-    "magnitude": "1.39",
-    "depth_km": "16.43",
-    "place": "1 km SE of Lachute, QC/1 km SE de Lachute, QC"
   }
 ];

@@ -1,24 +1,24 @@
 {
-  "generated_utc": "2026-05-05T13:03:01Z",
+  "generated_utc": "2026-05-05T14:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 542,
+  "rolling_window_event_count": 541,
   "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260503.2112001",
-    "time_utc": "2026-05-03T21:12:55.000Z",
-    "latitude": 48.5358,
-    "longitude": -121.7903,
-    "depth_km": 0.0,
-    "mag_type": "ML",
-    "magnitude": 2.64,
-    "place": "Blast, 70 km SE of Abbotsford, BC/Dynamitage, 70 km SE de Abbotsford, BC",
+    "event_id": "20260504.0052001",
+    "time_utc": "2026-05-04T00:52:13.000Z",
+    "latitude": 56.6558,
+    "longitude": -121.8101,
+    "depth_km": 1.0,
+    "mag_type": "MLy",
+    "magnitude": 2.11,
+    "place": "Suspected industry-related event, 20 km N of Halfway River 168, BC/Événement lié à l'industrie soupconné, 20 km N de Halfway River 168, BC",
     "region": "BC"
   },
   "largest_event_last_24h": null,
   "deepest_event_last_24h": null,
   "top_regions_last_24h": [],
-  "summary_text": "As of 2026-05-05 13:03 UTC, the recent Canada earthquake dataset contains 542 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M2.64 at Blast, 70 km SE of Abbotsford, BC/Dynamitage, 70 km SE de Abbotsford, BC at 2026-05-03T21:12:55.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "summary_text": "As of 2026-05-05 14:03 UTC, the recent Canada earthquake dataset contains 541 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M2.11 at Suspected industry-related event, 20 km N of Halfway River 168, BC/Événement lié à l'industrie soupconné, 20 km N de Halfway River 168, BC at 2026-05-04T00:52:13.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }

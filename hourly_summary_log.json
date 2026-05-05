@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-14T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had six minor earthquakes monitored by our PiQuake Canada dashboard. The largest one measured M3.94 and happened just 12 kilometers south-sse of Otter Lake in Quebec. It's been a quiet day as far as seismic activity goes with no events since yesterday."
-  },
-  {
     "timestamp_utc": "2026-04-14T19:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the PiQuake Canada dashboard's beta phase, we've had zero seismic events recorded in the last hour and just as many in the past day. The largest event was an unknown magnitude happening somewhere unknown. In case you missed it, a M2.64 quake happened yesterday at 9:12 PM BC time near Abbotsford and Dynamite, both around 70 km to the southeast."
+  },
+  {
+    "timestamp_utc": "2026-05-05T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there haven't been any recorded events on our PiQuake Canada dashboard. The largest event was a M2.11 which occurred around 20 km north of Halfway River 168 in British Columbia. That's the most recent activity we have tracked."
   }
 ]
