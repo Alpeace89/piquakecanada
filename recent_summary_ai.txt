@@ -1,1 +1,1 @@
-For the PiQuake Canada dashboard, it's showing no earthquakes detected in the last hour or day. The largest event yesterday was an unknown magnitude at an unknown location. The latest quake recorded was a M2.64 near Blast and Dynamitage, both about 70 km southeast of Abbotsford, BC.
+The PiQuake Canada dashboard shows no activity in the last hour or day, with a recent event measuring M2.64 that occurred on May 3rd around 9 PM local time near Abbotsford, BC. No other events have been recorded since then.
