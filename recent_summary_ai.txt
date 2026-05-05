@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard hasn't had any quakes in the last hour or day, and there's no record of any notable quakes happening within its coverage area. The latest minor quake was a M2.64 near Abbotsford, BC, which happened on May 3rd at around 9 PM local time.
+The PiQuake Canada dashboard is still in beta and hasn't recorded any earthquakes recently. The largest one last 24 hours was a tiny M2.64 near some blasting sites, but the exact location isn't known. It happened about a day ago at night time.
