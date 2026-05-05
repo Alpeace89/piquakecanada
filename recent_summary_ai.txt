@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day, with a recent event measuring M2.64 that occurred on May 3rd around 9 PM local time near Abbotsford, BC. No other events have been recorded since then.
+In the last 24 hours, there were no recorded earthquakes by PiQuake Canada's dashboard. The largest event was an unknown magnitude occurring in an unspecified location. The latest quake reported was a M2.64 near Abbotsford on May 3rd at around 9 PM, BC time.
