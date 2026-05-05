@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-04T21:02:34.000Z",
+    "magnitude": "1.57",
+    "depth_km": "0.0",
+    "place": "Blast, 12 km S of Powell River, BC/Dynamitage, 12 km S de Powell River, BC"
+  },
+  {
+    "time_utc": "2026-05-04T20:38:45.000Z",
+    "magnitude": "2.11",
+    "depth_km": "16.19",
+    "place": "58 km W of Daajing Giids, BC/58 km O de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-05-04T01:42:48.000Z",
+    "magnitude": "2.05",
+    "depth_km": "5.0",
+    "place": "64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
+  },
+  {
     "time_utc": "2026-05-04T00:52:13.000Z",
     "magnitude": "2.11",
     "depth_km": "1.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.47",
     "depth_km": "2.0",
     "place": "2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
-  },
-  {
-    "time_utc": "2026-05-03T05:00:38.000Z",
-    "magnitude": "2.82",
-    "depth_km": "10.0",
-    "place": "144 km W of Marktosis 15, BC/144 km O de Marktosis 15, BC"
-  },
-  {
-    "time_utc": "2026-05-03T00:34:40.000Z",
-    "magnitude": "2.92",
-    "depth_km": "1.0",
-    "place": "159 km W of Juneau, AK/159 km O de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-05-03T00:04:55.000Z",
-    "magnitude": "2.44",
-    "depth_km": "0.0",
-    "place": "Blast, 20 km NNE of Cariboo D, BC/Dynamitage, 20 km NNE de Cariboo D, BC"
   }
 ];

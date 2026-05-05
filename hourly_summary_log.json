@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-14T19:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there have been five minor earthquakes reported across Canada. The largest one measured M3.94 and was felt/ressenti about 12 kilometers southeast of Otter Lake in Quebec. This is the latest event we have recorded as well. Notable regions with recent activity include British Columbia and the Yukon Territory."
-  },
-  {
     "timestamp_utc": "2026-04-14T20:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there haven't been any recorded events on our PiQuake Canada dashboard. The largest event was a M2.11 which occurred around 20 km north of Halfway River 168 in British Columbia. That's the most recent activity we have tracked."
+  },
+  {
+    "timestamp_utc": "2026-05-05T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two minor quakes in British Columbia. The biggest one was a M2.11 near Daajing Giids, about 58 km west or southwest of where it happened. That's just yesterday at around 9:38 PM. Then there was another little shake not long after that, measuring M1.57, from somewhere close to Powell River in the south part of the province. Both events came in quick succession and are happening more often than usual, with only two recorded so far today since our last update."
   }
 ]

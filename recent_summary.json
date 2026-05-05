@@ -1,24 +1,49 @@
 {
-  "generated_utc": "2026-05-05T14:03:01Z",
+  "generated_utc": "2026-05-05T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 541,
-  "events_last_24h": 0,
+  "rolling_window_event_count": 544,
+  "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260504.0052001",
-    "time_utc": "2026-05-04T00:52:13.000Z",
-    "latitude": 56.6558,
-    "longitude": -121.8101,
-    "depth_km": 1.0,
-    "mag_type": "MLy",
-    "magnitude": 2.11,
-    "place": "Suspected industry-related event, 20 km N of Halfway River 168, BC/Événement lié à l'industrie soupconné, 20 km N de Halfway River 168, BC",
+    "event_id": "20260504.2102001",
+    "time_utc": "2026-05-04T21:02:34.000Z",
+    "latitude": 49.727,
+    "longitude": -124.5213,
+    "depth_km": 0.0,
+    "mag_type": "ML1",
+    "magnitude": 1.57,
+    "place": "Blast, 12 km S of Powell River, BC/Dynamitage, 12 km S de Powell River, BC",
     "region": "BC"
   },
-  "largest_event_last_24h": null,
-  "deepest_event_last_24h": null,
-  "top_regions_last_24h": [],
-  "summary_text": "As of 2026-05-05 14:03 UTC, the recent Canada earthquake dataset contains 541 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M2.11 at Suspected industry-related event, 20 km N of Halfway River 168, BC/Événement lié à l'industrie soupconné, 20 km N de Halfway River 168, BC at 2026-05-04T00:52:13.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "largest_event_last_24h": {
+    "event_id": "20260504.2038001",
+    "time_utc": "2026-05-04T20:38:45.000Z",
+    "latitude": 53.1889,
+    "longitude": -132.9543,
+    "depth_km": 16.19,
+    "mag_type": "ML",
+    "magnitude": 2.11,
+    "place": "58 km W of Daajing Giids, BC/58 km O de Daajing Giids, BC",
+    "region": "BC"
+  },
+  "deepest_event_last_24h": {
+    "event_id": "20260504.2038001",
+    "time_utc": "2026-05-04T20:38:45.000Z",
+    "latitude": 53.1889,
+    "longitude": -132.9543,
+    "depth_km": 16.19,
+    "mag_type": "ML",
+    "magnitude": 2.11,
+    "place": "58 km W of Daajing Giids, BC/58 km O de Daajing Giids, BC",
+    "region": "BC"
+  },
+  "top_regions_last_24h": [
+    {
+      "region": "BC",
+      "count": 2
+    }
+  ],
+  "summary_text": "As of 2026-05-05 15:03 UTC, the recent Canada earthquake dataset contains 544 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.11 at 58 km W of Daajing Giids, BC/58 km O de Daajing Giids, BC. The deepest event reached 16.19 km at 58 km W of Daajing Giids, BC/58 km O de Daajing Giids, BC. The most recent listed event was M1.57 at Blast, 12 km S of Powell River, BC/Dynamitage, 12 km S de Powell River, BC at 2026-05-04T21:02:34.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was BC."
 }
