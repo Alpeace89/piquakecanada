@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the past hour or day, and the largest event recorded was a M2.64 near some blasting sites southeast of Abbotsford. The last known quake happened just before midnight on May 3rd.
+Here's a quick summary of the PiQuake Canada dashboard for public facing: No events were detected in the last hour or day, and the largest event was an M2.64 that occurred near Abbotsford, BC. It's been quiet out there so far this month.
