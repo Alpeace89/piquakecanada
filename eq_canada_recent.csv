@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260321.2100001,2026-03-21T21:00:36.000Z,54.0493,-119.1805,0.0,MLy,2.53,"Blast, 18 km NNW of Grande Cache, AB/Dynamitage, 18 km NNO de Grande Cache, AB"
-20260321.2146001,2026-03-21T21:46:16.000Z,49.3573,-120.4947,0.0,ML,2.41,"Blast, 11 km S of Princeton, BC/Dynamitage, 11 km S de Princeton, BC"
 20260321.2316001,2026-03-21T23:16:02.000Z,56.7087,-121.5791,3.59,MLy,2.23,"Suspected industry-related event, 41 km SW of Prespatou, BC/Événement lié à l'industrie soupconné, 41 km SO de Prespatou, BC"
 20260322.0016001,2026-03-22T00:16:27.000Z,50.8519,-124.1576,5.0,ML,1.78,"70 km SSW of Lohbiee 3, BC/70 km SSO de Lohbiee 3, BC"
 20260322.0113001,2026-03-22T01:13:39.000Z,60.582,-139.945,1.0,ML,2.72,"100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
