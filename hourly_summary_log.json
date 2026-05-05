@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-15T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major seismic events reported in Canada's PiQuake dashboard. However, a M3.94 quake was felt or resented 12 kilometers southeast of Otter Lake, Quebec. This is the largest event recorded in that timeframe. It happened on April 14 at around 4:36 PM local time."
-  },
-  {
     "timestamp_utc": "2026-04-15T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, we had a quiet hour with no quakes reported. But in the last 24 hours, we saw seven little rumblings, the biggest one measuring M3.52 near Tofino in British Columbia. That latest event happened yesterday at around noon, and it was pretty much the only shake-up in our region. The main action came from BC with three shakes, then two more off in Yukon Territory, while a mystery quake happened somewhere unknown too."
+  },
+  {
+    "timestamp_utc": "2026-05-05T21:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of 6 PiQuake Canada events. The largest one was a M3.52 quake near Tofino in BC at around 1 p.m. today. Yesterday, there were three quakes in Alberta and one each in Yukon and an unknown region. That's pretty active for the dashboard right now!"
   }
 ]
