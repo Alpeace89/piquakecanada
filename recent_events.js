@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-04T21:32:01.000Z",
+    "magnitude": "2.76",
+    "depth_km": "5.0",
+    "place": "43 km SW of Detroit, MI, felt/43 km SO de Detroit, MI, ressenti"
+  },
+  {
     "time_utc": "2026-05-04T21:02:34.000Z",
     "magnitude": "1.57",
     "depth_km": "0.0",
@@ -10,6 +16,18 @@ window.recentEvents = [
     "magnitude": "2.11",
     "depth_km": "16.19",
     "place": "58 km W of Daajing Giids, BC/58 km O de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-05-04T20:22:37.000Z",
+    "magnitude": "1.97",
+    "depth_km": "5.0",
+    "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-04T18:52:46.000Z",
+    "magnitude": "3.07",
+    "depth_km": "10.0",
+    "place": "180 km SW of Port Hardy, BC/180 km SO de Port Hardy, BC"
   },
   {
     "time_utc": "2026-05-04T01:42:48.000Z",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "3.43",
     "depth_km": "5.5",
     "place": "Suspected industry-related event, 24 km N of Halfway River 168, BC, felt/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 24 km N de Halfway River 168, BC, ressent"
-  },
-  {
-    "time_utc": "2026-05-03T12:59:52.000Z",
-    "magnitude": "1.82",
-    "depth_km": "22.53",
-    "place": "24 km WNW of Maniwaki, QC/24 km ONO de Maniwaki, QC"
-  },
-  {
-    "time_utc": "2026-05-03T08:51:14.000Z",
-    "magnitude": "1.86",
-    "depth_km": "2.0",
-    "place": "2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
-  },
-  {
-    "time_utc": "2026-05-03T08:50:28.000Z",
-    "magnitude": "1.47",
-    "depth_km": "2.0",
-    "place": "2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
   }
 ];

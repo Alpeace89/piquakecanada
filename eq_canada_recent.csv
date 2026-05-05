@@ -541,5 +541,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260503.2112001,2026-05-03T21:12:55.000Z,48.5358,-121.7903,0.0,ML,2.64,"Blast, 70 km SE of Abbotsford, BC/Dynamitage, 70 km SE de Abbotsford, BC"
 20260504.0052001,2026-05-04T00:52:13.000Z,56.6558,-121.8101,1.0,MLy,2.11,"Suspected industry-related event, 20 km N of Halfway River 168, BC/Événement lié à l'industrie soupconné, 20 km N de Halfway River 168, BC"
 20260504.0142001,2026-05-04T01:42:48.000Z,61.1121,-140.0793,5.0,ML,2.05,"64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
+20260504.1852001,2026-05-04T18:52:46.000Z,49.4754,-129.0941,10.0,Mw',3.07,"180 km SW of Port Hardy, BC/180 km SO de Port Hardy, BC"
+20260504.2022001,2026-05-04T20:22:37.000Z,60.3117,-139.4451,5.0,ML,1.97,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
 20260504.2038001,2026-05-04T20:38:45.000Z,53.1889,-132.9543,16.19,ML,2.11,"58 km W of Daajing Giids, BC/58 km O de Daajing Giids, BC"
 20260504.2102001,2026-05-04T21:02:34.000Z,49.727,-124.5213,0.0,ML1,1.57,"Blast, 12 km S of Powell River, BC/Dynamitage, 12 km S de Powell River, BC"
+20260504.2132002,2026-05-04T21:32:01.000Z,42.0495,-83.4405,5.0,MwN,2.76,"43 km SW of Detroit, MI, felt/43 km SO de Detroit, MI, ressenti"
