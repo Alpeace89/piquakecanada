@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260321.1706001,2026-03-21T17:06:37.000Z,60.5594,-139.9516,1.0,ML,2.49,"135 km W of Haines Junction, YT/135 km O de Haines Junction, YT"
-20260321.1723001,2026-03-21T17:23:53.000Z,52.3466,-121.8387,0.0,ML,2.12,"Blast, 4 km SSE of Big Lake, BC/Dynamitage, 4 km SSE de Big Lake, BC"
-20260321.1757001,2026-03-21T17:57:07.000Z,53.9461,-132.0495,19.84,ML,2.35,"10 km SE of Masset, BC/10 km SE de Masset, BC"
 20260321.1840001,2026-03-21T18:40:59.000Z,49.712,-126.836,39.3,ML,1.19,"26 km SSW of Tahsis, BC/26 km SSO de Tahsis, BC"
 20260321.1902001,2026-03-21T19:02:30.000Z,58.6676,-137.5523,5.0,ML,2.08,"186 km WNW of Juneau, AK/186 km ONO de Juneau, AK"
 20260321.1903001,2026-03-21T19:03:35.000Z,55.5241,-122.3457,0.0,ML,2.64,"Blast, 9 km SSW of Willow Creek Mine, BC/Dynamitage, 9 km SSO de la mine Willow Creek, BC"
@@ -544,3 +541,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260504.2038001,2026-05-04T20:38:45.000Z,53.1889,-132.9543,16.19,ML,2.11,"58 km W of Daajing Giids, BC/58 km O de Daajing Giids, BC"
 20260504.2102001,2026-05-04T21:02:34.000Z,49.727,-124.5213,0.0,ML1,1.57,"Blast, 12 km S of Powell River, BC/Dynamitage, 12 km S de Powell River, BC"
 20260504.2132002,2026-05-04T21:32:01.000Z,42.0495,-83.4405,5.0,MwN,2.76,"43 km SW of Detroit, MI, felt/43 km SO de Detroit, MI, ressenti"
+20260505.0034001,2026-05-05T00:34:50.000Z,60.3147,-139.443,5.0,ML,3.34,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
+20260505.1325001,2026-05-05T13:25:00.000Z,47.8967,-128.8274,10.0,Mw',3.52,"257 km WSW of Tofino, BC/257 km OSO de Tofino, BC"
