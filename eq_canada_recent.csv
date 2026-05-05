@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260321.1606001,2026-03-21T16:06:04.000Z,53.3737,-117.3069,0.0,ML,3.08,"Blast, 17 km ESE of Hinton, AB/Dynamitage, 17 km ESE de Hinton, AB"
-20260321.1614001,2026-03-21T16:14:03.000Z,56.6974,-121.636,4.17,MLy,2.71,"Suspected industry-related event, 28 km NNE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 28 km NNE de Halfway River 168, BC"
 20260321.1706001,2026-03-21T17:06:37.000Z,60.5594,-139.9516,1.0,ML,2.49,"135 km W of Haines Junction, YT/135 km O de Haines Junction, YT"
 20260321.1723001,2026-03-21T17:23:53.000Z,52.3466,-121.8387,0.0,ML,2.12,"Blast, 4 km SSE of Big Lake, BC/Dynamitage, 4 km SSE de Big Lake, BC"
 20260321.1757001,2026-03-21T17:57:07.000Z,53.9461,-132.0495,19.84,ML,2.35,"10 km SE of Masset, BC/10 km SE de Masset, BC"

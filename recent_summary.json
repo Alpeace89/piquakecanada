@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-05-05T16:03:01Z",
+  "generated_utc": "2026-05-05T17:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 547,
+  "rolling_window_event_count": 545,
   "events_last_24h": 5,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-05 16:03 UTC, the recent Canada earthquake dataset contains 547 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.07 at 180 km SW of Port Hardy, BC/180 km SO de Port Hardy, BC. The deepest event reached 16.19 km at 58 km W of Daajing Giids, BC/58 km O de Daajing Giids, BC. The most recent listed event was M2.76 at 43 km SW of Detroit, MI, felt/43 km SO de Detroit, MI, ressenti at 2026-05-04T21:32:01.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and YT (1)."
+  "summary_text": "As of 2026-05-05 17:03 UTC, the recent Canada earthquake dataset contains 545 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.07 at 180 km SW of Port Hardy, BC/180 km SO de Port Hardy, BC. The deepest event reached 16.19 km at 58 km W of Daajing Giids, BC/58 km O de Daajing Giids, BC. The most recent listed event was M2.76 at 43 km SW of Detroit, MI, felt/43 km SO de Detroit, MI, ressenti at 2026-05-04T21:32:01.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and YT (1)."
 }
