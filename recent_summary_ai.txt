@@ -1,1 +1,1 @@
-Hey folks! For the last 24 hours, we've had one minor quake with a magnitude of M2.56 near Grande Prairie in Alberta. It's suspected to be related to some industry activity there. That was our only shake-up this period. We're keeping an eye on it from the PiQuake Canada dashboard!
+The PiQuake Canada dashboard shows no earthquakes have been detected in the last 24 hours, and there hasn't been an event either. The largest one was a minor M2.56 that happened around 59 km south of Grande Prairie, Alberta, linked to some industry activity. It all happened on May 5th.
