@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260322.1516001,2026-03-22T15:16:58.000Z,50.0328,-127.9316,23.34,ML,1.6,"54 km SW of Port Alice, BC/54 km SO de Port Alice, BC"
 20260322.1914001,2026-03-22T19:14:07.000Z,48.1089,-122.8295,55.28,ML,1.68,"53 km SE of Victoria, BC/53 km SE de Victoria, BC"
 20260322.1923001,2026-03-22T19:23:30.000Z,48.7886,-129.3526,10.0,Mw',4.28,"253 km SSW of Port Hardy, BC/253 km SSO de Port Hardy, BC"
 20260322.2109001,2026-03-22T21:09:19.000Z,45.8079,-76.9307,11.43,MwN,1.15,"14 km E of Pembroke, ON/14 km E de Pembroke, ON"

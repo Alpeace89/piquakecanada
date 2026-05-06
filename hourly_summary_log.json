@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-15T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had three PiQuake Canada dashboard events. The largest one was a M2.72 just west of Tofino in British Columbia. That's not as big as some we've seen before, but it's still pretty notable for our area. The latest event happened yesterday afternoon around the same time and place. We're seeing activity mainly across Quebec and British Columbia right now."
-  },
-  {
     "timestamp_utc": "2026-04-15T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes have been detected in the last 24 hours, and there hasn't been an event either. The largest one was a minor M2.56 that happened around 59 km south of Grande Prairie, Alberta, linked to some industry activity. It all happened on May 5th."
+  },
+  {
+    "timestamp_utc": "2026-05-06T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't had any events detected in the last 24 hours. The largest event recorded was an unknown magnitude, happening at an unknown location. We've had no reports of activity since yesterday when a M2.56 shake happened near Grande Prairie, Alberta, suspected to be related to industry."
   }
 ]
