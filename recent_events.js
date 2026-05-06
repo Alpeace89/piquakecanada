@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-06T20:36:41.000Z",
+    "magnitude": "2.98",
+    "depth_km": "1.0",
+    "place": "64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT"
+  },
+  {
     "time_utc": "2026-05-06T19:05:02.000Z",
     "magnitude": "2.79",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.79",
     "depth_km": "5.0",
     "place": "51 km WNW of Bella Coola 1, BC/51 km ONO de Bella Coola 1, BC"
-  },
-  {
-    "time_utc": "2026-05-05T19:00:41.000Z",
-    "magnitude": "1.97",
-    "depth_km": "20.0",
-    "place": "89 km SSW of Daajing Giids, BC/89 km SSO de Daajing Giids, BC"
   }
 ];

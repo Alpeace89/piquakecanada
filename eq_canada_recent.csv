@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260322.2206001,2026-03-22T22:06:34.000Z,50.5123,-121.01,0.0,ML,2.65,"Blast, 14 km W of Logan Lake, BC/Dynamitage, 14 km O de Logan Lake, BC"
 20260322.2358001,2026-03-22T23:58:56.000Z,60.6346,-139.7334,1.0,ML,2.6,"90 km SSW of Burwash Landing, YT/90 km SSO de Burwash Landing, YT"
 20260323.0056001,2026-03-23T00:56:33.000Z,60.5183,-141.2615,5.0,ML,2.85,"206 km W of Haines Junction, YT/206 km O de Haines Junction, YT"
 20260323.0107001,2026-03-23T01:07:40.000Z,60.5445,-139.9541,5.0,ML,3.03,"135 km W of Haines Junction, YT/135 km O de Haines Junction, YT"
@@ -530,6 +529,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260505.1445001,2026-05-05T14:45:16.000Z,54.6504,-118.6298,2.55,MLy,2.56,"Suspected industry-related event, 59 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 59 km S de Grande Prairie, AB"
 20260505.1815001,2026-05-05T18:15:40.000Z,49.757,-86.8796,1.0,MwN,1.8,"Blast, 7 km NE of Geraldton, ON/Dynamitage, 7 km NE de Geraldton, ON"
 20260505.1900001,2026-05-05T19:00:41.000Z,52.4882,-132.4807,20.0,ML,1.97,"89 km SSW of Daajing Giids, BC/89 km SSO de Daajing Giids, BC"
+20260505.1901001,2026-05-05T19:01:09.000Z,55.6059,-122.2389,0.0,ML,2.79,"Blast, 1 km W of Willow Creek Mine, BC/Dynamitage, 1 km O de la mine Willow Creek, BC"
 20260505.2048001,2026-05-05T20:48:01.000Z,52.6226,-127.364,5.0,ML,1.79,"51 km WNW of Bella Coola 1, BC/51 km ONO de Bella Coola 1, BC"
 20260506.0010001,2026-05-06T00:10:35.000Z,54.0195,-112.7908,1.0,MLy,3.42,"Suspected industry-related event, 8 km S of Waskatenau, AB/Événement lié à l'industrie soupconné, 8 km S de Waskatenau, AB"
 20260506.0029001,2026-05-06T00:29:33.000Z,56.7847,-122.0234,6.53,MLy,2.95,"Suspected industry-related event, 35 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 35 km NNO de Halfway River 168, BC"
@@ -539,3 +539,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260506.0703001,2026-05-06T07:03:10.000Z,53.7487,-134.9791,10.0,ML,2.3,"188 km W of Masset, BC/188 km O de Masset, BC"
 20260506.1316001,2026-05-06T13:16:20.000Z,60.0116,-141.3229,0.36,ML,2.67,"225 km WSW of Haines Junction, YT/225 km OSO de Haines Junction, YT"
 20260506.1905001,2026-05-06T19:05:02.000Z,57.9413,-136.6933,5.0,ML,2.79,"140 km WSW of Juneau, AK/140 km OSO de Juneau, AK"
+20260506.2036001,2026-05-06T20:36:41.000Z,61.4064,-140.1913,1.0,ML,2.98,"64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT"
