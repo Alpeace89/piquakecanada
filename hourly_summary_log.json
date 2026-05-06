@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-16T02:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey there, folks. We had a pretty quiet day with just two PiQuake Canada events in the last 24 hours. The largest one was a M2.72 under Tofino, BC, and it's pretty much where we've seen most of our activity lately - both in terms of location and volume. It seems like things are settling down there too."
-  },
-  {
     "timestamp_utc": "2026-04-16T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had no new events in our dashboard, but there were six reported shakes. The largest event was a M3.42 near Waskatenau, Alberta, linked to industry activities. That's quite close to where we usually see smaller, less significant quakes. Our latest shake came from Juneau in Alaska, which is always interesting as it’s far away and not often shaking there."
+  },
+  {
+    "timestamp_utc": "2026-05-06T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had 8 PiQuake Canada events reported. The largest one was a M3.42 near Waskatenau in Alberta which is suspected to be an industrial-related event. In that time, we also saw two small quakes close to Juneau in Alaska. Most of these happened in British Columbia and Alberta regions."
   }
 ]

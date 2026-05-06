@@ -18,6 +18,18 @@ window.recentEvents = [
     "place": "188 km W of Masset, BC/188 km O de Masset, BC"
   },
   {
+    "time_utc": "2026-05-06T05:26:22.000Z",
+    "magnitude": "2.44",
+    "depth_km": "10.0",
+    "place": "242 km WNW of Port Hardy, BC/242 km ONO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-05-06T04:40:20.000Z",
+    "magnitude": "3.02",
+    "depth_km": "10.0",
+    "place": "199 km W of Tofino, BC/199 km O de Tofino, BC"
+  },
+  {
     "time_utc": "2026-05-06T00:29:34.000Z",
     "magnitude": "2.42",
     "depth_km": "1.0",
@@ -36,27 +48,15 @@ window.recentEvents = [
     "place": "Suspected industry-related event, 8 km S of Waskatenau, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 8 km S de Waskatenau, AB"
   },
   {
-    "time_utc": "2026-05-05T18:15:40.000Z",
-    "magnitude": "1.8",
-    "depth_km": "1.0",
-    "place": "Blast, 7 km NE of Geraldton, ON/Dynamitage, 7 km NE de Geraldton, ON"
+    "time_utc": "2026-05-05T20:48:01.000Z",
+    "magnitude": "1.79",
+    "depth_km": "5.0",
+    "place": "51 km WNW of Bella Coola 1, BC/51 km ONO de Bella Coola 1, BC"
   },
   {
-    "time_utc": "2026-05-05T14:45:16.000Z",
-    "magnitude": "2.56",
-    "depth_km": "2.55",
-    "place": "Suspected industry-related event, 59 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km S de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-05-05T13:25:00.000Z",
-    "magnitude": "3.52",
-    "depth_km": "10.0",
-    "place": "257 km WSW of Tofino, BC/257 km OSO de Tofino, BC"
-  },
-  {
-    "time_utc": "2026-05-05T06:21:11.000Z",
-    "magnitude": "2.45",
-    "depth_km": "5.8",
-    "place": "Suspected industry-related event, 63 km NE of Grande Cache, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 63 km NE de Grande Cache, AB"
+    "time_utc": "2026-05-05T19:00:41.000Z",
+    "magnitude": "1.97",
+    "depth_km": "20.0",
+    "place": "89 km SSW of Daajing Giids, BC/89 km SSO de Daajing Giids, BC"
   }
 ];
