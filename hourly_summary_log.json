@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-15T17:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the PiQuake Canada dashboard in beta, there were no events detected last hour or last 24 hours. The largest event recorded was a magnitude unknown in an unknown location, but not felt by anyone. The latest quake on record was a M3.94 that occurred around 16:37 UTC yesterday near Otter Lake, QC."
-  },
-  {
     "timestamp_utc": "2026-04-15T18:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two minor quakes. The largest one was a M3.52 near Tofino in British Columbia around May 5th at about 1 pm local time. That's followed by a smaller shake that was likely related to some industry activity way out in central Alberta. We've got the top spots for recent earthquakes going to BC and Alberta this past day."
+  },
+  {
+    "timestamp_utc": "2026-05-06T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two minor quakes. The largest one was a M3.52 near Tofino in British Columbia. Just today at around noon, there was another quake that might have been caused by industry, this time close to Grande Prairie in Alberta. Those are the only ones we have logged from both provinces in the last 24 hours."
   }
 ]
