@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-05-06T04:03:01Z",
+  "generated_utc": "2026-05-06T05:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 537,
-  "events_last_24h": 4,
+  "events_last_24h": 3,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 2,
+  "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
     "event_id": "20260505.1445001",
@@ -42,12 +42,12 @@
   "top_regions_last_24h": [
     {
       "region": "AB",
-      "count": 3
+      "count": 2
     },
     {
       "region": "BC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-06 04:03 UTC, the recent Canada earthquake dataset contains 537 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.52 at 257 km WSW of Tofino, BC/257 km OSO de Tofino, BC. The deepest event reached 10.00 km at 257 km WSW of Tofino, BC/257 km OSO de Tofino, BC. The most recent listed event was M2.56 at Suspected industry-related event, 59 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 59 km S de Grande Prairie, AB at 2026-05-05T14:45:16.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (3) and BC (1)."
+  "summary_text": "As of 2026-05-06 05:03 UTC, the recent Canada earthquake dataset contains 537 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.52 at 257 km WSW of Tofino, BC/257 km OSO de Tofino, BC. The deepest event reached 10.00 km at 257 km WSW of Tofino, BC/257 km OSO de Tofino, BC. The most recent listed event was M2.56 at Suspected industry-related event, 59 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 59 km S de Grande Prairie, AB at 2026-05-05T14:45:16.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (2) and BC (1)."
 }
