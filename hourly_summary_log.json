@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-15T13:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For those checking in on the PiQuake Canada dashboard, we had a total of two small earthquakes last hour and twenty-four hours. The biggest one was a M3.94 that rattled around 12 kilometers southeast of Otter Lake, QC. It's been felt or sensed there since it happened yesterday at about 4:37 PM UTC. That’s the latest we have on seismic activity in Canada."
-  },
-  {
     "timestamp_utc": "2026-04-15T14:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two small earthquakes—both under M3.5—and no big ones to report. The largest one was a M3.52 that happened way out in Tofino, BC, about 257 km west-southwest of where you might be reading this. And earlier today near Grande Prairie, AB, we had an event suspected to be caused by something related to the industry, which is about 59 km south of there. That's all from our dashboard for those interested in monitoring Canada’s seismic activity!"
+  },
+  {
+    "timestamp_utc": "2026-05-06T09:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no reported earthquakes in Canada. The largest quake was a M3.52 near Tofino, BC/AB on May 5th at around noon. It's suspected that this one may have been caused by an industry-related event, and it happened about 60 km south of Grande Prairie, AB. That's the only earthquake we've heard about in Canada in the last day or so."
   }
 ]
