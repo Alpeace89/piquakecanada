@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-15T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had three minor earthquakes detected in Canada. The largest one was a M3.94 near Otter Lake in Quebec, felt and reported as well. That's about the same magnitude as that latest one which happened on April 14th around 4:36 PM ET. We saw activity across different regions with Yukon Territory having one event, British Columbia another, and one in an unknown location."
-  },
-  {
     "timestamp_utc": "2026-04-15T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had four small tremors. The largest one measured M3.52 near Tofino in British Columbia, which is about 260 km west-southwest of Tofino itself. A smaller event this afternoon was close to Grande Prairie, Alberta—about 59 kilometers south of there. Most activity has been reported in the provinces of Alberta and British Columbia over the last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-05-06T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major earthquakes reported. However, a quake of M3.52 hit 257 km west-southwest of Tofino in British Columbia around midday on May 5th. In Grande Prairie in Alberta, they also had their own shake with an M2.56 event that day, suspected to be from industry activities. That's the most activity we saw in the last full day - three quakes in Alberta and one in BC."
   }
 ]
