@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-16T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks, we just had two minor earthquakes in the last 24 hours. The biggest one was a M2.72 near Tofino in British Columbia and it happened on April 15th at around 1 PM. It's been quiet for now, with only one event recorded since yesterday. But BC and Quebec have been getting their fair share of these little tremors lately."
-  },
-  {
     "timestamp_utc": "2026-04-16T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two minor events in Canada. The largest one was a M3.42 near Waskatenau, AB, linked to an industry event. We also saw a M2.95 in BC related to an industry issue. Most of this activity happened in Alberta and British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-05-06T21:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had no new events in our dashboard, but there were six reported shakes. The largest event was a M3.42 near Waskatenau, Alberta, linked to industry activities. That's quite close to where we usually see smaller, less significant quakes. Our latest shake came from Juneau in Alaska, which is always interesting as it’s far away and not often shaking there."
   }
 ]

@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-05-06T20:03:01Z",
+  "generated_utc": "2026-05-06T21:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 533,
-  "events_last_24h": 2,
+  "rolling_window_event_count": 539,
+  "events_last_24h": 6,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260506.0029001",
-    "time_utc": "2026-05-06T00:29:33.000Z",
-    "latitude": 56.7847,
-    "longitude": -122.0234,
-    "depth_km": 6.53,
-    "mag_type": "MLy",
-    "magnitude": 2.95,
-    "place": "Suspected industry-related event, 35 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 35 km NNO de Halfway River 168, BC",
-    "region": "BC"
+    "event_id": "20260506.1905001",
+    "time_utc": "2026-05-06T19:05:02.000Z",
+    "latitude": 57.9413,
+    "longitude": -136.6933,
+    "depth_km": 5.0,
+    "mag_type": "ML",
+    "magnitude": 2.79,
+    "place": "140 km WSW of Juneau, AK/140 km OSO de Juneau, AK",
+    "region": "AK"
   },
   "largest_event_last_24h": {
     "event_id": "20260506.0010001",
@@ -29,25 +29,29 @@
     "region": "AB"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260506.0029001",
-    "time_utc": "2026-05-06T00:29:33.000Z",
-    "latitude": 56.7847,
-    "longitude": -122.0234,
-    "depth_km": 6.53,
-    "mag_type": "MLy",
-    "magnitude": 2.95,
-    "place": "Suspected industry-related event, 35 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 35 km NNO de Halfway River 168, BC",
+    "event_id": "20260506.0703001",
+    "time_utc": "2026-05-06T07:03:10.000Z",
+    "latitude": 53.7487,
+    "longitude": -134.9791,
+    "depth_km": 10.0,
+    "mag_type": "ML",
+    "magnitude": 2.3,
+    "place": "188 km W of Masset, BC/188 km O de Masset, BC",
     "region": "BC"
   },
   "top_regions_last_24h": [
     {
-      "region": "AB",
-      "count": 1
+      "region": "BC",
+      "count": 2
     },
     {
-      "region": "BC",
+      "region": "AK",
+      "count": 2
+    },
+    {
+      "region": "AB",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-06 20:03 UTC, the recent Canada earthquake dataset contains 533 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.42 at Suspected industry-related event, 8 km S of Waskatenau, AB/Événement lié à l'industrie soupconné, 8 km S de Waskatenau, AB. The deepest event reached 6.53 km at Suspected industry-related event, 35 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 35 km NNO de Halfway River 168, BC. The most recent listed event was M2.95 at Suspected industry-related event, 35 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 35 km NNO de Halfway River 168, BC at 2026-05-06T00:29:33.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (1) and BC (1)."
+  "summary_text": "As of 2026-05-06 21:03 UTC, the recent Canada earthquake dataset contains 539 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.42 at Suspected industry-related event, 8 km S of Waskatenau, AB/Événement lié à l'industrie soupconné, 8 km S de Waskatenau, AB. The deepest event reached 10.00 km at 188 km W of Masset, BC/188 km O de Masset, BC. The most recent listed event was M2.79 at 140 km WSW of Juneau, AK/140 km OSO de Juneau, AK at 2026-05-06T19:05:02.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (2) and AK (2)."
 }
