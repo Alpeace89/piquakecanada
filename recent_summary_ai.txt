@@ -1,1 +1,1 @@
-In the last 24 hours, there were two minor earthquakes detected by our PiQuake Canada dashboard. The largest one measured M3.52 and happened near Tofino in British Columbia around midnight on May 4th. Another event was a smaller shake with a magnitude of M2.56 that occurred close to Grande Prairie in Alberta about an hour before noon yesterday.
+In the last 24 hours, we saw two minor tremors with the largest being a M3.52 near Tofino in BC and another smaller one in Grande Prairie, AB linked to industry activity. It's business as usual for our PiQuake Canada dashboard.
