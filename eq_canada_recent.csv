@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260321.2316001,2026-03-21T23:16:02.000Z,56.7087,-121.5791,3.59,MLy,2.23,"Suspected industry-related event, 41 km SW of Prespatou, BC/Événement lié à l'industrie soupconné, 41 km SO de Prespatou, BC"
 20260322.0016001,2026-03-22T00:16:27.000Z,50.8519,-124.1576,5.0,ML,1.78,"70 km SSW of Lohbiee 3, BC/70 km SSO de Lohbiee 3, BC"
 20260322.0113001,2026-03-22T01:13:39.000Z,60.582,-139.945,1.0,ML,2.72,"100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
 20260322.0507001,2026-03-22T05:07:35.000Z,56.3824,-122.0482,5.0,MLy,2.13,"Suspected industry-related event, 16 km SW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 16 km SO de Halfway River 168, BC"
