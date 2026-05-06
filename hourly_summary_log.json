@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-15T14:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the past 24 hours, we've had two minor earthquakes with a magnitude of M3.94 around Otter Lake in Quebec. They were felt and reported as ressenti in both English and French. The latest event happened on April 14th at around 4:36 PM local time. So far today, it's the only quake we've seen in our beta Canada dashboard."
-  },
-  {
     "timestamp_utc": "2026-04-15T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no reported earthquakes in Canada. The largest quake was a M3.52 near Tofino, BC/AB on May 5th at around noon. It's suspected that this one may have been caused by an industry-related event, and it happened about 60 km south of Grande Prairie, AB. That's the only earthquake we've heard about in Canada in the last day or so."
+  },
+  {
+    "timestamp_utc": "2026-05-06T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were two minor earthquakes detected by our PiQuake Canada dashboard. The largest one measured M3.52 and happened near Tofino in British Columbia around midnight on May 4th. Another event was a smaller shake with a magnitude of M2.56 that occurred close to Grande Prairie in Alberta about an hour before noon yesterday."
   }
 ]
