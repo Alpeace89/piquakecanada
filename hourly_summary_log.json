@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-15T18:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no significant events reported on our PiQuake Canada dashboard. However, we saw two minor quakes with a magnitude of M1.24 and M0.94 near Saint-Raphaël in Quebec. The latest quake happened just before noon today. Most of these small tremors have been recorded in the Quebec region."
-  },
-  {
     "timestamp_utc": "2026-04-15T19:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two minor quakes. The largest one was a M3.52 near Tofino in British Columbia. Just today at around noon, there was another quake that might have been caused by industry, this time close to Grande Prairie in Alberta. Those are the only ones we have logged from both provinces in the last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-05-06T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey folks! For the last 24 hours, we've had one minor quake with a magnitude of M2.56 near Grande Prairie in Alberta. It's suspected to be related to some industry activity there. That was our only shake-up this period. We're keeping an eye on it from the PiQuake Canada dashboard!"
   }
 ]
