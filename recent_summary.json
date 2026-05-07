@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-05-07T17:03:02Z",
+  "generated_utc": "2026-05-07T18:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 539,
   "events_last_24h": 7,
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-07 17:03 UTC, the recent Canada earthquake dataset contains 539 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.33 at 65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC. The deepest event reached 35.00 km at 182 km NNE of Tuktoyaktuk, NT/182 km NNE de Tuktoyaktuk, NT. The most recent listed event was M2.46 at Suspected industry-related event, 10 km N of Dawson Creek, BC/Événement lié à l'industrie soupconné, 10 km N de Dawson Creek, BC at 2026-05-07T07:01:56.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and AK (1)."
+  "summary_text": "As of 2026-05-07 18:03 UTC, the recent Canada earthquake dataset contains 539 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.33 at 65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC. The deepest event reached 35.00 km at 182 km NNE of Tuktoyaktuk, NT/182 km NNE de Tuktoyaktuk, NT. The most recent listed event was M2.46 at Suspected industry-related event, 10 km N of Dawson Creek, BC/Événement lié à l'industrie soupconné, 10 km N de Dawson Creek, BC at 2026-05-07T07:01:56.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and AK (1)."
 }

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-16T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had 14 PiQuake Canada dashboard events. The largest one was a M4.21 shake happening about 193 km west of Port Hardy in British Columbia and its opposite location in Yukon. Most recent event was a smaller M2.73 near Sturgeon County, Alberta. BC led with six reports, followed by YT with six more and ON with the one report."
-  },
-  {
     "timestamp_utc": "2026-04-16T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had seven PiQuake Canada events. The largest one was a M3.33 under Daajing Giids in British Columbia at midnight UTC. That's followed by a smaller event yesterday afternoon that seemed to be related to an industry near Dawson Creek in BC. Most of these quakes happened in British Columbia, with one each in Yukon and Alaska. It’s all part of what we call the PiQuake Canada Dashboard showing how often little earthquakes happen around here."
+  },
+  {
+    "timestamp_utc": "2026-05-07T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there were seven events yesterday. The biggest one was a M3.33 near Daajing Giids in British Columbia around midnight. We also had a smaller event yesterday afternoon that looked like it might be from an industry nearby Dawson Creek. Most of these happened in British Columbia, with one each in Alaska and the Yukon."
   }
 ]
