@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-16T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks, we had a pretty quiet hour on the PiQuake Canada dashboard. In the last 24 hours, two small tremors occurred—both measuring around M2.7 in the Tofino area of British Columbia. The latest event happened just after 1 PM today and was right near where those other quakes were located too. So far this month, we've been seeing activity mainly in Quebec and British Columbia."
-  },
-  {
     "timestamp_utc": "2026-04-16T07:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had six minor seismic events across British Columbia, Yukon, and Alaska. The largest one measured at M3.02 around Tofino in British Columbia, and the latest event was a M2.98 near Burwash Landing in the Yukon Territory. We've been keeping tabs on these activities through our new PiQuake Canada dashboard."
+  },
+  {
+    "timestamp_utc": "2026-05-07T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of six earthquakes reported. The largest one was a M3.02 near Tofino in British Columbia/Ontario. That's the only earthquake in the past 24 hours. The latest quake recorded happened earlier today around Burwash Landing in Yukon/Territory. This area sees more seismic activity, with three in BC and two in YT. Alaska hasn't had any reports yet."
   }
 ]
