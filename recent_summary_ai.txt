@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there were three recorded quakes in the past day. The largest one was a M2.98 near Burwash Landing in Yukon and Alaska, happening on May 5th at around 8:36 PM. That's where we've been focusing our monitoring efforts.
+For the past 24 hours, we've had three minor earthquakes in the Canadian region, with the largest one measuring M2.98 near Burwash Landing, YT and its opposite side. This event happened on May 6th at around 8:36 PM UTC, which is when all our recent activities are tracked.
