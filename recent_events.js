@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-07T07:01:56.000Z",
+    "magnitude": "2.46",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 10 km N of Dawson Creek, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 10 km N de Dawson Creek, BC"
+  },
+  {
+    "time_utc": "2026-05-07T05:20:08.000Z",
+    "magnitude": "2.8",
+    "depth_km": "10.18",
+    "place": "72 km SE of Abbotsford, BC/72 km SE de Abbotsford, BC"
+  },
+  {
     "time_utc": "2026-05-07T05:04:35.000Z",
     "magnitude": "2.25",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.3",
     "depth_km": "10.0",
     "place": "188 km W of Masset, BC/188 km O de Masset, BC"
-  },
-  {
-    "time_utc": "2026-05-06T05:26:22.000Z",
-    "magnitude": "2.44",
-    "depth_km": "10.0",
-    "place": "242 km WNW of Port Hardy, BC/242 km ONO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-05-06T04:40:20.000Z",
-    "magnitude": "3.02",
-    "depth_km": "10.0",
-    "place": "199 km W of Tofino, BC/199 km O de Tofino, BC"
   }
 ];

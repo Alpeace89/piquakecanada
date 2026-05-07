@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-16T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we saw 12 PiQuake Canada dashboard events, with the biggest being a M4.21 quake located about 193 km west of Port Hardy in British Columbia and another near Orillia in Ontario which was either an explosion or dynamite blast. The latest event clocked at M1.1 around 3:30 PM today. Most activity has been in the Yukon Territory, British Columbia, and Ontario regions."
-  },
-  {
     "timestamp_utc": "2026-04-16T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there were five events recorded yesterday. The largest event last 24 hours was a M3.33 near Daajing Giids in BC, and the latest one was a M2.25 just north of Sliammon. Most of these happened in British Columbia and Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-05-07T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had seven PiQuake Canada events. The largest one was a M3.33 just west of Daajing Giids in British Columbia. Today morning saw an even smaller event with a magnitude of M2.46 near Dawson Creek, BC. Mostly all these have happened in British Columbia with some minor activity in Alaska and the Yukon too."
   }
 ]
