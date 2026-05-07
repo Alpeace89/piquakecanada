@@ -1,53 +1,57 @@
 {
-  "generated_utc": "2026-05-07T13:03:01Z",
+  "generated_utc": "2026-05-07T14:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 529,
+  "rolling_window_event_count": 531,
   "events_last_24h": 3,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 0,
+  "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260506.2036001",
-    "time_utc": "2026-05-06T20:36:41.000Z",
-    "latitude": 61.4064,
-    "longitude": -140.1913,
-    "depth_km": 1.0,
+    "event_id": "20260507.0036001",
+    "time_utc": "2026-05-07T00:36:18.000Z",
+    "latitude": 53.2032,
+    "longitude": -133.0523,
+    "depth_km": 10.91,
     "mag_type": "ML",
-    "magnitude": 2.98,
-    "place": "64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT",
-    "region": "YT"
+    "magnitude": 3.33,
+    "place": "65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC",
+    "region": "BC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260506.2036001",
-    "time_utc": "2026-05-06T20:36:41.000Z",
-    "latitude": 61.4064,
-    "longitude": -140.1913,
-    "depth_km": 1.0,
+    "event_id": "20260507.0036001",
+    "time_utc": "2026-05-07T00:36:18.000Z",
+    "latitude": 53.2032,
+    "longitude": -133.0523,
+    "depth_km": 10.91,
     "mag_type": "ML",
-    "magnitude": 2.98,
-    "place": "64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT",
-    "region": "YT"
+    "magnitude": 3.33,
+    "place": "65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC",
+    "region": "BC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260506.1905001",
-    "time_utc": "2026-05-06T19:05:02.000Z",
-    "latitude": 57.9413,
-    "longitude": -136.6933,
-    "depth_km": 5.0,
+    "event_id": "20260507.0036001",
+    "time_utc": "2026-05-07T00:36:18.000Z",
+    "latitude": 53.2032,
+    "longitude": -133.0523,
+    "depth_km": 10.91,
     "mag_type": "ML",
-    "magnitude": 2.79,
-    "place": "140 km WSW of Juneau, AK/140 km OSO de Juneau, AK",
-    "region": "AK"
+    "magnitude": 3.33,
+    "place": "65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC",
+    "region": "BC"
   },
   "top_regions_last_24h": [
     {
-      "region": "YT",
-      "count": 2
+      "region": "AK",
+      "count": 1
     },
     {
-      "region": "AK",
+      "region": "YT",
+      "count": 1
+    },
+    {
+      "region": "BC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-07 13:03 UTC, the recent Canada earthquake dataset contains 529 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.98 at 64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT. The deepest event reached 5.00 km at 140 km WSW of Juneau, AK/140 km OSO de Juneau, AK. The most recent listed event was M2.98 at 64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT at 2026-05-06T20:36:41.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and AK (1)."
+  "summary_text": "As of 2026-05-07 14:03 UTC, the recent Canada earthquake dataset contains 531 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.33 at 65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC. The deepest event reached 10.91 km at 65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC. The most recent listed event was M3.33 at 65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC at 2026-05-07T00:36:18.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AK (1) and YT (1)."
 }

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-16T18:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had a total of six minor seismic events detected across Canada. The largest one was an M4.21 near Port Hardy in British Columbia, and another small blast happened in Ontario during dynamite work. The epicenter for both was roughly 193 km away from where they occurred, which is pretty far by Canadian standards. It's important to remember though, these events are typically not dangerous or cause any major issues, but it's always good to be aware of your surroundings and have a basic understanding of seismic activity in our region."
-  },
-  {
     "timestamp_utc": "2026-04-16T19:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick rundown for the PiQuake Canada dashboard. In the last 24 hours, we had three small quakes with the biggest being M2.98 near Burwash Landing in Yukon and Alaska. It was just another day in our seismic activity log."
+  },
+  {
+    "timestamp_utc": "2026-05-07T14:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had three PiQuake Canada events. The largest one was a M3.33 located 65 km west of Daajing Giids in British Columbia and another 65 km to the east. This is the latest event as well. In that time, Alaska and Yukon each experienced one shake too."
   }
 ]

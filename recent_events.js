@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-07T00:36:18.000Z",
+    "magnitude": "3.33",
+    "depth_km": "10.91",
+    "place": "65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC"
+  },
+  {
     "time_utc": "2026-05-06T20:36:41.000Z",
     "magnitude": "2.98",
     "depth_km": "1.0",
@@ -16,6 +22,12 @@ window.recentEvents = [
     "magnitude": "2.67",
     "depth_km": "0.36",
     "place": "225 km WSW of Haines Junction, YT/225 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-06T07:45:01.000Z",
+    "magnitude": "0.48",
+    "depth_km": "9.59",
+    "place": "5 km SSE of Baie-Saint-Paul, QC/5 km SSE de Baie-Saint-Paul, QC"
   },
   {
     "time_utc": "2026-05-06T07:03:10.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.42",
     "depth_km": "1.0",
     "place": "140 km WSW of Juneau, AK/140 km OSO de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-05-06T00:29:33.000Z",
-    "magnitude": "2.95",
-    "depth_km": "6.53",
-    "place": "Suspected industry-related event, 35 km NNW of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 35 km NNO de Halfway River 168, BC"
-  },
-  {
-    "time_utc": "2026-05-06T00:10:35.000Z",
-    "magnitude": "3.42",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 8 km S of Waskatenau, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 8 km S de Waskatenau, AB"
   }
 ];

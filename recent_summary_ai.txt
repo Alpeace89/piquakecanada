@@ -1,1 +1,1 @@
-Here's a quick rundown for the PiQuake Canada dashboard. In the last 24 hours, we had three small quakes with the biggest being M2.98 near Burwash Landing in Yukon and Alaska. It was just another day in our seismic activity log.
+In the last 24 hours, we had three PiQuake Canada events. The largest one was a M3.33 located 65 km west of Daajing Giids in British Columbia and another 65 km to the east. This is the latest event as well. In that time, Alaska and Yukon each experienced one shake too.
