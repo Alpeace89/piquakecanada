@@ -1,1 +1,1 @@
-In the last 24 hours, we had five small earthquakes. The biggest one was a M2.98 near Burwash Landing in Yukon and Alaska. That's the latest event too. Most of these quakes happened in British Columbia and Yukon territory.
+The PiQuake Canada dashboard shows no events in the last hour, but there were four recorded quakes in the past 24 hours. The largest one was a M2.98 near Burwash Landing in the Yukon and Alaska territories, which happened on May 5th at around 8 PM UTC. It looks like it's been pretty quiet out there lately!
