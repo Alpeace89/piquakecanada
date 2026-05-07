@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-16T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were two small quakes in British Columbia yesterday. The largest one was a M2.72 that happened about 200 km west-southwest of Tofino at around 1:39 PM local time on April 15th."
-  },
-  {
     "timestamp_utc": "2026-04-16T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but had six in the past 24 hours. The largest event was a M3.02 under Tofino, BC at around midnight yesterday. For reference, there's been two more quakes near Burwash Landing, YT within the same day. It seems most activity has been happening along BC and Yukon borders with Alaska."
+  },
+  {
+    "timestamp_utc": "2026-05-07T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had six PiQuake Canada dashboard events. The largest one was a M3.02 near Tofino in BC and Burwash Landing in YT. That's nothing to worry about though; most days have smaller quakes in places like BC, Yukon Territory, and Alaska."
   }
 ]

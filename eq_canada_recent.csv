@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260323.0354001,2026-03-23T03:54:01.000Z,60.4833,-139.8581,5.0,ML,2.21,"132 km WSW of Haines Junction, YT/132 km OSO de Haines Junction, YT"
 20260323.0659001,2026-03-23T06:59:56.000Z,61.1657,-139.9986,5.0,ML,2.62,"58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT"
 20260323.0710001,2026-03-23T07:10:45.000Z,61.1561,-139.9902,5.0,ML,2.13,"58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT"
 20260323.0739001,2026-03-23T07:39:46.000Z,56.6789,-121.5847,1.0,MLy,2.53,"Suspected industry-related event, 28 km NE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 28 km NE de Halfway River 168, BC"
