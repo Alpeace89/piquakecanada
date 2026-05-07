@@ -1,1 +1,1 @@
-In the last 24 hours, we had three seismic events on our PiQuake Canada dashboard. The largest one was a M2.98 near Burwash Landing in the Yukon Territory and Old Crow in Alaska. This is what we've seen so far since our beta launch yesterday.
+In the past 24 hours, there have been no significant earthquakes recorded. However, a small quake with a magnitude of M2.98 hit areas near Burwash Landing in Yukon and Alaska, which is what we track on our PiQuake Canada dashboard. It was the largest event we saw last day.

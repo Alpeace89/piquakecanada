@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-16T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event yesterday was an unknown magnitude at an unknown location. The latest quake was a M2.72 near Tofino, BC, recorded on April 15th around 1:39 PM local time."
-  },
-  {
     "timestamp_utc": "2026-04-16T15:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three seismic events on our PiQuake Canada dashboard. The largest one was a M2.98 near Burwash Landing in the Yukon Territory and Old Crow in Alaska. This is what we've seen so far since our beta launch yesterday."
+  },
+  {
+    "timestamp_utc": "2026-05-07T10:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, there have been no significant earthquakes recorded. However, a small quake with a magnitude of M2.98 hit areas near Burwash Landing in Yukon and Alaska, which is what we track on our PiQuake Canada dashboard. It was the largest event we saw last day."
   }
 ]
