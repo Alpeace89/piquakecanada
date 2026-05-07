@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-05-07T04:03:01Z",
+  "generated_utc": "2026-05-07T05:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 533,
-  "events_last_24h": 6,
+  "events_last_24h": 5,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 1,
+  "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
     "event_id": "20260506.2036001",
@@ -18,15 +18,15 @@
     "region": "YT"
   },
   "largest_event_last_24h": {
-    "event_id": "20260506.0440001",
-    "time_utc": "2026-05-06T04:40:20.000Z",
-    "latitude": 48.8724,
-    "longitude": -128.5958,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.02,
-    "place": "199 km W of Tofino, BC/199 km O de Tofino, BC",
-    "region": "BC"
+    "event_id": "20260506.2036001",
+    "time_utc": "2026-05-06T20:36:41.000Z",
+    "latitude": 61.4064,
+    "longitude": -140.1913,
+    "depth_km": 1.0,
+    "mag_type": "ML",
+    "magnitude": 2.98,
+    "place": "64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT",
+    "region": "YT"
   },
   "deepest_event_last_24h": {
     "event_id": "20260506.0703001",
@@ -42,7 +42,7 @@
   "top_regions_last_24h": [
     {
       "region": "BC",
-      "count": 3
+      "count": 2
     },
     {
       "region": "YT",
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-07 04:03 UTC, the recent Canada earthquake dataset contains 533 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.02 at 199 km W of Tofino, BC/199 km O de Tofino, BC. The deepest event reached 10.00 km at 188 km W of Masset, BC/188 km O de Masset, BC. The most recent listed event was M2.98 at 64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT at 2026-05-06T20:36:41.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and YT (2)."
+  "summary_text": "As of 2026-05-07 05:03 UTC, the recent Canada earthquake dataset contains 533 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.98 at 64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT. The deepest event reached 10.00 km at 188 km W of Masset, BC/188 km O de Masset, BC. The most recent listed event was M2.98 at 64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT at 2026-05-06T20:36:41.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (2) and YT (2)."
 }
