@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-05-07T19:03:02Z",
+  "generated_utc": "2026-05-07T20:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 543,
+  "rolling_window_event_count": 544,
   "events_last_24h": 11,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 1,
+  "count_m3plus_last_24h": 2,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260507.1431001",
-    "time_utc": "2026-05-07T14:31:12.000Z",
-    "latitude": 49.9736,
-    "longitude": -94.7112,
-    "depth_km": 0.0,
-    "mag_type": "MwN",
-    "magnitude": 1.51,
-    "place": "Blast, 17 km NW of The Dalles 38C, ON/Dynamitage, 17 km NO de The Dalles 38C, ON",
-    "region": "ON"
+    "event_id": "20260507.1645001",
+    "time_utc": "2026-05-07T16:45:07.000Z",
+    "latitude": 61.1232,
+    "longitude": -140.0827,
+    "depth_km": 5.0,
+    "mag_type": "ML",
+    "magnitude": 3.26,
+    "place": "64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT",
+    "region": "YT"
   },
   "largest_event_last_24h": {
     "event_id": "20260507.0036001",
@@ -42,16 +42,16 @@
   "top_regions_last_24h": [
     {
       "region": "YT",
-      "count": 4
+      "count": 5
     },
     {
       "region": "BC",
       "count": 4
     },
     {
-      "region": "AK",
+      "region": "NT",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-07 19:03 UTC, the recent Canada earthquake dataset contains 543 events from the current rolling window. In the last 24 hours, 11 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.33 at 65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC. The deepest event reached 35.00 km at 182 km NNE of Tuktoyaktuk, NT/182 km NNE de Tuktoyaktuk, NT. The most recent listed event was M1.51 at Blast, 17 km NW of The Dalles 38C, ON/Dynamitage, 17 km NO de The Dalles 38C, ON at 2026-05-07T14:31:12.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (4) and BC (4)."
+  "summary_text": "As of 2026-05-07 20:03 UTC, the recent Canada earthquake dataset contains 544 events from the current rolling window. In the last 24 hours, 11 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.33 at 65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC. The deepest event reached 35.00 km at 182 km NNE of Tuktoyaktuk, NT/182 km NNE de Tuktoyaktuk, NT. The most recent listed event was M3.26 at 64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT at 2026-05-07T16:45:07.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (5) and BC (4)."
 }
