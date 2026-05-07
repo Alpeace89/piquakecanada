@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260322.2358001,2026-03-22T23:58:56.000Z,60.6346,-139.7334,1.0,ML,2.6,"90 km SSW of Burwash Landing, YT/90 km SSO de Burwash Landing, YT"
 20260323.0056001,2026-03-23T00:56:33.000Z,60.5183,-141.2615,5.0,ML,2.85,"206 km W of Haines Junction, YT/206 km O de Haines Junction, YT"
 20260323.0107001,2026-03-23T01:07:40.000Z,60.5445,-139.9541,5.0,ML,3.03,"135 km W of Haines Junction, YT/135 km O de Haines Junction, YT"
 20260323.0108001,2026-03-23T01:08:00.000Z,54.6904,-118.9397,1.0,MLy,2.3,"Suspected industry-related event, 54 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 54 km S de Grande Prairie, AB"

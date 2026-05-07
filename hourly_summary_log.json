@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-16T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two quakes yesterday. The largest quake was a M2.72 near Tofino in British Columbia. That's the latest event we've seen here. Most of the activity is happening in Quebec and BC region."
-  },
-  {
     "timestamp_utc": "2026-04-16T05:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we saw nine seismic events. The largest one was a M3.42 near Waskatenau in Alberta, likely caused by an industry operation there. That's compared to just one event this hour and a few happening across British Columbia, Alaska, and Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-05-07T00:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we saw a total of 9 PiQuake Canada events. The biggest one was a M3.42 event linked to industry near Waskatenau, Alberta. This is our largest event since we started beta-ing. Another notable occurrence was a M2.98 event in the Yukon territory. So far this month, British Columbia has had four of these events, followed by Alaska and the Yukon with two each."
   }
 ]
