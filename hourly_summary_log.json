@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-17T02:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had 14 PiQuake Canada dashboard events. The biggest one was a M4.21 near Port Hardy in British Columbia and Sturgeon County in Alberta. These are suspected industry-related quakes which happened within an hour of each other. We have BC leading with 6 events, followed by Yukon with 6 and Ontario with 1."
-  },
-  {
     "timestamp_utc": "2026-04-17T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of 12 earthquakes reported. The largest event was a M3.33 near Daajing Giids, BC/YT region and happened at around 00:36 UTC on May 7th. It's been quite active with the latest quake being a M3.26 in the Burwash Landing area of Yukon Territory recorded just before 16:45 today. Mostly happening in British Columbia and Yukon, but also seeing activity in Ontario."
+  },
+  {
+    "timestamp_utc": "2026-05-07T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were 11 PiQuake Canada dashboard events, with the largest being a M3.33 quake near Daajing Giids in British Columbia at 00:36 UTC on May 7th. That's followed by a M3.26 shake that happened just after noon in Yukon and Nunavut. The highest concentration of quakes occurred in BC with 5, then Yukon and Nunavut each saw 4 and 1 respectively."
   }
 ]
