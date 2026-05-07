@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-07T05:04:35.000Z",
+    "magnitude": "2.25",
+    "depth_km": "1.0",
+    "place": "20 km N of Sliammon 1, BC/20 km N de Sliammon 1, BC"
+  },
+  {
+    "time_utc": "2026-05-07T04:29:41.000Z",
+    "magnitude": "2.9",
+    "depth_km": "35.0",
+    "place": "182 km NNE of Tuktoyaktuk, NT/182 km NNE de Tuktoyaktuk, NT"
+  },
+  {
     "time_utc": "2026-05-07T00:36:18.000Z",
     "magnitude": "3.33",
     "depth_km": "10.91",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "3.02",
     "depth_km": "10.0",
     "place": "199 km W of Tofino, BC/199 km O de Tofino, BC"
-  },
-  {
-    "time_utc": "2026-05-06T00:57:21.000Z",
-    "magnitude": "1.19",
-    "depth_km": "20.56",
-    "place": "22 km WNW of La P\u00eache, QC/22 km ONO de La P\u00eache, QC"
-  },
-  {
-    "time_utc": "2026-05-06T00:29:34.000Z",
-    "magnitude": "2.42",
-    "depth_km": "1.0",
-    "place": "140 km WSW of Juneau, AK/140 km OSO de Juneau, AK"
   }
 ];

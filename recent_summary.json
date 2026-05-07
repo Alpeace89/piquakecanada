@@ -1,20 +1,20 @@
 {
-  "generated_utc": "2026-05-07T14:03:02Z",
+  "generated_utc": "2026-05-07T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 531,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 537,
+  "events_last_24h": 5,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260507.0036001",
-    "time_utc": "2026-05-07T00:36:18.000Z",
-    "latitude": 53.2032,
-    "longitude": -133.0523,
-    "depth_km": 10.91,
+    "event_id": "20260507.0504001",
+    "time_utc": "2026-05-07T05:04:35.000Z",
+    "latitude": 50.0759,
+    "longitude": -124.6079,
+    "depth_km": 1.0,
     "mag_type": "ML",
-    "magnitude": 3.33,
-    "place": "65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC",
+    "magnitude": 2.25,
+    "place": "20 km N of Sliammon 1, BC/20 km N de Sliammon 1, BC",
     "region": "BC"
   },
   "largest_event_last_24h": {
@@ -29,17 +29,21 @@
     "region": "BC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260507.0036001",
-    "time_utc": "2026-05-07T00:36:18.000Z",
-    "latitude": 53.2032,
-    "longitude": -133.0523,
-    "depth_km": 10.91,
+    "event_id": "20260507.0429001",
+    "time_utc": "2026-05-07T04:29:41.000Z",
+    "latitude": 71.0535,
+    "longitude": -132.0063,
+    "depth_km": 35.0,
     "mag_type": "ML",
-    "magnitude": 3.33,
-    "place": "65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC",
-    "region": "BC"
+    "magnitude": 2.9,
+    "place": "182 km NNE of Tuktoyaktuk, NT/182 km NNE de Tuktoyaktuk, NT",
+    "region": "NT"
   },
   "top_regions_last_24h": [
+    {
+      "region": "BC",
+      "count": 2
+    },
     {
       "region": "AK",
       "count": 1
@@ -47,11 +51,7 @@
     {
       "region": "YT",
       "count": 1
-    },
-    {
-      "region": "BC",
-      "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-07 14:03 UTC, the recent Canada earthquake dataset contains 531 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.33 at 65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC. The deepest event reached 10.91 km at 65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC. The most recent listed event was M3.33 at 65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC at 2026-05-07T00:36:18.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AK (1) and YT (1)."
+  "summary_text": "As of 2026-05-07 15:03 UTC, the recent Canada earthquake dataset contains 537 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.33 at 65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC. The deepest event reached 35.00 km at 182 km NNE of Tuktoyaktuk, NT/182 km NNE de Tuktoyaktuk, NT. The most recent listed event was M2.25 at 20 km N of Sliammon 1, BC/20 km N de Sliammon 1, BC at 2026-05-07T05:04:35.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (2) and AK (1)."
 }

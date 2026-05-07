@@ -1,1 +1,1 @@
-In the last 24 hours, we had three PiQuake Canada events. The largest one was a M3.33 located 65 km west of Daajing Giids in British Columbia and another 65 km to the east. This is the latest event as well. In that time, Alaska and Yukon each experienced one shake too.
+The PiQuake Canada dashboard shows no activity in the last hour, but there were five events recorded yesterday. The largest event last 24 hours was a M3.33 near Daajing Giids in BC, and the latest one was a M2.25 just north of Sliammon. Most of these happened in British Columbia and Yukon Territory.

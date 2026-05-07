@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-16T19:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows that there were no major earthquakes reported in the last hour, but over the past 24 hours, six small quakes shook parts of British Columbia, Yukon, and Ontario. The largest one registered at a magnitude of M4.21 near Port Hardy on April 16th around 8:09 AM UTC, while another minor tremor with a magnitude of M1.1 was felt about an hour later in Orillia, Ontario during dynamite blasting operations."
-  },
-  {
     "timestamp_utc": "2026-04-16T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three PiQuake Canada events. The largest one was a M3.33 located 65 km west of Daajing Giids in British Columbia and another 65 km to the east. This is the latest event as well. In that time, Alaska and Yukon each experienced one shake too."
+  },
+  {
+    "timestamp_utc": "2026-05-07T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there were five events recorded yesterday. The largest event last 24 hours was a M3.33 near Daajing Giids in BC, and the latest one was a M2.25 just north of Sliammon. Most of these happened in British Columbia and Yukon Territory."
   }
 ]
