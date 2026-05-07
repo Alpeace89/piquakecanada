@@ -36,6 +36,12 @@ window.recentEvents = [
     "place": "199 km W of Tofino, BC/199 km O de Tofino, BC"
   },
   {
+    "time_utc": "2026-05-06T00:57:21.000Z",
+    "magnitude": "1.19",
+    "depth_km": "20.56",
+    "place": "22 km WNW of La P\u00eache, QC/22 km ONO de La P\u00eache, QC"
+  },
+  {
     "time_utc": "2026-05-06T00:29:34.000Z",
     "magnitude": "2.42",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.42",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 8 km S of Waskatenau, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 8 km S de Waskatenau, AB"
-  },
-  {
-    "time_utc": "2026-05-05T20:48:01.000Z",
-    "magnitude": "1.79",
-    "depth_km": "5.0",
-    "place": "51 km WNW of Bella Coola 1, BC/51 km ONO de Bella Coola 1, BC"
   }
 ];

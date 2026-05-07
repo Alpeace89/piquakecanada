@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-16T17:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had two minor quakes detected by our PiQuake Canada dashboard. The biggest one was a M4.21 near Port Hardy in British Columbia early this morning and there's also been a little shake north of Orillia in Ontario today at about 3:30 PM."
-  },
-  {
     "timestamp_utc": "2026-04-16T18:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the past 24 hours, we've had three minor earthquakes in the Canadian region, with the largest one measuring M2.98 near Burwash Landing, YT and its opposite side. This event happened on May 6th at around 8:36 PM UTC, which is when all our recent activities are tracked."
+  },
+  {
+    "timestamp_utc": "2026-05-07T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick rundown for the PiQuake Canada dashboard. In the last 24 hours, we had three small quakes with the biggest being M2.98 near Burwash Landing in Yukon and Alaska. It was just another day in our seismic activity log."
   }
 ]
