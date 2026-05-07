@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260323.0710001,2026-03-23T07:10:45.000Z,61.1561,-139.9902,5.0,ML,2.13,"58 km WSW of Burwash Landing, YT/58 km OSO de Burwash Landing, YT"
-20260323.0739001,2026-03-23T07:39:46.000Z,56.6789,-121.5847,1.0,MLy,2.53,"Suspected industry-related event, 28 km NE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 28 km NE de Halfway River 168, BC"
 20260323.0918001,2026-03-23T09:18:12.000Z,56.6879,-121.6421,1.0,MLy,2.53,"Suspected industry-related event, 27 km NNE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 27 km NNE de Halfway River 168, BC"
 20260323.1130001,2026-03-23T11:30:32.000Z,49.464,-66.6907,18.0,MwN,0.88,"39 km NNW of Sainte-Anne-des-Monts, QC/39 km NNO de Sainte-Anne-des-Monts, QC"
 20260323.1444001,2026-03-23T14:44:52.000Z,49.3677,-123.962,64.53,ML1,1.45,"63 km W of Vancouver, BC/63 km O de Vancouver, BC"
