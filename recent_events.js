@@ -1,5 +1,29 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-07T14:31:12.000Z",
+    "magnitude": "1.51",
+    "depth_km": "0.0",
+    "place": "Blast, 17 km NW of The Dalles 38C, ON/Dynamitage, 17 km NO de The Dalles 38C, ON"
+  },
+  {
+    "time_utc": "2026-05-07T13:12:48.000Z",
+    "magnitude": "2.24",
+    "depth_km": "5.0",
+    "place": "73 km W of Burwash Landing, YT/73 km O de Burwash Landing, YT"
+  },
+  {
+    "time_utc": "2026-05-07T13:07:45.000Z",
+    "magnitude": "1.98",
+    "depth_km": "5.0",
+    "place": "122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-07T08:51:20.000Z",
+    "magnitude": "1.85",
+    "depth_km": "5.0",
+    "place": "64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
+  },
+  {
     "time_utc": "2026-05-07T07:01:56.000Z",
     "magnitude": "2.46",
     "depth_km": "1.0",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "2.98",
     "depth_km": "1.0",
     "place": "64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-05-06T19:05:02.000Z",
-    "magnitude": "2.79",
-    "depth_km": "5.0",
-    "place": "140 km WSW of Juneau, AK/140 km OSO de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-05-06T13:16:20.000Z",
-    "magnitude": "2.67",
-    "depth_km": "0.36",
-    "place": "225 km WSW of Haines Junction, YT/225 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-06T07:45:01.000Z",
-    "magnitude": "0.48",
-    "depth_km": "9.59",
-    "place": "5 km SSE of Baie-Saint-Paul, QC/5 km SSE de Baie-Saint-Paul, QC"
-  },
-  {
-    "time_utc": "2026-05-06T07:03:10.000Z",
-    "magnitude": "2.3",
-    "depth_km": "10.0",
-    "place": "188 km W of Masset, BC/188 km O de Masset, BC"
   }
 ];

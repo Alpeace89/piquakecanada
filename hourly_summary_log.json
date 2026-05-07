@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-16T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were 14 seismic activities recorded yesterday. The largest event was a M4.21 that happened near Port Hardy in British Columbia. Not long ago, another shake with a magnitude of M2.73 occurred somewhere close to Alberta. It seems like BC and the Yukon Territory had the most shakes yesterday, while Ontario also saw one."
-  },
-  {
     "timestamp_utc": "2026-04-17T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there were seven events yesterday. The biggest one was a M3.33 near Daajing Giids in British Columbia around midnight. We also had a smaller event yesterday afternoon that looked like it might be from an industry nearby Dawson Creek. Most of these happened in British Columbia, with one each in Alaska and the Yukon."
+  },
+  {
+    "timestamp_utc": "2026-05-07T19:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were 11 small earthquakes reported across Canada. The biggest one was a M3.33 near Daajing Giids in British Columbia and Ontario, detected at 1 AM UTC. It's always exciting to see activity on our PiQuake dashboard. Just yesterday, we had another little shake that happened 17 kilometers north of The Dalles, ON, during dynamite blasting operations around noon local time."
   }
 ]
