@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-17T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've seen three minor seismic events. The largest one was a M2.72 near Grande Prairie in Alberta linked to an industry event. We also had a very small quake with magnitude -0.02 near La Malbaie in Quebec. Most of the activity has been in Quebec and Alberta regions."
-  },
-  {
     "timestamp_utc": "2026-04-17T21:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of two small tremors detected on our PiQuake Canada dashboard. The largest one measured at M3.26 and happened around 64 kilometers west-southwest of Burwash Landing in Yukon or 64 km northeast of Burwash Landing in Ontario. We also had a tiny one this evening in Quebec, just north-northeast of La Malbaie. All these small quakes are part of our continuous monitoring to keep you safe and informed."
+  },
+  {
+    "timestamp_utc": "2026-05-08T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no major earthquakes in the last hour, but there were three recorded quakes in the past day. The largest was a M3.26 just west of Burwash Landing and another at La Malbaie in Quebec, both happening around midnight local time. It's been quite quiet here lately, with most activity seen in Yukon and Quebec areas."
   }
 ]

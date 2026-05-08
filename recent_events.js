@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "6 km NNE of La Malbaie, QC/6 km NNE de La Malbaie, QC"
   },
   {
+    "time_utc": "2026-05-07T17:18:08.000Z",
+    "magnitude": "2.6",
+    "depth_km": "5.0",
+    "place": "121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-05-07T16:45:07.000Z",
     "magnitude": "3.26",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.25",
     "depth_km": "1.0",
     "place": "20 km N of Sliammon 1, BC/20 km N de Sliammon 1, BC"
-  },
-  {
-    "time_utc": "2026-05-07T04:29:41.000Z",
-    "magnitude": "2.9",
-    "depth_km": "35.0",
-    "place": "182 km NNE of Tuktoyaktuk, NT/182 km NNE de Tuktoyaktuk, NT"
   }
 ];
