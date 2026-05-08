@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-08T18:20:53.000Z",
+    "magnitude": "2.37",
+    "depth_km": "5.0",
+    "place": "136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-08T15:19:33.000Z",
+    "magnitude": "2.91",
+    "depth_km": "5.0",
+    "place": "100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
+  },
+  {
+    "time_utc": "2026-05-08T08:58:10.000Z",
+    "magnitude": "2.46",
+    "depth_km": "10.0",
+    "place": "177 km W of Tofino, BC/177 km O de Tofino, BC"
+  },
+  {
     "time_utc": "2026-05-08T01:10:22.000Z",
     "magnitude": "1.45",
     "depth_km": "1.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.51",
     "depth_km": "0.0",
     "place": "Blast, 17 km NW of The Dalles 38C, ON/Dynamitage, 17 km NO de The Dalles 38C, ON"
-  },
-  {
-    "time_utc": "2026-05-07T13:12:48.000Z",
-    "magnitude": "2.24",
-    "depth_km": "5.0",
-    "place": "73 km W of Burwash Landing, YT/73 km O de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-05-07T13:07:45.000Z",
-    "magnitude": "1.98",
-    "depth_km": "5.0",
-    "place": "122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-07T09:55:07.000Z",
-    "magnitude": "2.34",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 10 km N of Dawson Creek, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 10 km N de Dawson Creek, BC"
   }
 ];
