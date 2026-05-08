@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-17T11:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of six quakes reported. The biggest one was a M3.67 near Port Hardy in British Columbia and Sturgeon County in Alberta. It's important to note that most of these events were small and not likely natural, with some suspected industry-related causes. That’s the summary folks!"
-  },
-  {
     "timestamp_utc": "2026-04-17T12:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had six minor tremors with the biggest one measuring M3.26 near Burwash Landing in the Yukon and British Columbia. That latest event happened just yesterday at around 5 PM local time. The action has mostly been happening in the Yukon Territory, but also a bit in British Columbia and Ontario."
+  },
+  {
+    "timestamp_utc": "2026-05-08T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there have been no major earthquakes reported. However, five smaller quakes occurred with the largest measuring M3.26 near Burwash Landing in Yukon and Ontario. The latest event happened on May 7th at around 4 PM local time."
   }
 ]
