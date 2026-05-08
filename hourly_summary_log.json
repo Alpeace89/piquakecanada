@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-17T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the past 24 hours, we've had seven minor quakes with the largest measuring M3.67 about 198 km west of Port Hardy in British Columbia. The latest one was a tiny M-0.02 shake that happened just before dawn today near La Malbaie in Quebec. It looks like Alberta and Quebec have been feeling it more often lately, with three quakes each in the last day."
-  },
-  {
     "timestamp_utc": "2026-04-17T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows we had no earthquakes reported in the last hour, but over the past day, we logged four small tremors. The largest one was a M3.26 quake that happened around 64 kilometers west-southwest of Burwash Landing in both Yukon and Ontario regions. That's pretty much it for today—no big shakes or aftershocks to report!"
+  },
+  {
+    "timestamp_utc": "2026-05-08T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four events in the past day. The largest event was a M3.26 quake located near Burwash Landing in the Yukon and Ontario with the latest one happening just after midnight on May 7th. Most activity has been in the Yukon region with three quakes recorded."
   }
 ]
