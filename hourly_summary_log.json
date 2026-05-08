@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-17T12:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had five PiQuake Canada dashboard events. The largest one was a M3.67 quake about 198 km west of Port Hardy in British Columbia and 198 km northwest of Port Hardy in the province of British Columbia. In the latest event, which happened around 12:03 PM on April 16th, we had a M2.73 quake near Sturgeon County in Alberta, suspected to be related to industry activities. It's been pretty quiet though, with no events recorded in the last hour."
-  },
-  {
     "timestamp_utc": "2026-04-17T13:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been no major earthquakes reported. However, five smaller quakes occurred with the largest measuring M3.26 near Burwash Landing in Yukon and Ontario. The latest event happened on May 7th at around 4 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-05-08T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had 5 earthquakes registered on our PiQuake Canada dashboard. The largest one was a M3.26 near Burwash Landing in Yukon and Ontario. It happened yesterday at around 4 PM. We've seen activity mostly in Yukon Territory and Ontario during that time."
   }
 ]
