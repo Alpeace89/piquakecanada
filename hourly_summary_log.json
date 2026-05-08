@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-17T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were five detected during the previous 24 hours. The largest quake was a minor M3.33 near Hinton, Alberta, likely from dynamite blasting. There's also been a tiny tremor recorded in Quebec City area around midnight yesterday. Most activity has been in Alberta and Quebec regions."
-  },
-  {
     "timestamp_utc": "2026-04-17T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four events in the past day. The largest event was a M3.26 quake located near Burwash Landing in the Yukon and Ontario with the latest one happening just after midnight on May 7th. Most activity has been in the Yukon region with three quakes recorded."
+  },
+  {
+    "timestamp_utc": "2026-05-08T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here’s a quick summary for the PiQuake Canada dashboard in plain terms: We had no new quakes reported this hour but four since yesterday. The largest one measured M3.26 and happened around Burwash Landing, Yukon Territory. That's where our latest quake was as well. If you're curious about where these shakes were felt more often, Ontario and Yukon have seen the most over the last 24 hours."
   }
 ]
