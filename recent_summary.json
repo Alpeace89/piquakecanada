@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-05-08T05:03:01Z",
+  "generated_utc": "2026-05-08T06:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 540,
-  "events_last_24h": 8,
+  "events_last_24h": 6,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
@@ -29,15 +29,15 @@
     "region": "YT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260507.0520001",
-    "time_utc": "2026-05-07T05:20:08.000Z",
-    "latitude": 48.5173,
-    "longitude": -121.7654,
-    "depth_km": 10.18,
+    "event_id": "20260507.1645001",
+    "time_utc": "2026-05-07T16:45:07.000Z",
+    "latitude": 61.1232,
+    "longitude": -140.0827,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 2.8,
-    "place": "72 km SE of Abbotsford, BC/72 km SE de Abbotsford, BC",
-    "region": "BC"
+    "magnitude": 3.26,
+    "place": "64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT",
+    "region": "YT"
   },
   "top_regions_last_24h": [
     {
@@ -46,12 +46,12 @@
     },
     {
       "region": "BC",
-      "count": 3
+      "count": 1
     },
     {
       "region": "ON",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-08 05:03 UTC, the recent Canada earthquake dataset contains 540 events from the current rolling window. In the last 24 hours, 8 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.26 at 64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT. The deepest event reached 10.18 km at 72 km SE of Abbotsford, BC/72 km SE de Abbotsford, BC. The most recent listed event was M3.26 at 64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT at 2026-05-07T16:45:07.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (4) and BC (3)."
+  "summary_text": "As of 2026-05-08 06:03 UTC, the recent Canada earthquake dataset contains 540 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.26 at 64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT. The deepest event reached 5.00 km at 64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT. The most recent listed event was M3.26 at 64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT at 2026-05-07T16:45:07.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (4) and BC (1)."
 }
