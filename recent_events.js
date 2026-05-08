@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-08T01:10:22.000Z",
+    "magnitude": "1.45",
+    "depth_km": "1.0",
+    "place": "17 km N of Sliammon 1, BC/17 km N de Sliammon 1, BC"
+  },
+  {
+    "time_utc": "2026-05-07T23:59:25.000Z",
+    "magnitude": "2.9",
+    "depth_km": "5.0",
+    "place": "139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-05-07T19:45:52.000Z",
     "magnitude": "0.19",
     "depth_km": "8.75",
@@ -44,18 +56,6 @@ window.recentEvents = [
   {
     "time_utc": "2026-05-07T09:55:07.000Z",
     "magnitude": "2.34",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 10 km N of Dawson Creek, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 10 km N de Dawson Creek, BC"
-  },
-  {
-    "time_utc": "2026-05-07T08:51:20.000Z",
-    "magnitude": "1.85",
-    "depth_km": "5.0",
-    "place": "64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-05-07T07:01:56.000Z",
-    "magnitude": "2.46",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 10 km N of Dawson Creek, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 10 km N de Dawson Creek, BC"
   }
