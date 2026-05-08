@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-17T21:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had three minor events. The largest one was a M2.72 near Grande Prairie in Alberta, linked to an industry event. In that time frame, we saw two more small quakes in Quebec City area. It's pretty quiet lately; most of these were down in those two regions."
-  },
-  {
     "timestamp_utc": "2026-04-17T22:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no major earthquakes in the last hour, but there were three recorded quakes in the past day. The largest was a M3.26 just west of Burwash Landing and another at La Malbaie in Quebec, both happening around midnight local time. It's been quite quiet here lately, with most activity seen in Yukon and Quebec areas."
+  },
+  {
+    "timestamp_utc": "2026-05-08T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had a couple of tiny earthquakes. The largest one was a M2.6 near Haines Junction and La Malbaie areas. It happened on May 7th around the same time for both places. That's pretty much all that happened in those regions recently."
   }
 ]

@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-05-08T16:03:01Z",
+  "generated_utc": "2026-05-08T17:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 535,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 534,
+  "events_last_24h": 2,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 1,
+  "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
     "event_id": "20260507.1945001",
@@ -18,14 +18,14 @@
     "region": "QC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260507.1645001",
-    "time_utc": "2026-05-07T16:45:07.000Z",
-    "latitude": 61.1232,
-    "longitude": -140.0827,
+    "event_id": "20260507.1718001",
+    "time_utc": "2026-05-07T17:18:08.000Z",
+    "latitude": 60.4402,
+    "longitude": -139.6272,
     "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 3.26,
-    "place": "64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT",
+    "magnitude": 2.6,
+    "place": "121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT",
     "region": "YT"
   },
   "deepest_event_last_24h": {
@@ -42,12 +42,12 @@
   "top_regions_last_24h": [
     {
       "region": "YT",
-      "count": 2
+      "count": 1
     },
     {
       "region": "QC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-08 16:03 UTC, the recent Canada earthquake dataset contains 535 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.26 at 64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT. The deepest event reached 8.75 km at 6 km NNE of La Malbaie, QC/6 km NNE de La Malbaie, QC. The most recent listed event was M0.19 at 6 km NNE of La Malbaie, QC/6 km NNE de La Malbaie, QC at 2026-05-07T19:45:52.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and QC (1)."
+  "summary_text": "As of 2026-05-08 17:03 UTC, the recent Canada earthquake dataset contains 534 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.6 at 121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT. The deepest event reached 8.75 km at 6 km NNE of La Malbaie, QC/6 km NNE de La Malbaie, QC. The most recent listed event was M0.19 at 6 km NNE of La Malbaie, QC/6 km NNE de La Malbaie, QC at 2026-05-07T19:45:52.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (1) and QC (1)."
 }
