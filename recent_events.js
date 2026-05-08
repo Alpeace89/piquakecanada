@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-07T19:45:52.000Z",
+    "magnitude": "0.19",
+    "depth_km": "8.75",
+    "place": "6 km NNE of La Malbaie, QC/6 km NNE de La Malbaie, QC"
+  },
+  {
     "time_utc": "2026-05-07T16:45:07.000Z",
     "magnitude": "3.26",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.9",
     "depth_km": "35.0",
     "place": "182 km NNE of Tuktoyaktuk, NT/182 km NNE de Tuktoyaktuk, NT"
-  },
-  {
-    "time_utc": "2026-05-07T00:36:18.000Z",
-    "magnitude": "3.33",
-    "depth_km": "10.91",
-    "place": "65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC"
   }
 ];

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-17T19:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of 4 events monitored by our PiQuake Canada dashboard. The largest one was a M3.33 blast near Hinton, Alberta, which might have been from dynamite being used for construction or something similar. We also saw an event that was just under magnitude zero in La Malbaie, Quebec. Both of these areas made up the top regions with two events each during this time frame."
-  },
-  {
     "timestamp_utc": "2026-04-17T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no earthquakes reported by our dashboard. However, we did spot two quakes with a magnitude of M3.26 each near Burwash Landing in Yukon and its OSO. These events happened around 5 PM local time on May 7th."
+  },
+  {
+    "timestamp_utc": "2026-05-08T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of two small tremors detected on our PiQuake Canada dashboard. The largest one measured at M3.26 and happened around 64 kilometers west-southwest of Burwash Landing in Yukon or 64 km northeast of Burwash Landing in Ontario. We also had a tiny one this evening in Quebec, just north-northeast of La Malbaie. All these small quakes are part of our continuous monitoring to keep you safe and informed."
   }
 ]
