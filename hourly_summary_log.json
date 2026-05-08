@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-17T09:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no reported earthquakes in the dashboard. However, we saw seven events with a maximum magnitude of M3.67, occurring near Port Hardy in British Columbia and another one close to Sturgeon County in Alberta that's suspected to be related to an industry event. The latest quake was measured at M2.73 happening around 16:03 UTC on April 16th, about 11 km west-northwest of Sturgeon County, AB."
-  },
-  {
     "timestamp_utc": "2026-04-17T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour but had nine events within a day. The largest event was a M3.26 near Burwash Landing, Yukon and Old Crow, Yukon yesterday at 4 PM local time. That's where we are looking for seismic activity with this platform."
+  },
+  {
+    "timestamp_utc": "2026-05-08T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were eight recorded quakes over the past 24 hours. The largest one was a M3.26 and it happened around Burwash Landing in the Yukon. That's where we get our latest earthquake report from."
   }
 ]
