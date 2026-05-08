@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260324.0910001,2026-03-24T09:10:24.000Z,54.3063,-118.5607,1.0,MLy,2.66,"Suspected industry-related event, 59 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 59 km NE de Grande Cache, AB"
 20260324.1425001,2026-03-24T14:25:36.000Z,48.7,-128.9502,10.0,Mw',3.02,"248 km SSW of Port Hardy, BC/248 km SSO de Port Hardy, BC"
 20260324.1555001,2026-03-24T15:55:17.000Z,47.5188,-72.1998,18.0,MwN,1.93,"45 km ENE of La Tuque, QC/45 km ENE de La Tuque, QC"
 20260324.1648001,2026-03-24T16:48:12.000Z,46.0218,-66.7562,0.0,MwN,1.63,"Blast, 11 km NW of Fredericton, NB/Dynamitage, 11 km NO de Fredericton, NB"
