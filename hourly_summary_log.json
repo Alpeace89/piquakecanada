@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-17T22:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had two minor quakes monitored by our PiQuake Canada dashboard. The largest one was a tiny M0.45 near Saint-Pascal in Quebec, and another very small shake happened a bit further east around La Malbaie. These events are all pretty much imperceptible for the average person, but they're part of what we track to understand our area better."
-  },
-  {
     "timestamp_utc": "2026-04-17T23:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had a couple of tiny earthquakes. The largest one was a M2.6 near Haines Junction and La Malbaie areas. It happened on May 7th around the same time for both places. That's pretty much all that happened in those regions recently."
+  },
+  {
+    "timestamp_utc": "2026-05-08T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major earthquakes reported, but a tiny one measuring M0.19 shook a place near La Malbaie in Quebec. It's the same event that happened just before, so it counts as the latest and largest event too. The area with most activity is still Quebec province."
   }
 ]

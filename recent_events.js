@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "6 km NNE of La Malbaie, QC/6 km NNE de La Malbaie, QC"
   },
   {
+    "time_utc": "2026-05-07T17:37:35.000Z",
+    "magnitude": "2.72",
+    "depth_km": "5.0",
+    "place": "62 km WSW of Burwash Landing, YT/62 km OSO de Burwash Landing, YT"
+  },
+  {
     "time_utc": "2026-05-07T17:18:08.000Z",
     "magnitude": "2.6",
     "depth_km": "5.0",
@@ -36,6 +42,12 @@ window.recentEvents = [
     "place": "122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT"
   },
   {
+    "time_utc": "2026-05-07T09:55:07.000Z",
+    "magnitude": "2.34",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 10 km N of Dawson Creek, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 10 km N de Dawson Creek, BC"
+  },
+  {
     "time_utc": "2026-05-07T08:51:20.000Z",
     "magnitude": "1.85",
     "depth_km": "5.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.46",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 10 km N of Dawson Creek, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 10 km N de Dawson Creek, BC"
-  },
-  {
-    "time_utc": "2026-05-07T05:20:08.000Z",
-    "magnitude": "2.8",
-    "depth_km": "10.18",
-    "place": "72 km SE of Abbotsford, BC/72 km SE de Abbotsford, BC"
-  },
-  {
-    "time_utc": "2026-05-07T05:04:35.000Z",
-    "magnitude": "2.25",
-    "depth_km": "1.0",
-    "place": "20 km N of Sliammon 1, BC/20 km N de Sliammon 1, BC"
   }
 ];
