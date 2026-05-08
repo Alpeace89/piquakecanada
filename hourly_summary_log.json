@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-18T02:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no reported quakes on the PiQuake Canada dashboard. But we did catch two small tremors—both around M0.45—that happened just east of Saint-Pascal and a bit further southeast in La Malbaie. The latest one was recorded less than an hour ago at 3:37 AM UTC. It seems like things are pretty quiet up there!"
-  },
-  {
     "timestamp_utc": "2026-04-18T03:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were five events in the past 24 hours. The largest was a M2.91 near Burwash Landing, Yukon, and another quake of M2.37 happened not too far away from Haines Junction, also in Yukon."
+  },
+  {
+    "timestamp_utc": "2026-05-08T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary for the PiQuake Canada dashboard: In the last 24 hours, there have been five quakes detected. The largest was M2.91 near Burwash Landing and Haines Junction yesterday at around 3 PM. That’s quite active considering it’s mostly in remote parts of Yukon Territory with only a couple in British Columbia too."
   }
 ]
