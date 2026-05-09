@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-05-09T03:03:01Z",
+  "generated_utc": "2026-05-09T04:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 534,
   "events_last_24h": 3,
@@ -49,5 +49,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-09 03:03 UTC, the recent Canada earthquake dataset contains 534 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.91 at 100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT. The deepest event reached 10.00 km at 177 km W of Tofino, BC/177 km O de Tofino, BC. The most recent listed event was M2.37 at 136 km W of Haines Junction, YT/136 km O de Haines Junction, YT at 2026-05-08T18:20:53.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and BC (1)."
+  "summary_text": "As of 2026-05-09 04:03 UTC, the recent Canada earthquake dataset contains 534 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.91 at 100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT. The deepest event reached 10.00 km at 177 km W of Tofino, BC/177 km O de Tofino, BC. The most recent listed event was M2.37 at 136 km W of Haines Junction, YT/136 km O de Haines Junction, YT at 2026-05-08T18:20:53.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and BC (1)."
 }
