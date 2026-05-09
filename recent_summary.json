@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-05-09T08:03:02Z",
+  "generated_utc": "2026-05-09T09:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 533,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 531,
+  "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -29,25 +29,21 @@
     "region": "YT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260508.0858001",
-    "time_utc": "2026-05-08T08:58:10.000Z",
-    "latitude": 48.9743,
-    "longitude": -128.3172,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 2.46,
-    "place": "177 km W of Tofino, BC/177 km O de Tofino, BC",
-    "region": "BC"
+    "event_id": "20260508.1820001",
+    "time_utc": "2026-05-08T18:20:53.000Z",
+    "latitude": 60.526,
+    "longitude": -139.9611,
+    "depth_km": 5.0,
+    "mag_type": "ML",
+    "magnitude": 2.37,
+    "place": "136 km W of Haines Junction, YT/136 km O de Haines Junction, YT",
+    "region": "YT"
   },
   "top_regions_last_24h": [
     {
       "region": "YT",
       "count": 2
-    },
-    {
-      "region": "BC",
-      "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-09 08:03 UTC, the recent Canada earthquake dataset contains 533 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.91 at 100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT. The deepest event reached 10.00 km at 177 km W of Tofino, BC/177 km O de Tofino, BC. The most recent listed event was M2.37 at 136 km W of Haines Junction, YT/136 km O de Haines Junction, YT at 2026-05-08T18:20:53.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and BC (1)."
+  "summary_text": "As of 2026-05-09 09:03 UTC, the recent Canada earthquake dataset contains 531 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.91 at 100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT. The deepest event reached 5.00 km at 136 km W of Haines Junction, YT/136 km O de Haines Junction, YT. The most recent listed event was M2.37 at 136 km W of Haines Junction, YT/136 km O de Haines Junction, YT at 2026-05-08T18:20:53.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was YT."
 }

@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260325.0816001,2026-03-25T08:16:19.000Z,48.9738,-67.1487,18.0,MwN,0.43,"12 km WSW of Les Méchins, QC/12 km OSO de Les Méchins, QC"
-20260325.0831001,2026-03-25T08:31:46.000Z,54.3057,-117.7421,4.22,MLy,2.26,"Suspected industry-related event, 61 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 61 km O de Fox Creek, AB"
 20260325.1216001,2026-03-25T12:16:48.000Z,56.6876,-121.6172,4.72,MLy,2.45,"Suspected industry-related event, 27 km NNE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 27 km NNE de Halfway River 168, BC"
 20260325.1325002,2026-03-25T13:25:34.000Z,52.4337,-131.7814,24.83,Mw,4.28,"93 km SSE of Daajing Giids, BC/93 km SSE de Daajing Giids, BC"
 20260326.0334001,2026-03-26T03:34:19.000Z,56.6704,-122.0438,1.0,MLy,2.15,"Suspected industry-related event, 24 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 24 km NNO de Halfway River 168, BC"
