@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-09T15:05:04.000Z",
+    "magnitude": "4.6",
+    "depth_km": "2.0",
+    "place": "Preliminary; 54 km ENE of Fort Saskatchewan, AB/Preliminaire; 54 km ENE de Fort Saskatchewan, AB"
+  },
+  {
+    "time_utc": "2026-05-09T15:05:04.000Z",
+    "magnitude": "4.0",
+    "depth_km": "2.0",
+    "place": "Preliminary; 54 km ENE of Fort Saskatchewan, AB/Preliminaire; 54 km ENE de Fort Saskatchewan, AB"
+  },
+  {
     "time_utc": "2026-05-08T18:20:53.000Z",
     "magnitude": "2.37",
     "depth_km": "5.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.6",
     "depth_km": "5.0",
     "place": "121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-07T16:45:07.000Z",
-    "magnitude": "3.26",
-    "depth_km": "5.0",
-    "place": "64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-05-07T14:31:12.000Z",
-    "magnitude": "1.51",
-    "depth_km": "0.0",
-    "place": "Blast, 17 km NW of The Dalles 38C, ON/Dynamitage, 17 km NO de The Dalles 38C, ON"
   }
 ];

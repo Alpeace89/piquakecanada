@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-18T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the PiQuake Canada dashboard, it's been quiet as usual. No earthquakes to report for the last hour or day. The largest one recorded in the past 24 hours was a tiny M-0.02 near La Malbaie, Quebec. It happened on April 17th around 3:38 AM."
-  },
-  {
     "timestamp_utc": "2026-04-18T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but had two in the past day. The largest event was a M2.91 near Burwash Landing and Haines Junction, happening on May 7th at around 3:20 PM local time. There's been another minor quake close by just yesterday that measured M2.37. Most of these quakes have happened in the Yukon Territory region over the last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-05-09T16:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey folks, we had a bit of action in the PiQuake Canada dashboard today. There were two events last hour and three in the past day. The biggest one was a M4.6 under Fort Saskatchewan this afternoon. It happened near both Fort Saskatchewan, Alberta and another spot just east of there. That's what our latest event is as well. In the last 24 hours, we had two in AB and one in YT."
   }
 ]
