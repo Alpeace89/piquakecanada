@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-18T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes have been detected in the last hour or day. The largest event was a barely noticeable shake of magnitude M-0.02 that happened about 11 km southeast of La Malbaie, QC around midnight on April 17th. It's all quiet down there and it looks like things are pretty calm right now."
-  },
-  {
     "timestamp_utc": "2026-04-18T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the last 24 hours, we've had two minor quakes. The biggest one was a M2.91 near Burwash Landing, YT, and another smaller one at Haines Junction, YT. Both are in the top regions for recent activity."
+  },
+  {
+    "timestamp_utc": "2026-05-09T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two earthquakes. The biggest one was a M2.91 near Burwash Landing in the Yukon. Then, about an hour ago, there was another quake with a magnitude of M2.37 around Haines Junction in the Yukon. These are part of our regular update on what's happening with PiQuake Canada dashboard."
   }
 ]
