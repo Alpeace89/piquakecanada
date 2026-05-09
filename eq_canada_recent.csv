@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260325.0150001,2026-03-25T01:50:19.000Z,47.4261,-70.1561,10.61,MwN,0.78,"11 km NW of La Pocatière, QC/11 km NO de La Pocatière, QC"
 20260325.0745001,2026-03-25T07:45:35.000Z,48.9157,-121.9818,3.37,ML,1.65,"13 km S of Fraser Valley H, BC/13 km S de Fraser Valley H, BC"
 20260325.0816001,2026-03-25T08:16:19.000Z,48.9738,-67.1487,18.0,MwN,0.43,"12 km WSW of Les Méchins, QC/12 km OSO de Les Méchins, QC"
 20260325.0831001,2026-03-25T08:31:46.000Z,54.3057,-117.7421,4.22,MLy,2.26,"Suspected industry-related event, 61 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 61 km O de Fox Creek, AB"
