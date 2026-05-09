@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-18T10:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and the largest event was an unknown magnitude happening at an unknown location. The latest shake recorded was a tiny M-0.02 near La Malbaie, QC on April 17th. It's pretty quiet out there!"
-  },
-  {
     "timestamp_utc": "2026-04-18T11:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had three little shakes registered on our PiQuake Canada dashboard. The biggest one was a M2.91 near Burwash Landing in the Yukon Territory, and there's been another two smaller ones as well around Haines Junction in the Yukon Territory. Not much of a big deal, but it shows we're picking up some activity from time to time."
+  },
+  {
+    "timestamp_utc": "2026-05-09T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were three small tremors recorded. The largest one measured M2.91 and happened near Burwash Landing in Yukon. A smaller one, M2.37, occurred further west near Haines Junction. These are all minor quakes that don't usually cause any issues, just a slight shake when you're sleeping or doing something else."
   }
 ]
