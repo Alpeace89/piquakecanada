@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-19T15:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was an unknown magnitude happening somewhere near La Malbaie, QC/11 km SSE of La Malbaie, QC on April 17th at around 3:38 am."
-  },
-  {
     "timestamp_utc": "2026-04-19T16:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had one event recorded by our PiQuake Canada dashboard. It was a M4 quake that happened about 54 kilometers east northeast of Fort Saskatchewan in Alberta. This is just the latest addition to the dashboard, which has seen no events this hour but saw one previously. The main event in the last 24 hours came from AB region."
+  },
+  {
+    "timestamp_utc": "2026-05-10T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had one shake reported in Alberta. The largest was a M4 near Fort Saskatchewan and it happened on May 9th at about 3 PM. It's happening more often there lately with just one report this hour too."
   }
 ]

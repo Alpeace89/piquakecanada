@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260326.1021001,2026-03-26T10:21:43.000Z,48.6342,-123.1376,16.82,ML1,1.24,"21 km ENE of Central Saanich, BC/21 km ENE de Central Saanich, BC"
 20260326.1105001,2026-03-26T11:05:26.000Z,48.8689,-123.4125,20.61,ML,1.43,"7 km ENE of Saltspring Island Trust Area, BC/7 km ENE de Saltspring Island Trust Area, BC"
 20260326.1119001,2026-03-26T11:19:23.000Z,60.5132,-139.9726,5.0,ML,2.41,"137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
 20260326.1123001,2026-03-26T11:23:11.000Z,49.7079,-127.1742,28.97,ML1,1.37,"43 km WSW of Tahsis, BC/43 km OSO de Tahsis, BC"
