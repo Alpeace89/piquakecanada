@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour, but there was one event recorded yesterday at 3 PM. It measured M4 and happened about 54 kilometers east-northeast of Fort Saskatchewan, AB. This is where we've been seeing most of our seismic activity lately with just one region in Alberta reporting it.
+In the last 24 hours, there was one event recorded on our PiQuake Canada dashboard. It measured M4 and happened about 54 km east-northeast of Fort Saskatchewan in Alberta. This is not an unusual occurrence; we usually see a couple of events like this daily.

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-19T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no recorded quakes on the PiQuake Canada dashboard. The largest event was a tiny M-0.02 near La Malbaie in Quebec that happened around 3:38 AM yesterday. It's the quietest day yet!"
-  },
-  {
     "timestamp_utc": "2026-04-19T08:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there was one event recorded yesterday at 3 PM. It measured M4 and happened about 54 kilometers east-northeast of Fort Saskatchewan, AB. This is where we've been seeing most of our seismic activity lately with just one region in Alberta reporting it."
+  },
+  {
+    "timestamp_utc": "2026-05-10T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one event recorded on our PiQuake Canada dashboard. It measured M4 and happened about 54 km east-northeast of Fort Saskatchewan in Alberta. This is not an unusual occurrence; we usually see a couple of events like this daily."
   }
 ]
