@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260327.0118001,2026-03-27T01:18:34.000Z,47.8828,-69.5659,12.5,MwN,0.8,"6 km NNW of Rivière-du-Loup, QC/6 km NNO de Rivière-du-Loup, QC"
 20260327.0748001,2026-03-27T07:48:32.000Z,54.3104,-117.6918,1.0,MLy,2.51,"Suspected industry-related event, 58 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 58 km O de Fox Creek, AB"
 20260327.0949001,2026-03-27T09:49:52.000Z,50.0582,-67.0251,6.32,MwN,0.84,"12 km WNW of Port-Cartier, QC/12 km ONO de Port-Cartier, QC"
 20260327.1108001,2026-03-27T11:08:02.000Z,60.6195,-140.0881,5.0,ML,2.09,"101 km SW of Burwash Landing, YT/101 km SO de Burwash Landing, YT"
