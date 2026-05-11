@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows that no quakes were reported in the last hour, but there was one quake in the past 24 hours. The largest event of the day measured M4.04 and happened about 44 km southwest or southeast of Daajing Giids, BC. It's from this region where we saw activity yesterday.
+For the last 24 hours, there hasn't been any earthquakes reported on the PiQuake Canada dashboard. The largest quake was a mystery as its magnitude and location were unknown. But in the past hour, things stayed quiet too. It seems like we had no quakes to report at all.
