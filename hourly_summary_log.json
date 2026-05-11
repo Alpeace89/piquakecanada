@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-20T07:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no recorded quakes on the PiQuake Canada dashboard. The largest one was a tiny M-0.02 near La Malbaie in Quebec. It happened around 3:38 AM yesterday. That's it for the day!"
-  },
-  {
     "timestamp_utc": "2026-04-20T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday that measured M4.04 near Daajing Giids, BC. It's the largest quake we've seen today and it happened just after midnight UTC on May 9th. The region with the most activity is still British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-05-11T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M4.04 quake that happened 44 km southwest of Daajing Giids in British Columbia and another 44 km to the south-southeast. This is the largest earthquake recorded in the last 24 hours and it's happening in BC region."
   }
 ]
