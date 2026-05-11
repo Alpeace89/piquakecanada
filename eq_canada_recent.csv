@@ -509,4 +509,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260508.1519001,2026-05-08T15:19:33.000Z,60.5876,-139.9576,5.0,ML,2.91,"100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
 20260508.1820001,2026-05-08T18:20:53.000Z,60.526,-139.9611,5.0,ML,2.37,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
 20260509.1505002,2026-05-09T15:05:04.000Z,54.05,-112.61,2.0,Mw,4.0,"Preliminary; 54 km ENE of Fort Saskatchewan, AB/Preliminaire; 54 km ENE de Fort Saskatchewan, AB"
-20260510.2245001,2026-05-10T22:45:18.000Z,53.0002,-132.5938,21.61,ML,4.33,"44 km SW of Daajing Giids, BC/44 km SO de Daajing Giids, BC"
+20260510.2245002,2026-05-10T22:45:18.000Z,53.0002,-132.5938,21.61,Mw,4.04,"44 km SW of Daajing Giids, BC/44 km SO de Daajing Giids, BC"

@@ -1,7 +1,7 @@
 window.recentEvents = [
   {
     "time_utc": "2026-05-10T22:45:18.000Z",
-    "magnitude": "4.33",
+    "magnitude": "4.04",
     "depth_km": "21.61",
     "place": "44 km SW of Daajing Giids, BC/44 km SO de Daajing Giids, BC"
   },
