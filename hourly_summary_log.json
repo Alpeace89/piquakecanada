@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-20T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were six seismic events in the previous 24 hours. The largest event was a M3.14 happening 203 km WSW of Port Hardy, BC/203 km OSO de Port Hardy, BC, which is when the PiQuake Canada team gets its attention for monitoring and reporting. As of today's latest event at 11:05 am on April 20th, it's been happening in regions like British Columbia (three times) and the Yukon Territory (also three times)."
-  },
-  {
     "timestamp_utc": "2026-04-20T23:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity today, but there was one minor quake last night in BC. The largest event was a M4.04 near Daajing Giids that happened on May 9 at around midnight. It's the first and only earthquake recorded in the past 24 hours, happening just outside of Daajing Giids both to the west-southwest and south-southeast."
+  },
+  {
+    "timestamp_utc": "2026-05-11T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had one earthquake event in British Columbia with a magnitude of M4.04. This occurred about 44 kilometers southwest of Daajing Giids and 44 kilometers southeast of it at around 10:45 PM on May 9th BC time. The latest quake was the same as the previous one, so we're still seeing activity in that part of B.C."
   }
 ]
