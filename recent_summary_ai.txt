@@ -1,1 +1,1 @@
-Here's a quick rundown of the PiQuake Canada dashboard for today. We had one event last hour, with the largest being a M4.04 near Daajing Giids, BC in the last 24 hours. That was also our latest event as well. BC saw all activity in that time frame.
+In the last 24 hours, there was one earthquake event with a magnitude of M4.04 near Daajing Giids in British Columbia. This is just what we monitor and report on for our beta users. It's happening regularly, as it has been detected at least once every day over the past few days.

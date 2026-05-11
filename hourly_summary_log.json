@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-20T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there was one event recorded by our PiQuake Canada dashboard. It measured M2.17 and happened near Port Alice in British Columbia. That's right where it did before—a small tremor that we've been monitoring closely with our beta system."
-  },
-  {
     "timestamp_utc": "2026-04-20T21:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick rundown of the PiQuake Canada dashboard for today. We had one event last hour, with the largest being a M4.04 near Daajing Giids, BC in the last 24 hours. That was also our latest event as well. BC saw all activity in that time frame."
+  },
+  {
+    "timestamp_utc": "2026-05-11T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one earthquake event with a magnitude of M4.04 near Daajing Giids in British Columbia. This is just what we monitor and report on for our beta users. It's happening regularly, as it has been detected at least once every day over the past few days."
   }
 ]
