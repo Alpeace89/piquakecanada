@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-20T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the last 24 hours, there haven't been any reported earthquakes on the PiQuake Canada dashboard. The largest one recorded was a very tiny tremor measuring M-0.02 near La Malbaie, Quebec. This event happened around 3:38 AM yesterday. It's worth noting that no events were detected in the past hour either."
-  },
-  {
     "timestamp_utc": "2026-04-20T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M4.04 quake that happened 44 km southwest of Daajing Giids in British Columbia and another 44 km to the south-southeast. This is the largest earthquake recorded in the last 24 hours and it's happening in BC region."
+  },
+  {
+    "timestamp_utc": "2026-05-11T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M4.04 quake that happened about 44 km southwest or southeast of Daajing Giids, BC. That's the latest and only earthquake we've seen around here for the past 24 hours."
   }
 ]
