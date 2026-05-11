@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-20T17:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event was of unknown magnitude happening at an unknown location on an unknown time yesterday. The latest activity was a M1.24 quake, which is pretty minor and mostly felt by animals. It happened about 40 km west-northwest of Cap-Chat, Quebec, in the northwestern part of the province."
-  },
-  {
     "timestamp_utc": "2026-04-20T18:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one earthquake event recorded by our PiQuake Canada dashboard. It measured M4.04 and occurred near Daajing Giids in British Columbia. This is the only quake we've detected within that region so far today."
+  },
+  {
+    "timestamp_utc": "2026-05-11T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one earthquake event detected by the PiQuake Canada dashboard. It measured M4.04 and happened 44 kilometers southwest of Daajing Giids in British Columbia or southeast of that place. This is the largest quake we saw happening today, and it occurred on May 10th at about 10:45 PM UTC. Most of these quakes have been in British Columbia so far this period."
   }
 ]
