@@ -1,1 +1,1 @@
-In the last 24 hours, there was one seismic event detected by the PiQuake Canada dashboard. It measured M4.04 and happened near Daajing Giids in British Columbia. This is just a regular update from our beta service.
+In the last 24 hours, there was one earthquake event recorded by our PiQuake Canada dashboard. It measured M4.04 and occurred near Daajing Giids in British Columbia. This is the only quake we've detected within that region so far today.

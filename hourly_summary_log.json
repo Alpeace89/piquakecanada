@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-20T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event detected was M1.24, and it happened on April 19th around Cap-Chat, Quebec, about 40 km west-northwest of its location and 40 km east-southeast. It's just a normal part of what we see in the region."
-  },
-  {
     "timestamp_utc": "2026-04-20T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one seismic event detected by the PiQuake Canada dashboard. It measured M4.04 and happened near Daajing Giids in British Columbia. This is just a regular update from our beta service."
+  },
+  {
+    "timestamp_utc": "2026-05-11T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one earthquake event recorded by our PiQuake Canada dashboard. It measured M4.04 and occurred near Daajing Giids in British Columbia. This is the only quake we've detected within that region so far today."
   }
 ]
