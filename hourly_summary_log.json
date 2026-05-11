@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-21T02:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were six in the past day. The biggest one was a M3.14 under Port Hardy area and it happened yesterday at around noon. BC had three of these quakes while YK (Yukon) also got three, making that their top region for the day."
-  },
-  {
     "timestamp_utc": "2026-04-21T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one event recorded on our PiQuake Canada dashboard. It measured M4.04 and happened just southwest or south of Daajing Giids in British Columbia. That's not too far from where we saw a similar event earlier today."
+  },
+  {
+    "timestamp_utc": "2026-05-11T22:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows that no quakes were reported in the last hour, but there was one quake in the past 24 hours. The largest event of the day measured M4.04 and happened about 44 km southwest or southeast of Daajing Giids, BC. It's from this region where we saw activity yesterday."
   }
 ]
