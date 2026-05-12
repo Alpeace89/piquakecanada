@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-21T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there haven't been any reported quakes on the PiQuake Canada dashboard. The largest one recorded was a M3.14 at an unknown location. This is the only event in the last 24 hours and it happened around noon on April 20th."
-  },
-  {
     "timestamp_utc": "2026-04-21T14:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest event recorded was a magnitude unknown earthquake in an unknown location. Our latest update shows a M4.04 quake near Daajing Giids, BC. It happened around 10:45 PM on May 10th."
+  },
+  {
+    "timestamp_utc": "2026-05-12T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the PiQuake Canada dashboard in its beta phase, there were no events detected last hour or day. The largest event recorded in the last 24 hours was a mystery with an unknown magnitude and location. The latest quake reported was a M4.04 near Daajing Giids, BC, which happened on May 10th at about 10:45 PM."
   }
 ]
