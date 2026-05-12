@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-21T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were a total of 2 earthquakes reported. The largest one measured M2.96 and happened about 240 km south-southwest of Port Hardy in British Columbia. This was followed by another quake that measured M2.15 around 8 km east southeast of Namur in Quebec, which people could feel or experienced. Both events occurred within the past day."
-  },
-  {
     "timestamp_utc": "2026-04-21T21:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For those using the PiQuake Canada dashboard, there have been no quakes recorded in the last hour or day. The largest event was a M4.04 near Daajing Giids in British Columbia. It happened on May 10th at around 9:45 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-05-12T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The largest one we know of was a M4.04 near Daajing Giids in British Columbia. That happened about 22 hours ago at around 9:45 PM local time."
   }
 ]
