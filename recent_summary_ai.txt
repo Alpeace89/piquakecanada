@@ -1,1 +1,1 @@
-Here's a quick summary for the PiQuake Canada dashboard beta version: No events recorded in the last hour. The only event from yesterday was a M4.04 quake, located 44 km southwest of Daajing Giids and another 44 km southeast. This is the latest activity reported by our system so far.
+The PiQuake Canada dashboard hasn't logged any earthquakes in the last hour or day. The largest event recorded was a magnitude unknown earthquake at an unknown location, and there's no latest event reported yet. It seems we've been quiet with seismic activity here in BC.
