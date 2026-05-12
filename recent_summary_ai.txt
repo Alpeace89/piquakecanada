@@ -1,1 +1,1 @@
-In the past 24 hours, there have been no recorded events on the PiQuake Canada dashboard. The largest event was a M4.04, which happened 44 km southwest of Daajing Giids in British Columbia at about 10 PM on May 10th. It's good to know we've had a quiet period so far.
+Here's a quick summary for the PiQuake Canada dashboard beta version: No events recorded in the last hour. The only event from yesterday was a M4.04 quake, located 44 km southwest of Daajing Giids and another 44 km southeast. This is the latest activity reported by our system so far.
