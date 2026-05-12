@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-21T19:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no events reported on the PiQuake Canada dashboard. However, we had two minor quakes - one measuring M2.96 about 200 km southwest of Port Hardy in British Columbia and another smaller one at M2.15 near Namur in Quebec."
-  },
-  {
     "timestamp_utc": "2026-04-21T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, and there haven't been any in the past day either. The largest event from yesterday was an unknown magnitude happening at an unknown location. Our latest quake measured M4.04 near Daajing Giids, BC, recorded on May 10th around 10:45 PM."
+  },
+  {
+    "timestamp_utc": "2026-05-12T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For those using the PiQuake Canada dashboard, there have been no quakes recorded in the last hour or day. The largest event was a M4.04 near Daajing Giids in British Columbia. It happened on May 10th at around 9:45 PM local time."
   }
 ]

@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no earthquakes in the last hour, and there haven't been any in the past day either. The largest event from yesterday was an unknown magnitude happening at an unknown location. Our latest quake measured M4.04 near Daajing Giids, BC, recorded on May 10th around 10:45 PM.
+For those using the PiQuake Canada dashboard, there have been no quakes recorded in the last hour or day. The largest event was a M4.04 near Daajing Giids in British Columbia. It happened on May 10th at around 9:45 PM local time.
