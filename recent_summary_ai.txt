@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day, and the largest event recorded was an unknown magnitude at an unknown location. The latest event was a M4.04 that happened on May 10th around Daajing Giids area in British Columbia.
+In the past 24 hours, there have been no recorded events on the PiQuake Canada dashboard. The largest event was a M4.04, which happened 44 km southwest of Daajing Giids in British Columbia at about 10 PM on May 10th. It's good to know we've had a quiet period so far.

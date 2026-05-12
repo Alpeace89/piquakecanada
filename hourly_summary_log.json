@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-21T09:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had one event on our PiQuake Canada dashboard. It was a M3.14 quake near Port Hardy in British Columbia, recorded at around 11:05 AM today local time. That's pretty much it for now - just another day of regular quakes as usual here in Canada."
-  },
-  {
     "timestamp_utc": "2026-04-21T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and the largest event recorded was an unknown magnitude at an unknown location. The latest event was a M4.04 that happened on May 10th around Daajing Giids area in British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-05-12T05:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, there have been no recorded events on the PiQuake Canada dashboard. The largest event was a M4.04, which happened 44 km southwest of Daajing Giids in British Columbia at about 10 PM on May 10th. It's good to know we've had a quiet period so far."
   }
 ]
