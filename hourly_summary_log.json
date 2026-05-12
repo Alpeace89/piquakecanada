@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-21T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had no new earthquakes reported in real time. But yesterday, two were detected. The largest one measured M4.19 and happened around Port Hardy, BC/Port Hardy, BC—two places from each side of the Strait of Juan de Fuca. That’s our latest earthquake update for now."
-  },
-  {
     "timestamp_utc": "2026-04-22T00:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour and not even any in the past day. The biggest event was a mystery with unknown details, while the latest quake was a M4.04 near Daajing Giids in British Columbia on May 10th at around 9:45 PM."
+  },
+  {
+    "timestamp_utc": "2026-05-12T19:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is showing no activity for the past 24 hours. The last event recorded was a M4.04 quake, which happened about 44 km southwest of Daajing Giids, BC or 44 km south of Daajing Giids, BC. It occurred on May 10 at around 9:45 PM UTC."
   }
 ]
