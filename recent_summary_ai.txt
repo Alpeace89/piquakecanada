@@ -1,1 +1,1 @@
-In the last 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The largest one we know of was a M4.04 near Daajing Giids in British Columbia. That happened about 22 hours ago at around 9:45 PM local time.
+In the last 24 hours, there were no earthquakes reported on the PiQuake Canada dashboard. The largest one was a tiny M4.04 near Daajing Giids in British Columbia. It happened on May 10th around 10:45 PM Pacific Time.
