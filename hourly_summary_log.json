@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-21T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick rundown of the PiQuake Canada dashboard for today. We had no seismic events in the last hour or day, but we saw one small quake yesterday measuring M2.12 near Grande Prairie, Alberta. The place where it happened is suspected to be an industry-related event, though we're not sure exactly what caused it and when it occurred. It's a bit of a mystery, folks!"
-  },
-  {
     "timestamp_utc": "2026-04-21T15:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the PiQuake Canada dashboard in its beta phase, there were no events detected last hour or day. The largest event recorded in the last 24 hours was a mystery with an unknown magnitude and location. The latest quake reported was a M4.04 near Daajing Giids, BC, which happened on May 10th at about 10:45 PM."
+  },
+  {
+    "timestamp_utc": "2026-05-12T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey there! Our PiQuake Canada dashboard is still in beta, but it's showing no activity for the past 24 hours. The latest event was a M4.04 near Daajing Giids, BC, which happened on May 10th at about 10:45 PM. It looks like things are quiet down there!"
   }
 ]

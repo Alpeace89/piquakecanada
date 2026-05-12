@@ -1,1 +1,1 @@
-For the PiQuake Canada dashboard in its beta phase, there were no events detected last hour or day. The largest event recorded in the last 24 hours was a mystery with an unknown magnitude and location. The latest quake reported was a M4.04 near Daajing Giids, BC, which happened on May 10th at about 10:45 PM.
+Hey there! Our PiQuake Canada dashboard is still in beta, but it's showing no activity for the past 24 hours. The latest event was a M4.04 near Daajing Giids, BC, which happened on May 10th at about 10:45 PM. It looks like things are quiet down there!
