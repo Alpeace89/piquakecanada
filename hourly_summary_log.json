@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-21T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there have been four minor earthquakes in Canada's top regions, with the largest one measuring M3.14 and happening about 203 km west-southwest of Port Hardy, BC, at around noon on April 20th. It's just a low-level quake, but it shows that this part of British Columbia is still active seismically speaking."
-  },
-  {
     "timestamp_utc": "2026-04-21T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, it's been a quiet few days with no earthquakes to report. The latest quake measured M4.04 and happened about 44 km southwest or south of Daajing Giids in British Columbia. It was the only event we tracked in the last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-05-12T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event recorded was an unknown magnitude near Daajing Giids, BC. It happened on May 10th at around 10:45 PM Pacific Time. No other events have been detected recently."
   }
 ]

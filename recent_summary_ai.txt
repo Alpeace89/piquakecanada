@@ -1,1 +1,1 @@
-Hey folks, it's been a quiet few days with no earthquakes to report. The latest quake measured M4.04 and happened about 44 km southwest or south of Daajing Giids in British Columbia. It was the only event we tracked in the last 24 hours.
+The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event recorded was an unknown magnitude near Daajing Giids, BC. It happened on May 10th at around 10:45 PM Pacific Time. No other events have been detected recently.
