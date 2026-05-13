@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-13T18:45:20.000Z",
+    "magnitude": "3.09",
+    "depth_km": "5.0",
+    "place": "207 km S of Fort McPherson, NT/207 km S de Fort McPherson, NT"
+  },
+  {
     "time_utc": "2026-05-13T16:17:10.000Z",
     "magnitude": "3.25",
     "depth_km": "10.0",
@@ -18,10 +24,28 @@ window.recentEvents = [
     "place": "162 km W of Juneau, AK/162 km O de Juneau, AK"
   },
   {
+    "time_utc": "2026-05-13T02:53:54.000Z",
+    "magnitude": "2.27",
+    "depth_km": "1.0",
+    "place": "160 km W of Juneau, AK/160 km O de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-05-12T22:45:38.000Z",
+    "magnitude": "0.17",
+    "depth_km": "13.4",
+    "place": "6 km N of Les \u00c9boulements, QC/6 km N de Les \u00c9boulements, QC"
+  },
+  {
     "time_utc": "2026-05-12T20:35:23.000Z",
     "magnitude": "3.95",
     "depth_km": "9.82",
     "place": "26 km NE of Skidegate 1, BC, felt/26 km NE de Skidegate 1, BC, ressenti"
+  },
+  {
+    "time_utc": "2026-05-12T18:42:39.000Z",
+    "magnitude": "1.42",
+    "depth_km": "2.0",
+    "place": "67 km ESE of Lewiston, ME/67 km ESE de Lewiston, ME"
   },
   {
     "time_utc": "2026-05-12T17:05:29.000Z",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "2.47",
     "depth_km": "1.0",
     "place": "62 km WSW of Burwash Landing, YT/62 km OSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-05-11T23:25:18.000Z",
-    "magnitude": "1.59",
-    "depth_km": "18.56",
-    "place": "18 km SSW of Masset, BC/18 km SSO de Masset, BC"
-  },
-  {
-    "time_utc": "2026-05-11T22:54:16.000Z",
-    "magnitude": "2.1",
-    "depth_km": "1.0",
-    "place": "Blast, 2 km W of Golden, ON/Dynamitage, 2 km O de Golden, ON"
-  },
-  {
-    "time_utc": "2026-05-11T16:24:34.000Z",
-    "magnitude": "2.38",
-    "depth_km": "0.0",
-    "place": "Blast, 3 km NNE of Fermont, QC/Dynamitage, 3 km NNE de Fermont, QC"
-  },
-  {
-    "time_utc": "2026-05-11T16:13:48.000Z",
-    "magnitude": "0.72",
-    "depth_km": "2.0",
-    "place": "16 km N of McKellar, ON/16 km N de McKellar, ON"
   }
 ];
