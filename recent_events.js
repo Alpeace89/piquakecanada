@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "66 km W of Daajing Giids, BC/66 km O de Daajing Giids, BC"
   },
   {
+    "time_utc": "2026-05-13T10:00:02.000Z",
+    "magnitude": "2.48",
+    "depth_km": "5.0",
+    "place": "102 km SSW of Fort McPherson, NT/102 km SSO de Fort McPherson, NT"
+  },
+  {
     "time_utc": "2026-05-13T03:06:28.000Z",
     "magnitude": "3.0",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.07",
     "depth_km": "10.0",
     "place": "222 km WSW of Juneau, AK/222 km OSO de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-05-12T15:36:28.000Z",
-    "magnitude": "2.47",
-    "depth_km": "1.0",
-    "place": "62 km WSW of Burwash Landing, YT/62 km OSO de Burwash Landing, YT"
   }
 ];
