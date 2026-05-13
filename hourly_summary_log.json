@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-22T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had 5 earthquakes reported. The largest one measured M4.19 and happened around Port Hardy in British Columbia. A smaller one this afternoon near Victoria was a modest M2.69. It looks like most of these were happening in British Columbia."
-  },
-  {
     "timestamp_utc": "2026-04-22T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were detected. The largest one recorded was a magnitude unknown happening somewhere around Daajing Giids in British Columbia at an unspecified time. There hasn't been any activity to report from the dashboard recently."
+  },
+  {
+    "timestamp_utc": "2026-05-13T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour but had three events yesterday. The largest was a M3.95 near Skidegate, BC, felt and reported in both forms—26 km northeast of Skidegate, 1, BC. This was also the latest event on the dashboard. In the past 24 hours, Yukon, Alaska, and an unknown region had their share of quakes."
   }
 ]
