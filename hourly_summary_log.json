@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-22T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of two recorded quakes on our PiQuake Canada dashboard. The biggest one was a M3.06 near some mining operations in British Columbia, followed by another quake that measured M2.69 about 19 km away from Victoria. It seems like things are pretty quiet down here in BC with most of the recent activity happening in the B.C. region."
-  },
-  {
     "timestamp_utc": "2026-04-22T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been no earthquakes reported. However, a M3.95 quake was felt about 26 km northeast of Skidegate, BC, and another one with magnitude M3.51 occurred 66 km west of Daajing Giids, BC. These are the only quakes we've tracked in our Beta Canada dashboard since the last update."
+  },
+  {
+    "timestamp_utc": "2026-05-13T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had three minor quakes. The biggest one was a M3.95 near Skidegate in BC, which people felt and could feel. Then we had another small one that day from Daajing Giids in British Columbia. And those are all we've seen so far this week."
   }
 ]

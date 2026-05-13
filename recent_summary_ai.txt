@@ -1,1 +1,1 @@
-In the last 24 hours, there have been no earthquakes reported. However, a M3.95 quake was felt about 26 km northeast of Skidegate, BC, and another one with magnitude M3.51 occurred 66 km west of Daajing Giids, BC. These are the only quakes we've tracked in our Beta Canada dashboard since the last update.
+In the last 24 hours, we had three minor quakes. The biggest one was a M3.95 near Skidegate in BC, which people felt and could feel. Then we had another small one that day from Daajing Giids in British Columbia. And those are all we've seen so far this week.

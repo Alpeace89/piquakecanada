@@ -24,6 +24,12 @@ window.recentEvents = [
     "place": "62 km WSW of Burwash Landing, YT/62 km OSO de Burwash Landing, YT"
   },
   {
+    "time_utc": "2026-05-11T23:25:18.000Z",
+    "magnitude": "1.59",
+    "depth_km": "18.56",
+    "place": "18 km SSW of Masset, BC/18 km SSO de Masset, BC"
+  },
+  {
     "time_utc": "2026-05-11T22:54:16.000Z",
     "magnitude": "2.1",
     "depth_km": "1.0",
@@ -48,15 +54,9 @@ window.recentEvents = [
     "place": "19 km N of McKellar, ON/19 km N de McKellar, ON"
   },
   {
-    "time_utc": "2026-05-11T10:38:10.000Z",
-    "magnitude": "1.14",
-    "depth_km": "21.88",
-    "place": "29 km NE of Saanich, BC/29 km NE de Saanich, BC"
-  },
-  {
-    "time_utc": "2026-05-11T10:30:23.000Z",
-    "magnitude": "1.68",
-    "depth_km": "5.0",
-    "place": "137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
+    "time_utc": "2026-05-11T10:56:01.000Z",
+    "magnitude": "1.33",
+    "depth_km": "54.73",
+    "place": "46 km SSW of Surrey, BC/46 km SSO de Surrey, BC"
   }
 ];
