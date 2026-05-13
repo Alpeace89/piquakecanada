@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-22T23:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks! We've got one minor earthquake event in the last 24 hours, measuring M2.69 around Victoria, BC. It's close to the coast and about 19 kilometers away from where you might be reading this. This is just a normal part of our seismically active region, nothing to worry about or notice outside of any earthquake monitoring dashboards."
-  },
-  {
     "timestamp_utc": "2026-04-23T00:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows that we had no earthquakes reported in the last hour, but four seismic events in the past 24 hours. The largest one was a M3.95 near Skidegate, BC, felt and ressented. That’s followed by another M3.25 event 201 km west-southwest of Port Hardy, BC."
+  },
+  {
+    "timestamp_utc": "2026-05-13T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no events reported on our PiQuake Canada dashboard. But one of them had a magnitude of M3.95 near Skidegate, BC and was felt/resented by people. Since then, another event with a smaller magnitude of M3.25 occurred farther west in Port Hardy, BC. We've had three events tracked in total over the last 24 hours across different regions including British Columbia and Alaska."
   }
 ]
