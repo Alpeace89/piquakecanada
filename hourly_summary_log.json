@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-23T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one report of a small quake at M2.69 near Victoria this past day. It's the largest shake we've seen since our beta started, and it happened about 19 kilometers southwest of Victoria. This is where many residents live and work, so we're keeping an eye on things to make sure everyone is safe."
-  },
-  {
     "timestamp_utc": "2026-04-23T02:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of four earthquakes monitored by our PiQuake Canada dashboard. The largest one was a M3.95 near Skidegate in British Columbia, which people felt and some reported resonance effects. More recently, another M3.25 quake hit around Port Hardy in BC early this afternoon. Our coverage so far has been primarily from the western parts of Canada with events in BC and Alaska, but we're seeing more activity now extending a bit into the east coast under \"Unknown\" as well."
+  },
+  {
+    "timestamp_utc": "2026-05-13T21:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three reports within a day. The biggest shake was a M3.51 near Daajing Giids, BC/BC, and another M3.25 event happened 201 km west-southwest of Port Hardy, BC. BC had two reports for the day while Alaska had one."
   }
 ]
