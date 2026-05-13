@@ -1,9 +1,21 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-13T16:17:10.000Z",
+    "magnitude": "3.25",
+    "depth_km": "10.0",
+    "place": "201 km WSW of Port Hardy, BC/201 km OSO de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-05-13T10:45:56.000Z",
     "magnitude": "3.51",
     "depth_km": "20.91",
     "place": "66 km W of Daajing Giids, BC/66 km O de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-05-13T03:06:28.000Z",
+    "magnitude": "3.0",
+    "depth_km": "5.0",
+    "place": "162 km W of Juneau, AK/162 km O de Juneau, AK"
   },
   {
     "time_utc": "2026-05-12T20:35:23.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "0.72",
     "depth_km": "2.0",
     "place": "16 km N of McKellar, ON/16 km N de McKellar, ON"
-  },
-  {
-    "time_utc": "2026-05-11T15:58:53.000Z",
-    "magnitude": "1.46",
-    "depth_km": "2.0",
-    "place": "19 km N of McKellar, ON/19 km N de McKellar, ON"
-  },
-  {
-    "time_utc": "2026-05-11T10:56:01.000Z",
-    "magnitude": "1.33",
-    "depth_km": "54.73",
-    "place": "46 km SSW of Surrey, BC/46 km SSO de Surrey, BC"
   }
 ];

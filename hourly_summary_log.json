@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-22T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were two minor tremors recorded. The largest one measured M3.06 near a mine in British Columbia and occurred about 22 hours ago. Since then, another quake of magnitude M2.69 hit just outside Victoria at around noon today. BC has been the most active region over the past day with these small shakes."
-  },
-  {
     "timestamp_utc": "2026-04-22T23:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three minor quakes. The biggest one was a M3.95 near Skidegate in BC, which people felt and could feel. Then we had another small one that day from Daajing Giids in British Columbia. And those are all we've seen so far this week."
+  },
+  {
+    "timestamp_utc": "2026-05-13T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows that we had no earthquakes reported in the last hour, but four seismic events in the past 24 hours. The largest one was a M3.95 near Skidegate, BC, felt and ressented. That’s followed by another M3.25 event 201 km west-southwest of Port Hardy, BC."
   }
 ]

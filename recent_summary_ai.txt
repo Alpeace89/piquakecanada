@@ -1,1 +1,1 @@
-In the last 24 hours, we had three minor quakes. The biggest one was a M3.95 near Skidegate in BC, which people felt and could feel. Then we had another small one that day from Daajing Giids in British Columbia. And those are all we've seen so far this week.
+The PiQuake Canada dashboard shows that we had no earthquakes reported in the last hour, but four seismic events in the past 24 hours. The largest one was a M3.95 near Skidegate, BC, felt and ressented. That’s followed by another M3.25 event 201 km west-southwest of Port Hardy, BC.
