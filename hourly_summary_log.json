@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-23T22:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks, the PiQuake Canada dashboard shows that there were no big earthquakes in the last hour but one little shake happened around Daajing Giids, BC. It was a M2.24 quake, which is pretty small and didn't cause any issues. The latest event is still from yesterday at 5:17 AM. Most of these quakes are happening in British Columbia so far today."
-  },
-  {
     "timestamp_utc": "2026-04-23T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two minor seismic events. The biggest one was a M3.09 near Fort McPherson in the Northwest Territories, which happened earlier today at 6 PM local time. The other event was a smaller M1.72 near Seattle, Washington around midnight our time."
+  },
+  {
+    "timestamp_utc": "2026-05-14T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were seven quakes recorded yesterday. The largest quake was a M3.75 that happened 84 km west-southwest of Holberg, BC/84 km OSO de Holberg, BC. It's the latest quake on record too. Places like Yukon Territory and British Columbia saw some activity with two quakes each in the past 24 hours."
   }
 ]

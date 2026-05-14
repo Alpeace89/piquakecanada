@@ -1,5 +1,35 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-14T09:19:07.000Z",
+    "magnitude": "3.75",
+    "depth_km": "10.0",
+    "place": "84 km WSW of Holberg, BC/84 km OSO de Holberg, BC"
+  },
+  {
+    "time_utc": "2026-05-14T09:18:42.000Z",
+    "magnitude": "2.98",
+    "depth_km": "10.0",
+    "place": "83 km WSW of Holberg, BC/83 km OSO de Holberg, BC"
+  },
+  {
+    "time_utc": "2026-05-14T04:06:26.000Z",
+    "magnitude": "1.95",
+    "depth_km": "5.0",
+    "place": "134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-14T03:50:23.000Z",
+    "magnitude": "2.54",
+    "depth_km": "5.0",
+    "place": "136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-14T03:33:31.000Z",
+    "magnitude": "1.94",
+    "depth_km": "5.0",
+    "place": "100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
+  },
+  {
     "time_utc": "2026-05-14T01:39:03.000Z",
     "magnitude": "1.72",
     "depth_km": "16.94",
@@ -28,35 +58,5 @@ window.recentEvents = [
     "magnitude": "2.48",
     "depth_km": "5.0",
     "place": "102 km SSW of Fort McPherson, NT/102 km SSO de Fort McPherson, NT"
-  },
-  {
-    "time_utc": "2026-05-13T03:06:28.000Z",
-    "magnitude": "3.0",
-    "depth_km": "5.0",
-    "place": "162 km W of Juneau, AK/162 km O de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-05-13T02:53:54.000Z",
-    "magnitude": "2.27",
-    "depth_km": "1.0",
-    "place": "160 km W of Juneau, AK/160 km O de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-05-12T22:45:38.000Z",
-    "magnitude": "0.17",
-    "depth_km": "13.4",
-    "place": "6 km N of Les \u00c9boulements, QC/6 km N de Les \u00c9boulements, QC"
-  },
-  {
-    "time_utc": "2026-05-12T20:35:23.000Z",
-    "magnitude": "3.95",
-    "depth_km": "9.82",
-    "place": "26 km NE of Skidegate 1, BC, felt/26 km NE de Skidegate 1, BC, ressenti"
-  },
-  {
-    "time_utc": "2026-05-12T18:42:39.000Z",
-    "magnitude": "1.42",
-    "depth_km": "2.0",
-    "place": "67 km ESE of Lewiston, ME/67 km ESE de Lewiston, ME"
   }
 ];
