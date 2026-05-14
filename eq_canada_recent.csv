@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260330.2140001,2026-03-30T21:40:32.000Z,49.1454,-122.1781,0.0,ML,1.57,"Blast, 15 km NE of Abbotsford, BC/Dynamitage, 15 km NE de Abbotsford, BC"
 20260330.2244001,2026-03-30T22:44:07.000Z,62.2207,-141.5402,5.0,ML,1.95,"39 km WSW of Beaver Creek, YT/39 km OSO de Beaver Creek, YT"
 20260331.0223001,2026-03-31T02:23:24.000Z,47.587,-70.2326,11.99,MwN,0.33,"9 km SW of La Malbaie, QC/9 km SO de La Malbaie, QC"
 20260331.0230002,2026-03-31T02:30:41.000Z,50.6312,-130.387,10.0,Mw',2.49,"204 km W of Port Hardy, BC/204 km O de Port Hardy, BC"
