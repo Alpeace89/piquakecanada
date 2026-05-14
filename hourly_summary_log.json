@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-23T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is still in beta and hasn't recorded any events for the last 24 hours. The largest event it's aware of happened a couple of days ago, with a magnitude of M2.69 near Victoria, BC. Nothing serious has been detected since then."
-  },
-  {
     "timestamp_utc": "2026-04-23T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but had two quakes in the previous 24 hours. The biggest one was a M3.25 near Port Hardy, BC and Fort McPherson, NT yesterday at around 2 PM local time. The latest quake on record was a M3.09, also hitting those areas just after 6:45 PM yesterday."
+  },
+  {
+    "timestamp_utc": "2026-05-14T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two small quakes detected by our PiQuake Canada dashboard. The largest one measured M3.25 and happened around Port Hardy in BC, while another M3.09 quake occurred near Fort McPherson in NT. It's been quiet though with no events recorded today so far."
   }
 ]
