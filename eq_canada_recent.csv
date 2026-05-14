@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260330.0900001,2026-03-30T09:00:04.000Z,54.2714,-118.5723,1.0,MLy,2.83,"Suspected industry-related event, 56 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 56 km NE de Grande Cache, AB"
-20260330.0907001,2026-03-30T09:07:52.000Z,54.3024,-118.5493,1.0,MLy,3.09,"Suspected industry-related event, 59 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 59 km NE de Grande Cache, AB"
 20260330.1309001,2026-03-30T13:09:27.000Z,56.6883,-121.6193,1.0,MLy,2.57,"Suspected industry-related event, 27 km NNE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 27 km NNE de Halfway River 168, BC"
 20260330.1456001,2026-03-30T14:56:07.000Z,56.697,-121.5905,1.0,MLy,2.73,"Suspected industry-related event, 30 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 30 km O de Blueberry River 205, BC"
 20260330.1546001,2026-03-30T15:46:42.000Z,53.3657,-117.4228,1.0,MLy,2.43,"Suspected industry-related event, 11 km ESE of Hinton, AB/Événement lié à l'industrie soupconné, 11 km ESE de Hinton, AB"
