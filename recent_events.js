@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-14T09:37:00.000Z",
+    "magnitude": "2.92",
+    "depth_km": "10.0",
+    "place": "247 km SSW of Port Hardy, BC/247 km SSO de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-05-14T09:19:07.000Z",
     "magnitude": "3.75",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.51",
     "depth_km": "20.91",
     "place": "66 km W of Daajing Giids, BC/66 km O de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-05-13T10:00:02.000Z",
-    "magnitude": "2.48",
-    "depth_km": "5.0",
-    "place": "102 km SSW of Fort McPherson, NT/102 km SSO de Fort McPherson, NT"
   }
 ];
