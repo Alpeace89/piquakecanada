@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260330.1953001,2026-03-30T19:53:19.000Z,49.3245,-122.6665,0.0,ML,1.48,"Blast, 10 km ENE of Coquitlam, BC/Dynamitage, 10 km ENE de Coquitlam, BC"
 20260330.2007002,2026-03-30T20:07:33.000Z,56.6983,-121.6097,1.0,MLy,2.52,"Suspected industry-related event, 29 km NNE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 29 km NNE de Halfway River 168, BC"
 20260330.2007001,2026-03-30T20:07:33.000Z,56.7177,-121.5997,1.0,MLy,2.52,"Suspected industry-related event, 41 km SW of Prespatou, BC/Événement lié à l'industrie soupconné, 41 km SO de Prespatou, BC"
 20260330.2027001,2026-03-30T20:27:05.000Z,60.4347,-139.5946,5.0,ML,2.06,"119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
@@ -543,3 +542,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260514.0918001,2026-05-14T09:18:42.000Z,50.4743,-129.1487,10.0,Mw',2.98,"83 km WSW of Holberg, BC/83 km OSO de Holberg, BC"
 20260514.0919001,2026-05-14T09:19:07.000Z,50.4686,-129.1571,10.0,Mw',3.75,"84 km WSW of Holberg, BC/84 km OSO de Holberg, BC"
 20260514.0937001,2026-05-14T09:37:00.000Z,48.6389,-128.6645,10.0,Mw',2.92,"247 km SSW of Port Hardy, BC/247 km SSO de Port Hardy, BC"
+20260514.1101001,2026-05-14T11:01:31.000Z,60.4698,-141.6332,5.0,ML,1.97,"227 km W of Haines Junction, YT/227 km O de Haines Junction, YT"
+20260514.1221001,2026-05-14T12:21:14.000Z,60.2244,-141.3121,5.0,ML,2.08,"216 km WSW of Haines Junction, YT/216 km OSO de Haines Junction, YT"
+20260514.1738001,2026-05-14T17:38:37.000Z,48.7772,-128.9854,10.0,Mw',3.17,"241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC"

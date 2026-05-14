@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-14T17:38:37.000Z",
+    "magnitude": "3.17",
+    "depth_km": "10.0",
+    "place": "241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-05-14T12:21:14.000Z",
+    "magnitude": "2.08",
+    "depth_km": "5.0",
+    "place": "216 km WSW of Haines Junction, YT/216 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-14T11:01:31.000Z",
+    "magnitude": "1.97",
+    "depth_km": "5.0",
+    "place": "227 km W of Haines Junction, YT/227 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-05-14T09:37:00.000Z",
     "magnitude": "2.92",
     "depth_km": "10.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.72",
     "depth_km": "16.94",
     "place": "20 km E of Seattle, WA/20 km E de Seattle, WA"
-  },
-  {
-    "time_utc": "2026-05-13T18:45:20.000Z",
-    "magnitude": "3.09",
-    "depth_km": "5.0",
-    "place": "207 km S of Fort McPherson, NT/207 km S de Fort McPherson, NT"
-  },
-  {
-    "time_utc": "2026-05-13T16:17:10.000Z",
-    "magnitude": "3.25",
-    "depth_km": "10.0",
-    "place": "201 km WSW of Port Hardy, BC/201 km OSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-05-13T10:45:56.000Z",
-    "magnitude": "3.51",
-    "depth_km": "20.91",
-    "place": "66 km W of Daajing Giids, BC/66 km O de Daajing Giids, BC"
   }
 ];
