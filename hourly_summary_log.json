@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-23T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but one event recorded yesterday at a magnitude of M2.69. The largest quake in the past 24 hours was near Victoria, BC/Victoria, Mexico, and that's where all activity is happening now. It's been quiet overall though, with just that single earthquake making waves."
-  },
-  {
     "timestamp_utc": "2026-04-23T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been no new earthquakes reported. However, we saw five quakes. The largest one was a M3.51 near Daajing Giids in British Columbia and Alaska. And just yesterday afternoon, a smaller one at M3.09 shook Fort McPherson in the Northwest Territories."
+  },
+  {
+    "timestamp_utc": "2026-05-14T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had four minor earthquakes. The largest one was a M3.51 near Daajing Giids in British Columbia and another M3.09 in Fort McPherson in the Northwest Territories. It's been pretty quiet for our region lately with no events recorded over the past hour."
   }
 ]
