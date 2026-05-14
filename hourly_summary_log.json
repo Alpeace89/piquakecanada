@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-23T05:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had one event in Canada's west coast, a PiQuake alert near Victoria at a magnitude of M2.69. It happened just after noon on April 22nd and it was located about 19 kilometers southwest or south-southwest of Victoria, so folks there should know it’s not something to ignore but also nothing to panic over."
-  },
-  {
     "timestamp_utc": "2026-04-23T06:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had a total of six earthquakes monitored by our PiQuake Canada dashboard. The largest event was a M3.51 near Daajing Giids in British Columbia and its neighbor to the west. Just yesterday afternoon, another shake measuring M3.09 occurred about 207 km south of Fort McPherson, Northwest Territories. BC, NT, and AK have been the top regions with activity over this period."
+  },
+  {
+    "timestamp_utc": "2026-05-14T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is showing no events in the last hour, but we've had six quakes over the past day. The largest one was a M3.51 near Daajing Giids, BC. The most recent quake, which was even smaller at M3.09, happened just yesterday from 207 kilometers south of Fort McPherson, NT. Most of these quakes have been happening in areas like Alaska and the Northwest Territories."
   }
 ]
