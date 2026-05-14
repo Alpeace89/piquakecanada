@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-23T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a magnitude unknown, happening at an unknown location and time. The latest quake registered as M2.69 about 19 km southwest of Victoria, BC around 14:33 on the 22nd. There are currently no regions with notable seismic activity reported."
-  },
-  {
     "timestamp_utc": "2026-04-23T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three minor quakes. The biggest one was a M3.51 near Daajing Giids in British Columbia and its neighbour Alberta on May 13th. A smaller quake of M3.09 happened further south in the Northwest Territories too. Most of these tremors were spotted in British Columbia and the Northwest Territories, with two in BC alone."
+  },
+  {
+    "timestamp_utc": "2026-05-14T11:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but had two quakes in the previous 24 hours. The biggest one was a M3.25 near Port Hardy, BC and Fort McPherson, NT yesterday at around 2 PM local time. The latest quake on record was a M3.09, also hitting those areas just after 6:45 PM yesterday."
   }
 ]
