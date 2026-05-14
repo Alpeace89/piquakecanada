@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-14T01:39:03.000Z",
+    "magnitude": "1.72",
+    "depth_km": "16.94",
+    "place": "20 km E of Seattle, WA/20 km E de Seattle, WA"
+  },
+  {
     "time_utc": "2026-05-13T18:45:20.000Z",
     "magnitude": "3.09",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.42",
     "depth_km": "2.0",
     "place": "67 km ESE of Lewiston, ME/67 km ESE de Lewiston, ME"
-  },
-  {
-    "time_utc": "2026-05-12T18:16:43.000Z",
-    "magnitude": "2.2",
-    "depth_km": "1.0",
-    "place": "Blast, 10 km NE of Geraldton, ON/Dynamitage, 10 km NE de Geraldton, ON"
   }
 ];

@@ -1,12 +1,23 @@
 {
-  "generated_utc": "2026-05-14T16:03:01Z",
+  "generated_utc": "2026-05-14T17:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 538,
+  "rolling_window_event_count": 541,
   "events_last_24h": 2,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 2,
+  "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
+    "event_id": "20260514.0139001",
+    "time_utc": "2026-05-14T01:39:03.000Z",
+    "latitude": 47.5577,
+    "longitude": -122.0703,
+    "depth_km": 16.94,
+    "mag_type": "ML",
+    "magnitude": 1.72,
+    "place": "20 km E of Seattle, WA/20 km E de Seattle, WA",
+    "region": "WA"
+  },
+  "largest_event_last_24h": {
     "event_id": "20260513.1845001",
     "time_utc": "2026-05-13T18:45:20.000Z",
     "latitude": 65.5899,
@@ -17,37 +28,26 @@
     "place": "207 km S of Fort McPherson, NT/207 km S de Fort McPherson, NT",
     "region": "NT"
   },
-  "largest_event_last_24h": {
-    "event_id": "20260513.1617001",
-    "time_utc": "2026-05-13T16:17:10.000Z",
-    "latitude": 50.2199,
-    "longitude": -130.2265,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.25,
-    "place": "201 km WSW of Port Hardy, BC/201 km OSO de Port Hardy, BC",
-    "region": "BC"
-  },
   "deepest_event_last_24h": {
-    "event_id": "20260513.1617001",
-    "time_utc": "2026-05-13T16:17:10.000Z",
-    "latitude": 50.2199,
-    "longitude": -130.2265,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.25,
-    "place": "201 km WSW of Port Hardy, BC/201 km OSO de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260514.0139001",
+    "time_utc": "2026-05-14T01:39:03.000Z",
+    "latitude": 47.5577,
+    "longitude": -122.0703,
+    "depth_km": 16.94,
+    "mag_type": "ML",
+    "magnitude": 1.72,
+    "place": "20 km E of Seattle, WA/20 km E de Seattle, WA",
+    "region": "WA"
   },
   "top_regions_last_24h": [
     {
-      "region": "BC",
+      "region": "NT",
       "count": 1
     },
     {
-      "region": "NT",
+      "region": "WA",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-14 16:03 UTC, the recent Canada earthquake dataset contains 538 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.25 at 201 km WSW of Port Hardy, BC/201 km OSO de Port Hardy, BC. The deepest event reached 10.00 km at 201 km WSW of Port Hardy, BC/201 km OSO de Port Hardy, BC. The most recent listed event was M3.09 at 207 km S of Fort McPherson, NT/207 km S de Fort McPherson, NT at 2026-05-13T18:45:20.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (1) and NT (1)."
+  "summary_text": "As of 2026-05-14 17:03 UTC, the recent Canada earthquake dataset contains 541 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.09 at 207 km S of Fort McPherson, NT/207 km S de Fort McPherson, NT. The deepest event reached 16.94 km at 20 km E of Seattle, WA/20 km E de Seattle, WA. The most recent listed event was M1.72 at 20 km E of Seattle, WA/20 km E de Seattle, WA at 2026-05-14T01:39:03.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were NT (1) and WA (1)."
 }
