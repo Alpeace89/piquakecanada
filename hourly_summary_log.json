@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-23T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard showed no earthquakes in the last hour, but there was one event recorded yesterday. The largest quake was a M2.24 near Daajing Giids in British Columbia, and it happened at 5:17 AM today local time. BC is where we saw activity today."
-  },
-  {
     "timestamp_utc": "2026-04-23T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two quakes recorded yesterday. The largest event was a M3.25 near Port Hardy in BC and another one not far away from Fort McPherson in the Northwest Territories. That's all for today on our dashboards."
+  },
+  {
+    "timestamp_utc": "2026-05-14T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two in the past day with a largest event being M3.25 near Port Hardy, BC and another M3.09 around Fort McPherson, NT. The latest event was on May 13th."
   }
 ]

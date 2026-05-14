@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there were two quakes recorded yesterday. The largest event was a M3.25 near Port Hardy in BC and another one not far away from Fort McPherson in the Northwest Territories. That's all for today on our dashboards.
+The PiQuake Canada dashboard shows no events in the last hour, but there were two in the past day with a largest event being M3.25 near Port Hardy, BC and another M3.09 around Fort McPherson, NT. The latest event was on May 13th.

@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260330.1546001,2026-03-30T15:46:42.000Z,53.3657,-117.4228,1.0,MLy,2.43,"Suspected industry-related event, 11 km ESE of Hinton, AB/Événement lié à l'industrie soupconné, 11 km ESE de Hinton, AB"
 20260330.1751001,2026-03-30T17:51:09.000Z,56.6968,-121.5991,1.0,MLy,3.28,"Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC"
 20260330.1755001,2026-03-30T17:55:00.000Z,54.3041,-118.53,1.0,MLy,2.66,"Suspected industry-related event, 60 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 60 km NE de Grande Cache, AB"
 20260330.1845001,2026-03-30T18:45:55.000Z,49.6364,-122.2446,5.0,ML,2.3,"14 km SSW of Douglas 8, BC/14 km SSO de Douglas 8, BC"
@@ -515,7 +514,10 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260511.1558001,2026-05-11T15:58:53.000Z,45.6774,-79.9346,2.0,MwN,1.46,"19 km N of McKellar, ON/19 km N de McKellar, ON"
 20260511.1613001,2026-05-11T16:13:48.000Z,45.6519,-79.9269,2.0,MwN,0.72,"16 km N of McKellar, ON/16 km N de McKellar, ON"
 20260511.1624001,2026-05-11T16:24:34.000Z,52.8053,-67.0591,0.0,MwN,2.38,"Blast, 3 km NNE of Fermont, QC/Dynamitage, 3 km NNE de Fermont, QC"
+20260511.1949001,2026-05-11T19:49:06.000Z,53.8583,-132.2304,16.91,ML,2.33,"18 km SSW of Masset, BC/18 km SSO de Masset, BC"
 20260511.2254001,2026-05-11T22:54:16.000Z,51.059,-93.7669,1.0,MwN,2.1,"Blast, 2 km W of Golden, ON/Dynamitage, 2 km O de Golden, ON"
+20260511.2303001,2026-05-11T23:03:14.000Z,48.9759,-124.1588,23.96,ML1,0.81,"26 km SW of Nanaimo, BC/26 km SO de Nanaimo, BC"
+20260511.2305001,2026-05-11T23:05:40.000Z,50.3138,-127.4623,5.0,ML1,0.71,"13 km S of Port Alice, BC/13 km S de Port Alice, BC"
 20260511.2325001,2026-05-11T23:25:18.000Z,53.8571,-132.2445,18.56,ML,1.59,"18 km SSW of Masset, BC/18 km SSO de Masset, BC"
 20260512.0318001,2026-05-12T03:18:45.000Z,67.1428,-136.1462,5.0,ML,2.39,"63 km WSW of Fort McPherson, NT/63 km OSO de Fort McPherson, NT"
 20260512.0609002,2026-05-12T06:09:00.000Z,47.4286,-70.1589,10.44,MwN,0.95,"11 km NW of La Pocatière, QC/11 km NO de La Pocatière, QC"
