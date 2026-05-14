@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-23T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there was one small earthquake yesterday. The largest event recorded was a M2.69 near Victoria, BC, happening at about 14:30 on April 22nd. This is where it's located, and that's all we know for now."
-  },
-  {
     "timestamp_utc": "2026-04-23T10:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had four minor earthquakes. The largest one was a M3.51 near Daajing Giids in British Columbia and another M3.09 in Fort McPherson in the Northwest Territories. It's been pretty quiet for our region lately with no events recorded over the past hour."
+  },
+  {
+    "timestamp_utc": "2026-05-14T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For those checking in on the PiQuake Canada dashboard, it's been a pretty quiet day with no major quakes since yesterday. The biggest one we've seen was a M3.51 near British Columbia yesterday at around noon. There have been four minor shakes since yesterday afternoon and both of them are happening in territories far north like Fort McPherson in the Northwest Territories and Daajing Giids area in British Columbia."
   }
 ]

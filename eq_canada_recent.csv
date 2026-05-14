@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260330.0422001,2026-03-30T04:22:51.000Z,54.318,-118.5257,1.0,MLy,2.39,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
 20260330.0605001,2026-03-30T06:05:55.000Z,56.6666,-121.5519,1.0,MLy,2.7,"Suspected industry-related event, 28 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 28 km O de Blueberry River 205, BC"
 20260330.0623001,2026-03-30T06:23:44.000Z,60.4711,-139.6415,5.0,ML,1.74,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
 20260330.0756001,2026-03-30T07:56:25.000Z,51.1317,-124.4876,5.0,ML,2.56,"54 km SW of Lohbiee 3, BC/54 km SO de Lohbiee 3, BC"
