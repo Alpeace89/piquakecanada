@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-23T18:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, one earthquake event was recorded by our PiQuake Canada dashboard. It measured M2.24 and happened about 59 kilometers southwest of Daajing Giids in British Columbia. This is the latest activity we've seen on our platform. The most recent event matches this magnitude and location."
-  },
-  {
     "timestamp_utc": "2026-04-23T19:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of 2 small earthquakes. The largest one measured M3.25 and happened near Port Hardy in British Columbia and Fort McPherson in the Northwest Territories. That's the only earthquake we've seen since yesterday."
+  },
+  {
+    "timestamp_utc": "2026-05-14T14:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two small earthquakes, with the largest measuring M3.25 near Port Hardy in British Columbia and another at M3.09 near Fort McPherson in the Northwest Territories. These are just reminders that our area can experience a little seismic activity now and then."
   }
 ]

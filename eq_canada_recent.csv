@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260330.1309001,2026-03-30T13:09:27.000Z,56.6883,-121.6193,1.0,MLy,2.57,"Suspected industry-related event, 27 km NNE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 27 km NNE de Halfway River 168, BC"
 20260330.1456001,2026-03-30T14:56:07.000Z,56.697,-121.5905,1.0,MLy,2.73,"Suspected industry-related event, 30 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 30 km O de Blueberry River 205, BC"
 20260330.1546001,2026-03-30T15:46:42.000Z,53.3657,-117.4228,1.0,MLy,2.43,"Suspected industry-related event, 11 km ESE of Hinton, AB/Événement lié à l'industrie soupconné, 11 km ESE de Hinton, AB"
 20260330.1751001,2026-03-30T17:51:09.000Z,56.6968,-121.5991,1.0,MLy,3.28,"Suspected industry-related event, 31 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 31 km O de Blueberry River 205, BC"
@@ -516,9 +515,11 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260511.2254001,2026-05-11T22:54:16.000Z,51.059,-93.7669,1.0,MwN,2.1,"Blast, 2 km W of Golden, ON/Dynamitage, 2 km O de Golden, ON"
 20260511.2325001,2026-05-11T23:25:18.000Z,53.8571,-132.2445,18.56,ML,1.59,"18 km SSW of Masset, BC/18 km SSO de Masset, BC"
 20260512.0318001,2026-05-12T03:18:45.000Z,67.1428,-136.1462,5.0,ML,2.39,"63 km WSW of Fort McPherson, NT/63 km OSO de Fort McPherson, NT"
-20260512.0609001,2026-05-12T06:09:01.000Z,47.432,-70.158,9.6,MwN,1.04,"12 km NW of La Pocatière, QC/12 km NO de La Pocatière, QC"
+20260512.0609002,2026-05-12T06:09:00.000Z,47.4286,-70.1589,10.44,MwN,0.95,"11 km NW of La Pocatière, QC/11 km NO de La Pocatière, QC"
 20260512.0823001,2026-05-12T08:23:19.000Z,47.5906,-70.2159,6.24,MwN,0.09,"8 km SW of La Malbaie, QC/8 km SO de La Malbaie, QC"
+20260512.0940001,2026-05-12T09:40:36.000Z,47.9259,-80.6678,1.0,MwN,2.1,"Blast, 2 km SSE of Young-Davidson Mine, ON/Dynamitage, 2 km SSE de la mine Young-Davidson, ON"
 20260512.1536001,2026-05-12T15:36:28.000Z,61.1275,-140.054,1.0,ML,2.47,"62 km WSW of Burwash Landing, YT/62 km OSO de Burwash Landing, YT"
+20260512.1611001,2026-05-12T16:11:21.000Z,52.7784,-67.3687,0.0,MwN,2.16,"Blast, 19 km W of Fermont, QC/Dynamitage, 19 km O de Fermont, QC"
 20260512.1705001,2026-05-12T17:05:29.000Z,57.7344,-138.0264,10.0,ML,3.07,"222 km WSW of Juneau, AK/222 km OSO de Juneau, AK"
 20260512.1842001,2026-05-12T18:42:39.000Z,43.9367,-69.4058,2.0,MwN,1.42,"67 km ESE of Lewiston, ME/67 km ESE de Lewiston, ME"
 20260512.2035004,2026-05-12T20:35:23.000Z,53.4576,-131.7587,9.82,ML,3.95,"26 km NE of Skidegate 1, BC, felt/26 km NE de Skidegate 1, BC, ressenti"
