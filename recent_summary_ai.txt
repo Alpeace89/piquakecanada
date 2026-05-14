@@ -1,1 +1,1 @@
-In the last 24 hours, we've had two small earthquakes, with the largest measuring M3.25 near Port Hardy in British Columbia and another at M3.09 near Fort McPherson in the Northwest Territories. These are just reminders that our area can experience a little seismic activity now and then.
+The PiQuake Canada dashboard shows no events in the last hour, but there were two quakes recorded yesterday. The largest event was a M3.25 near Port Hardy in BC and another one not far away from Fort McPherson in the Northwest Territories. That's all for today on our dashboards.

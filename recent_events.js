@@ -54,9 +54,9 @@ window.recentEvents = [
     "place": "67 km ESE of Lewiston, ME/67 km ESE de Lewiston, ME"
   },
   {
-    "time_utc": "2026-05-12T17:05:29.000Z",
-    "magnitude": "3.07",
-    "depth_km": "10.0",
-    "place": "222 km WSW of Juneau, AK/222 km OSO de Juneau, AK"
+    "time_utc": "2026-05-12T18:16:43.000Z",
+    "magnitude": "2.2",
+    "depth_km": "1.0",
+    "place": "Blast, 10 km NE of Geraldton, ON/Dynamitage, 10 km NE de Geraldton, ON"
   }
 ];
