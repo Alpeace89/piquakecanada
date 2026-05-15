@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-05-15T14:03:02Z",
+  "generated_utc": "2026-05-15T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 542,
-  "events_last_24h": 1,
+  "rolling_window_event_count": 543,
+  "events_last_24h": 3,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260514.1738001",
-    "time_utc": "2026-05-14T17:38:37.000Z",
-    "latitude": 48.7772,
-    "longitude": -128.9854,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.17,
-    "place": "241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260514.1928001",
+    "time_utc": "2026-05-14T19:28:23.000Z",
+    "latitude": 47.5594,
+    "longitude": -70.2681,
+    "depth_km": 9.64,
+    "mag_type": "MwN",
+    "magnitude": 0.55,
+    "place": "13 km SW of La Malbaie, QC/13 km SO de La Malbaie, QC",
+    "region": "QC"
   },
   "largest_event_last_24h": {
     "event_id": "20260514.1738001",
@@ -29,21 +29,25 @@
     "region": "BC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260514.1738001",
-    "time_utc": "2026-05-14T17:38:37.000Z",
-    "latitude": 48.7772,
-    "longitude": -128.9854,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.17,
-    "place": "241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260514.1843001",
+    "time_utc": "2026-05-14T18:43:16.000Z",
+    "latitude": 47.4906,
+    "longitude": -70.0731,
+    "depth_km": 11.42,
+    "mag_type": "MwN",
+    "magnitude": 0.72,
+    "place": "14 km NNW of La Pocatière, QC/14 km NNO de La Pocatière, QC",
+    "region": "QC"
   },
   "top_regions_last_24h": [
+    {
+      "region": "QC",
+      "count": 2
+    },
     {
       "region": "BC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-15 14:03 UTC, the recent Canada earthquake dataset contains 542 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.17 at 241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC. The deepest event reached 10.00 km at 241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC. The most recent listed event was M3.17 at 241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC at 2026-05-14T17:38:37.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was BC."
+  "summary_text": "As of 2026-05-15 15:03 UTC, the recent Canada earthquake dataset contains 543 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.17 at 241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC. The deepest event reached 11.42 km at 14 km NNW of La Pocatière, QC/14 km NNO de La Pocatière, QC. The most recent listed event was M0.55 at 13 km SW of La Malbaie, QC/13 km SO de La Malbaie, QC at 2026-05-14T19:28:23.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and BC (1)."
 }

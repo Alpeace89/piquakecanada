@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-24T19:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there have been five quakes recorded in the past 24 hours. The largest quake was a M2.63 that happened around 45 km west-southwest of Refuge Cove 6, BC. This is where the latest event occurred just before 6 am UTC on April 24th. The top regions for earthquakes last 24 hours were Yukon Territory with two quakes, New Brunswick with one, and Quebec with another."
-  },
-  {
     "timestamp_utc": "2026-04-24T20:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. The largest quake recorded recently was a M3.17 near Port Hardy, BC, happening around 5 PM on May 14th. It's been quiet here lately with most activity focused in British Columbia region."
+  },
+  {
+    "timestamp_utc": "2026-05-15T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had three PiQuake Canada events. The biggest one was a M3.17 near Port Hardy in British Columbia, and it happened about 241 km south-southwest of that city. In Quebec, another event with a magnitude of M0.55 shook La Malbaie region just two hours before midnight. That's the whole story for our beta version dashboard folks!"
   }
 ]

@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-14T19:28:23.000Z",
+    "magnitude": "0.55",
+    "depth_km": "9.64",
+    "place": "13 km SW of La Malbaie, QC/13 km SO de La Malbaie, QC"
+  },
+  {
+    "time_utc": "2026-05-14T18:43:16.000Z",
+    "magnitude": "0.72",
+    "depth_km": "11.42",
+    "place": "14 km NNW of La Pocati\u00e8re, QC/14 km NNO de La Pocati\u00e8re, QC"
+  },
+  {
     "time_utc": "2026-05-14T17:38:37.000Z",
     "magnitude": "3.17",
     "depth_km": "10.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.99",
     "depth_km": "2.0",
     "place": "21 km WNW of Britt part A, ON/21 km ONO de Britt part A, ON"
-  },
-  {
-    "time_utc": "2026-05-14T03:50:23.000Z",
-    "magnitude": "2.54",
-    "depth_km": "5.0",
-    "place": "136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-14T03:37:58.000Z",
-    "magnitude": "1.83",
-    "depth_km": "2.0",
-    "place": "22 km WNW of Britt part A, ON/22 km ONO de Britt part A, ON"
   }
 ];
