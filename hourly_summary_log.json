@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-24T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, no earthquakes were detected in our Canada dashboard. The largest event recorded was a M2.24 near Daajing Giids, BC, which happened around 05:17 UTC on April 23rd. It's important to note that this is just one event and we monitor for any seismic activity."
-  },
-  {
     "timestamp_utc": "2026-04-24T08:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had nine PiQuake Canada dashboard events. The biggest one was a M3.75 shake 84 km west-southwest of Holberg, BC. It's like when you're playing hide and seek and someone calls out your name from far away — it's pretty big but not that scary. Our latest event was even closer to home, just shy of Port Hardy in British Columbia. And guess what? Most of these quakes happened in Yukon Territory with four, followed by British Columbia with four too."
+  },
+  {
+    "timestamp_utc": "2026-05-15T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were nine recorded quakes yesterday. The largest one was a M3.75 near Holberg, BC at around 9:20 AM on May 14th. And just today, we had another quake with a magnitude of M3.17 about an hour after midnight in Port Hardy, BC. The top regions seeing the most activity are Yukon and British Columbia."
   }
 ]
