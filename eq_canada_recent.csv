@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260331.1903001,2026-03-31T19:03:01.000Z,66.9981,-137.0011,5.0,ML,2.48,"103 km WSW of Fort McPherson, NT/103 km OSO de Fort McPherson, NT"
 20260331.2133001,2026-03-31T21:33:16.000Z,55.0889,-124.0907,0.0,ML,2.35,"Blast, 5 km SW of Mount Milligan Mine, BC/Dynamitage, 5 km SO de la mine Mount Milligan, BC"
 20260401.0221001,2026-04-01T02:21:04.000Z,50.7798,-130.4089,10.0,Mw',2.96,"205 km W of Port Hardy, BC/205 km O de Port Hardy, BC"
 20260401.0312001,2026-04-01T03:12:24.000Z,46.3684,-66.1512,10.66,MwN,2.25,"22 km S of Doaktown, NB/22 km S de Doaktown, NB"
