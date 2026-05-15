@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-24T18:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were six quakes recorded over the past 24 hours. The largest one was a M2.63 near Refuge Cove in British Columbia, which happened at 5:56 AM on April 24th. This place has been quite active lately with two quakes reported in BC and two more in Yukon Territory within just one day."
-  },
-  {
     "timestamp_utc": "2026-04-24T19:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had one little shake in Port Hardy area of British Columbia. The biggest one was a M3.17 at around 5 PM yesterday, and it's happened again today. It's all about small quakes but happens often in that part of BC."
+  },
+  {
+    "timestamp_utc": "2026-05-15T14:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. The largest quake recorded recently was a M3.17 near Port Hardy, BC, happening around 5 PM on May 14th. It's been quiet here lately with most activity focused in British Columbia region."
   }
 ]

@@ -533,6 +533,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260514.0333001,2026-05-14T03:33:31.000Z,60.5747,-139.9225,5.0,ML,1.94,"100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
 20260514.0337001,2026-05-14T03:37:58.000Z,45.8764,-80.7981,2.0,MwN,1.83,"22 km WNW of Britt part A, ON/22 km ONO de Britt part A, ON"
 20260514.0350001,2026-05-14T03:50:23.000Z,60.5173,-139.9588,5.0,ML,2.54,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
+20260514.0353001,2026-05-14T03:53:47.000Z,45.8778,-80.7885,2.0,MwN,1.99,"21 km WNW of Britt part A, ON/21 km ONO de Britt part A, ON"
 20260514.0406001,2026-05-14T04:06:26.000Z,60.5285,-139.922,5.0,ML,1.95,"134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"
 20260514.0918001,2026-05-14T09:18:42.000Z,50.4743,-129.1487,10.0,Mw',2.98,"83 km WSW of Holberg, BC/83 km OSO de Holberg, BC"
 20260514.0919001,2026-05-14T09:19:07.000Z,50.4686,-129.1571,10.0,Mw',3.75,"84 km WSW of Holberg, BC/84 km OSO de Holberg, BC"
