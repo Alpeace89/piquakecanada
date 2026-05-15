@@ -1,10 +1,10 @@
 {
-  "generated_utc": "2026-05-15T17:03:01Z",
+  "generated_utc": "2026-05-15T18:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 541,
-  "events_last_24h": 4,
+  "events_last_24h": 3,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 1,
+  "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
     "event_id": "20260514.2051001",
@@ -18,15 +18,15 @@
     "region": "QC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260514.1738001",
-    "time_utc": "2026-05-14T17:38:37.000Z",
-    "latitude": 48.7772,
-    "longitude": -128.9854,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.17,
-    "place": "241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260514.2051001",
+    "time_utc": "2026-05-14T20:51:42.000Z",
+    "latitude": 45.6703,
+    "longitude": -74.1673,
+    "depth_km": 0.0,
+    "mag_type": "MwN",
+    "magnitude": 1.38,
+    "place": "Blast, 7 km WNW of Mirabel, QC/Dynamitage, 7 km ONO de Mirabel, QC",
+    "region": "QC"
   },
   "deepest_event_last_24h": {
     "event_id": "20260514.1843001",
@@ -43,11 +43,7 @@
     {
       "region": "QC",
       "count": 3
-    },
-    {
-      "region": "BC",
-      "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-15 17:03 UTC, the recent Canada earthquake dataset contains 541 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.17 at 241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC. The deepest event reached 11.42 km at 14 km NNW of La Pocatière, QC/14 km NNO de La Pocatière, QC. The most recent listed event was M1.38 at Blast, 7 km WNW of Mirabel, QC/Dynamitage, 7 km ONO de Mirabel, QC at 2026-05-14T20:51:42.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (3) and BC (1)."
+  "summary_text": "As of 2026-05-15 18:03 UTC, the recent Canada earthquake dataset contains 541 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.38 at Blast, 7 km WNW of Mirabel, QC/Dynamitage, 7 km ONO de Mirabel, QC. The deepest event reached 11.42 km at 14 km NNW of La Pocatière, QC/14 km NNO de La Pocatière, QC. The most recent listed event was M1.38 at Blast, 7 km WNW of Mirabel, QC/Dynamitage, 7 km ONO de Mirabel, QC at 2026-05-14T20:51:42.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
 }
