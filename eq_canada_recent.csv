@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260331.1507001,2026-03-31T15:07:47.000Z,54.2887,-118.5391,6.27,MLy,2.65,"Suspected industry-related event, 58 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 58 km NE de Grande Cache, AB"
-20260331.1556001,2026-03-31T15:56:55.000Z,48.7492,-128.5818,10.0,Mw',3.36,"201 km WSW of Tofino, BC/201 km OSO de Tofino, BC"
 20260331.1626001,2026-03-31T16:26:28.000Z,50.8768,-130.326,10.0,Mw',2.86,"199 km W of Port Hardy, BC/199 km O de Port Hardy, BC"
 20260331.1903001,2026-03-31T19:03:01.000Z,66.9981,-137.0011,5.0,ML,2.48,"103 km WSW of Fort McPherson, NT/103 km OSO de Fort McPherson, NT"
 20260331.2133001,2026-03-31T21:33:16.000Z,55.0889,-124.0907,0.0,ML,2.35,"Blast, 5 km SW of Mount Milligan Mine, BC/Dynamitage, 5 km SO de la mine Mount Milligan, BC"
@@ -542,3 +540,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260514.1738001,2026-05-14T17:38:37.000Z,48.7772,-128.9854,10.0,Mw',3.17,"241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC"
 20260514.1843001,2026-05-14T18:43:16.000Z,47.4906,-70.0731,11.42,MwN,0.72,"14 km NNW of La Pocatière, QC/14 km NNO de La Pocatière, QC"
 20260514.1928001,2026-05-14T19:28:23.000Z,47.5594,-70.2681,9.64,MwN,0.55,"13 km SW of La Malbaie, QC/13 km SO de La Malbaie, QC"
+20260514.2051001,2026-05-14T20:51:42.000Z,45.6703,-74.1673,0.0,MwN,1.38,"Blast, 7 km WNW of Mirabel, QC/Dynamitage, 7 km ONO de Mirabel, QC"

@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-14T20:51:42.000Z",
+    "magnitude": "1.38",
+    "depth_km": "0.0",
+    "place": "Blast, 7 km WNW of Mirabel, QC/Dynamitage, 7 km ONO de Mirabel, QC"
+  },
+  {
     "time_utc": "2026-05-14T19:28:23.000Z",
     "magnitude": "0.55",
     "depth_km": "9.64",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.95",
     "depth_km": "5.0",
     "place": "134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-14T03:53:47.000Z",
-    "magnitude": "1.99",
-    "depth_km": "2.0",
-    "place": "21 km WNW of Britt part A, ON/21 km ONO de Britt part A, ON"
   }
 ];
