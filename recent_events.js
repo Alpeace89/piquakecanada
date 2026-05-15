@@ -1,5 +1,29 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-15T02:38:34.000Z",
+    "magnitude": "2.39",
+    "depth_km": "5.0",
+    "place": "125 km WSW of Haines Junction, YT/125 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-15T02:01:35.000Z",
+    "magnitude": "2.72",
+    "depth_km": "10.0",
+    "place": "83 km WSW of Holberg, BC/83 km OSO de Holberg, BC"
+  },
+  {
+    "time_utc": "2026-05-15T01:53:56.000Z",
+    "magnitude": "1.41",
+    "depth_km": "14.87",
+    "place": "50 km SW of Houpsitas 6, BC/50 km SO de Houpsitas 6, BC"
+  },
+  {
+    "time_utc": "2026-05-15T01:51:56.000Z",
+    "magnitude": "1.33",
+    "depth_km": "21.11",
+    "place": "48 km SW of Houpsitas 6, BC/48 km SO de Houpsitas 6, BC"
+  },
+  {
     "time_utc": "2026-05-14T20:51:42.000Z",
     "magnitude": "1.38",
     "depth_km": "0.0",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "1.97",
     "depth_km": "5.0",
     "place": "227 km W of Haines Junction, YT/227 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-14T09:37:00.000Z",
-    "magnitude": "2.92",
-    "depth_km": "10.0",
-    "place": "247 km SSW of Port Hardy, BC/247 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-05-14T09:19:07.000Z",
-    "magnitude": "3.75",
-    "depth_km": "10.0",
-    "place": "84 km WSW of Holberg, BC/84 km OSO de Holberg, BC"
-  },
-  {
-    "time_utc": "2026-05-14T09:18:42.000Z",
-    "magnitude": "2.98",
-    "depth_km": "10.0",
-    "place": "83 km WSW of Holberg, BC/83 km OSO de Holberg, BC"
-  },
-  {
-    "time_utc": "2026-05-14T04:06:26.000Z",
-    "magnitude": "1.95",
-    "depth_km": "5.0",
-    "place": "134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"
   }
 ];

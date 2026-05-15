@@ -1,49 +1,57 @@
 {
-  "generated_utc": "2026-05-15T18:03:01Z",
+  "generated_utc": "2026-05-15T19:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 541,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 545,
+  "events_last_24h": 6,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260514.2051001",
-    "time_utc": "2026-05-14T20:51:42.000Z",
-    "latitude": 45.6703,
-    "longitude": -74.1673,
-    "depth_km": 0.0,
-    "mag_type": "MwN",
-    "magnitude": 1.38,
-    "place": "Blast, 7 km WNW of Mirabel, QC/Dynamitage, 7 km ONO de Mirabel, QC",
-    "region": "QC"
+    "event_id": "20260515.0238001",
+    "time_utc": "2026-05-15T02:38:34.000Z",
+    "latitude": 60.5133,
+    "longitude": -139.7555,
+    "depth_km": 5.0,
+    "mag_type": "ML",
+    "magnitude": 2.39,
+    "place": "125 km WSW of Haines Junction, YT/125 km OSO de Haines Junction, YT",
+    "region": "YT"
   },
   "largest_event_last_24h": {
-    "event_id": "20260514.2051001",
-    "time_utc": "2026-05-14T20:51:42.000Z",
-    "latitude": 45.6703,
-    "longitude": -74.1673,
-    "depth_km": 0.0,
-    "mag_type": "MwN",
-    "magnitude": 1.38,
-    "place": "Blast, 7 km WNW of Mirabel, QC/Dynamitage, 7 km ONO de Mirabel, QC",
-    "region": "QC"
+    "event_id": "20260515.0201001",
+    "time_utc": "2026-05-15T02:01:35.000Z",
+    "latitude": 50.4143,
+    "longitude": -129.128,
+    "depth_km": 10.0,
+    "mag_type": "Mw'",
+    "magnitude": 2.72,
+    "place": "83 km WSW of Holberg, BC/83 km OSO de Holberg, BC",
+    "region": "BC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260514.1843001",
-    "time_utc": "2026-05-14T18:43:16.000Z",
-    "latitude": 47.4906,
-    "longitude": -70.0731,
-    "depth_km": 11.42,
-    "mag_type": "MwN",
-    "magnitude": 0.72,
-    "place": "14 km NNW of La Pocatière, QC/14 km NNO de La Pocatière, QC",
-    "region": "QC"
+    "event_id": "20260515.0151001",
+    "time_utc": "2026-05-15T01:51:56.000Z",
+    "latitude": 49.7373,
+    "longitude": -127.8608,
+    "depth_km": 21.11,
+    "mag_type": "ML",
+    "magnitude": 1.33,
+    "place": "48 km SW of Houpsitas 6, BC/48 km SO de Houpsitas 6, BC",
+    "region": "BC"
   },
   "top_regions_last_24h": [
     {
-      "region": "QC",
+      "region": "BC",
       "count": 3
+    },
+    {
+      "region": "QC",
+      "count": 2
+    },
+    {
+      "region": "YT",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-15 18:03 UTC, the recent Canada earthquake dataset contains 541 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.38 at Blast, 7 km WNW of Mirabel, QC/Dynamitage, 7 km ONO de Mirabel, QC. The deepest event reached 11.42 km at 14 km NNW of La Pocatière, QC/14 km NNO de La Pocatière, QC. The most recent listed event was M1.38 at Blast, 7 km WNW of Mirabel, QC/Dynamitage, 7 km ONO de Mirabel, QC at 2026-05-14T20:51:42.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
+  "summary_text": "As of 2026-05-15 19:03 UTC, the recent Canada earthquake dataset contains 545 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.72 at 83 km WSW of Holberg, BC/83 km OSO de Holberg, BC. The deepest event reached 21.11 km at 48 km SW of Houpsitas 6, BC/48 km SO de Houpsitas 6, BC. The most recent listed event was M2.39 at 125 km WSW of Haines Junction, YT/125 km OSO de Haines Junction, YT at 2026-05-15T02:38:34.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and QC (2)."
 }
