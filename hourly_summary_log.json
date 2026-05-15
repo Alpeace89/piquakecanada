@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-24T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but had three small quakes in the past 24 hours. The largest one was a M2.14 and happened near Haines Junction, Yukon Territory, both east and west of it. The latest quake clocked at M2.08 also occurred there around midnight. Most of these shakes were felt in Yukon and British Columbia regions."
-  },
-  {
     "timestamp_utc": "2026-04-24T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the last 24 hours, we've had six little earthquakes reported. The biggest one measured M3.75 and happened about 84 km west-southwest of a place called Holberg in British Columbia. If you didn't know, that's just slightly north of where Highway 97 goes through. The latest quake was even smaller at M3.17, and it hit someplace near Port Hardy on the western side of Vancouver Island yesterday afternoon. Most of these have happened in BC, but we've also seen a couple up in Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-05-15T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three seismic activities within a day. The largest event recorded was a magnitude M3.17 near Port Hardy in British Columbia and Yukon, occurring on May 14th at around 5:38 PM UTC."
   }
 ]
