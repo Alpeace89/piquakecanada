@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-24T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've seen six little shakes happening across Canada. The biggest one was a M2.63 near some remote places in British Columbia. There have been three smaller ones reported in the Yukon Territory and one each in New Brunswick and Quebec. It's all part of what we call PiQuake, our monitoring system for these tiny tremors that don't usually cause any big issues."
-  },
-  {
     "timestamp_utc": "2026-04-24T22:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had four minor seismic events. The largest one was a M3.17 near Port Hardy in BC and another close by in Quebec. If you're curious about where they happen, most of these quakes have been in Quebec with three recorded there, and one each in British Columbia. The latest one was from dynamite blasts just outside Mirabel and Mirabel, Quebec."
+  },
+  {
+    "timestamp_utc": "2026-05-15T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four recorded quakes in the previous 24 hours. The largest was a M3.17 near Port Hardy, BC and Mirabel, QC. That's followed by a smaller one just a day before at Mirabel, Quebec as part of some dynamite blasting activity. The top regions for these recent quakes were Québec and British Columbia."
   }
 ]
