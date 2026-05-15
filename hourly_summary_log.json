@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-24T05:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we saw one earthquake event with a magnitude of M2.24 near Daajing Giids in British Columbia. That was our only quake for the past day and it happened on April 23rd at around 5:18 AM. It's located about 60 km south-southwest from where Daajing Giids is situated, which is a mountain range in BC. We're keeping an eye on this area as part of our regular monitoring to stay alert for any future quakes."
-  },
-  {
     "timestamp_utc": "2026-04-24T06:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had 10 earthquakes reported. The largest one was a M3.75 near Holberg in British Columbia, which happened just before dawn on May 14th. If you're in Yukon, BC, or Washington State, that region saw most of those shakes, with 5 in the Yukon, and 4 each in BC and WA."
+  },
+  {
+    "timestamp_utc": "2026-05-15T01:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had a total of ten seismic events reported across Canada. The largest one measured at M3.75, occurring near Holberg in British Columbia. This is just a snapshot of recent activity; earlier today, we also saw a quake measuring M3.17 about 240 km south-southwest of Port Hardy in British Columbia. It's been quietest in Yukon so far with five quakes reported."
   }
 ]
