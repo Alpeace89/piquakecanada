@@ -48,15 +48,15 @@ window.recentEvents = [
     "place": "136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
   },
   {
+    "time_utc": "2026-05-14T03:37:58.000Z",
+    "magnitude": "1.83",
+    "depth_km": "2.0",
+    "place": "22 km WNW of Britt part A, ON/22 km ONO de Britt part A, ON"
+  },
+  {
     "time_utc": "2026-05-14T03:33:31.000Z",
     "magnitude": "1.94",
     "depth_km": "5.0",
     "place": "100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-05-14T01:39:03.000Z",
-    "magnitude": "1.72",
-    "depth_km": "16.94",
-    "place": "20 km E of Seattle, WA/20 km E de Seattle, WA"
   }
 ];

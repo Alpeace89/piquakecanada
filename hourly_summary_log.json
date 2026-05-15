@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-24T17:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had six seismic events on our PiQuake Canada dashboard. The largest one was a M2.63 just west-southwest of Refuge Cove in British Columbia and Yukon territories. That's where it happened. This is part of what we're monitoring to keep everyone safe and informed."
-  },
-  {
     "timestamp_utc": "2026-04-24T18:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two small quakes in BC and Yukon. The largest one was a M3.17 near Port Hardy area, which happened yesterday at around 5 PM. It's been quiet for the rest of the country this period."
+  },
+  {
+    "timestamp_utc": "2026-05-15T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had one little shake in Port Hardy area of British Columbia. The biggest one was a M3.17 at around 5 PM yesterday, and it's happened again today. It's all about small quakes but happens often in that part of BC."
   }
 ]
