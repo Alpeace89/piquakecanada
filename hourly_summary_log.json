@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-24T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were five detected over the past day. The largest was a M2.14 near Haines Junction in the Yukon and British Columbia yesterday at around midnight. This is followed by another M2.08 off the coast of Yukon today at 3:40 AM. Most activity has been reported in the Yukon Territory region over the last 24 hours."
-  },
-  {
     "timestamp_utc": "2026-04-24T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three seismic activities within a day. The largest event recorded was a magnitude M3.17 near Port Hardy in British Columbia and Yukon, occurring on May 14th at around 5:38 PM UTC."
+  },
+  {
+    "timestamp_utc": "2026-05-15T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary of the PiQuake Canada dashboard for you. In the last hour, we didn't have any events at all. Over the past 24 hours though, there were two quakes registered with the largest one measuring M3.17 and happening near Port Hardy in British Columbia. That latest event happened on May 14th at about 5:38 PM local time. And to give you an idea of where it was felt, we had activity reported in both Yukon and British Columbia regions that day."
   }
 ]
