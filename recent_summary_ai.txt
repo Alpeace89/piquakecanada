@@ -1,1 +1,1 @@
-For the past 24 hours, we've had no events on our PiQuake Canada dashboard. The latest one was a M2.39 near Haines Junction in the Yukon territory, spotted around midnight yesterday. It's hard to say where or when the next one might happen though.
+The PiQuake Canada dashboard is showing no activity in the last hour or day. The largest event recorded was M2.39, which happened about 125 km west-southwest of Haines Junction, Yukon and Osorno, Yukon on May 15 at around midnight UTC. It's quiet out there!

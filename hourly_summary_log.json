@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-25T10:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, no earthquakes were reported by our PiQuake Canada dashboard. The largest event was a magnitude unknown located in an unknown place. Our latest recorded earthquake was M2.22, which happened about 133 km west and east of Haines Junction in the Yukon territory on April 24th at around 09:39 AM UTC."
-  },
-  {
     "timestamp_utc": "2026-04-25T11:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the past 24 hours, we've had no events on our PiQuake Canada dashboard. The latest one was a M2.39 near Haines Junction in the Yukon territory, spotted around midnight yesterday. It's hard to say where or when the next one might happen though."
+  },
+  {
+    "timestamp_utc": "2026-05-16T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is showing no activity in the last hour or day. The largest event recorded was M2.39, which happened about 125 km west-southwest of Haines Junction, Yukon and Osorno, Yukon on May 15 at around midnight UTC. It's quiet out there!"
   }
 ]
