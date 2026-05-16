@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-25T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had two minor earthquakes with the largest measuring M2.63 near Refuge Cove in British Columbia and another at Haines Junction in Yukon. It's pretty quiet lately, but it seems there have been no activity in the past hour either. The latest one was measured at M2.22 and happened earlier today."
-  },
-  {
     "timestamp_utc": "2026-04-25T05:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four recorded quakes in the past day. The largest one was a M2.72 near Holberg in British Columbia, and the latest quake measured at M2.39 was closer to Haines Junction in Yukon Territory. BC had three of those quakes, while YT got one."
+  },
+  {
+    "timestamp_utc": "2026-05-16T00:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had four minor earthquakes reported. The largest one measured M2.72 near Holberg in British Columbia and was recorded on May 15th at about midnight. A smaller one with a magnitude of M2.39 also happened near Haines Junction in Yukon Territory this morning. It looks like the epicenters were mostly in BC and YT, with three events happening there compared to one in YT."
   }
 ]
