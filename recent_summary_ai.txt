@@ -1,1 +1,1 @@
-In the last 24 hours, there were no events reported on the PiQuake Canada dashboard. The largest event detected was a magnitude unknown happening at an unknown location, while the latest recorded activity was a M2.39 quake located about 125 km west-southwest of Haines Junction in both Yukon and Ontario territories.
+The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event was a magnitude unknown, located at an unknown place and time. The latest recorded quake was M2.39 on May 15th around 2:38 AM, near Haines Junction, Yukon Territory.
