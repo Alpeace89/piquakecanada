@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260401.2012001,2026-04-01T20:12:02.000Z,54.4826,-133.7875,10.0,ML,2.34,"119 km WNW of Masset, BC/119 km ONO de Masset, BC"
-20260401.2028001,2026-04-01T20:28:54.000Z,50.9875,-130.7412,10.0,Mw',3.45,"229 km W of Port Hardy, BC/229 km O de Port Hardy, BC"
 20260401.2327002,2026-04-01T23:27:30.000Z,53.9317,-113.3883,3.8,MLy,4.5,"Industry-related event, 11 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie, 11 km ONO de Sturgeon County, AB, ressenti"
 20260402.0102001,2026-04-02T01:02:08.000Z,54.3078,-118.5245,1.0,MLy,2.33,"Suspected industry-related event, 61 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 61 km NE de Grande Cache, AB"
 20260402.0118001,2026-04-02T01:18:20.000Z,60.061,-137.0276,5.0,ML1,1.51,"81 km SSE of Haines Junction, YT/81 km SSE de Haines Junction, YT"
