@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-25T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a summary of the PiQuake Canada dashboard for public facing use: In the last 24 hours, we saw one event with a magnitude of M2.22. It happened about 133 kilometers west and 133 kilometers east of Haines Junction in Yukon Territory. This is our largest event so far, and it was recorded on April 24 at around 9:40 AM local time."
-  },
-  {
     "timestamp_utc": "2026-04-25T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks! So, it looks like we had one little shake in the ground yesterday near Haines Junction, Yukon. It was a M2.39 and that's the biggest we've seen in the last 24 hours. That happened just before midnight on May 15th. The whole area of YT (which is just Haines Junction) got shaken up by this little tremor."
+  },
+  {
+    "timestamp_utc": "2026-05-16T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest quake reported was M2.39, which happened around 125 km west-south-west of Haines Junction, Yukon and Ontario on May 14th at about 2:38 AM."
   }
 ]

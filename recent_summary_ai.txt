@@ -1,1 +1,1 @@
-Hey folks! So, it looks like we had one little shake in the ground yesterday near Haines Junction, Yukon. It was a M2.39 and that's the biggest we've seen in the last 24 hours. That happened just before midnight on May 15th. The whole area of YT (which is just Haines Junction) got shaken up by this little tremor.
+The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest quake reported was M2.39, which happened around 125 km west-south-west of Haines Junction, Yukon and Ontario on May 14th at about 2:38 AM.
