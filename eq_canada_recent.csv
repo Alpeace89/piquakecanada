@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260401.0812001,2026-04-01T08:12:00.000Z,64.4166,-133.6359,5.0,ML,2.46,"97 km NE of Bellekeno Mine, YT/97 km NE de la mine Bellekeno, YT"
 20260401.1611001,2026-04-01T16:11:22.000Z,49.4392,-127.1412,28.4,ML,2.33,"63 km SSW of Tahsis, BC/63 km SSO de Tahsis, BC"
 20260401.1623001,2026-04-01T16:23:01.000Z,53.3418,-117.375,0.0,MLy,2.54,"Blast, 15 km ESE of Hinton, AB/Dynamitage, 15 km ESE de Hinton, AB"
 20260401.2012001,2026-04-01T20:12:02.000Z,54.4826,-133.7875,10.0,ML,2.34,"119 km WNW of Masset, BC/119 km ONO de Masset, BC"
