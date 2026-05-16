@@ -1,1 +1,1 @@
-For the last 24 hours, we've had no earthquakes reported and there's currently no notable activity with our PiQuake Canada dashboard. The latest event was a minor shake measuring M2.39 near Haines Junction in Yukon Territory, but that's it for now.
+For the past 24 hours, we've had no events on our PiQuake Canada dashboard. The latest one was a M2.39 near Haines Junction in the Yukon territory, spotted around midnight yesterday. It's hard to say where or when the next one might happen though.
