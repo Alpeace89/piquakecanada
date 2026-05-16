@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard is showing no activity in the last hour or day. The largest event recorded was M2.39, which happened about 125 km west-southwest of Haines Junction, Yukon and Osorno, Yukon on May 15 at around midnight UTC. It's quiet out there!
+The PiQuake Canada dashboard shows no activity in the last 24 hours, and there's also nothing noteworthy happening right now. The biggest event was a M2.39 near Haines Junction on May 15th at around midnight UTC, but it happened too long ago to be relevant now.
