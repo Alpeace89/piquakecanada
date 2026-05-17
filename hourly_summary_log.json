@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-26T21:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had one seismic event with a magnitude of M2.99 near Amherstburg, Ontario, that was felt and noticed in both English and French versions. This is our latest activity as well since it happened just yesterday at around 1:30 PM UTC."
-  },
-  {
     "timestamp_utc": "2026-04-26T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey there! It's been quiet around here lately. We had no seismic events last hour or in the past day, but our latest check-in showed a little shake with a magnitude of M2.39 about halfway between Haines Junction and some place far away in the Yukon. Nothing too big, just a gentle rumble that happened on May 15th around 2:40 AM."
+  },
+  {
+    "timestamp_utc": "2026-05-17T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is running smoothly in beta, with no events recorded in the last hour or day. The largest event detected was a magnitude unknown, happening at an unknown location and time. Our latest activity showed a M2.39 quake near Haines Junction, YT, which happened around 02:38 AM on May 15th."
   }
 ]
