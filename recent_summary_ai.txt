@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a M2.39 just after midnight on May 15th, happening somewhere near Haines Junction in Yukon Territory and one of its nearby towns. It's all pretty quiet right now with no reported events.
+Here's the latest on PiQuake Canada: No events were recorded in the last hour or day. The biggest event was a magnitude M2.39 that happened about 125 km west-southwest of Haines Junction, Yukon and Oso de Haines Junction, Yukon earlier today at around 02:38 UTC.
