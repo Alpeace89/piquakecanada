@@ -1,1 +1,1 @@
-Here's the latest on PiQuake Canada: No events were recorded in the last hour or day. The biggest event was a magnitude M2.39 that happened about 125 km west-southwest of Haines Junction, Yukon and Oso de Haines Junction, Yukon earlier today at around 02:38 UTC.
+Hey folks, our PiQuake Canada dashboard is still in beta and we're spotting no seismic activity for the last 24 hours. The largest event was a M2.39 around Haines Junction, Yukon, back on May 15th. Nothing to worry about, just keep an eye out if you live near there.

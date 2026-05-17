@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260402.0444001,2026-04-02T04:44:41.000Z,54.3376,-118.4207,1.0,MLy,2.17,"Suspected industry-related event, 68 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 68 km NE de Grande Cache, AB"
 20260402.0550001,2026-04-02T05:50:04.000Z,60.4198,-139.5599,5.0,ML,3.09,"118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
 20260402.0633001,2026-04-02T06:33:00.000Z,52.7116,-132.2408,18.45,ML,2.39,"61 km S of Daajing Giids, BC/61 km S de Daajing Giids, BC"
 20260402.0740001,2026-04-02T07:40:11.000Z,60.543,-139.9777,5.0,ML,2.08,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
