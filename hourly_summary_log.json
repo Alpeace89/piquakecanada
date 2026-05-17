@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-26T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there was one earthquake event detected. The largest quake measured M2.99 and happened about 11 kilometers southeast of Amherstburg, Ontario. It was felt or reported in that area as well as nearby places like St. Thomas. That's it for now - that's the latest news from our PiQuake Canada dashboard."
-  },
-  {
     "timestamp_utc": "2026-04-26T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is running smoothly in beta, with no events recorded in the last hour or day. The largest event detected was a magnitude unknown, happening at an unknown location and time. Our latest activity showed a M2.39 quake near Haines Junction, YT, which happened around 02:38 AM on May 15th."
+  },
+  {
+    "timestamp_utc": "2026-05-17T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last 24 hours, and there hasn't been any quakes recorded at all this hour. The latest quake was a M2.39, which happened near Haines Junction in Yukon Territory about 125 km away from both places mentioned."
   }
 ]
