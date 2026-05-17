@@ -1,1 +1,1 @@
-Hey folks, our PiQuake Canada dashboard is still in beta and we're spotting no seismic activity for the last 24 hours. The largest event was a M2.39 around Haines Junction, Yukon, back on May 15th. Nothing to worry about, just keep an eye out if you live near there.
+The PiQuake Canada dashboard is still in beta and hasn't had any quakes recorded in the last hour or day. The largest event detected was a tiny M2.39 near Haines Junction, Yukon, back on May 15th. Nothing big has happened since then though.
