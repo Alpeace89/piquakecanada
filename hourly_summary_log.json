@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-26T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity for the last 24 hours. The largest recorded event was a M2.22 just after nine in the morning on April 24th, and it happened about 133 kilometers west of Haines Junction, Yukon Territory, and 133 kilometers to the east of there too. It's important to note that we don't have specific times or locations for smaller events outside this 24-hour period."
-  },
-  {
     "timestamp_utc": "2026-04-26T16:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a mystery magnitude from an unknown location, and the latest one was a M2.39 near Haines Junction, Yukon. That happened on May 15th around 02:38 AM."
+  },
+  {
+    "timestamp_utc": "2026-05-17T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last 24 hours, with no events detected at all. The largest event recorded was a magnitude unknown one that happened somewhere near Haines Junction in the Yukon territory on May 15th around 02:38 AM."
   }
 ]
