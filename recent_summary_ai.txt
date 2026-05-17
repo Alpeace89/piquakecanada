@@ -1,1 +1,1 @@
-For the last hour, there haven't been any earthquakes reported. In the past day, nothing major either. The biggest one was a M2.39 near Haines Junction in Yukon, which happened around midnight yesterday. Nothing to worry about here, just some small shakes that we're keeping an eye on.
+The PiQuake Canada dashboard didn't have any events in the last hour or day. The largest event recorded was a M2.39 happening near Haines Junction, YT at an unknown time. That's all we saw on our latest event tab for yesterday.
