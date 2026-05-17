@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-26T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there was one earthquake event with a magnitude of M2.99 felt near Amherstburg in Ontario. The latest quake happened on April 26 at around 2:32 PM UTC and it's still being felt nearby. It's not clear where exactly this seismic activity is happening based on the information provided, but it seems to be affecting an area referred to as \"Unknown (1).\""
-  },
-  {
     "timestamp_utc": "2026-04-26T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and there hasn't been any recorded events in 24 hours either. The latest event was a magnitude of M2.39 near Haines Junction, Yukon Territory, which happened on May 15 at around 2:38 AM local time."
+  },
+  {
+    "timestamp_utc": "2026-05-17T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, no earthquakes were detected on our PiQuake Canada dashboard. The largest recorded event was a M2.39 that occurred around 02:38 UTC on May 15th in an area west of Haines Junction in both Yukon and Ontario."
   }
 ]
