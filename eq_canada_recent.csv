@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260403.0038001,2026-04-03T00:38:48.000Z,50.8826,-127.1679,10.0,ML1,1.66,"29 km NE of Port Hardy, BC/29 km NE de Port Hardy, BC"
 20260403.0111001,2026-04-03T01:11:50.000Z,66.4382,-135.6882,10.0,ML,2.51,"116 km SSW of Fort McPherson, NT/116 km SSO de Fort McPherson, NT"
 20260403.0119001,2026-04-03T01:19:15.000Z,41.7755,-81.0712,5.0,MwN,1.55,"62 km ENE of Cleveland, OH/62 km ENE de Cleveland, OH"
 20260403.0152001,2026-04-03T01:52:27.000Z,60.5493,-139.8151,5.0,ML,2.17,"128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
