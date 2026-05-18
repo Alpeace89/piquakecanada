@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-27T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks, it's been a quiet 24 hours with just one minor earthquake event. The latest quake measured M4.19 and happened about 200 km north of Tuktoyaktuk in the Nunavut Territory. That area has seen earthquakes before; it was here last night where we had our only event this past day."
-  },
-  {
     "timestamp_utc": "2026-04-27T17:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event was a mystery with an unknown magnitude happening in an unknown location at an unknown time. Our latest event was a M2.39 near Haines Junction in Yukon and Olds in Alberta, which happened around May 15th at about 02:38 AM."
+  },
+  {
+    "timestamp_utc": "2026-05-18T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity events in the last hour or day. The largest event recorded was a magnitude unknown, happening at an unknown location and time. We've had nothing since our latest event, which was a M2.39 just after 2 AM yesterday, near Haines Junction in Yukon Territory."
   }
 ]
