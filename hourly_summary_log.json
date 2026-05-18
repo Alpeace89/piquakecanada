@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-28T01:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major events in terms of magnitude or impact, but we did catch a few smaller quakes. The largest one was M3.66 near Juneau and Whitehorse, while the latest one recorded was M1.59 around Whitehorse earlier today. Notable areas with more activity included Yukon Territory (YT), Alaska (AK), and Washington State (WA)."
-  },
-  {
     "timestamp_utc": "2026-04-28T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day, and there hasn't been any activity in the last 24 hours either. The largest event was of unknown magnitude occurring at an unknown location. The latest quake registered as M2.39 happened on May 15th around 02:38 AM UTC, near Haines Junction in Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-05-18T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last hour, there were no reported quakes on the PiQuake Canada dashboard. The largest event in the past 24 hours was an unknown magnitude quake at an unknown location. As of yesterday at around 02:38 AM UTC, a M2.39 quake hit near Haines Junction, YT, and Osogamiya, YT."
   }
 ]
