@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-27T17:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had one event on our dashboard, a M4.31 just north of Tuktoyaktuk in the North Territories. It's the largest one since we started beta testing. The latest one happened yesterday at about 11 PM local time."
-  },
-  {
     "timestamp_utc": "2026-04-27T18:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity events in the last hour or day. The largest event recorded was a magnitude unknown, happening at an unknown location and time. We've had nothing since our latest event, which was a M2.39 just after 2 AM yesterday, near Haines Junction in Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-05-18T13:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the past day, there have been no reported earthquakes in Canada. The largest quake we've seen was a M2.39 near Haines Junction and Haines Inlet area in the Yukon Territory yesterday at around midnight. Nothing major to report here folks."
   }
 ]
