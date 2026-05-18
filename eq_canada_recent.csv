@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260403.1636001,2026-04-03T16:36:17.000Z,49.2797,-67.4402,18.0,MwN,0.36,"48 km N of Matane, QC/48 km N de Matane, QC"
-20260403.1641002,2026-04-03T16:41:11.000Z,53.8884,-131.6443,23.63,ML,2.4,"36 km ESE of Masset, BC/36 km ESE de Masset, BC"
 20260403.1825001,2026-04-03T18:25:51.000Z,53.886,-131.6007,24.22,ML,2.45,"38 km ESE of Masset, BC/38 km ESE de Masset, BC"
 20260403.1935001,2026-04-03T19:35:08.000Z,60.0,-141.7535,10.0,ML,2.15,"248 km WSW of Haines Junction, YT/248 km OSO de Haines Junction, YT"
 20260403.2315001,2026-04-03T23:15:19.000Z,53.9047,-131.6235,26.47,ML,2.32,"36 km ESE of Masset, BC/36 km ESE de Masset, BC"
