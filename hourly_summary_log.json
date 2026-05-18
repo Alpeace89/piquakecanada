@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-27T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had three quakes. The biggest one was a M4.31 that happened about 200 km north of Tuktoyaktuk in the Northwest Territories. That's close to Juneau in Alaska where we also saw another shake with a magnitude of M3.66 this morning at around 2:57 AM. These are all happening in Canada, so it’s something our PiQuake dashboard is keeping an eye on for anyone who might be interested."
-  },
-  {
     "timestamp_utc": "2026-04-27T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For those beta testers trying out the PiQuake Canada dashboard, it's been a quiet period without any recorded quakes over the last 24 hours. The latest one was a M2.39 near Haines Junction in Yukon and Ontario, which happened around midnight yesterday. It's pretty normal for this area to have small tremors like that from time to time."
+  },
+  {
+    "timestamp_utc": "2026-05-18T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event yesterday was unknown, happening at an unknown location and time. But today's latest event was a M2.39 near Haines Junction, Yukon, which happened around 2:38 AM on May 15th."
   }
 ]
