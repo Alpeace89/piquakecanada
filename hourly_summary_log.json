@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-27T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had six earthquakes reported. The biggest one was a M4.31 that happened near Tuktoyaktuk in the far north. Since then, there's been another small quake at Bellingham in Washington state. It looks like Yukon and Northwest Territories have seen the most activity lately with three quakes each in the last day."
-  },
-  {
     "timestamp_utc": "2026-04-27T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event yesterday was unknown, happening at an unknown location and time. But today's latest event was a M2.39 near Haines Junction, Yukon, which happened around 2:38 AM on May 15th."
+  },
+  {
+    "timestamp_utc": "2026-05-18T16:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, no earthquakes were recorded on the PiQuake Canada dashboard. The largest event was an unknown magnitude happening in an unknown location. The latest earthquake spotted was a M2.39 near Haines Junction, YT, occurring at about 02:38 AM yesterday."
   }
 ]
