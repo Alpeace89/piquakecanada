@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-27T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey there! We've had a quiet night with no major quakes to report so far in the last hour, but over the past day we saw two minor tremors. The biggest one measured at M4.19 and happened just north of Tuktoyaktuk, Northwest Territories around 23:10 UTC on April 26th. That's it for today—nothing too exciting, just a little bit of seismic activity to keep an eye on in the area."
-  },
-  {
     "timestamp_utc": "2026-04-27T09:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard has seen no activity in the last 24 hours. The largest event recorded was a M2.39 near Haines Junction, YT, which happened on May 15 at around 02:38 AM UTC. Nothing significant has been detected since then."
+  },
+  {
+    "timestamp_utc": "2026-05-18T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity events in the last hour or day. The largest event yesterday was unknown magnitude at an unknown location. Our latest recorded shake happened near Haines Junction, Yukon Territory, with a measured M2.39 around May 15 at about 02:38 AM."
   }
 ]
