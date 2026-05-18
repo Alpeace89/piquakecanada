@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-27T14:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, no significant quakes were recorded by our PiQuake Canada dashboard. However, a M4.19 quake hit about 200 km north of Tuktoyaktuk in the Northwest Territories around midnight last night. This is our latest event and it's happening again as we speak since there have been two events within just one day."
-  },
-  {
     "timestamp_utc": "2026-04-27T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day, and there was a minor quake of M2.39 on May 15th from Haines Junction, YT area. No big changes here, just another quiet day for our seismic watchers."
+  },
+  {
+    "timestamp_utc": "2026-05-18T10:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey folks, we just had a little shake last night in the far north of Yukon and Northwest Territories. It was a small one, M2.39, but it happened around midnight when most of us were sleeping tight. The epicenter was about 125 km west-southwest of Haines Junction, which is way up there near the Arctic Circle. Nothing much to worry about, just another day in Canada shaking things a little bit!"
   }
 ]
