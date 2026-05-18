@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260403.1825001,2026-04-03T18:25:51.000Z,53.886,-131.6007,24.22,ML,2.45,"38 km ESE of Masset, BC/38 km ESE de Masset, BC"
 20260403.1935001,2026-04-03T19:35:08.000Z,60.0,-141.7535,10.0,ML,2.15,"248 km WSW of Haines Junction, YT/248 km OSO de Haines Junction, YT"
 20260403.2315001,2026-04-03T23:15:19.000Z,53.9047,-131.6235,26.47,ML,2.32,"36 km ESE of Masset, BC/36 km ESE de Masset, BC"
 20260403.2333002,2026-04-03T23:33:40.000Z,53.9298,-113.3839,1.0,MLy,3.25,"Industry-related event, 11 km WNW of Sturgeon County, AB/Événement lié à l'industrie, 11 km ONO de Sturgeon County, AB"

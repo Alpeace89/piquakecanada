@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The biggest one recorded was a M2.39 that happened around Haines Junction, Yukon and Ontario on May 15th. There's nothing to worry about with this app, folks.
+For those in the beta testing phase of PiQuake Canada, we've had a quiet period with no events detected in the last hour or day. The largest event recorded was just a minor shake at M2.39 near Haines Junction and its surroundings. It happened around midnight on May 15th.

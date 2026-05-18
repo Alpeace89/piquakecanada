@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-27T23:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had 10 quakes reported on our PiQuake Canada dashboard. The biggest one was a M4.31 near Tuktoyaktuk which happened yesterday at 11 PM. We also saw another small quake this afternoon in Whitehorse area with a strength of M1.59. Most of these occurred in the Yukon and North Territories regions."
-  },
-  {
     "timestamp_utc": "2026-04-28T00:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The biggest one recorded was a M2.39 that happened around Haines Junction, Yukon and Ontario on May 15th. There's nothing to worry about with this app, folks."
+  },
+  {
+    "timestamp_utc": "2026-05-18T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For those in the beta testing phase of PiQuake Canada, we've had a quiet period with no events detected in the last hour or day. The largest event recorded was just a minor shake at M2.39 near Haines Junction and its surroundings. It happened around midnight on May 15th."
   }
 ]
