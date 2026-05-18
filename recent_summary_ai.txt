@@ -1,1 +1,1 @@
-For the past day, there have been no reported earthquakes in Canada. The largest quake we've seen was a M2.39 near Haines Junction and Haines Inlet area in the Yukon Territory yesterday at around midnight. Nothing major to report here folks.
+For those beta testers trying out the PiQuake Canada dashboard, it's been a quiet period without any recorded quakes over the last 24 hours. The latest one was a M2.39 near Haines Junction in Yukon and Ontario, which happened around midnight yesterday. It's pretty normal for this area to have small tremors like that from time to time.
