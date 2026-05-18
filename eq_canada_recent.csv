@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260403.0111001,2026-04-03T01:11:50.000Z,66.4382,-135.6882,10.0,ML,2.51,"116 km SSW of Fort McPherson, NT/116 km SSO de Fort McPherson, NT"
-20260403.0119001,2026-04-03T01:19:15.000Z,41.7755,-81.0712,5.0,MwN,1.55,"62 km ENE of Cleveland, OH/62 km ENE de Cleveland, OH"
-20260403.0152001,2026-04-03T01:52:27.000Z,60.5493,-139.8151,5.0,ML,2.17,"128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
 20260403.0341001,2026-04-03T03:41:23.000Z,53.8867,-131.6127,22.06,ML,2.29,"38 km ESE of Masset, BC/38 km ESE de Masset, BC"
 20260403.0412001,2026-04-03T04:12:48.000Z,60.5191,-140.0286,5.0,ML,3.04,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
 20260403.0548001,2026-04-03T05:48:36.000Z,41.7576,-81.0309,5.0,MwN,1.91,"64 km ENE of Cleveland, OH/64 km ENE de Cleveland, OH"

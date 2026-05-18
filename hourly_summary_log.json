@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-27T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no reported earthquakes using our PiQuake Canada dashboard. However, a small earthquake of magnitude M4.19 occurred on April 26 at around midnight in an unknown location and near Tuktoyaktuk in the Northwest Territories. This is the only event we've seen in that time frame."
-  },
-  {
     "timestamp_utc": "2026-04-27T07:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no recorded earthquakes in Canada. The largest one measured M2.39 and happened near Haines Junction, YT at around 02:38 AM on May 15th. It's just a small event, nothing to worry about."
+  },
+  {
+    "timestamp_utc": "2026-05-18T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is still in its beta stage and hasn't recorded any earthquakes or events over the last 24 hours. The largest event we've seen recently was a M2.39 near Haines Junction, Yukon. It happened on May 15th at around midnight our time."
   }
 ]
