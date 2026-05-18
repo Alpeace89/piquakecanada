@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-28T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we had 6 seismic events monitored by our PiQuake Canada dashboard. The largest event recorded was a M2.97 near Bellingham, Washington and Whitehorse, Yukon at around 04:22 UTC on April 27th. It's just another day in the land of Pizquakes up here in the north!"
-  },
-  {
     "timestamp_utc": "2026-04-28T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard hasn't had any seismic events reported in the last hour or day. The largest event recorded within 24 hours was a magnitude unknown at an unspecified location and time. Our latest update shows a M2.39 quake that happened around 02:38 AM today, but we don’t have more details on its exact place since it’s still being investigated."
+  },
+  {
+    "timestamp_utc": "2026-05-18T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last 24 hours, and we only had a minor shake with a magnitude of M2.39 that happened around midnight yesterday near Haines Junction, YT. It's just another day on the dashboard without any big updates or events to report."
   }
 ]
