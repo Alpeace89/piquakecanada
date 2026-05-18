@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-27T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there was one earthquake event reported in Canada. The largest quake measured M4.19 and happened about 202 kilometers north of Tuktoyaktuk, NT at around 11 PM on April 26th local time. This area has been seeing seismic activity with just one report in the last day."
-  },
-  {
     "timestamp_utc": "2026-04-27T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, we just had a little shake last night in the far north of Yukon and Northwest Territories. It was a small one, M2.39, but it happened around midnight when most of us were sleeping tight. The epicenter was about 125 km west-southwest of Haines Junction, which is way up there near the Arctic Circle. Nothing much to worry about, just another day in Canada shaking things a little bit!"
+  },
+  {
+    "timestamp_utc": "2026-05-18T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event was a mystery with an unknown magnitude happening in an unknown location at an unknown time. Our latest event was a M2.39 near Haines Junction in Yukon and Olds in Alberta, which happened around May 15th at about 02:38 AM."
   }
 ]
