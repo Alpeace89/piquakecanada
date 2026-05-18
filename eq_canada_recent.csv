@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260403.0548001,2026-04-03T05:48:36.000Z,41.7576,-81.0309,5.0,MwN,1.91,"64 km ENE of Cleveland, OH/64 km ENE de Cleveland, OH"
 20260403.0757001,2026-04-03T07:57:03.000Z,45.927,-74.8204,17.21,MwN,1.62,"14 km SSW of Amherst, QC/14 km SSO de Amherst, QC"
 20260403.0811001,2026-04-03T08:11:06.000Z,67.5386,-142.3329,10.0,ML,2.47,"106 km W of Old Crow, YT/106 km O de Old Crow, YT"
 20260403.0853001,2026-04-03T08:53:08.000Z,58.0453,-137.5192,10.0,ML,2.47,"184 km W of Juneau, AK/184 km O de Juneau, AK"
