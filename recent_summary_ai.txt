@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard didn't show any activity in the last hour or day. The biggest quake recorded was a M2.39 that happened on May 15th, near Haines Junction, Yukon and Ontario. That's the latest we have without knowing more details like magnitude or location.
+In the past 24 hours, there haven't been any recorded quakes on our PiQuake Canada dashboard. The last event was a M2.39 near Haines Junction in Yukon and Ontario, happening at about 02:38 AM yesterday. It's just to give you an idea of how quiet things have been lately.
