@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-28T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the PiQuake Canada dashboard, we had zero events in the last hour but five reports of small earthquakes in the past day. The biggest one was a M4.15 near Burwash Landing in Yukon and another one nearby in British Columbia clocked at M2.25 today at 2:28 PM. Most of these quakes were reported in the Yukon Territory, with two each from that area and another two from British Columbia."
-  },
-  {
     "timestamp_utc": "2026-04-28T19:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event last hour was a magnitude unknown near an unknown location. The latest event was a M2 earthquake that occurred at Blast, 19 km southwest of Gogama, ON or Dynamitage, 19 km south of Gogama, ON on May 17th at 03:56 PM UTC."
+  },
+  {
+    "timestamp_utc": "2026-05-19T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The latest event was a small one measuring M2 that happened near Gogama, Ontario, in both blast and dynamite areas. It's just another day of quiet seismic activity here."
   }
 ]

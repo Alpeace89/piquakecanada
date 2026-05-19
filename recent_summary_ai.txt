@@ -1,1 +1,1 @@
-In the past 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event last hour was a magnitude unknown near an unknown location. The latest event was a M2 earthquake that occurred at Blast, 19 km southwest of Gogama, ON or Dynamitage, 19 km south of Gogama, ON on May 17th at 03:56 PM UTC.
+In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The latest event was a small one measuring M2 that happened near Gogama, Ontario, in both blast and dynamite areas. It's just another day of quiet seismic activity here.
