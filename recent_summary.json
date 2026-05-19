@@ -1,24 +1,49 @@
 {
-  "generated_utc": "2026-05-19T14:03:01Z",
+  "generated_utc": "2026-05-19T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 496,
-  "events_last_24h": 0,
+  "rolling_window_event_count": 498,
+  "events_last_24h": 1,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260517.1556001",
-    "time_utc": "2026-05-17T15:56:37.000Z",
-    "latitude": 47.5489,
-    "longitude": -81.8875,
-    "depth_km": 0.0,
+    "event_id": "20260518.2039001",
+    "time_utc": "2026-05-18T20:39:11.000Z",
+    "latitude": 45.1431,
+    "longitude": -66.9881,
+    "depth_km": 5.0,
     "mag_type": "MwN",
-    "magnitude": 2.0,
-    "place": "Blast, 19 km SW of Gogama, ON/Dynamitage, 19 km SO de Gogama, ON",
-    "region": "ON"
+    "magnitude": 0.34,
+    "place": "9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB",
+    "region": "NB"
   },
-  "largest_event_last_24h": null,
-  "deepest_event_last_24h": null,
-  "top_regions_last_24h": [],
-  "summary_text": "As of 2026-05-19 14:03 UTC, the recent Canada earthquake dataset contains 496 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M2 at Blast, 19 km SW of Gogama, ON/Dynamitage, 19 km SO de Gogama, ON at 2026-05-17T15:56:37.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "largest_event_last_24h": {
+    "event_id": "20260518.2039001",
+    "time_utc": "2026-05-18T20:39:11.000Z",
+    "latitude": 45.1431,
+    "longitude": -66.9881,
+    "depth_km": 5.0,
+    "mag_type": "MwN",
+    "magnitude": 0.34,
+    "place": "9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB",
+    "region": "NB"
+  },
+  "deepest_event_last_24h": {
+    "event_id": "20260518.2039001",
+    "time_utc": "2026-05-18T20:39:11.000Z",
+    "latitude": 45.1431,
+    "longitude": -66.9881,
+    "depth_km": 5.0,
+    "mag_type": "MwN",
+    "magnitude": 0.34,
+    "place": "9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB",
+    "region": "NB"
+  },
+  "top_regions_last_24h": [
+    {
+      "region": "NB",
+      "count": 1
+    }
+  ],
+  "summary_text": "As of 2026-05-19 15:03 UTC, the recent Canada earthquake dataset contains 498 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M0.34 at 9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB. The deepest event reached 5.00 km at 9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB. The most recent listed event was M0.34 at 9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB at 2026-05-18T20:39:11.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was NB."
 }

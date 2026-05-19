@@ -1,9 +1,21 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-18T20:39:11.000Z",
+    "magnitude": "0.34",
+    "depth_km": "5.0",
+    "place": "9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB"
+  },
+  {
     "time_utc": "2026-05-17T15:56:37.000Z",
     "magnitude": "2.0",
     "depth_km": "0.0",
     "place": "Blast, 19 km SW of Gogama, ON/Dynamitage, 19 km SO de Gogama, ON"
+  },
+  {
+    "time_utc": "2026-05-15T05:49:59.000Z",
+    "magnitude": "2.35",
+    "depth_km": "17.96",
+    "place": "70 km S of Daajing Giids, BC/70 km S de Daajing Giids, BC"
   },
   {
     "time_utc": "2026-05-15T02:38:34.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "0.72",
     "depth_km": "11.42",
     "place": "14 km NNW of La Pocati\u00e8re, QC/14 km NNO de La Pocati\u00e8re, QC"
-  },
-  {
-    "time_utc": "2026-05-14T17:38:37.000Z",
-    "magnitude": "3.17",
-    "depth_km": "10.0",
-    "place": "241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-05-14T12:21:14.000Z",
-    "magnitude": "2.08",
-    "depth_km": "5.0",
-    "place": "216 km WSW of Haines Junction, YT/216 km OSO de Haines Junction, YT"
   }
 ];

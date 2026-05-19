@@ -1,1 +1,1 @@
-In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The latest event was a small one measuring M2 that happened near Gogama, Ontario, in both blast and dynamite areas. It's just another day of quiet seismic activity here.
+The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a tiny quake with a magnitude of M0.34 near Saint Andrews, NB. That's the only activity we've seen so far this week. Mostly quiet out west!

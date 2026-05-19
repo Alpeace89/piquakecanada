@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-28T19:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but had six in the past day. The biggest one was a M4.15 near Burwash Landing and Haines Junction yesterday at around 13:26 AM local time. Since then, there has been a smaller quake this afternoon in another part of Yukon. Most of these events are happening in Yukon Territory with two in British Columbia as well."
-  },
-  {
     "timestamp_utc": "2026-04-28T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The latest event was a small one measuring M2 that happened near Gogama, Ontario, in both blast and dynamite areas. It's just another day of quiet seismic activity here."
+  },
+  {
+    "timestamp_utc": "2026-05-19T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a tiny quake with a magnitude of M0.34 near Saint Andrews, NB. That's the only activity we've seen so far this week. Mostly quiet out west!"
   }
 ]
