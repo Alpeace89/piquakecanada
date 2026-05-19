@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-28T10:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major events reported. However, we had three small quakes. The largest one measured M2.4 and happened about 103 kilometers west of Burwash Landing in Yukon. That was followed by a smaller quake at around 127 kilometers southwest of Whitehorse in Yukon. These are pretty minor, but it's still worth keeping an eye on as we track the activity in Canada's north."
-  },
-  {
     "timestamp_utc": "2026-04-28T11:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there haven't been any recorded quakes on our PiQuake Canada dashboard. The last event was a M2.39 near Haines Junction in Yukon and Ontario, happening at about 02:38 AM yesterday. It's just to give you an idea of how quiet things have been lately."
+  },
+  {
+    "timestamp_utc": "2026-05-19T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, with the largest event being an unknown magnitude at an unknown location. The latest recorded quake was a M2.39 near Haines Junction and its surroundings, happening on May 15th around 02:38 AM UTC."
   }
 ]
