@@ -1,1 +1,1 @@
-In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The latest quake recorded was a M2.39 that happened near Haines Junction in Yukon and Osorno in British Columbia. It's been a quiet period without any significant seismic activity.
+The PiQuake Canada dashboard shows no events in the last hour or day, and there's no known location for the largest event. The latest quake was a M2.39 near Haines Junction, YT on May 15th at about 02:38 AM. Everything else is unknown right now.

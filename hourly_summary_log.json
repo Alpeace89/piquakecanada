@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-28T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had no major quakes reported. But one M4.08 hit near Burwash Landing in Yukon and another happened just offshore. It's been a quiet day so far for earthquakes here in Canada."
-  },
-  {
     "timestamp_utc": "2026-04-28T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The latest quake recorded was a M2.39 that happened near Haines Junction in Yukon and Osorno in British Columbia. It's been a quiet period without any significant seismic activity."
+  },
+  {
+    "timestamp_utc": "2026-05-19T11:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and there's no known location for the largest event. The latest quake was a M2.39 near Haines Junction, YT on May 15th at about 02:38 AM. Everything else is unknown right now."
   }
 ]
