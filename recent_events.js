@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-17T15:56:37.000Z",
+    "magnitude": "2.0",
+    "depth_km": "0.0",
+    "place": "Blast, 19 km SW of Gogama, ON/Dynamitage, 19 km SO de Gogama, ON"
+  },
+  {
     "time_utc": "2026-05-15T02:38:34.000Z",
     "magnitude": "2.39",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.08",
     "depth_km": "5.0",
     "place": "216 km WSW of Haines Junction, YT/216 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-14T11:01:31.000Z",
-    "magnitude": "1.97",
-    "depth_km": "5.0",
-    "place": "227 km W of Haines Junction, YT/227 km O de Haines Junction, YT"
   }
 ];

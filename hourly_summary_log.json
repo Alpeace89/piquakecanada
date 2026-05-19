@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-28T17:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four earthquakes recorded yesterday. The largest one was a M4.15 and happened 75 km west of Burwash Landing in the Yukon Territory, which is also 75 km east of Burwash Landing. It happened on April 28th at around 1:26 PM UTC time."
-  },
-  {
     "timestamp_utc": "2026-04-28T18:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day, and the largest event recorded was a magnitude M2.39 that happened around 2 AM yesterday near Haines Junction, Yukon. It's quiet as usual out there."
+  },
+  {
+    "timestamp_utc": "2026-05-19T13:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event last hour was a magnitude unknown near an unknown location. The latest event was a M2 earthquake that occurred at Blast, 19 km southwest of Gogama, ON or Dynamitage, 19 km south of Gogama, ON on May 17th at 03:56 PM UTC."
   }
 ]
