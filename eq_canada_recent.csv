@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260404.0033001,2026-04-04T00:33:52.000Z,46.7547,-82.1543,2.0,MwN,2.04,"46 km W of Cartier, ON/46 km O de Cartier, ON"
-20260404.0035001,2026-04-04T00:35:19.000Z,46.7295,-82.1443,2.0,MwN,1.56,"45 km W of Cartier, ON/45 km O de Cartier, ON"
 20260404.0125001,2026-04-04T01:25:52.000Z,53.9395,-113.4224,1.0,MLy,2.49,"Suspected industry-related event, 13 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 13 km ONO de Sturgeon County, AB"
 20260404.0717001,2026-04-04T07:17:27.000Z,58.4589,-136.975,1.0,ML,2.6,"150 km W of Juneau, AK/150 km O de Juneau, AK"
 20260404.1357001,2026-04-04T13:57:02.000Z,49.0267,-123.1301,21.13,ML,2.76,"15 km S of Richmond, BC, felt/15 km S de Richmond, BC, ressenti"
