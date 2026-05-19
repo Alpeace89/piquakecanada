@@ -1,1 +1,1 @@
-In the last 24 hours, no quakes were recorded on our PiQuake Canada dashboard. The latest quake was a M2.39 near Haines Junction in the Yukon Territory. It happened around 2:38 AM yesterday and was pretty much the only activity we had.
+In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The latest quake recorded was a M2.39 that happened near Haines Junction in Yukon and Osorno in British Columbia. It's been a quiet period without any significant seismic activity.
