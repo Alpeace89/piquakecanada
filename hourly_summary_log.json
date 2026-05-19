@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-29T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've seen nine small earthquakes rattling parts of Canada. The biggest one was a M4.15 near Burwash Landing in Yukon and Hinton in Alberta. It happened earlier today. Places like Yukon Territory and Alberta were hit by more quakes than any other region over this period."
-  },
-  {
     "timestamp_utc": "2026-04-29T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there were no major seismic events reported. However, a M3.24 quake hit near Hinton, Alberta and another M3.16 shake was felt in Yukon territory. These are our top areas with recent quakes, which have been happening mostly in YT and BC regions."
+  },
+  {
+    "timestamp_utc": "2026-05-19T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had four PiQuake Canada dashboard events. The largest one was a M3.24 quake near Hinton in Alberta on May 19th at around 2:02 PM UTC. It's been a quiet few days though, with only one event reported since yesterday—another M3.16 earthquake in the Yukon Territory just after 5:40 PM UTC. The top regions for these quakes are still YT and AB, with BC having its lone quake last night."
   }
 ]
