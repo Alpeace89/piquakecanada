@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-28T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows there was one event detected in the last hour, and eleven events yesterday. The largest event recorded recently was a M4.15 near Burwash Landing in Yukon/BC. There have been two dynamite blasts today, triggering smaller earthquakes around Hinton in Alberta."
-  },
-  {
     "timestamp_utc": "2026-04-28T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but one event happened yesterday near Saint Andrews, New Brunswick. The largest of those was a M0.34 quake recorded at 8:39 PM on May 18th. It's been quiet around there lately with just this small shake counted over the past 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-05-19T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three quakes in the past day. The largest one measured M2.86 and happened 127 km south-southwest of Whitehorse, Yukon. It's the latest event we have recorded so far this year."
   }
 ]
