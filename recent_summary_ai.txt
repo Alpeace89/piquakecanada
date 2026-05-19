@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day. The largest event was M2.39, which happened around Haines Junction in the Yukon Territory on May 15th at about 2:38 am local time. There haven't been any activity in that region recently either.
+For those of you on the PiQuake Canada dashboard, there were no earthquakes reported in the last 24 hours. The largest one measured M2.39 and happened about 125 km west-southwest of Haines Junction, Yukon or around the same spot but slightly further east. It was spotted at about 2:38 AM yesterday.
