@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260404.2101001,2026-04-04T21:01:52.000Z,54.696,-118.9429,0.53,MLy,2.36,"Suspected industry-related event, 54 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 54 km S de Grande Prairie, AB"
 20260405.0424001,2026-04-05T04:24:33.000Z,47.3851,-70.2165,13.16,MwN,0.07,"14 km W of La Pocatière, QC/14 km O de La Pocatière, QC"
 20260405.0513001,2026-04-05T05:13:49.000Z,62.1972,-124.5797,5.0,ML,3.49,"172 km WNW of Fort Simpson, NT/172 km ONO de Fort Simpson, NT"
 20260405.0703001,2026-04-05T07:03:59.000Z,65.18,-134.5066,5.0,ML,3.23,"189 km NNE of Mayo, YT/189 km NNE de Mayo, YT"
