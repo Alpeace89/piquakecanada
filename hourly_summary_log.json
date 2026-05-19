@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-28T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the last 24 hours, we had four minor quakes registered in Canada. The largest one was a M4.08 near Burwash Landing, which happened just after noon yesterday. This is part of our ongoing monitoring to keep you informed about what's happening under our feet."
-  },
-  {
     "timestamp_utc": "2026-04-28T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and there's no known location for the largest event. The latest quake was a M2.39 near Haines Junction, YT on May 15th at about 02:38 AM. Everything else is unknown right now."
+  },
+  {
+    "timestamp_utc": "2026-05-19T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day, and the largest event recorded was a magnitude M2.39 that happened around 2 AM yesterday near Haines Junction, Yukon. It's quiet as usual out there."
   }
 ]
