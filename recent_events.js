@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-19T17:42:46.000Z",
+    "magnitude": "3.16",
+    "depth_km": "1.0",
+    "place": "61 km WSW of Burwash Landing, YT/61 km OSO de Burwash Landing, YT"
+  },
+  {
+    "time_utc": "2026-05-19T16:02:37.000Z",
+    "magnitude": "3.24",
+    "depth_km": "0.0",
+    "place": "Blast, 17 km E of Hinton, AB/Dynamitage, 17 km E de Hinton, AB"
+  },
+  {
     "time_utc": "2026-05-19T14:43:59.000Z",
     "magnitude": "2.86",
     "depth_km": "6.27",
@@ -18,6 +30,18 @@ window.recentEvents = [
     "place": "9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB"
   },
   {
+    "time_utc": "2026-05-18T12:10:09.000Z",
+    "magnitude": "1.71",
+    "depth_km": "19.61",
+    "place": "52 km W of Refuge Cove 6, BC/52 km O de Refuge Cove 6, BC"
+  },
+  {
+    "time_utc": "2026-05-18T08:45:17.000Z",
+    "magnitude": "2.04",
+    "depth_km": "1.0",
+    "place": "71 km NW of Bella Coola 1, BC/71 km NO de Bella Coola 1, BC"
+  },
+  {
     "time_utc": "2026-05-18T03:10:54.000Z",
     "magnitude": "2.43",
     "depth_km": "10.0",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "2.0",
     "depth_km": "0.0",
     "place": "Blast, 19 km SW of Gogama, ON/Dynamitage, 19 km SO de Gogama, ON"
-  },
-  {
-    "time_utc": "2026-05-16T23:59:39.000Z",
-    "magnitude": "3.06",
-    "depth_km": "10.0",
-    "place": "198 km WSW of Port Hardy, BC/198 km OSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-05-16T01:18:13.000Z",
-    "magnitude": "2.91",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 30 km S of Woodland Cree 226, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 30 km S de Woodland Cree 226, AB"
-  },
-  {
-    "time_utc": "2026-05-15T23:56:25.000Z",
-    "magnitude": "2.89",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 58 km W of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km O de Fox Creek, AB"
-  },
-  {
-    "time_utc": "2026-05-15T23:23:34.000Z",
-    "magnitude": "1.66",
-    "depth_km": "28.48",
-    "place": "47 km ENE of Victoria, BC/47 km ENE de Victoria, BC"
   }
 ];

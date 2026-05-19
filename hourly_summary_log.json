@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-29T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had 11 PiQuake Canada dashboard events. The largest event was a M4.15 near Burwash Landing in Yukon and Yellowknife in Northwest Territories, happening on April 28th at 13:26 UTC. We also saw one from dynamiters just outside Hinton in Alberta. Most of these quakes happened in British Columbia with four, followed by two each in Alberta and the territories."
-  },
-  {
     "timestamp_utc": "2026-04-29T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three minor quakes detected. The largest one measured M2.86 and happened just south of Whitehorse in both Yukon Territory and British Columbia. It's been quiet here on our dashboard with no events since yesterday."
+  },
+  {
+    "timestamp_utc": "2026-05-19T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary for the PiQuake Canada dashboard in plain Canadian English: In the last 24 hours, there have been no events reported. But we did see five quakes that measured from M3.24 to M3.16, with the largest being M3.24 near Hinton, Alberta and another at Burwash Landing in Yukon. Most of these quakes happened in the territories and British Columbia."
   }
 ]
