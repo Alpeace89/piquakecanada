@@ -12,6 +12,18 @@ window.recentEvents = [
     "place": "Blast, 19 km SW of Gogama, ON/Dynamitage, 19 km SO de Gogama, ON"
   },
   {
+    "time_utc": "2026-05-15T13:14:41.000Z",
+    "magnitude": "1.33",
+    "depth_km": "32.72",
+    "place": "65 km S of Houpsitas 6, BC/65 km S de Houpsitas 6, BC"
+  },
+  {
+    "time_utc": "2026-05-15T12:20:09.000Z",
+    "magnitude": "2.44",
+    "depth_km": "5.0",
+    "place": "128 km SSW of Whitehorse, YT/128 km SSO de Whitehorse, YT"
+  },
+  {
     "time_utc": "2026-05-15T05:49:59.000Z",
     "magnitude": "2.35",
     "depth_km": "17.96",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.38",
     "depth_km": "0.0",
     "place": "Blast, 7 km WNW of Mirabel, QC/Dynamitage, 7 km ONO de Mirabel, QC"
-  },
-  {
-    "time_utc": "2026-05-14T19:28:23.000Z",
-    "magnitude": "0.55",
-    "depth_km": "9.64",
-    "place": "13 km SW of La Malbaie, QC/13 km SO de La Malbaie, QC"
-  },
-  {
-    "time_utc": "2026-05-14T18:43:16.000Z",
-    "magnitude": "0.72",
-    "depth_km": "11.42",
-    "place": "14 km NNW of La Pocati\u00e8re, QC/14 km NNO de La Pocati\u00e8re, QC"
   }
 ];

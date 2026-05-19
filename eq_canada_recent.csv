@@ -495,5 +495,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260515.0201001,2026-05-15T02:01:35.000Z,50.4143,-129.128,10.0,Mw',2.72,"83 km WSW of Holberg, BC/83 km OSO de Holberg, BC"
 20260515.0238001,2026-05-15T02:38:34.000Z,60.5133,-139.7555,5.0,ML,2.39,"125 km WSW of Haines Junction, YT/125 km OSO de Haines Junction, YT"
 20260515.0549001,2026-05-15T05:49:59.000Z,52.6248,-132.1531,17.96,ML,2.35,"70 km S of Daajing Giids, BC/70 km S de Daajing Giids, BC"
+20260515.1220001,2026-05-15T12:20:09.000Z,59.6899,-136.1934,5.0,ML,2.44,"128 km SSW of Whitehorse, YT/128 km SSO de Whitehorse, YT"
+20260515.1314001,2026-05-15T13:14:41.000Z,49.4534,-127.5537,32.72,ML,1.33,"65 km S of Houpsitas 6, BC/65 km S de Houpsitas 6, BC"
 20260517.1556001,2026-05-17T15:56:37.000Z,47.5489,-81.8875,0.0,MwN,2.0,"Blast, 19 km SW of Gogama, ON/Dynamitage, 19 km SO de Gogama, ON"
 20260518.2039001,2026-05-18T20:39:11.000Z,45.1431,-66.9881,5.0,MwN,0.34,"9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB"

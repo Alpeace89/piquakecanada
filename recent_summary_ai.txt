@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a tiny quake with a magnitude of M0.34 near Saint Andrews, NB. That's the only activity we've seen so far this week. Mostly quiet out west!
+In the last 24 hours, there was one earthquake detected by our PiQuake Canada dashboard. It measured M0.34 and happened near Saint Andrews in New Brunswick. That's a very small quake but it's on record. And that's all we've had so far today.
