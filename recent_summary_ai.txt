@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there were three quakes in the past day. The largest one measured M2.86 and happened 127 km south-southwest of Whitehorse, Yukon. It's the latest event we have recorded so far this year.
+In the last 24 hours, we had three minor quakes detected. The largest one measured M2.86 and happened just south of Whitehorse in both Yukon Territory and British Columbia. It's been quiet here on our dashboard with no events since yesterday.
