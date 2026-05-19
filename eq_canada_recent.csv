@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260403.2315001,2026-04-03T23:15:19.000Z,53.9047,-131.6235,26.47,ML,2.32,"36 km ESE of Masset, BC/36 km ESE de Masset, BC"
-20260403.2333002,2026-04-03T23:33:40.000Z,53.9298,-113.3839,1.0,MLy,3.25,"Industry-related event, 11 km WNW of Sturgeon County, AB/Événement lié à l'industrie, 11 km ONO de Sturgeon County, AB"
 20260404.0033001,2026-04-04T00:33:52.000Z,46.7547,-82.1543,2.0,MwN,2.04,"46 km W of Cartier, ON/46 km O de Cartier, ON"
 20260404.0035001,2026-04-04T00:35:19.000Z,46.7295,-82.1443,2.0,MwN,1.56,"45 km W of Cartier, ON/45 km O de Cartier, ON"
 20260404.0125001,2026-04-04T01:25:52.000Z,53.9395,-113.4224,1.0,MLy,2.49,"Suspected industry-related event, 13 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 13 km ONO de Sturgeon County, AB"

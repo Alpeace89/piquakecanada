@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last 24 hours, and we only had a minor shake with a magnitude of M2.39 that happened around midnight yesterday near Haines Junction, YT. It's just another day on the dashboard without any big updates or events to report.
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude unknown one that occurred at an unknown location and time. There hasn't been any activity on the dashboard recently, so everything is still quiet down there.
