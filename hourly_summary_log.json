@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-28T11:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had three little earthquakes. The biggest one measured M2.4 near Burwash Landing and Whitehorse areas in the Yukon Territory. That happened on April 27th at around 3 PM. It seems to be pretty common for these parts to have small shakes like this from time to time. Last night, there was a smaller event with a magnitude of M1.59 near those same places too. We've been tracking these activities in the top regions of YT and Alberta (AB) over the last 24 hours."
-  },
-  {
     "timestamp_utc": "2026-04-28T12:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, with the largest event being an unknown magnitude at an unknown location. The latest recorded quake was a M2.39 near Haines Junction and its surroundings, happening on May 15th around 02:38 AM UTC."
+  },
+  {
+    "timestamp_utc": "2026-05-19T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary of the PiQuake Canada dashboard: No earthquakes were detected in the last hour or day. The largest recorded quake was M2.39, which happened near Haines Junction in Yukon yesterday at around 2:38 AM. That's about 125 km away from both towns."
   }
 ]
