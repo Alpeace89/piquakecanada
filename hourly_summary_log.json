@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-29T15:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had four minor seismic events reported. The largest one was a M3.16 near Hinton in Alberta and another M1.54 close to Thetford Mines in Quebec. Most of these happened in the Territories (two), Alberta, and Quebec regions. It's important to note that PiQuake Canada monitors all local seismic activity for safety and awareness."
-  },
-  {
     "timestamp_utc": "2026-04-29T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major quakes in Canada's monitoring system. But we did catch three little shakes - the biggest one was a M3.24 near Hinton in Alberta and another at M3.16 in Yukon. These are pretty small compared to what can happen during an earthquake, but they're still interesting for us to keep track of."
+  },
+  {
+    "timestamp_utc": "2026-05-20T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had three seismic events monitored by our PiQuake Canada dashboard. The largest one was a M3.24 near Hinton in Alberta, and another M3.16 in Yukon Territory. Both of these happened just yesterday at around lunchtime and early evening respectively. Our top regions for the day were the territories of Yukon and Alberta."
   }
 ]
