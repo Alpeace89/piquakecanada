@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-05-20T09:03:01Z",
+  "generated_utc": "2026-05-20T10:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 508,
-  "events_last_24h": 4,
+  "rolling_window_event_count": 507,
+  "events_last_24h": 3,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 2,
   "count_m4plus_last_24h": 0,
@@ -29,15 +29,15 @@
     "region": "AB"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260519.1001001",
-    "time_utc": "2026-05-19T10:01:11.000Z",
-    "latitude": 49.6792,
-    "longitude": -129.1288,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 2.53,
-    "place": "164 km SW of Port Hardy, BC/164 km SO de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260519.1443001",
+    "time_utc": "2026-05-19T14:43:59.000Z",
+    "latitude": 59.6865,
+    "longitude": -136.1693,
+    "depth_km": 6.27,
+    "mag_type": "ML",
+    "magnitude": 2.86,
+    "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT",
+    "region": "YT"
   },
   "top_regions_last_24h": [
     {
@@ -45,13 +45,9 @@
       "count": 2
     },
     {
-      "region": "BC",
-      "count": 1
-    },
-    {
       "region": "AB",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-20 09:03 UTC, the recent Canada earthquake dataset contains 508 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.24 at Blast, 17 km E of Hinton, AB/Dynamitage, 17 km E de Hinton, AB. The deepest event reached 10.00 km at 164 km SW of Port Hardy, BC/164 km SO de Port Hardy, BC. The most recent listed event was M3.16 at 61 km WSW of Burwash Landing, YT/61 km OSO de Burwash Landing, YT at 2026-05-19T17:42:46.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and BC (1)."
+  "summary_text": "As of 2026-05-20 10:03 UTC, the recent Canada earthquake dataset contains 507 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.24 at Blast, 17 km E of Hinton, AB/Dynamitage, 17 km E de Hinton, AB. The deepest event reached 6.27 km at 127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT. The most recent listed event was M3.16 at 61 km WSW of Burwash Landing, YT/61 km OSO de Burwash Landing, YT at 2026-05-19T17:42:46.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and AB (1)."
 }
