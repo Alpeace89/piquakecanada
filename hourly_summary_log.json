@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-29T21:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major seismic events detected. However, we did see five smaller tremors. The largest event was a M3.16 shake that happened about 16 km east of Hinton in Alberta. It's worth noting that this area is regularly shaken by PiQuake Canada alerts as dynamite blasts are common there. In the past hour, things were quiet with no events recorded at all."
-  },
-  {
     "timestamp_utc": "2026-04-29T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there was one event yesterday. The biggest quake was a M3.16 near Burwash Landing in the Yukon Territory, happening just after noon on May 19th local time. That's the only seismic activity reported for both today and yesterday."
+  },
+  {
+    "timestamp_utc": "2026-05-20T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows that there was one event detected in the last 24 hours, with a magnitude of M3.16. This happened 61 km west-south-west of Burwash Landing, Yukon and another place nearby. It's the largest earthquake recorded so far this year."
   }
 ]

@@ -401,6 +401,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260507.1945001,2026-05-07T19:45:52.000Z,47.7001,-70.1241,8.75,MwN,0.19,"6 km NNE of La Malbaie, QC/6 km NNE de La Malbaie, QC"
 20260507.2359001,2026-05-07T23:59:25.000Z,60.5386,-140.0143,5.0,ML,2.9,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
 20260508.0110001,2026-05-08T01:10:22.000Z,50.0509,-124.6424,1.0,ML,1.45,"17 km N of Sliammon 1, BC/17 km N de Sliammon 1, BC"
+20260508.0310001,2026-05-08T03:10:59.000Z,65.5253,-134.1924,5.0,ML,2.29,"215 km S of Fort McPherson, NT/215 km S de Fort McPherson, NT"
 20260508.0858001,2026-05-08T08:58:10.000Z,48.9743,-128.3172,10.0,Mw',2.46,"177 km W of Tofino, BC/177 km O de Tofino, BC"
 20260508.1519001,2026-05-08T15:19:33.000Z,60.5876,-139.9576,5.0,ML,2.91,"100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
 20260508.1820001,2026-05-08T18:20:53.000Z,60.526,-139.9611,5.0,ML,2.37,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"

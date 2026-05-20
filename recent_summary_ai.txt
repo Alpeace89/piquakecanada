@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no earthquakes in the last hour, but there was one event yesterday. The biggest quake was a M3.16 near Burwash Landing in the Yukon Territory, happening just after noon on May 19th local time. That's the only seismic activity reported for both today and yesterday.
+The PiQuake Canada dashboard shows that there was one event detected in the last 24 hours, with a magnitude of M3.16. This happened 61 km west-south-west of Burwash Landing, Yukon and another place nearby. It's the largest earthquake recorded so far this year.
