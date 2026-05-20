@@ -30,6 +30,18 @@ window.recentEvents = [
     "place": "9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB"
   },
   {
+    "time_utc": "2026-05-18T13:57:46.000Z",
+    "magnitude": "1.76",
+    "depth_km": "32.97",
+    "place": "58 km SSW of Houpsitas 6, BC/58 km SSO de Houpsitas 6, BC"
+  },
+  {
+    "time_utc": "2026-05-18T13:43:05.000Z",
+    "magnitude": "2.64",
+    "depth_km": "30.0",
+    "place": "61 km SSW of Houpsitas 6, BC/61 km SSO de Houpsitas 6, BC"
+  },
+  {
     "time_utc": "2026-05-18T12:10:09.000Z",
     "magnitude": "1.71",
     "depth_km": "19.61",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.43",
     "depth_km": "10.0",
     "place": "188 km SW of Port Hardy, BC/188 km SO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-05-18T00:42:29.000Z",
-    "magnitude": "2.06",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 12 km N of Dawson Creek, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 12 km N de Dawson Creek, BC"
-  },
-  {
-    "time_utc": "2026-05-17T15:56:37.000Z",
-    "magnitude": "2.0",
-    "depth_km": "0.0",
-    "place": "Blast, 19 km SW of Gogama, ON/Dynamitage, 19 km SO de Gogama, ON"
   }
 ];
