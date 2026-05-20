@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-29T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've seen three PiQuake Canada dashboard events. The largest one was a M3.15 quake that hit near Tofino in British Columbia and Haines Junction in Yukon at around 11 PM on April 28th. It's not uncommon to see quakes like this; the last 24 hours saw two in BC and one in YT."
-  },
-  {
     "timestamp_utc": "2026-04-29T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows that there was one event detected in the last 24 hours, with a magnitude of M3.16. This happened 61 km west-south-west of Burwash Landing, Yukon and another place nearby. It's the largest earthquake recorded so far this year."
+  },
+  {
+    "timestamp_utc": "2026-05-20T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there haven't been any recorded earthquakes. The largest one was a M3.16 that happened around 61 km west-south-west of Burwash Landing in the Yukon and Ontario side of Burwash Landing. It occurred on May 19 at about 5:42 PM local time."
   }
 ]
