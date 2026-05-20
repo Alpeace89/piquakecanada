@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-29T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were five recorded quakes in the past 24 hours. The biggest one was a M4.15 near Burwash Landing, Yukon and Hinton, Alberta earlier this month. In that time frame, three quakes happened in the Yukon territory while one each occurred in British Columbia and Alberta."
-  },
-  {
     "timestamp_utc": "2026-04-29T14:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick snapshot of the PiQuake Canada dashboard for those who want to keep an eye on our seismic activity. We had no events in the last hour, but over the past 24 hours, we recorded four quakes. The largest one was a M3.24 near Hinton, Alberta, and another M3.16 that happened about 60 km west of Burwash Landing in the Yukon. That's our latest event as of yesterday at 5:42 PM. We saw activity mostly in the Yukon and parts of British Columbia and Alberta."
+  },
+  {
+    "timestamp_utc": "2026-05-20T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events today, but there were four in the last 24 hours. The biggest one was a M3.24 quake near Hinton, Alberta yesterday at 2 PM. And just an hour ago, we had a smaller event of M3.16 near Burwash Landing in Yukon Territory. The top regions for these quakes were Yukon (two), British Columbia, and Alberta."
   }
 ]
