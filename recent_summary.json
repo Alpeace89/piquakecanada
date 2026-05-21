@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-05-21T09:03:01Z",
+  "generated_utc": "2026-05-21T10:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 502,
   "events_last_24h": 0,
@@ -20,5 +20,5 @@
   "largest_event_last_24h": null,
   "deepest_event_last_24h": null,
   "top_regions_last_24h": [],
-  "summary_text": "As of 2026-05-21 09:03 UTC, the recent Canada earthquake dataset contains 502 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M3.16 at 61 km WSW of Burwash Landing, YT/61 km OSO de Burwash Landing, YT at 2026-05-19T17:42:46.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "summary_text": "As of 2026-05-21 10:03 UTC, the recent Canada earthquake dataset contains 502 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M3.16 at 61 km WSW of Burwash Landing, YT/61 km OSO de Burwash Landing, YT at 2026-05-19T17:42:46.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }
