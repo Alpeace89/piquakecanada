@@ -491,6 +491,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260516.0349001,2026-05-16T03:49:09.000Z,60.5109,-139.805,5.0,ML,2.11,"128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
 20260516.0541001,2026-05-16T05:41:43.000Z,49.5095,-127.3128,29.68,ML,2.06,"65 km SW of Tahsis, BC/65 km SO de Tahsis, BC"
 20260516.0541002,2026-05-16T05:41:58.000Z,61.1122,-140.0871,5.0,ML,1.75,"65 km WSW of Burwash Landing, YT/65 km OSO de Burwash Landing, YT"
+20260516.1019001,2026-05-16T10:19:51.000Z,49.1833,-127.9053,10.0,Mw',2.08,"134 km W of Marktosis 15, BC/134 km O de Marktosis 15, BC"
 20260516.2036001,2026-05-16T20:36:49.000Z,49.4476,-116.8042,5.0,ML,3.58,"26 km SE of Central Kootenay E, BC/26 km SE de Central Kootenay E, BC"
 20260516.2359001,2026-05-16T23:59:39.000Z,49.9926,-130.044,10.0,Mw',3.06,"198 km WSW of Port Hardy, BC/198 km OSO de Port Hardy, BC"
 20260517.1556001,2026-05-17T15:56:37.000Z,47.5489,-81.8875,0.0,MwN,2.0,"Blast, 19 km SW of Gogama, ON/Dynamitage, 19 km SO de Gogama, ON"
@@ -511,3 +512,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260521.0607001,2026-05-21T06:07:40.000Z,60.5571,-139.9678,5.0,ML,2.35,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
 20260521.0838001,2026-05-21T08:38:07.000Z,54.7946,-118.5991,1.0,MLy,2.45,"Suspected industry-related event, 44 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km SSE de Grande Prairie, AB"
 20260521.1156001,2026-05-21T11:56:57.000Z,60.3891,-139.5457,5.0,ML,2.25,"118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
+20260521.1605001,2026-05-21T16:05:05.000Z,46.3848,-79.4017,0.0,MwN,1.38,"Blast, 9 km NNE of North Bay, ON/Dynamitage, 9 km NNE de North Bay, ON"

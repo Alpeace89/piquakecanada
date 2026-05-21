@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-21T16:05:05.000Z",
+    "magnitude": "1.38",
+    "depth_km": "0.0",
+    "place": "Blast, 9 km NNE of North Bay, ON/Dynamitage, 9 km NNE de North Bay, ON"
+  },
+  {
     "time_utc": "2026-05-21T11:56:57.000Z",
     "magnitude": "2.25",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.18",
     "depth_km": "19.1",
     "place": "12 km NW of Saint-Sim\u00e9on, QC/12 km NO de Saint-Sim\u00e9on, QC"
-  },
-  {
-    "time_utc": "2026-05-19T10:01:11.000Z",
-    "magnitude": "2.53",
-    "depth_km": "10.0",
-    "place": "164 km SW of Port Hardy, BC/164 km SO de Port Hardy, BC"
   }
 ];
