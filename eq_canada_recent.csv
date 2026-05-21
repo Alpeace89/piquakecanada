@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260406.0520001,2026-04-06T05:20:20.000Z,50.3114,-130.2285,10.0,Mw',3.05,"198 km WSW of Port Hardy, BC/198 km OSO de Port Hardy, BC"
-20260406.0526001,2026-04-06T05:26:46.000Z,48.1326,-80.0786,1.62,MwN,1.06,"Mining event, 4 km WSW of Kirkland Lake, ON/Événement minier, 4 km OSO de Kirkland Lake, ON"
-20260406.0527001,2026-04-06T05:27:12.000Z,48.1326,-80.0786,1.62,MwN,1.92,"Mining event, 4 km WSW of Kirkland Lake, ON/Événement minier, 4 km OSO de Kirkland Lake, ON"
 20260406.0603001,2026-04-06T06:03:47.000Z,52.4881,-131.8407,28.16,ML,2.48,"87 km S of Daajing Giids, BC/87 km S de Daajing Giids, BC"
 20260406.0800001,2026-04-06T08:00:31.000Z,50.2935,-130.2266,10.0,Mw',2.94,"199 km WSW of Port Hardy, BC/199 km OSO de Port Hardy, BC"
 20260406.0809001,2026-04-06T08:09:48.000Z,60.524,-139.7758,5.0,ML,2.24,"126 km W of Haines Junction, YT/126 km O de Haines Junction, YT"
