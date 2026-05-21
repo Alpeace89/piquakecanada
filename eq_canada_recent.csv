@@ -500,3 +500,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260519.1443001,2026-05-19T14:43:59.000Z,59.6865,-136.1693,6.27,ML,2.86,"127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
 20260519.1602001,2026-05-19T16:02:37.000Z,53.3817,-117.3057,0.0,MLy,3.24,"Blast, 17 km E of Hinton, AB/Dynamitage, 17 km E de Hinton, AB"
 20260519.1742001,2026-05-19T17:42:46.000Z,61.1084,-140.0068,1.0,ML,3.16,"61 km WSW of Burwash Landing, YT/61 km OSO de Burwash Landing, YT"
+20260521.0230001,2026-05-21T02:30:28.000Z,49.689,-124.8517,10.42,ML,2.21,"10 km E of Courtenay, BC/10 km E de Courtenay, BC"

@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a M3.16 that happened 61 km west-southwest of Burwash Landing, YT on May 19th at around 5 PM. There haven't been any new earthquakes reported since then.
+The PiQuake Canada dashboard shows no earthquakes in the last hour, but there was one event yesterday with a magnitude of M2.21 happening 10 kilometers east of Courtenay, BC at around 2:30 AM today. This is our latest and only recorded quake since we started beta testing.

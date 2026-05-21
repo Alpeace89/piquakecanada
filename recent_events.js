@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-21T02:30:28.000Z",
+    "magnitude": "2.21",
+    "depth_km": "10.42",
+    "place": "10 km E of Courtenay, BC/10 km E de Courtenay, BC"
+  },
+  {
     "time_utc": "2026-05-19T17:42:46.000Z",
     "magnitude": "3.16",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.04",
     "depth_km": "1.0",
     "place": "71 km NW of Bella Coola 1, BC/71 km NO de Bella Coola 1, BC"
-  },
-  {
-    "time_utc": "2026-05-18T03:10:54.000Z",
-    "magnitude": "2.43",
-    "depth_km": "10.0",
-    "place": "188 km SW of Port Hardy, BC/188 km SO de Port Hardy, BC"
   }
 ];
