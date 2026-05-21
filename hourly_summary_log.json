@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-30T21:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we saw four seismic events. The biggest one was a M4.12 near Haines Junction in Yukon and another place nearby. That's quite impressive! We also had one small tremor near Haliburton Village in Ontario, which sounds like it might have been related to some dynamite work. That’s pretty active down there with places in British Columbia, Yukon Territory, and an unknown location all reporting activity."
-  },
-  {
     "timestamp_utc": "2026-04-30T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, with a total of five events recorded over the past 24 hours. The largest event was an M2.45 near Grande Prairie in Alberta, suspected to be related to industry. In the latest update, there's also been a minor shake in Haines Junction, Yukon. Most of these were spotted in British Columbia and the Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-05-21T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had five PiQuake Canada dashboard events. The biggest one was a M2.45 event near Grande Prairie in Alberta that's suspected to be related to industry activities. We also saw two in Yukon and one in British Columbia. That’s about one event per hour on average during the day of May 21st, 2026."
   }
 ]

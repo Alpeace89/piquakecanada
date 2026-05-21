@@ -48,15 +48,15 @@ window.recentEvents = [
     "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
   },
   {
+    "time_utc": "2026-05-19T13:01:33.000Z",
+    "magnitude": "1.18",
+    "depth_km": "19.1",
+    "place": "12 km NW of Saint-Sim\u00e9on, QC/12 km NO de Saint-Sim\u00e9on, QC"
+  },
+  {
     "time_utc": "2026-05-19T10:01:11.000Z",
     "magnitude": "2.53",
     "depth_km": "10.0",
     "place": "164 km SW of Port Hardy, BC/164 km SO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-05-18T20:39:11.000Z",
-    "magnitude": "0.34",
-    "depth_km": "5.0",
-    "place": "9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB"
   }
 ];
