@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-21T11:56:57.000Z",
+    "magnitude": "2.25",
+    "depth_km": "5.0",
+    "place": "118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-05-21T08:38:07.000Z",
     "magnitude": "2.45",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "0.34",
     "depth_km": "5.0",
     "place": "9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB"
-  },
-  {
-    "time_utc": "2026-05-18T13:57:46.000Z",
-    "magnitude": "1.76",
-    "depth_km": "32.97",
-    "place": "58 km SSW of Houpsitas 6, BC/58 km SSO de Houpsitas 6, BC"
   }
 ];
