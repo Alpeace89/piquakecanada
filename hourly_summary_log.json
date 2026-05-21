@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-30T13:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M4.12 earthquake located 119 km west-southwest of Haines Junction, Yukon and 119 km northwest of Haines Junction, Yukon. This is the largest quake we saw today, and it's been happening in Yukon Territory all day long."
-  },
-  {
     "timestamp_utc": "2026-04-30T14:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest quake recorded was of unknown magnitude happening somewhere near Burwash Landing, Yukon and Old Salmon River, Yukon, on May 19th around 5 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-05-21T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and there's an unknown magnitude event from yesterday. The latest recorded quake was a M3.16 about 61 km west-south-west of Burwash Landing, Yukon and 61 km east-northeast of Burwash Landing, Yukon."
   }
 ]

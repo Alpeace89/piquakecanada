@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest quake recorded was of unknown magnitude happening somewhere near Burwash Landing, Yukon and Old Salmon River, Yukon, on May 19th around 5 PM local time.
+The PiQuake Canada dashboard shows no events in the last hour or day, and there's an unknown magnitude event from yesterday. The latest recorded quake was a M3.16 about 61 km west-south-west of Burwash Landing, Yukon and 61 km east-northeast of Burwash Landing, Yukon.
