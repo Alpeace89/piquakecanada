@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard hasn't recorded any seismic events in the last 24 hours, and we haven't had a big one either. The most recent event was a small shake with a magnitude of M3.16 that happened on May 19th at around 5:42 PM local time. Everything's quiet out there so far.
+The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest quake recorded was of unknown magnitude happening somewhere near Burwash Landing, Yukon and Old Salmon River, Yukon, on May 19th around 5 PM local time.
