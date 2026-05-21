@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-30T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had three small quakes monitored by our PiQuake Canada dashboard. The biggest one was a M4.12 near Haines Junction in the Yukon and nearby Ontario. That's quite strong but not to worry about. Then there were two more minor shakes, both felt around Otter Lake in Quebec. It’s all part of how things work down here under our feet."
-  },
-  {
     "timestamp_utc": "2026-04-30T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there was one event yesterday with a magnitude of M2.21 happening 10 kilometers east of Courtenay, BC at around 2:30 AM today. This is our latest and only recorded quake since we started beta testing."
+  },
+  {
+    "timestamp_utc": "2026-05-21T15:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary for the PiQuake Canada dashboard: In the last 24 hours, we had four minor quakes. The biggest one was a M2.45 near Grande Prairie in Alberta and it happened on May 21st at around 8:38 AM. Most of these quakes were reported from British Columbia and the Northwest Territories too."
   }
 ]

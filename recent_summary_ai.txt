@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no earthquakes in the last hour, but there was one event yesterday with a magnitude of M2.21 happening 10 kilometers east of Courtenay, BC at around 2:30 AM today. This is our latest and only recorded quake since we started beta testing.
+Here's a quick summary for the PiQuake Canada dashboard: In the last 24 hours, we had four minor quakes. The biggest one was a M2.45 near Grande Prairie in Alberta and it happened on May 21st at around 8:38 AM. Most of these quakes were reported from British Columbia and the Northwest Territories too.

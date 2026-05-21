@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-21T08:38:07.000Z",
+    "magnitude": "2.45",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 44 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 44 km SSE de Grande Prairie, AB"
+  },
+  {
+    "time_utc": "2026-05-21T06:07:40.000Z",
+    "magnitude": "2.35",
+    "depth_km": "5.0",
+    "place": "136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-21T02:51:38.000Z",
+    "magnitude": "2.26",
+    "depth_km": "14.83",
+    "place": "57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
+  },
+  {
     "time_utc": "2026-05-21T02:30:28.000Z",
     "magnitude": "2.21",
     "depth_km": "10.42",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.76",
     "depth_km": "32.97",
     "place": "58 km SSW of Houpsitas 6, BC/58 km SSO de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-05-18T13:43:05.000Z",
-    "magnitude": "2.64",
-    "depth_km": "30.0",
-    "place": "61 km SSW of Houpsitas 6, BC/61 km SSO de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-05-18T12:10:09.000Z",
-    "magnitude": "1.71",
-    "depth_km": "19.61",
-    "place": "52 km W of Refuge Cove 6, BC/52 km O de Refuge Cove 6, BC"
-  },
-  {
-    "time_utc": "2026-05-18T08:45:17.000Z",
-    "magnitude": "2.04",
-    "depth_km": "1.0",
-    "place": "71 km NW of Bella Coola 1, BC/71 km NO de Bella Coola 1, BC"
   }
 ];
