@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-30T09:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of 2 quakes detected. The largest one was an M4.12 near Haines Junction in the Yukon Territory, which happened just after midnight yesterday. This is our latest and only event for today. Notable areas with activity are the Yukon Territory, where we saw two quakes occur last night."
-  },
-  {
     "timestamp_utc": "2026-04-30T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard hasn't logged any seismic activity in the last hour or day. The largest event recorded was a mystery magnitude from an unknown location that happened way back on May 19th at around 5 PM, and it was near Burwash Landing in the Yukon Territory. Since then, there haven’t been any quakes to report."
+  },
+  {
+    "timestamp_utc": "2026-05-21T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest one we picked up was a M3.16 happening near Burwash Landing in the Yukon Territory. This is the first activity from our beta version since it went live on May 19th."
   }
 ]
