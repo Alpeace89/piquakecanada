@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260406.0056001,2026-04-06T00:56:27.000Z,53.1515,-124.8916,1.0,ML,2.14,"Suspected blast, 27 km WNW of Kluskus 1, BC/Dynamitage soupconné, 27 km ONO de Kluskus 1, BC"
 20260406.0245001,2026-04-06T02:45:46.000Z,47.654,-70.1298,9.08,MwN,1.37,"2 km ENE of La Malbaie, QC/2 km ENE de La Malbaie, QC"
 20260406.0434001,2026-04-06T04:34:42.000Z,47.2697,-70.28,14.12,MwN,1.0,"6 km N of Saint-Jean-Port-Joli, QC/6 km N de Saint-Jean-Port-Joli, QC"
 20260406.0520001,2026-04-06T05:20:20.000Z,50.3114,-130.2285,10.0,Mw',3.05,"198 km WSW of Port Hardy, BC/198 km OSO de Port Hardy, BC"
