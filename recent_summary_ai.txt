@@ -1,1 +1,1 @@
-In the last 24 hours, there were no recorded earthquakes. The largest one measured M3.16 and happened near Burwash Landing in the Yukon Territory, not too far from another spot called OSO de Burwash Landing. It all happened on May 19th at around 5:42 PM local time.
+The PiQuake Canada dashboard is still in beta and has not recorded any quakes in the last hour or day. The largest quake in the past 24 hours was an unknown magnitude coming from an unknown location, and there's no latest event listed either.
