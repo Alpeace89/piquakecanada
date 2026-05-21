@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-01T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we saw three small earthquakes with the largest measuring M4.12 near Haines Junction in Yukon and a smaller one around Haliburton Village in Ontario. These are pretty minor quakes that don't pose any immediate threats, but it's always good to stay alert for unusual seismic activity."
-  },
-  {
     "timestamp_utc": "2026-05-01T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've seen a total of nine minor seismic events reported by the PiQuake Canada dashboard. The largest one was an industry-related event measuring M2.88 near Halfway River in British Columbia, and there's also been a blast at North Bay in Ontario that registered as a small but noticeable M1.38 shake. Most of these happened in BC with four incidents, followed by two each in Yukon and Alberta."
+  },
+  {
+    "timestamp_utc": "2026-05-21T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows one event happened in the last hour, with a total of ten events in the past day. The largest event was a M4.15 under Mayo, YT on May 21st at around 8:29 PM. That's where we've been seeing most activity lately—mostly in BC and Yukon Territory, with Alberta having one too."
   }
 ]

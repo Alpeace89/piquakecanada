@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-21T20:29:40.000Z",
+    "magnitude": "4.15",
+    "depth_km": "5.0",
+    "place": "189 km NNE of Mayo, YT/189 km NNE de Mayo, YT"
+  },
+  {
     "time_utc": "2026-05-21T16:05:05.000Z",
     "magnitude": "1.38",
     "depth_km": "0.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.21",
     "depth_km": "10.42",
     "place": "10 km E of Courtenay, BC/10 km E de Courtenay, BC"
-  },
-  {
-    "time_utc": "2026-05-19T17:42:46.000Z",
-    "magnitude": "3.16",
-    "depth_km": "1.0",
-    "place": "61 km WSW of Burwash Landing, YT/61 km OSO de Burwash Landing, YT"
   }
 ];
