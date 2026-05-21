@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no earthquakes in the last hour or day, and it's been quiet as well. The latest one was a small M3.16 near Burwash Landing, Yukon, spotted on May 19th at around 5 PM local time. It's all pretty tame so far this week.
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a M3.16 that happened 61 km west-southwest of Burwash Landing, YT on May 19th at around 5 PM. There haven't been any new earthquakes reported since then.

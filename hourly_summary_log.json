@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-30T17:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there was one seismic event recorded on our PiQuake Canada dashboard. It measured M4.12 and happened in a place near Haines Junction, Yukon. That's pretty much it - nothing major but still something worth keeping an eye on."
-  },
-  {
     "timestamp_utc": "2026-04-30T18:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day, and it's been quiet as well. The latest one was a small M3.16 near Burwash Landing, Yukon, spotted on May 19th at around 5 PM local time. It's all pretty tame so far this week."
+  },
+  {
+    "timestamp_utc": "2026-05-21T13:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a M3.16 that happened 61 km west-southwest of Burwash Landing, YT on May 19th at around 5 PM. There haven't been any new earthquakes reported since then."
   }
 ]
