@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-04-30T16:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard had no seismic events in the last hour, but we saw one event yesterday. The largest shake from that was a M4.12 near Haines Junction, Yukon/Territory area at about midnight on April 30th. That's where we've been seeing most of our activity recently."
-  },
-  {
     "timestamp_utc": "2026-04-30T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in beta and has not recorded any quakes in the last hour or day. The largest quake in the past 24 hours was an unknown magnitude coming from an unknown location, and there's no latest event listed either."
+  },
+  {
+    "timestamp_utc": "2026-05-21T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day, and it's been quiet as well. The latest one was a small M3.16 near Burwash Landing, Yukon, spotted on May 19th at around 5 PM local time. It's all pretty tame so far this week."
   }
 ]
