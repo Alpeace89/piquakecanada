@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-05-21T21:03:01Z",
+  "generated_utc": "2026-05-21T22:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 524,
-  "events_last_24h": 10,
+  "events_last_24h": 11,
   "events_last_hour": 1,
-  "count_m3plus_last_24h": 1,
+  "count_m3plus_last_24h": 2,
   "count_m4plus_last_24h": 1,
   "latest_event": {
-    "event_id": "20260521.2029003",
-    "time_utc": "2026-05-21T20:29:40.000Z",
-    "latitude": 65.0075,
-    "longitude": -133.7305,
-    "depth_km": 5.0,
+    "event_id": "20260521.2108001",
+    "time_utc": "2026-05-21T21:08:24.000Z",
+    "latitude": 58.4318,
+    "longitude": -137.2982,
+    "depth_km": 1.0,
     "mag_type": "ML",
-    "magnitude": 4.15,
-    "place": "189 km NNE of Mayo, YT/189 km NNE de Mayo, YT",
-    "region": "YT"
+    "magnitude": 3.01,
+    "place": "168 km W of Juneau, AK/168 km O de Juneau, AK",
+    "region": "AK"
   },
   "largest_event_last_24h": {
     "event_id": "20260521.2029003",
@@ -49,9 +49,9 @@
       "count": 3
     },
     {
-      "region": "AB",
-      "count": 1
+      "region": "AK",
+      "count": 2
     }
   ],
-  "summary_text": "As of 2026-05-21 21:03 UTC, the recent Canada earthquake dataset contains 524 events from the current rolling window. In the last 24 hours, 10 events were recorded, including 1 in the last hour. The largest event in the last 24 hours was M4.15 at 189 km NNE of Mayo, YT/189 km NNE de Mayo, YT. The deepest event reached 22.04 km at 14 km WSW of Refuge Cove 6, BC/14 km OSO de Refuge Cove 6, BC. The most recent listed event was M4.15 at 189 km NNE of Mayo, YT/189 km NNE de Mayo, YT at 2026-05-21T20:29:40.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and YT (3)."
+  "summary_text": "As of 2026-05-21 22:03 UTC, the recent Canada earthquake dataset contains 524 events from the current rolling window. In the last 24 hours, 11 events were recorded, including 1 in the last hour. The largest event in the last 24 hours was M4.15 at 189 km NNE of Mayo, YT/189 km NNE de Mayo, YT. The deepest event reached 22.04 km at 14 km WSW of Refuge Cove 6, BC/14 km OSO de Refuge Cove 6, BC. The most recent listed event was M3.01 at 168 km W of Juneau, AK/168 km O de Juneau, AK at 2026-05-21T21:08:24.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and YT (3)."
 }

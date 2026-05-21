@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260406.2143001,2026-04-06T21:43:00.000Z,60.5686,-139.829,5.0,ML,2.22,"128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
 20260407.0207001,2026-04-07T02:07:43.000Z,54.947,-121.0911,0.0,ML,3.21,"Blast, 11 km WSW of Trend Mine, BC/Dynamitage, 11 km OSO de la mine Trend, BC"
 20260407.0641001,2026-04-07T06:41:58.000Z,52.5631,-132.7994,10.0,ML,2.27,"91 km SSW of Daajing Giids, BC/91 km SSO de Daajing Giids, BC"
 20260407.0744001,2026-04-07T07:44:01.000Z,54.5174,-118.5366,5.0,MLy,3.34,"Suspected industry-related event, 75 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 75 km SSE de Grande Prairie, AB"
@@ -523,3 +522,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260521.1541001,2026-05-21T15:41:07.000Z,56.7743,-122.0391,1.0,MLy,2.88,"Suspected industry-related event, 35 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 35 km NNO de Halfway River 168, BC"
 20260521.1605001,2026-05-21T16:05:05.000Z,46.3848,-79.4017,0.0,MwN,1.38,"Blast, 9 km NNE of North Bay, ON/Dynamitage, 9 km NNE de North Bay, ON"
 20260521.2029003,2026-05-21T20:29:40.000Z,65.0075,-133.7305,5.0,ML,4.15,"189 km NNE of Mayo, YT/189 km NNE de Mayo, YT"
+20260521.2108001,2026-05-21T21:08:24.000Z,58.4318,-137.2982,1.0,ML,3.01,"168 km W of Juneau, AK/168 km O de Juneau, AK"

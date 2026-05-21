@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-21T21:08:24.000Z",
+    "magnitude": "3.01",
+    "depth_km": "1.0",
+    "place": "168 km W of Juneau, AK/168 km O de Juneau, AK"
+  },
+  {
     "time_utc": "2026-05-21T20:29:40.000Z",
     "magnitude": "4.15",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.26",
     "depth_km": "14.83",
     "place": "57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-05-21T02:30:28.000Z",
-    "magnitude": "2.21",
-    "depth_km": "10.42",
-    "place": "10 km E of Courtenay, BC/10 km E de Courtenay, BC"
   }
 ];
