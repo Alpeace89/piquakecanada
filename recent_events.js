@@ -6,6 +6,24 @@ window.recentEvents = [
     "place": "Blast, 9 km NNE of North Bay, ON/Dynamitage, 9 km NNE de North Bay, ON"
   },
   {
+    "time_utc": "2026-05-21T15:41:07.000Z",
+    "magnitude": "2.88",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 35 km NNW of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 35 km NNO de Halfway River 168, BC"
+  },
+  {
+    "time_utc": "2026-05-21T15:02:38.000Z",
+    "magnitude": "1.71",
+    "depth_km": "22.04",
+    "place": "14 km WSW of Refuge Cove 6, BC/14 km OSO de Refuge Cove 6, BC"
+  },
+  {
+    "time_utc": "2026-05-21T13:59:31.000Z",
+    "magnitude": "2.67",
+    "depth_km": "1.0",
+    "place": "125 km WNW of Juneau, AK/125 km ONO de Juneau, AK"
+  },
+  {
     "time_utc": "2026-05-21T11:56:57.000Z",
     "magnitude": "2.25",
     "depth_km": "5.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "3.16",
     "depth_km": "1.0",
     "place": "61 km WSW of Burwash Landing, YT/61 km OSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-05-19T16:02:37.000Z",
-    "magnitude": "3.24",
-    "depth_km": "0.0",
-    "place": "Blast, 17 km E of Hinton, AB/Dynamitage, 17 km E de Hinton, AB"
-  },
-  {
-    "time_utc": "2026-05-19T14:43:59.000Z",
-    "magnitude": "2.86",
-    "depth_km": "6.27",
-    "place": "127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-05-19T13:01:33.000Z",
-    "magnitude": "1.18",
-    "depth_km": "19.1",
-    "place": "12 km NW of Saint-Sim\u00e9on, QC/12 km NO de Saint-Sim\u00e9on, QC"
   }
 ];

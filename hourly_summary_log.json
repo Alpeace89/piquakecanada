@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-01T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've seen three PiQuake Canada dashboard updates with a big one measuring M4.12 just southwest of Haines Junction in Yukon and another small one near Haliburton Village in Ontario. The highest event was a magnitude 4.12 quake on April 30th at around midnight UTC time, while the most recent one rated at M1.62 happened shortly after lunchtime that day. Notable places where we've been tracking activity include Yukon and Ontario with one each."
-  },
-  {
     "timestamp_utc": "2026-05-01T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the past 24 hours, there have been no significant seismic events in Canada as per our dashboard. However, we did see six minor quakes. The largest one was a M2.45 near Grande Prairie, Alberta, which seemed to be linked to industry activities. On May 21st at around noon local time, another small blast shook North Bay, Ontario. It's the latest seismic activity tracked by our dashboard."
+  },
+  {
+    "timestamp_utc": "2026-05-21T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've seen a total of nine minor seismic events reported by the PiQuake Canada dashboard. The largest one was an industry-related event measuring M2.88 near Halfway River in British Columbia, and there's also been a blast at North Bay in Ontario that registered as a small but noticeable M1.38 shake. Most of these happened in BC with four incidents, followed by two each in Yukon and Alberta."
   }
 ]
