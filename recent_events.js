@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-22T03:46:54.000Z",
+    "magnitude": "2.55",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 45 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 45 km S de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-05-21T21:58:01.000Z",
     "magnitude": "2.16",
     "depth_km": "15.08",
@@ -13,9 +19,9 @@ window.recentEvents = [
   },
   {
     "time_utc": "2026-05-21T21:22:27.000Z",
-    "magnitude": "2.52",
-    "depth_km": "1.0",
-    "place": "Blast, Garson Mine, ON, felt/Dynamitage, Mine Garson, ON, ressenti"
+    "magnitude": "2.51",
+    "depth_km": "1.46",
+    "place": "Mining event, Garson Mine, ON, felt/\u00c9v\u00e9nement minier, Mine Garson, ON, ressenti"
   },
   {
     "time_utc": "2026-05-21T21:08:24.000Z",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.71",
     "depth_km": "22.04",
     "place": "14 km WSW of Refuge Cove 6, BC/14 km OSO de Refuge Cove 6, BC"
-  },
-  {
-    "time_utc": "2026-05-21T13:59:31.000Z",
-    "magnitude": "2.67",
-    "depth_km": "1.0",
-    "place": "125 km WNW of Juneau, AK/125 km ONO de Juneau, AK"
   }
 ];

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-02T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had six little earthquakes rocking parts of Canada. The biggest one was a M3.34 near Juneau in Alaska, and it happened just after midnight our time. Since then, there's been another M2.29 near Bellingham in Washington State. Most of these were felt around British Columbia, Yukon, and Washington, with two each from those areas."
-  },
-  {
     "timestamp_utc": "2026-05-02T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had six little shakes reported across Canada. The biggest one was a M4.15 near Mayo in the Yukon Territory, and then there were smaller ones around Daajing Giids in British Columbia and other places too. It's pretty common to see quakes like this happen sometimes here in Canada."
+  },
+  {
+    "timestamp_utc": "2026-05-22T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had no new mainshocks reported but there were six minor quakes. The biggest one was a M4.15 that happened close to Mayo in Yukon Territory. Yesterday morning at around 8 AM, local time, another quake of magnitude M2.55 rattled the area near Grande Prairie in Alberta. It's a suspected industry-related event, and it's been our smallest but most recent one."
   }
 ]
