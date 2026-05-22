@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-01T22:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've seen a total of 7 earthquakes monitored by our PiQuake Canada dashboard. The largest event was a M3.34 that happened about 157 km west-northwest of Juneau, Alaska at around 8:10 AM on May 1st. That's followed closely by another M2.29 earthquake near Bellingham, Washington which occurred earlier today at noon."
-  },
-  {
     "timestamp_utc": "2026-05-01T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were four events in the past day with the largest being a M4.15 quake near Mayo, YT. The latest one felt at Garson Mine, ON earlier today. Most of these happenings are in British Columbia, Yukon Territory, and Alaska."
+  },
+  {
+    "timestamp_utc": "2026-05-22T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had four small tremors reported across British Columbia, Yukon Territory, and Alaska. The biggest one measured at M4.15 near Mayo in the Yukon Territory, while a minor shake from dynamite blasting hit Garson Mine in Ontario. This is about normal for our area, with most events being too weak to feel."
   }
 ]
