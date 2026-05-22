@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-01T10:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were two PiQuake Canada events. The largest one was a M1.94 near Otter Lake in Quebec that many people felt or experienced. Another minor quake with a magnitude of M1.62 happened near Haliburton Village in Ontario while they were doing dynamite work."
-  },
-  {
     "timestamp_utc": "2026-05-01T11:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of 9 PiQuake Canada dashboard events. The largest one was a M4.15 under Mayo in the Yukon, and there's another recent event near Juneau in Alaska with a magnitude of M3.01. Most activity has been centered around regions like the Yukon and parts of Alaska."
+  },
+  {
+    "timestamp_utc": "2026-05-22T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had nine quakes monitored by our PiQuake Canada dashboard. The largest one was a M4.15 near Mayo in the Yukon Territory, and there's another one just yesterday that measured M3.01 about Juneau in Alaska. Most of these happened in British Columbia, Yukon, and Alaska regions."
   }
 ]
