@@ -514,6 +514,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260521.1502001,2026-05-21T15:02:38.000Z,49.3104,-126.4487,22.04,ML,1.71,"14 km WSW of Refuge Cove 6, BC/14 km OSO de Refuge Cove 6, BC"
 20260521.1541001,2026-05-21T15:41:07.000Z,56.7743,-122.0391,1.0,MLy,2.88,"Suspected industry-related event, 35 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 35 km NNO de Halfway River 168, BC"
 20260521.1605001,2026-05-21T16:05:05.000Z,46.3848,-79.4017,0.0,MwN,1.38,"Blast, 9 km NNE of North Bay, ON/Dynamitage, 9 km NNE de North Bay, ON"
+20260521.1920001,2026-05-21T19:20:08.000Z,52.7682,-132.3577,16.73,ML,2.2,"57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
 20260521.2029003,2026-05-21T20:29:40.000Z,65.0075,-133.7305,5.0,ML,4.15,"189 km NNE of Mayo, YT/189 km NNE de Mayo, YT"
 20260521.2108001,2026-05-21T21:08:24.000Z,58.4318,-137.2982,1.0,ML,3.01,"168 km W of Juneau, AK/168 km O de Juneau, AK"
 20260521.2122002,2026-05-21T21:22:27.000Z,46.568,-80.857,1.0,MwN,2.52,"Blast, Garson Mine, ON, felt/Dynamitage, Mine Garson, ON, ressenti"

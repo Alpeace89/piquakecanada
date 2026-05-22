@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "189 km NNE of Mayo, YT/189 km NNE de Mayo, YT"
   },
   {
+    "time_utc": "2026-05-21T19:20:08.000Z",
+    "magnitude": "2.2",
+    "depth_km": "16.73",
+    "place": "57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
+  },
+  {
     "time_utc": "2026-05-21T16:05:05.000Z",
     "magnitude": "1.38",
     "depth_km": "0.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.25",
     "depth_km": "5.0",
     "place": "118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-21T08:38:07.000Z",
-    "magnitude": "2.45",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 44 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 44 km SSE de Grande Prairie, AB"
   }
 ];

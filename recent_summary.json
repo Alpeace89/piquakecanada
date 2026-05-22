@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-05-22T14:03:01Z",
+  "generated_utc": "2026-05-22T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 518,
+  "rolling_window_event_count": 519,
   "events_last_24h": 6,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 2,
@@ -29,14 +29,14 @@
     "region": "YT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260521.1502001",
-    "time_utc": "2026-05-21T15:02:38.000Z",
-    "latitude": 49.3104,
-    "longitude": -126.4487,
-    "depth_km": 22.04,
+    "event_id": "20260521.1920001",
+    "time_utc": "2026-05-21T19:20:08.000Z",
+    "latitude": 52.7682,
+    "longitude": -132.3577,
+    "depth_km": 16.73,
     "mag_type": "ML",
-    "magnitude": 1.71,
-    "place": "14 km WSW of Refuge Cove 6, BC/14 km OSO de Refuge Cove 6, BC",
+    "magnitude": 2.2,
+    "place": "57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC",
     "region": "BC"
   },
   "top_regions_last_24h": [
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-22 14:03 UTC, the recent Canada earthquake dataset contains 518 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.15 at 189 km NNE of Mayo, YT/189 km NNE de Mayo, YT. The deepest event reached 22.04 km at 14 km WSW of Refuge Cove 6, BC/14 km OSO de Refuge Cove 6, BC. The most recent listed event was M2.52 at Blast, Garson Mine, ON, felt/Dynamitage, Mine Garson, ON, ressenti at 2026-05-21T21:22:27.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (2) and ON (1)."
+  "summary_text": "As of 2026-05-22 15:03 UTC, the recent Canada earthquake dataset contains 519 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.15 at 189 km NNE of Mayo, YT/189 km NNE de Mayo, YT. The deepest event reached 16.73 km at 57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC. The most recent listed event was M2.52 at Blast, Garson Mine, ON, felt/Dynamitage, Mine Garson, ON, ressenti at 2026-05-21T21:22:27.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (2) and ON (1)."
 }
