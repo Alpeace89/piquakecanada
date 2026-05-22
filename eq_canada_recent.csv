@@ -504,6 +504,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260519.1602001,2026-05-19T16:02:37.000Z,53.3817,-117.3057,0.0,MLy,3.24,"Blast, 17 km E of Hinton, AB/Dynamitage, 17 km E de Hinton, AB"
 20260519.1727001,2026-05-19T17:27:04.000Z,61.108,-139.9933,5.0,ML,2.05,"60 km WSW of Burwash Landing, YT/60 km OSO de Burwash Landing, YT"
 20260519.1742001,2026-05-19T17:42:46.000Z,61.1084,-140.0068,1.0,ML,3.16,"61 km WSW of Burwash Landing, YT/61 km OSO de Burwash Landing, YT"
+20260520.0102001,2026-05-20T01:02:20.000Z,49.2919,-67.2786,16.94,MwN,1.93,"53 km NNE of Matane, QC/53 km NNE de Matane, QC"
+20260520.0618001,2026-05-20T06:18:04.000Z,47.6609,-69.7753,21.07,MwN,0.82,"14 km N of Saint-Pascal, QC/14 km N de Saint-Pascal, QC"
 20260521.0230002,2026-05-21T02:30:28.000Z,49.6899,-124.844,10.83,ML,2.08,"11 km E of Courtenay, BC/11 km E de Courtenay, BC"
 20260521.0251001,2026-05-21T02:51:38.000Z,52.7693,-132.3626,14.83,ML,2.26,"57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
 20260521.0607001,2026-05-21T06:07:40.000Z,60.5571,-139.9678,5.0,ML,2.35,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
