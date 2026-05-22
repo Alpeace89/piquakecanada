@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-01T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major quakes reported. However, we did have two small earthquakes - one in Quebec and another near Haliburton Village in Ontario. The largest quake was a M1.94 that people could feel about 13 km south-southeast of Otter Lake. There's also a smaller one at M1.62 today where dynamite blasting occurred nearby. So far, it looks like everything is quiet across Canada and no major shakes were reported."
-  },
-  {
     "timestamp_utc": "2026-05-01T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had nine quakes reported. The biggest one was a M4.15 near Mayo in the Yukon, and there was another M3.01 off the coast of Alaska. Most of them were happening in British Columbia and the Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-05-22T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had 9 earthquakes reported through our dashboard. The largest one was a M4.15 that happened around 189 km north-northeast of Mayo in the Yukon. That's where it happens. We also saw some small ones near Juneau in Alaska and Victoria in British Columbia yesterday."
   }
 ]
