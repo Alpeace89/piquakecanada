@@ -1,1 +1,1 @@
-In the last 24 hours, we've had nine quakes monitored by our PiQuake Canada dashboard. The largest one was a M4.15 near Mayo in the Yukon Territory, and there's another one just yesterday that measured M3.01 about Juneau in Alaska. Most of these happened in British Columbia, Yukon, and Alaska regions.
+In the last 24 hours, we had 8 quakes reported. The biggest one was a M4.15 near Mayo in the Yukon Territory. And today, we saw our smallest quake of the day at just M3.01 in Juneau, Alaska. Not too many places felt this shake with two hits in YT and two in AK.

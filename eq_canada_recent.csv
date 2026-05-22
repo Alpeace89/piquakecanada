@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260407.0641001,2026-04-07T06:41:58.000Z,52.5631,-132.7994,10.0,ML,2.27,"91 km SSW of Daajing Giids, BC/91 km SSO de Daajing Giids, BC"
 20260407.0744001,2026-04-07T07:44:01.000Z,54.5174,-118.5366,5.0,MLy,3.34,"Suspected industry-related event, 75 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 75 km SSE de Grande Prairie, AB"
 20260407.0823001,2026-04-07T08:23:43.000Z,54.0873,-133.7245,10.0,M,2.03,"103 km W of Masset, BC/103 km O de Masset, BC"
 20260407.0904001,2026-04-07T09:04:44.000Z,54.546,-118.5777,3.24,MLy,2.35,"Suspected industry-related event, 71 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 71 km SSE de Grande Prairie, AB"
