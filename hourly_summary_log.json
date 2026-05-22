@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-02T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no significant earthquakes reported. However, a magnitude M3.34 quake occurred about 157 km WNW of Juneau, Alaska at 8:10 AM yesterday. The latest event was a smaller one at 12:06 PM today, measuring M2.29 and located 25 km south-southwest of Bellingham in Washington state. Notable regions experiencing activity last 24 hours were Yukon Territory with two quakes and both Washington and Alaska each having one."
-  },
-  {
     "timestamp_utc": "2026-05-02T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had no new mainshocks reported but there were six minor quakes. The biggest one was a M4.15 that happened close to Mayo in Yukon Territory. Yesterday morning at around 8 AM, local time, another quake of magnitude M2.55 rattled the area near Grande Prairie in Alberta. It's a suspected industry-related event, and it's been our smallest but most recent one."
+  },
+  {
+    "timestamp_utc": "2026-05-22T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had five minor seismic events. The largest one was a M3.01 happening about 168 km west of Juneau in Alaska. We also had a smaller event this morning near Grande Prairie in Alberta, suspected to be related to industry activities. As always, our PiQuake Canada dashboard keeps track of these minor quakes across British Columbia and Alaska, with one mysterious occurrence in the Unknown region too."
   }
 ]
