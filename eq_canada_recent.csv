@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260407.0904001,2026-04-07T09:04:44.000Z,54.546,-118.5777,3.24,MLy,2.35,"Suspected industry-related event, 71 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 71 km SSE de Grande Prairie, AB"
-20260407.0944001,2026-04-07T09:44:31.000Z,47.8166,-69.9709,2.0,MwN,1.07,"7 km WSW of Saint-Siméon, QC/7 km OSO de Saint-Siméon, QC"
 20260407.1202001,2026-04-07T12:02:08.000Z,54.7764,-118.6917,4.74,MLy,2.47,"Suspected industry-related event, 44 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km S de Grande Prairie, AB"
 20260407.1315001,2026-04-07T13:15:30.000Z,45.5812,-74.4458,9.63,MwN,1.03,"12 km SW of Lachute, QC/12 km SO de Lachute, QC"
 20260407.1712001,2026-04-07T17:12:05.000Z,56.0259,-120.803,3.48,MLy,2.46,"Suspected industry-related event, 16 km SSW of Taylor, BC/Événement lié à l'industrie soupconné, 16 km SSO de Taylor, BC"
