@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-01T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there have been six recorded earthquakes across Canada. The largest one was a M3.34 near Juneau, Alaska at around midnight UTC. That night another small quake hit Bellingham, Washington. The top regions with recent activity were Yukon Territory and Washington State, each having two events."
-  },
-  {
     "timestamp_utc": "2026-05-02T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had four small tremors reported across British Columbia, Yukon Territory, and Alaska. The biggest one measured at M4.15 near Mayo in the Yukon Territory, while a minor shake from dynamite blasting hit Garson Mine in Ontario. This is about normal for our area, with most events being too weak to feel."
+  },
+  {
+    "timestamp_utc": "2026-05-22T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had six little shakes reported across Canada. The biggest one was a M4.15 near Mayo in the Yukon Territory, and then there were smaller ones around Daajing Giids in British Columbia and other places too. It's pretty common to see quakes like this happen sometimes here in Canada."
   }
 ]

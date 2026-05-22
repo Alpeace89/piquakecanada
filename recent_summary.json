@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-05-22T18:03:01Z",
+  "generated_utc": "2026-05-22T19:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 520,
-  "events_last_24h": 4,
+  "rolling_window_event_count": 523,
+  "events_last_24h": 6,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 2,
   "count_m4plus_last_24h": 1,
   "latest_event": {
-    "event_id": "20260521.2122002",
-    "time_utc": "2026-05-21T21:22:27.000Z",
-    "latitude": 46.568,
-    "longitude": -80.857,
-    "depth_km": 1.0,
-    "mag_type": "MwN",
-    "magnitude": 2.52,
-    "place": "Blast, Garson Mine, ON, felt/Dynamitage, Mine Garson, ON, ressenti",
-    "region": "Unknown"
+    "event_id": "20260521.2158001",
+    "time_utc": "2026-05-21T21:58:01.000Z",
+    "latitude": 53.0111,
+    "longitude": -132.6921,
+    "depth_km": 15.08,
+    "mag_type": "ML",
+    "magnitude": 2.16,
+    "place": "49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC",
+    "region": "BC"
   },
   "largest_event_last_24h": {
     "event_id": "20260521.2029003",
@@ -42,7 +42,7 @@
   "top_regions_last_24h": [
     {
       "region": "BC",
-      "count": 1
+      "count": 3
     },
     {
       "region": "YT",
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-22 18:03 UTC, the recent Canada earthquake dataset contains 520 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.15 at 189 km NNE of Mayo, YT/189 km NNE de Mayo, YT. The deepest event reached 16.73 km at 57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC. The most recent listed event was M2.52 at Blast, Garson Mine, ON, felt/Dynamitage, Mine Garson, ON, ressenti at 2026-05-21T21:22:27.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (1) and YT (1)."
+  "summary_text": "As of 2026-05-22 19:03 UTC, the recent Canada earthquake dataset contains 523 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.15 at 189 km NNE of Mayo, YT/189 km NNE de Mayo, YT. The deepest event reached 16.73 km at 57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC. The most recent listed event was M2.16 at 49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC at 2026-05-21T21:58:01.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and YT (1)."
 }

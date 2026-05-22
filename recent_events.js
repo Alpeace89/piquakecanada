@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-21T21:58:01.000Z",
+    "magnitude": "2.16",
+    "depth_km": "15.08",
+    "place": "49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-05-21T21:23:11.000Z",
+    "magnitude": "2.6",
+    "depth_km": "10.0",
+    "place": "196 km W of Port Hardy, BC/196 km O de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-05-21T21:22:27.000Z",
     "magnitude": "2.52",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.67",
     "depth_km": "1.0",
     "place": "125 km WNW of Juneau, AK/125 km ONO de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-05-21T13:37:11.000Z",
-    "magnitude": "2.66",
-    "depth_km": "5.0",
-    "place": "190 km SW of Whitehorse, YT/190 km SO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-05-21T11:56:57.000Z",
-    "magnitude": "2.25",
-    "depth_km": "5.0",
-    "place": "118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
   }
 ];
