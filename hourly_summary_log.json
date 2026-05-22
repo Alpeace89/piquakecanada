@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-01T12:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had two minor earthquakes detected. The largest one was a M1.94 near Otter Lake in Quebec which people felt or experienced. Just recently, another small tremor measuring M1.62 happened around Haliburton Village in Ontario during dynamite blasting activities. That's it for the latest activity on our PiQuake Canada dashboard!"
-  },
-  {
     "timestamp_utc": "2026-05-01T13:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had 8 quakes reported. The biggest one was a M4.15 near Mayo in the Yukon Territory. And today, we saw our smallest quake of the day at just M3.01 in Juneau, Alaska. Not too many places felt this shake with two hits in YT and two in AK."
+  },
+  {
+    "timestamp_utc": "2026-05-22T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had 8 quakes detected across Canada. The biggest one was a M4.15 near Mayo in the Yukon Territory and another M3.01 off the coast of Alaska. The most active regions were the Yukon Territory with two quakes, followed by Alaska and British Columbia each with two too."
   }
 ]
