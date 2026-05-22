@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-01T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a summary of the PiQuake Canada dashboard for public facing use: In the last 24 hours, there were no big earthquakes detected overall. However, we did see two minor quakes—both less than magnitude 2—and one in Quebec and another in Ontario. The latest quake was around Haliburton Village in Ontario where dynamite blasting occurred. It's pretty small though, barely felt by anyone."
-  },
-  {
     "timestamp_utc": "2026-05-01T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had 9 earthquakes reported through our dashboard. The largest one was a M4.15 that happened around 189 km north-northeast of Mayo in the Yukon. That's where it happens. We also saw some small ones near Juneau in Alaska and Victoria in British Columbia yesterday."
+  },
+  {
+    "timestamp_utc": "2026-05-22T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of 9 PiQuake Canada dashboard events. The largest one was a M4.15 under Mayo in the Yukon, and there's another recent event near Juneau in Alaska with a magnitude of M3.01. Most activity has been centered around regions like the Yukon and parts of Alaska."
   }
 ]
