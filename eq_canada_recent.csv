@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260407.1202001,2026-04-07T12:02:08.000Z,54.7764,-118.6917,4.74,MLy,2.47,"Suspected industry-related event, 44 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km S de Grande Prairie, AB"
 20260407.1315001,2026-04-07T13:15:30.000Z,45.5812,-74.4458,9.63,MwN,1.03,"12 km SW of Lachute, QC/12 km SO de Lachute, QC"
 20260407.1712001,2026-04-07T17:12:05.000Z,56.0259,-120.803,3.48,MLy,2.46,"Suspected industry-related event, 16 km SSW of Taylor, BC/Événement lié à l'industrie soupconné, 16 km SSO de Taylor, BC"
 20260407.1941001,2026-04-07T19:41:01.000Z,47.4181,-70.4187,5.98,MwN,0.55,"7 km ESE of Baie-Saint-Paul, QC/7 km ESE de Baie-Saint-Paul, QC"
@@ -511,6 +510,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260521.0607001,2026-05-21T06:07:40.000Z,60.5571,-139.9678,5.0,ML,2.35,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
 20260521.0838001,2026-05-21T08:38:07.000Z,54.7946,-118.5991,1.0,MLy,2.45,"Suspected industry-related event, 44 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km SSE de Grande Prairie, AB"
 20260521.1156001,2026-05-21T11:56:57.000Z,60.3891,-139.5457,5.0,ML,2.25,"118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
+20260521.1337001,2026-05-21T13:37:11.000Z,59.3361,-137.1423,5.0,ML,2.66,"190 km SW of Whitehorse, YT/190 km SO de Whitehorse, YT"
 20260521.1359001,2026-05-21T13:59:31.000Z,58.8325,-136.3357,1.0,ML,2.67,"125 km WNW of Juneau, AK/125 km ONO de Juneau, AK"
 20260521.1502001,2026-05-21T15:02:38.000Z,49.3104,-126.4487,22.04,ML,1.71,"14 km WSW of Refuge Cove 6, BC/14 km OSO de Refuge Cove 6, BC"
 20260521.1541001,2026-05-21T15:41:07.000Z,56.7743,-122.0391,1.0,MLy,2.88,"Suspected industry-related event, 35 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 35 km NNO de Halfway River 168, BC"

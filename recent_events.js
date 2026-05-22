@@ -36,6 +36,12 @@ window.recentEvents = [
     "place": "125 km WNW of Juneau, AK/125 km ONO de Juneau, AK"
   },
   {
+    "time_utc": "2026-05-21T13:37:11.000Z",
+    "magnitude": "2.66",
+    "depth_km": "5.0",
+    "place": "190 km SW of Whitehorse, YT/190 km SO de Whitehorse, YT"
+  },
+  {
     "time_utc": "2026-05-21T11:56:57.000Z",
     "magnitude": "2.25",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.35",
     "depth_km": "5.0",
     "place": "136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-21T02:51:38.000Z",
-    "magnitude": "2.26",
-    "depth_km": "14.83",
-    "place": "57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
   }
 ];
