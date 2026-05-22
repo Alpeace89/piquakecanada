@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260407.1315001,2026-04-07T13:15:30.000Z,45.5812,-74.4458,9.63,MwN,1.03,"12 km SW of Lachute, QC/12 km SO de Lachute, QC"
 20260407.1712001,2026-04-07T17:12:05.000Z,56.0259,-120.803,3.48,MLy,2.46,"Suspected industry-related event, 16 km SSW of Taylor, BC/Événement lié à l'industrie soupconné, 16 km SSO de Taylor, BC"
 20260407.1941001,2026-04-07T19:41:01.000Z,47.4181,-70.4187,5.98,MwN,0.55,"7 km ESE of Baie-Saint-Paul, QC/7 km ESE de Baie-Saint-Paul, QC"
 20260407.1955001,2026-04-07T19:55:53.000Z,60.5884,-139.9513,1.0,ML,2.97,"100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
@@ -517,3 +516,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260521.1605001,2026-05-21T16:05:05.000Z,46.3848,-79.4017,0.0,MwN,1.38,"Blast, 9 km NNE of North Bay, ON/Dynamitage, 9 km NNE de North Bay, ON"
 20260521.2029003,2026-05-21T20:29:40.000Z,65.0075,-133.7305,5.0,ML,4.15,"189 km NNE of Mayo, YT/189 km NNE de Mayo, YT"
 20260521.2108001,2026-05-21T21:08:24.000Z,58.4318,-137.2982,1.0,ML,3.01,"168 km W of Juneau, AK/168 km O de Juneau, AK"
+20260521.2122002,2026-05-21T21:22:27.000Z,46.568,-80.857,1.0,MwN,2.52,"Blast, Garson Mine, ON, felt/Dynamitage, Mine Garson, ON, ressenti"

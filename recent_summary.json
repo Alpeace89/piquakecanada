@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-05-22T13:03:01Z",
+  "generated_utc": "2026-05-22T14:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 518,
-  "events_last_24h": 7,
+  "events_last_24h": 6,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 2,
   "count_m4plus_last_24h": 1,
   "latest_event": {
-    "event_id": "20260521.2108001",
-    "time_utc": "2026-05-21T21:08:24.000Z",
-    "latitude": 58.4318,
-    "longitude": -137.2982,
+    "event_id": "20260521.2122002",
+    "time_utc": "2026-05-21T21:22:27.000Z",
+    "latitude": 46.568,
+    "longitude": -80.857,
     "depth_km": 1.0,
-    "mag_type": "ML",
-    "magnitude": 3.01,
-    "place": "168 km W of Juneau, AK/168 km O de Juneau, AK",
-    "region": "AK"
+    "mag_type": "MwN",
+    "magnitude": 2.52,
+    "place": "Blast, Garson Mine, ON, felt/Dynamitage, Mine Garson, ON, ressenti",
+    "region": "Unknown"
   },
   "largest_event_last_24h": {
     "event_id": "20260521.2029003",
@@ -41,17 +41,17 @@
   },
   "top_regions_last_24h": [
     {
-      "region": "YT",
-      "count": 2
-    },
-    {
-      "region": "AK",
-      "count": 2
-    },
-    {
       "region": "BC",
       "count": 2
+    },
+    {
+      "region": "ON",
+      "count": 1
+    },
+    {
+      "region": "YT",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-22 13:03 UTC, the recent Canada earthquake dataset contains 518 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.15 at 189 km NNE of Mayo, YT/189 km NNE de Mayo, YT. The deepest event reached 22.04 km at 14 km WSW of Refuge Cove 6, BC/14 km OSO de Refuge Cove 6, BC. The most recent listed event was M3.01 at 168 km W of Juneau, AK/168 km O de Juneau, AK at 2026-05-21T21:08:24.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and AK (2)."
+  "summary_text": "As of 2026-05-22 14:03 UTC, the recent Canada earthquake dataset contains 518 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.15 at 189 km NNE of Mayo, YT/189 km NNE de Mayo, YT. The deepest event reached 22.04 km at 14 km WSW of Refuge Cove 6, BC/14 km OSO de Refuge Cove 6, BC. The most recent listed event was M2.52 at Blast, Garson Mine, ON, felt/Dynamitage, Mine Garson, ON, ressenti at 2026-05-21T21:22:27.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (2) and ON (1)."
 }

@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-21T21:22:27.000Z",
+    "magnitude": "2.52",
+    "depth_km": "1.0",
+    "place": "Blast, Garson Mine, ON, felt/Dynamitage, Mine Garson, ON, ressenti"
+  },
+  {
     "time_utc": "2026-05-21T21:08:24.000Z",
     "magnitude": "3.01",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.45",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 44 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 44 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-05-21T06:07:40.000Z",
-    "magnitude": "2.35",
-    "depth_km": "5.0",
-    "place": "136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
   }
 ];

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-01T18:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there have been no major earthquakes reported. However, we've seen seven quakes with the largest one measuring M3.34 off the coast of Alaska and another at a smaller M2.29 near Bellingham, Washington. The top regions for these events are Yukon Territory with two, Washington State with two more, and Quebec had one too."
-  },
-  {
     "timestamp_utc": "2026-05-01T19:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there were no major earthquakes reported. However, we saw a few small quakes around Canada with the largest one measuring M4.15 near Mayo in Yukon and another one at Juneau in Alaska. Other regions like British Columbia also had their fair share of tremors."
+  },
+  {
+    "timestamp_utc": "2026-05-22T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no new major earthquake events reported, but a few small quakes hit areas like BC, ON, and Yukon. The biggest one was around M4.15 near Mayo in YT, and another M2.52 shook Garson Mine area in Ontario. This is the first time we have a detailed dashboard for Canada's quake activity, so stay tuned as we monitor any changes!"
   }
 ]
