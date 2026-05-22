@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-01T21:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major seismic events reported in Canada. However, we saw seven minor quakes with one of them measuring M3.34 off Juneau and another at M2.29 near Bellingham. The most active regions have been Yukon Territory, Washington, and Quebec."
-  },
-  {
     "timestamp_utc": "2026-05-01T22:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were five recorded quakes in the last 24 hours. The largest one was a M4.15 near Mayo in the Yukon. Recently, there's also been a minor quake at the Garson Mine in Ontario that people could feel. Most of these happened in Ontario and British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-05-22T17:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were four events in the past day with the largest being a M4.15 quake near Mayo, YT. The latest one felt at Garson Mine, ON earlier today. Most of these happenings are in British Columbia, Yukon Territory, and Alaska."
   }
 ]
