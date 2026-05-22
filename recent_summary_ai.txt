@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M2.55 quake linked to industry, spotted about 45 km south of Grande Prairie in Alberta. That's our latest and only event since we started beta testing, coming from the same area as before.
+The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M2.55 and suspected to be from an industry activity near Grande Prairie in Alberta. That's the latest event we have so far on the dashboard.
