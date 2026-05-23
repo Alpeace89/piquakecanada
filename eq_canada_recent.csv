@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260408.0127001,2026-04-08T01:27:02.000Z,54.2794,-117.7386,1.0,MLy,2.22,"Suspected industry-related event, 62 km WSW of Fox Creek, AB/Événement lié à l'industrie soupconné, 62 km OSO de Fox Creek, AB"
 20260408.0826001,2026-04-08T08:26:14.000Z,52.7239,-132.3395,7.76,ML,1.83,"61 km SSW of Daajing Giids, BC/61 km SSO de Daajing Giids, BC"
 20260408.1102001,2026-04-08T11:02:14.000Z,50.6021,-130.4742,10.0,Mw',3.34,"210 km W of Port Hardy, BC/210 km O de Port Hardy, BC"
 20260408.1119002,2026-04-08T11:19:52.000Z,59.6845,-136.144,4.38,ML,3.97,"127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
