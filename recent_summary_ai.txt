@@ -1,1 +1,1 @@
-In the last 24 hours, there was a small quake measuring M2.24 that was felt in Notre-Dame-du-Nord, Quebec. It's the only event recorded in this short beta period for our PiQuake Canada dashboard. This is our first full day of operation, and we've already logged one minor seismic activity.
+In the last 24 hours, there was a small earthquake with a magnitude of M2.24 near Notre-Dame-du-Nord in Quebec that was felt and reported by people. This is not uncommon for this area; it's part of the natural landscape here where we have our share of little tremors now and then.
