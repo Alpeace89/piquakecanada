@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-02T14:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there were no recorded earthquakes, and nothing happened that could be considered a large or notable event. The latest one registered was a M2.29 near Bellingham, WA, which occurred on May 1st at around noon. It's the only thing we know for sure in this update."
-  },
-  {
     "timestamp_utc": "2026-05-02T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, in the last 24 hours, we had a small shake with a magnitude of M2.24 near Notre-Dame-du-Nord, QC, that was felt and noticed by people there. It's the largest event since our dashboard started beta testing, and it's happening pretty regularly up here—like once every few days. We haven't seen any other similar events around this area in recent times though."
+  },
+  {
+    "timestamp_utc": "2026-05-23T10:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, one minor earthquake with a magnitude of M2.24 hit 16 kilometers northeast of Notre-Dame-du-Nord in Quebec. The event was felt and reported as felt at both 16 km NE of Notre-Dame-du-Nord, QC. It happened on May 22nd around 6:15 PM local time. This is the most recent quake we've tracked so far."
   }
 ]
