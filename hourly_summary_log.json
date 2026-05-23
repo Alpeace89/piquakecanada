@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-02T11:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks! We had a couple of little shakes last 24 hours, with no biggies to report. The biggest one was a M2.29 near Bellingham, and it happened on April 30th at around 12 PM. It's just a regular PiQuake alert – keep your earthquake monitors handy though!"
-  },
-  {
     "timestamp_utc": "2026-05-02T12:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no reported events on the PiQuake Canada dashboard. The largest event was a mystery with an unknown magnitude and place. It happened around 3:47 AM UTC near Grande Prairie in Alberta, but it's suspected to be related to some industry activity there."
+  },
+  {
+    "timestamp_utc": "2026-05-23T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was a small quake measuring M2.24 that was felt in Notre-Dame-du-Nord, Quebec. It's the only event recorded in this short beta period for our PiQuake Canada dashboard. This is our first full day of operation, and we've already logged one minor seismic activity."
   }
 ]

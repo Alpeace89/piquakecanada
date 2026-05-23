@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-22T18:15:09.000Z",
+    "magnitude": "2.24",
+    "depth_km": "9.5",
+    "place": "16 km NE of Notre-Dame-du-Nord, QC, felt/16 km NE de Notre-Dame-du-Nord, QC, ressenti"
+  },
+  {
     "time_utc": "2026-05-22T03:46:54.000Z",
     "magnitude": "2.55",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.88",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 35 km NNW of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 35 km NNO de Halfway River 168, BC"
-  },
-  {
-    "time_utc": "2026-05-21T15:02:38.000Z",
-    "magnitude": "1.71",
-    "depth_km": "22.04",
-    "place": "14 km WSW of Refuge Cove 6, BC/14 km OSO de Refuge Cove 6, BC"
   }
 ];

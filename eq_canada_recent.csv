@@ -527,3 +527,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260521.2123002,2026-05-21T21:23:11.000Z,50.5902,-130.2682,10.0,Mw',2.6,"196 km W of Port Hardy, BC/196 km O de Port Hardy, BC"
 20260521.2158001,2026-05-21T21:58:01.000Z,53.0111,-132.6921,15.08,ML,2.16,"49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
 20260522.0346001,2026-05-22T03:46:54.000Z,54.7709,-118.683,1.0,MLy,2.55,"Suspected industry-related event, 45 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 45 km S de Grande Prairie, AB"
+20260522.1815001,2026-05-22T18:15:09.000Z,47.718,-79.3547,9.5,MwN,2.24,"16 km NE of Notre-Dame-du-Nord, QC, felt/16 km NE de Notre-Dame-du-Nord, QC, ressenti"
