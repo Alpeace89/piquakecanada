@@ -1,1 +1,1 @@
-In the last 24 hours, there was one minor earthquake with a magnitude of M2.24 felt about 16 km northeast of Notre-Dame-du-Nord in Quebec. This is the latest event we have tracked and it happened just before 6 PM local time on May 22nd.
+The PiQuake Canada dashboard shows that there was no major seismic activity last hour, but in the past 24 hours, one small earthquake measuring M2.24 hit a place near Notre-Dame-du-Nord, QC and people could feel it. This is the most recent event we've seen tracked by our system since May 22nd at around 6:15 PM UTC time.
