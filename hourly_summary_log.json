@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-02T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major earthquakes reported. But we did see a few small shakes around Washington and Alaska. The biggest one was an M3.34 near Juneau, Alaska, which happened early that morning. A smaller one near Bellingham, Washington also joined in later in the day at about 2:10 PM."
-  },
-  {
     "timestamp_utc": "2026-05-02T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey there! So we've got some minor quakes happening in the area, mostly in Alberta. There were no big shocks last hour and just one since yesterday, a little shake that measured M2.55 near Grande Prairie. That's an event thought to be linked to industry, which happened 45 kilometers south of there on May 22nd around 3:47 AM. And it looks like Alberta is where things are happening lately."
+  },
+  {
+    "timestamp_utc": "2026-05-23T03:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no seismic events today, but there was one event last night near Grande Prairie in Alberta. It was a M2.55 and suspected to be from an industry-related source. This is the only event we've seen in the past 24 hours."
   }
 ]
