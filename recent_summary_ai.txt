@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no seismic events today, but there was one event last night near Grande Prairie in Alberta. It was a M2.55 and suspected to be from an industry-related source. This is the only event we've seen in the past 24 hours.
+The PiQuake Canada dashboard has been updated for beta testing, and so far it's showing no activity in the last 24 hours. The largest event recorded was a M2.55 near Grande Prairie, Alberta yesterday at around 3:47 AM local time, suspected to be an industry-related event.

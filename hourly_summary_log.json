@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-02T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick update on our PiQuake Canada dashboard. In the last 24 hours, we had three quakes reported—two in Washington and one in Alaska. The biggest one was a M3.34 near Juneau, which happened yesterday at about noon local time. There have been no major earthquakes lately; the latest one was a smaller M2.29 just a few hours ago around Bellingham. Our dashboard shows most activity is happening along the coasts of Washington and Alaska."
-  },
-  {
     "timestamp_utc": "2026-05-02T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no seismic events today, but there was one event last night near Grande Prairie in Alberta. It was a M2.55 and suspected to be from an industry-related source. This is the only event we've seen in the past 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-05-23T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard has been updated for beta testing, and so far it's showing no activity in the last 24 hours. The largest event recorded was a M2.55 near Grande Prairie, Alberta yesterday at around 3:47 AM local time, suspected to be an industry-related event."
   }
 ]
