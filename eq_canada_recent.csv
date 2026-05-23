@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260408.1647001,2026-04-08T16:47:16.000Z,52.5617,-132.0278,22.76,ML,2.58,"77 km S of Daajing Giids, BC/77 km S de Daajing Giids, BC"
-20260408.1657001,2026-04-08T16:57:25.000Z,52.4679,-127.0994,5.0,ML,1.54,"27 km WNW of Bella Coola 1, BC/27 km ONO de Bella Coola 1, BC"
 20260408.1730001,2026-04-08T17:30:03.000Z,43.9752,-77.8812,0.0,MwN,1.28,"Blast, 3 km S of Colborne, ON, felt/Dynamitage, 3 km S de Colborne, ON, ressenti"
 20260408.1735001,2026-04-08T17:35:12.000Z,43.9837,-77.8787,0.0,MwN,1.23,"Blast, 3 km SSE of Colborne, ON, felt/Dynamitage, 3 km SSE de Colborne, ON, ressenti"
 20260408.1741001,2026-04-08T17:41:46.000Z,44.9413,-74.3988,5.45,MwN,1.75,"10 km SE of Dundee, QC/10 km SE de Dundee, QC"
