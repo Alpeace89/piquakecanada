@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-02T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two quakes yesterday. The biggest one was a M2.29 near Bellingham, which happened early on April first. This is what we see for today's update too—it was another M2.29 just outside of Bellingham around midday."
-  },
-  {
     "timestamp_utc": "2026-05-02T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard has been updated for beta testing, and so far it's showing no activity in the last 24 hours. The largest event recorded was a M2.55 near Grande Prairie, Alberta yesterday at around 3:47 AM local time, suspected to be an industry-related event."
+  },
+  {
+    "timestamp_utc": "2026-05-23T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no reported earthquakes of any magnitude. The largest event was a mystery, with unknown details like magnitude and location. But earlier today in Alberta, just north of Grande Prairie, something shook the ground at a small but mysterious M2.55 quake, likely linked to industry."
   }
 ]
