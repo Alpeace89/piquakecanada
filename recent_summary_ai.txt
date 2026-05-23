@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M2.55 and suspected to be from an industry activity near Grande Prairie in Alberta. That's the latest event we have so far on the dashboard.
+The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It's a small shake with a magnitude of M2.55 and it happened near Grande Prairie, AB, suspected to be caused by some industry activity. That's the latest event we've seen for now.
