@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260409.1623001,2026-04-09T16:23:59.000Z,48.7895,-64.4924,0.0,MwN,1.32,"Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC"
-20260409.1649001,2026-04-09T16:49:07.000Z,47.508,-70.5643,0.0,MwN,1.22,"Blast, 8 km NW of Baie-Saint-Paul, QC/Dynamitage, 8 km NO de Baie-Saint-Paul, QC"
 20260409.2046001,2026-04-09T20:46:21.000Z,67.1004,-135.9121,10.0,ML,2.91,"58 km SW of Fort McPherson, NT/58 km SO de Fort McPherson, NT"
 20260409.2301001,2026-04-09T23:01:14.000Z,49.6717,-127.7351,13.52,ML,1.55,"47 km SSW of Houpsitas 6, BC/47 km SSO de Houpsitas 6, BC"
 20260410.0517001,2026-04-10T05:17:51.000Z,52.4819,-127.1301,5.0,ML,1.84,"30 km WNW of Bella Coola 1, BC/30 km ONO de Bella Coola 1, BC"
