@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260409.0742001,2026-04-09T07:42:20.000Z,59.6942,-136.1927,5.0,ML,2.53,"127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
 20260409.1118001,2026-04-09T11:18:03.000Z,48.3627,-124.732,21.72,ML,1.86,"31 km SW of Port Renfrew, BC/31 km SO de Port Renfrew, BC"
 20260409.1304001,2026-04-09T13:04:38.000Z,52.4785,-131.9399,18.11,ML,1.68,"87 km S of Daajing Giids, BC/87 km S de Daajing Giids, BC"
 20260409.1411001,2026-04-09T14:11:29.000Z,53.0447,-132.7234,14.75,ML,2.92,"49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
