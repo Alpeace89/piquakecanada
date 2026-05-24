@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard has been running in beta for a while now, and we've had zero earthquakes reported over the last 24 hours. The largest event that happened was M2.24 yesterday afternoon near a small Quebec town. It was felt and reported as ressenti by some people who heard it.
+In the last 24 hours, there were no earthquakes recorded on the PiQuake Canada dashboard. The largest one was a M2.24 that occurred near Notre-Dame-du-Nord in Quebec and was felt within 16 kilometers of where it happened. It's the only earthquake we have data for since our beta launch.
