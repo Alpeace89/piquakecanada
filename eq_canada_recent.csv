@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260409.1411001,2026-04-09T14:11:29.000Z,53.0447,-132.7234,14.75,ML,2.92,"49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
-20260409.1413001,2026-04-09T14:13:54.000Z,49.6117,-66.2031,14.93,MwN,2.26,"57 km NNE of Sainte-Anne-des-Monts, QC/57 km NNE de Sainte-Anne-des-Monts, QC"
 20260409.1528001,2026-04-09T15:28:52.000Z,60.5387,-139.8488,5.0,ML,2.4,"130 km W of Haines Junction, YT/130 km O de Haines Junction, YT"
 20260409.1544001,2026-04-09T15:44:21.000Z,60.5985,-139.9829,5.0,ML,2.95,"100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
 20260409.1623001,2026-04-09T16:23:59.000Z,48.7895,-64.4924,0.0,MwN,1.32,"Blast, 24 km SSW of Rivière-au-Renard, QC/Dynamitage, 24 km SSO de Rivière-au-Renard, QC"
