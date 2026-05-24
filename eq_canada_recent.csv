@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260409.0147001,2026-04-09T01:47:50.000Z,61.0288,-140.188,5.0,ML,2.33,"74 km WSW of Burwash Landing, YT/74 km OSO de Burwash Landing, YT"
 20260409.0239001,2026-04-09T02:39:42.000Z,61.0192,-140.18,5.0,ML,2.14,"74 km WSW of Burwash Landing, YT/74 km OSO de Burwash Landing, YT"
 20260409.0248001,2026-04-09T02:48:57.000Z,53.1513,-132.7944,15.55,ML,1.52,"49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
 20260409.0300003,2026-04-09T03:00:45.000Z,53.9367,-113.4079,1.0,MLy,3.79,"Industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie, 12 km ONO de Sturgeon County, AB, ressenti"
