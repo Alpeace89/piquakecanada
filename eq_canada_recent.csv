@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260408.2305001,2026-04-08T23:05:52.000Z,44.7873,-78.886,5.0,MwN,1.07,"23 km N of Kawartha Lakes, ON/23 km N de Kawartha Lakes, ON"
-20260408.2317001,2026-04-08T23:17:34.000Z,41.7798,-81.0665,5.0,MwN,1.94,"63 km ENE of Cleveland, OH/63 km ENE de Cleveland, OH"
-20260408.2336001,2026-04-08T23:36:06.000Z,47.4765,-70.0037,9.9,MwN,1.33,"12 km N of La Pocatière, QC/12 km N de La Pocatière, QC"
 20260409.0147001,2026-04-09T01:47:50.000Z,61.0288,-140.188,5.0,ML,2.33,"74 km WSW of Burwash Landing, YT/74 km OSO de Burwash Landing, YT"
 20260409.0239001,2026-04-09T02:39:42.000Z,61.0192,-140.18,5.0,ML,2.14,"74 km WSW of Burwash Landing, YT/74 km OSO de Burwash Landing, YT"
 20260409.0248001,2026-04-09T02:48:57.000Z,53.1513,-132.7944,15.55,ML,1.52,"49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
