@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-04T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is still in beta and has had no events recorded over the last hour or day. The biggest event detected was a magnitude unknown quake at an unknown location, happening around the same time as our latest event which was M2.29 near Bellingham, WA. Nothing too exciting going on yet though, mostly just quiet seismic activity."
-  },
-  {
     "timestamp_utc": "2026-05-04T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no earthquakes recorded by the PiQuake Canada dashboard. The latest event was a M2.24 shake that happened about 16 km northeast of Notre-Dame-du-Nord in Quebec, and it was felt as far as 16 km away too. Everything is still quiet down here!"
+  },
+  {
+    "timestamp_utc": "2026-05-24T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't recorded any seismic events in the last 24 hours. The largest event detected was a magnitude unknown at an unspecified location, while a M2.24 quake near Notre-Dame-du-Nord, QC was felt-resented yesterday at around 6 PM."
   }
 ]

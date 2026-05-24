@@ -1,1 +1,1 @@
-In the last 24 hours, there were no earthquakes recorded by the PiQuake Canada dashboard. The latest event was a M2.24 shake that happened about 16 km northeast of Notre-Dame-du-Nord in Quebec, and it was felt as far as 16 km away too. Everything is still quiet down here!
+The PiQuake Canada dashboard is currently in beta and hasn't recorded any seismic events in the last 24 hours. The largest event detected was a magnitude unknown at an unspecified location, while a M2.24 quake near Notre-Dame-du-Nord, QC was felt-resented yesterday at around 6 PM.
