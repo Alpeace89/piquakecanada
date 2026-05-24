@@ -1,1 +1,1 @@
-In the past 24 hours, we've had no earthquakes reported. The largest one was a tiny M2.24 that occurred just outside of a small Quebec town. It felt like an earthquake but also got some local folks feeling things too. Our dashboard didn't record anything unusual today.
+The PiQuake Canada dashboard shows no activity in the last hour or day, with a small shake of magnitude M2.24 recorded 16 km northeast of Notre-Dame-du-Nord, QC, felt and reported by residents. It's been quiet here lately.
