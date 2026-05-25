@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "52 km NW of Atikokan, ON/52 km NO de Atikokan, ON"
   },
   {
+    "time_utc": "2026-05-23T06:43:38.000Z",
+    "magnitude": "2.03",
+    "depth_km": "5.0",
+    "place": "69 km ENE of Cleveland, OH/69 km ENE de Cleveland, OH"
+  },
+  {
     "time_utc": "2026-05-22T21:54:05.000Z",
     "magnitude": "1.4",
     "depth_km": "37.4",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.55",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 45 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 45 km S de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-05-21T21:58:01.000Z",
-    "magnitude": "2.16",
-    "depth_km": "15.08",
-    "place": "49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
   }
 ];

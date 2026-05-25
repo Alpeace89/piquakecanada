@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260410.1643001,2026-04-10T16:43:17.000Z,57.915,-136.7055,5.0,ML,4.57,"141 km WSW of Juneau, AK/141 km OSO de Juneau, AK"
 20260410.1744001,2026-04-10T17:44:30.000Z,54.3893,-117.2247,1.0,MLy,2.61,"Suspected industry-related event, 27 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 27 km O de Fox Creek, AB"
 20260410.2026001,2026-04-10T20:26:58.000Z,54.3116,-118.4348,1.0,MLy,2.85,"Suspected industry-related event, 65 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 65 km NE de Grande Cache, AB"
 20260410.2044001,2026-04-10T20:44:11.000Z,54.2993,-118.469,1.0,MLy,2.87,"Suspected industry-related event, 62 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 62 km NE de Grande Cache, AB"
@@ -498,6 +497,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260522.0946001,2026-05-22T09:46:14.000Z,60.5099,-139.8138,5.0,ML,2.34,"128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
 20260522.1815003,2026-05-22T18:15:09.000Z,47.7176,-79.3562,10.44,MwN,2.13,"16 km NE of Notre-Dame-du-Nord, QC, felt/16 km NE de Notre-Dame-du-Nord, QC, ressenti"
 20260522.2154001,2026-05-22T21:54:05.000Z,49.7603,-126.9549,37.4,ML,1.4,"27 km SW of Tahsis, BC/27 km SO de Tahsis, BC"
+20260523.0643001,2026-05-23T06:43:38.000Z,41.7112,-80.9315,5.0,MwN,2.03,"69 km ENE of Cleveland, OH/69 km ENE de Cleveland, OH"
 20260524.0243001,2026-05-24T02:43:14.000Z,49.1438,-92.0254,2.0,MwN,0.94,"52 km NW of Atikokan, ON/52 km NO de Atikokan, ON"
 20260524.1059001,2026-05-24T10:59:03.000Z,47.819,-66.0572,5.0,MwN,1.86,"11 km WSW of Belledune, NB/11 km OSO de Belledune, NB"
 20260524.1804001,2026-05-24T18:04:24.000Z,47.1745,-71.3331,19.1,MwN,1.31,"22 km NNW of Sainte-Brigitte-de-Laval, QC/22 km NNO de Sainte-Brigitte-de-Laval, QC"
