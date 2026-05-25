@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day, with the largest event being a M2.24 near Notre-Dame-du-Nord, QC, felt and reported. That was on May 22nd at around 6 PM local time.
+Here's a quick summary for the PiQuake Canada dashboard in plain Canadian English: No events detected last hour or day. The largest event was an unknown magnitude at an unknown location. The latest shake was a M2.24 near Notre-Dame-du-Nord, QC that people felt and heard about 16 km away.
