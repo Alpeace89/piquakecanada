@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-04T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is still in beta and hasn't had any activity reports for the last 24 hours. The largest event recorded was a M1.86, which happened just outside of Ramara, Ontario. It's been quiet out there so far."
-  },
-  {
     "timestamp_utc": "2026-05-04T14:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is showing no activity for the last 24 hours, with no events reported. The latest event was a M2.24 quake that was felt and resented about 16 km northeast of Notre-Dame-du-Nord in Quebec. It happened on May 22 at around 6:15 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-05-25T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a magnitude M2.24 that occurred about 16 km northeast of Notre-Dame-du-Nord, QC, felt and resented locally. It's been quiet out there lately!"
   }
 ]
