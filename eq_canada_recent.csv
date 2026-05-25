@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260410.0517001,2026-04-10T05:17:51.000Z,52.4819,-127.1301,5.0,ML,1.84,"30 km WNW of Bella Coola 1, BC/30 km ONO de Bella Coola 1, BC"
-20260410.0545001,2026-04-10T05:45:20.000Z,60.2274,-141.24,6.82,ML,2.34,"212 km WSW of Haines Junction, YT/212 km OSO de Haines Junction, YT"
 20260410.0703001,2026-04-10T07:03:01.000Z,72.3846,-75.7657,18.0,MwN,1.44,"81 km ESE of Pond Inlet, NU/81 km ESE de Pond Inlet, NU"
 20260410.0939001,2026-04-10T09:39:02.000Z,48.1913,-66.13,5.0,MwN,1.5,"10 km N of Carleton, QC/10 km N de Carleton, QC"
 20260410.0946001,2026-04-10T09:46:10.000Z,58.6848,-139.5858,5.0,ML,2.51,"337 km SW of Whitehorse, YT/337 km SO de Whitehorse, YT"
