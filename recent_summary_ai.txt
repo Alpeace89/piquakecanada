@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day, and we haven't recorded any earthquakes of unknown magnitude. The latest earthquake was a M2.24 near Notre-Dame-du-Nord, QC, which people felt about 16 km away from where it occurred.
+In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event detected was a magnitude M0.94 near Atikokan, Ontario, which happened at around 2:43 AM yesterday. It's been quiet since then too.

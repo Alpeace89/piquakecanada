@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-24T02:43:14.000Z",
+    "magnitude": "0.94",
+    "depth_km": "2.0",
+    "place": "52 km NW of Atikokan, ON/52 km NO de Atikokan, ON"
+  },
+  {
     "time_utc": "2026-05-22T18:15:09.000Z",
     "magnitude": "2.24",
     "depth_km": "9.5",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.38",
     "depth_km": "0.0",
     "place": "Blast, 9 km NNE of North Bay, ON/Dynamitage, 9 km NNE de North Bay, ON"
-  },
-  {
-    "time_utc": "2026-05-21T15:41:07.000Z",
-    "magnitude": "2.88",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 35 km NNW of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 35 km NNO de Halfway River 168, BC"
   }
 ];

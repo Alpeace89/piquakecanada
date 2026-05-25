@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-04T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't picked up any earthquakes over the past 24 hours. The largest one recorded was a magnitude unknown located at an unknown place, also from last year’s data. Our latest event was a M1.82 that happened around noon yesterday, near Maniwaki, Quebec."
-  },
-  {
     "timestamp_utc": "2026-05-04T17:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and we haven't recorded any earthquakes of unknown magnitude. The latest earthquake was a M2.24 near Notre-Dame-du-Nord, QC, which people felt about 16 km away from where it occurred."
+  },
+  {
+    "timestamp_utc": "2026-05-25T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event detected was a magnitude M0.94 near Atikokan, Ontario, which happened at around 2:43 AM yesterday. It's been quiet since then too."
   }
 ]

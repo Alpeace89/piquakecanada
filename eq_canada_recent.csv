@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260410.1147001,2026-04-10T11:47:43.000Z,60.5191,-140.0369,5.0,ML,1.96,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
 20260410.1643001,2026-04-10T16:43:17.000Z,57.915,-136.7055,5.0,ML,4.57,"141 km WSW of Juneau, AK/141 km OSO de Juneau, AK"
 20260410.1744001,2026-04-10T17:44:30.000Z,54.3893,-117.2247,1.0,MLy,2.61,"Suspected industry-related event, 27 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 27 km O de Fox Creek, AB"
 20260410.2026001,2026-04-10T20:26:58.000Z,54.3116,-118.4348,1.0,MLy,2.85,"Suspected industry-related event, 65 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 65 km NE de Grande Cache, AB"
@@ -495,3 +494,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260521.2158001,2026-05-21T21:58:01.000Z,53.0111,-132.6921,15.08,ML,2.16,"49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
 20260522.0346001,2026-05-22T03:46:54.000Z,54.7709,-118.683,1.0,MLy,2.55,"Suspected industry-related event, 45 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 45 km S de Grande Prairie, AB"
 20260522.1815001,2026-05-22T18:15:09.000Z,47.718,-79.3547,9.5,MwN,2.24,"16 km NE of Notre-Dame-du-Nord, QC, felt/16 km NE de Notre-Dame-du-Nord, QC, ressenti"
+20260524.0243001,2026-05-24T02:43:14.000Z,49.1438,-92.0254,2.0,MwN,0.94,"52 km NW of Atikokan, ON/52 km NO de Atikokan, ON"
