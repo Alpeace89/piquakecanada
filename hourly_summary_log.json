@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-04T15:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and we had a small quake with a magnitude of M1.82 about 24 km west-northwest of Maniwaki, Quebec on May 3rd at around noon UTC. Nothing major to report here, just another quiet day for our earthquake tracker."
-  },
-  {
     "timestamp_utc": "2026-05-04T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's the latest on the PiQuake Canada dashboard: No events were recorded in the last hour or day. The largest event over the past 24 hours was an unknown magnitude, happening at an unknown location and time. The most recent seismic activity was a M2.24 quake that people felt about 16 km northeast of Notre-Dame-du-Nord, QC, back on May 22nd at around 6:15 PM."
+  },
+  {
+    "timestamp_utc": "2026-05-25T11:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and we haven't recorded any earthquakes of unknown magnitude. The latest earthquake was a M2.24 near Notre-Dame-du-Nord, QC, which people felt about 16 km away from where it occurred."
   }
 ]
