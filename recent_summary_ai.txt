@@ -1,1 +1,1 @@
-In the last 24 hours, there haven't been any seismic events recorded. The latest one was a tiny tremor measuring M1.31 near Sainte-Brigitte-de-Laval in Quebec. It happened on May 24th at about 6:04 PM local time.
+The PiQuake Canada dashboard showed no earthquakes in the last hour or day, with a small quiver of magnitude M1.31 happening about 22 km northwest of Sainte-Brigitte-de-Laval, Quebec, earlier today. Nothing to worry about here folks.
