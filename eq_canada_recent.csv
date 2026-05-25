@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260410.0703001,2026-04-10T07:03:01.000Z,72.3846,-75.7657,18.0,MwN,1.44,"81 km ESE of Pond Inlet, NU/81 km ESE de Pond Inlet, NU"
 20260410.0939001,2026-04-10T09:39:02.000Z,48.1913,-66.13,5.0,MwN,1.5,"10 km N of Carleton, QC/10 km N de Carleton, QC"
 20260410.0946001,2026-04-10T09:46:10.000Z,58.6848,-139.5858,5.0,ML,2.51,"337 km SW of Whitehorse, YT/337 km SO de Whitehorse, YT"
 20260410.1147001,2026-04-10T11:47:43.000Z,60.5191,-140.0369,5.0,ML,1.96,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
