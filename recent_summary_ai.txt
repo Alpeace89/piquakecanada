@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard showed no earthquakes in the last hour or day, with a small quiver of magnitude M1.31 happening about 22 km northwest of Sainte-Brigitte-de-Laval, Quebec, earlier today. Nothing to worry about here folks.
+In the last 24 hours, there have been no recorded quakes on PiQuake Canada's dashboard. The largest one was a M1.31 that occurred around 22 km north-northwest of Sainte-Brigitte-de-Laval in Quebec. It happened way back on May 24th at about 6:04 PM, but the exact location and time were not known for sure.
