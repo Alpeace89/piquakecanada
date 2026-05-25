@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-24T18:04:24.000Z",
+    "magnitude": "1.31",
+    "depth_km": "19.1",
+    "place": "22 km NNW of Sainte-Brigitte-de-Laval, QC/22 km NNO de Sainte-Brigitte-de-Laval, QC"
+  },
+  {
+    "time_utc": "2026-05-24T10:59:03.000Z",
+    "magnitude": "1.86",
+    "depth_km": "5.0",
+    "place": "11 km WSW of Belledune, NB/11 km OSO de Belledune, NB"
+  },
+  {
     "time_utc": "2026-05-24T02:43:14.000Z",
     "magnitude": "0.94",
     "depth_km": "2.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "4.15",
     "depth_km": "5.0",
     "place": "189 km NNE of Mayo, YT/189 km NNE de Mayo, YT"
-  },
-  {
-    "time_utc": "2026-05-21T19:20:08.000Z",
-    "magnitude": "2.2",
-    "depth_km": "16.73",
-    "place": "57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-05-21T16:05:05.000Z",
-    "magnitude": "1.38",
-    "depth_km": "0.0",
-    "place": "Blast, 9 km NNE of North Bay, ON/Dynamitage, 9 km NNE de North Bay, ON"
   }
 ];
