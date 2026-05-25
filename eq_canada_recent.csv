@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260410.2155001,2026-04-10T21:55:05.000Z,50.5522,-127.8442,1.0,ML,1.64,"19 km WSW of Coal Harbour, BC/19 km OSO de Coal Harbour, BC"
 20260410.2312001,2026-04-10T23:12:33.000Z,50.5834,-130.2567,10.0,Mw',3.1,"195 km W of Port Hardy, BC/195 km O de Port Hardy, BC"
 20260411.0201001,2026-04-11T02:01:12.000Z,48.6102,-82.6768,18.0,MwN,1.15,"44 km NNW of Foleyet, ON/44 km NNO de Foleyet, ON"
 20260411.0400001,2026-04-11T04:00:23.000Z,50.8118,-95.5623,2.0,MwN,0.88,"25 km SSE of Bissett, MB/25 km SSE de Bissett, MB"
