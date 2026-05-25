@@ -24,6 +24,24 @@ window.recentEvents = [
     "place": "16 km NE of Notre-Dame-du-Nord, QC, felt/16 km NE de Notre-Dame-du-Nord, QC, ressenti"
   },
   {
+    "time_utc": "2026-05-22T09:46:14.000Z",
+    "magnitude": "2.34",
+    "depth_km": "5.0",
+    "place": "128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-22T08:21:08.000Z",
+    "magnitude": "3.02",
+    "depth_km": "5.0",
+    "place": "116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-22T07:13:56.000Z",
+    "magnitude": "2.65",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 45 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 45 km S de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-05-22T03:46:54.000Z",
     "magnitude": "2.55",
     "depth_km": "1.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.6",
     "depth_km": "10.0",
     "place": "196 km W of Port Hardy, BC/196 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-05-21T21:22:27.000Z",
-    "magnitude": "2.51",
-    "depth_km": "1.46",
-    "place": "Mining event, Garson Mine, ON, felt/\u00c9v\u00e9nement minier, Mine Garson, ON, ressenti"
-  },
-  {
-    "time_utc": "2026-05-21T21:08:24.000Z",
-    "magnitude": "3.01",
-    "depth_km": "1.0",
-    "place": "168 km W of Juneau, AK/168 km O de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-05-21T20:29:40.000Z",
-    "magnitude": "4.15",
-    "depth_km": "5.0",
-    "place": "189 km NNE of Mayo, YT/189 km NNE de Mayo, YT"
   }
 ];
