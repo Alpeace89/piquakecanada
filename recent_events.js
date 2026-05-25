@@ -18,9 +18,15 @@ window.recentEvents = [
     "place": "52 km NW of Atikokan, ON/52 km NO de Atikokan, ON"
   },
   {
+    "time_utc": "2026-05-22T21:54:05.000Z",
+    "magnitude": "1.4",
+    "depth_km": "37.4",
+    "place": "27 km SW of Tahsis, BC/27 km SO de Tahsis, BC"
+  },
+  {
     "time_utc": "2026-05-22T18:15:09.000Z",
-    "magnitude": "2.24",
-    "depth_km": "9.5",
+    "magnitude": "2.13",
+    "depth_km": "10.44",
     "place": "16 km NE of Notre-Dame-du-Nord, QC, felt/16 km NE de Notre-Dame-du-Nord, QC, ressenti"
   },
   {
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.16",
     "depth_km": "15.08",
     "place": "49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-05-21T21:23:11.000Z",
-    "magnitude": "2.6",
-    "depth_km": "10.0",
-    "place": "196 km W of Port Hardy, BC/196 km O de Port Hardy, BC"
   }
 ];
