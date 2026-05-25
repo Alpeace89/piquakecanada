@@ -24,6 +24,12 @@ window.recentEvents = [
     "place": "69 km ENE of Cleveland, OH/69 km ENE de Cleveland, OH"
   },
   {
+    "time_utc": "2026-05-23T05:06:01.000Z",
+    "magnitude": "3.61",
+    "depth_km": "3.48",
+    "place": "Suspected industry-related event, 69 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 69 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-05-22T21:54:05.000Z",
     "magnitude": "1.4",
     "depth_km": "37.4",
@@ -50,12 +56,6 @@ window.recentEvents = [
   {
     "time_utc": "2026-05-22T07:13:56.000Z",
     "magnitude": "2.65",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 45 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 45 km S de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-05-22T03:46:54.000Z",
-    "magnitude": "2.55",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 45 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 45 km S de Grande Prairie, AB"
   }
