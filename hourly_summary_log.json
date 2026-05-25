@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-04T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event recorded was M3.1, which happened near Juneau, Alaska, on May 3 at around 4:53 PM local time. There haven't been any epicenters reported for today yet."
-  },
-  {
     "timestamp_utc": "2026-05-04T21:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the last hour, there have been no earthquakes reported. In the past day, one quake measuring M1.31 hit 22 kilometers north-northwest of Sainte-Brigitte-de-Laval, QC or 22 km northeast of Sainte-Brigitte-de-Laval, QC at around 6:04 PM on May 24th according to UTC time. This is the largest event in this period and it's been happening again today with the latest one matching the same details. Most recent activity has been focused in Quebec (QC)."
+  },
+  {
+    "timestamp_utc": "2026-05-25T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary of the PiQuake Canada dashboard: There were no new seismic events in the last hour, but one event recorded yesterday. The largest quake was M1.31 about 22 km northwest of Sainte-Brigitte-de-Laval, Quebec around 6:04 PM on May 24th. This region saw most activity over the past day with just one occurrence."
   }
 ]
