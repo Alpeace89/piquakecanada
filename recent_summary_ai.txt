@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard showed no activity in the last hour or day. The largest event detected was a M1.31 near Sainte-Brigitte-de-Laval, QC on May 24 at around 6 PM local time. Nothing out of the ordinary here, folks.
+The PiQuake Canada dashboard shows no activity in the last hour or day, with a small event recorded at M1.31 happening about 22 km northwest of Sainte-Brigitte-de-Lavalaval, Quebec. It's the only thing we've seen since our beta launch yesterday evening.

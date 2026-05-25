@@ -496,6 +496,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260523.0506001,2026-05-23T05:06:01.000Z,54.568,-118.5593,3.48,MLy,3.61,"Suspected industry-related event, 69 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 69 km SSE de Grande Prairie, AB"
 20260523.0643001,2026-05-23T06:43:38.000Z,41.7112,-80.9315,5.0,MwN,2.03,"69 km ENE of Cleveland, OH/69 km ENE de Cleveland, OH"
 20260524.0243001,2026-05-24T02:43:14.000Z,49.1438,-92.0254,2.0,MwN,0.94,"52 km NW of Atikokan, ON/52 km NO de Atikokan, ON"
+20260524.0851001,2026-05-24T08:51:21.000Z,54.559,-118.5825,1.58,MLy,2.82,"Suspected industry-related event, 69 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 69 km SSE de Grande Prairie, AB"
 20260524.1059001,2026-05-24T10:59:03.000Z,47.819,-66.0572,5.0,MwN,1.86,"11 km WSW of Belledune, NB/11 km OSO de Belledune, NB"
 20260524.1223001,2026-05-24T12:23:41.000Z,59.1794,-136.3311,4.65,ML,3.43,"182 km SSW of Whitehorse, YT/182 km SSO de Whitehorse, YT"
 20260524.1804001,2026-05-24T18:04:24.000Z,47.1745,-71.3331,19.1,MwN,1.31,"22 km NNW of Sainte-Brigitte-de-Laval, QC/22 km NNO de Sainte-Brigitte-de-Laval, QC"

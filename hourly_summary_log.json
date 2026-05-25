@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-05T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last hour, there were no events recorded on the PiQuake Canada dashboard. Over the past day, not a single earthquake event was detected either. The largest quake in that period was of unknown magnitude happening at an unknown location with an unknown time. The most recent seismic activity showed a M2.64 shake, which occurred near Abbotsford, BC, just south-southeast of where dynamite blasting happened the same day."
-  },
-  {
     "timestamp_utc": "2026-05-05T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard showed no activity in the last hour or day. The largest event detected was a M1.31 near Sainte-Brigitte-de-Laval, QC on May 24 at around 6 PM local time. Nothing out of the ordinary here, folks."
+  },
+  {
+    "timestamp_utc": "2026-05-25T23:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, with a small event recorded at M1.31 happening about 22 km northwest of Sainte-Brigitte-de-Lavalaval, Quebec. It's the only thing we've seen since our beta launch yesterday evening."
   }
 ]
