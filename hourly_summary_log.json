@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-06T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had four small tremors. The largest one measured M3.52 near Tofino in British Columbia, which is about 260 km west-southwest of Tofino itself. A smaller event this afternoon was close to Grande Prairie, Alberta—about 59 kilometers south of there. Most activity has been reported in the provinces of Alberta and British Columbia over the last 24 hours."
-  },
-  {
     "timestamp_utc": "2026-05-06T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary for the PiQuake Canada dashboard: We had no big shakes in the last hour, but over the past day we saw three minor quakes. The largest one was M2.79 and it happened near Daajing Giids in British Columbia at 8:27 AM on May 26th. It's a good reminder that this area is still active seismically, even if these are small ones."
+  },
+  {
+    "timestamp_utc": "2026-05-26T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of three minor seismic events recorded across Canada. The largest one measured M2.79 and happened about 57 kilometers southwest of Daajing Giids in British Columbia. It's just another reminder that our province experiences these little tremors now and then, but nothing to worry about since they're generally not felt by people."
   }
 ]
