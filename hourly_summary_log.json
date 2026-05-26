@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-05T06:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard hasn't had any quakes in the last hour or day, and there's no record of any notable quakes happening within its coverage area. The latest minor quake was a M2.64 near Abbotsford, BC, which happened on May 3rd at around 9 PM local time."
-  },
-  {
     "timestamp_utc": "2026-05-05T07:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no earthquakes reported on the PiQuake Canada dashboard. The largest event recorded was a magnitude unknown one at an unknown location and time. Our latest event was a M1.31 quake that happened near Sainte-Brigitte-de-Laval in Quebec around 6:05 PM yesterday."
+  },
+  {
+    "timestamp_utc": "2026-05-26T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard hasn't had any earthquake events in the last hour or day. The largest quake recorded was a M1.31 that happened 22 km north-northwest of Sainte-Brigitte-de-Laval, QC about a week ago. It's all quiet down there!"
   }
 ]
