@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-05T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is currently in its beta phase, and so far, there hasn't been any seismic activity recorded within the last 24 hours. The latest event was a M2.64 magnitude shake that happened near Abbotsford at around 9 PM on May 3rd."
-  },
-  {
     "timestamp_utc": "2026-05-05T05:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, with a small event recorded at M1.31 happening about 22 km northwest of Sainte-Brigitte-de-Lavalaval, Quebec. It's the only thing we've seen since our beta launch yesterday evening."
+  },
+  {
+    "timestamp_utc": "2026-05-26T00:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude unknown, occurring at an unknown location and time. Our latest earthquake was a M1.31 on May 24th around 6 PM, located about 22 km north-northwest of Sainte-Brigitte-de-Laval in Quebec."
   }
 ]
