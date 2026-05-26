@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-25T13:56:55.000Z",
+    "magnitude": "2.22",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 74 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 74 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-05-25T13:11:55.000Z",
     "magnitude": "1.21",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.82",
     "depth_km": "1.58",
     "place": "Suspected industry-related event, 69 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 69 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-05-24T02:43:14.000Z",
-    "magnitude": "0.94",
-    "depth_km": "2.0",
-    "place": "52 km NW of Atikokan, ON/52 km NO de Atikokan, ON"
   }
 ];
