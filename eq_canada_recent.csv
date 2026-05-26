@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260411.1004001,2026-04-11T10:04:58.000Z,49.7253,-67.8692,5.0,MwN,1.06,"66 km NNE of Hauterive, QC/66 km NNE de Hauterive, QC"
 20260411.1257001,2026-04-11T12:57:43.000Z,54.3143,-117.7824,1.0,MLy,1.98,"Suspected industry-related event, 64 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 64 km O de Fox Creek, AB"
 20260411.1417001,2026-04-11T14:17:03.000Z,50.8158,-63.6653,2.0,MwN,1.1,"Suspected industry-related event, 34 km NNW of Lac Tio Mine, QC/Événement lié à l'industrie soupconné, 34 km NNO de la mine Lac Tio, QC"
 20260411.1649001,2026-04-11T16:49:01.000Z,59.2261,-137.761,5.0,ML,2.3,"221 km SW of Whitehorse, YT/221 km SO de Whitehorse, YT"
