@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260411.2110001,2026-04-11T21:10:44.000Z,46.5472,-66.6167,5.0,MwN,1.4,"38 km W of Doaktown, NB/38 km O de Doaktown, NB"
-20260411.2143001,2026-04-11T21:43:59.000Z,59.936,-137.9982,5.0,ML,2.25,"95 km SSW of Haines Junction, YT/95 km SSO de Haines Junction, YT"
 20260412.0207001,2026-04-12T02:07:09.000Z,49.5759,-66.4534,18.0,MwN,0.8,"49 km N of Sainte-Anne-des-Monts, QC/49 km N de Sainte-Anne-des-Monts, QC"
 20260412.0430001,2026-04-12T04:30:19.000Z,60.4647,-139.6333,5.0,ML,2.56,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
 20260412.0652001,2026-04-12T06:52:37.000Z,60.4949,-139.9423,5.0,ML,4.16,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
@@ -477,8 +475,11 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260522.0946001,2026-05-22T09:46:14.000Z,60.5099,-139.8138,5.0,ML,2.34,"128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
 20260522.1815003,2026-05-22T18:15:09.000Z,47.7176,-79.3562,10.44,MwN,2.13,"16 km NE of Notre-Dame-du-Nord, QC, felt/16 km NE de Notre-Dame-du-Nord, QC, ressenti"
 20260522.2154001,2026-05-22T21:54:05.000Z,49.7603,-126.9549,37.4,ML,1.4,"27 km SW of Tahsis, BC/27 km SO de Tahsis, BC"
+20260523.0024001,2026-05-23T00:24:53.000Z,54.3145,-118.4426,1.0,MLy,2.74,"Suspected industry-related event, 65 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 65 km NE de Grande Cache, AB"
 20260523.0506001,2026-05-23T05:06:01.000Z,54.568,-118.5593,3.48,MLy,3.61,"Suspected industry-related event, 69 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 69 km SSE de Grande Prairie, AB"
 20260523.0643001,2026-05-23T06:43:38.000Z,41.7112,-80.9315,5.0,MwN,2.03,"69 km ENE of Cleveland, OH/69 km ENE de Cleveland, OH"
+20260523.1546001,2026-05-23T15:46:44.000Z,54.556,-118.5522,1.7,MLy,2.68,"Suspected industry-related event, 70 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 70 km SSE de Grande Prairie, AB"
+20260523.1551001,2026-05-23T15:51:59.000Z,60.5101,-140.0629,1.0,ML,2.73,"142 km W of Haines Junction, YT/142 km O de Haines Junction, YT"
 20260523.1716001,2026-05-23T17:16:21.000Z,59.6573,-138.0558,1.0,ML,3.13,"126 km SSW of Haines Junction, YT/126 km SSO de Haines Junction, YT"
 20260523.2009001,2026-05-23T20:09:03.000Z,52.6686,-132.1469,20.48,ML,2.88,"65 km S of Daajing Giids, BC/65 km S de Daajing Giids, BC"
 20260524.0243001,2026-05-24T02:43:14.000Z,49.1438,-92.0254,2.0,MwN,0.94,"52 km NW of Atikokan, ON/52 km NO de Atikokan, ON"
