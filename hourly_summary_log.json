@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-05T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there haven't been any recorded events on our PiQuake Canada dashboard. The largest event was a M2.11 which occurred around 20 km north of Halfway River 168 in British Columbia. That's the most recent activity we have tracked."
-  },
-  {
     "timestamp_utc": "2026-05-05T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a M1.31 near Sainte-Brigitte-de-Laval, Quebec on May 24th at around 6:04 PM local time. That's it for today's activity."
+  },
+  {
+    "timestamp_utc": "2026-05-26T10:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event was a magnitude unknown located at an unknown place with an unspecified time. It's worth noting that the latest detected quake was a M1.31 near Sainte-Brigitte-de-Laval, Quebec, which occurred just after 6 PM yesterday."
   }
 ]
