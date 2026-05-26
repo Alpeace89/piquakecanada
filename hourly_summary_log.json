@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-05T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had five seismic events monitored by our PiQuake Canada dashboard. The largest one was a M3.07 just south of Port Hardy, felt in both British Columbia and Yukon territories. And earlier today, around sunset on May 4th at around 9 PM Pacific Time, there was a M2.76 quake reported as being felt near Detroit, Michigan. It's been all quiet since then too - no events for the last hour we've had any shakes to report."
-  },
-  {
     "timestamp_utc": "2026-05-05T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the past 24 hours, we've had no recorded earthquakes using our PiQuake Canada dashboard. The largest event was a minor shake with a magnitude of M1.31 near Sainte-Brigitte-de-Laval in Quebec. It happened on May 24th at around 6:04 PM local time. No big events here, just a quiet patch of the province."
+  },
+  {
+    "timestamp_utc": "2026-05-26T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey there! We've got no earthquakes happening in Canada right now. But yesterday, a little shake measuring M1.31 happened about 22 kilometers northwest of Sainte-Brigitte-de-Laval in Quebec. That's the latest we have recorded. It was near where you're reading this summary too, just not directly under your feet!"
   }
 ]
