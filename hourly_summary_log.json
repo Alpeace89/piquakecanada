@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-05T21:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of 6 PiQuake Canada events. The largest one was a M3.52 quake near Tofino in BC at around 1 p.m. today. Yesterday, there were three quakes in Alberta and one each in Yukon and an unknown region. That's pretty active for the dashboard right now!"
-  },
-  {
     "timestamp_utc": "2026-05-05T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no seismic events in the last hour or day, and there's not much happening even over the past 24 hours. The latest event was a M2.22 quake near Grande Prairie, AB, suspected to be linked to industry activities. It happened on May 25th around noon our time."
+  },
+  {
+    "timestamp_utc": "2026-05-26T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there was one event yesterday. The biggest quake was a M2.71 near Grande Prairie, Alberta, thought to be related to industry. That's the latest and only activity they've been tracking for the last 24 hours, all centered around Alberta."
   }
 ]

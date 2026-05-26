@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-26T07:14:53.000Z",
+    "magnitude": "2.71",
+    "depth_km": "2.19",
+    "place": "Suspected industry-related event, 69 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 69 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-05-25T13:56:55.000Z",
     "magnitude": "2.22",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.86",
     "depth_km": "5.0",
     "place": "11 km WSW of Belledune, NB/11 km OSO de Belledune, NB"
-  },
-  {
-    "time_utc": "2026-05-24T08:51:21.000Z",
-    "magnitude": "2.82",
-    "depth_km": "1.58",
-    "place": "Suspected industry-related event, 69 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 69 km SSE de Grande Prairie, AB"
   }
 ];
