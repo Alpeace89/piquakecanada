@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-05T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows that in the last 24 hours, there have been no new quakes reported. But back then, we did see seven smaller shakes happening across British Columbia and the Yukon Territory. The biggest one was a M3.52 near Tofino, BC. That's something you'd notice if you were standing outside—no biggie though, mostly just for scientists to study."
-  },
-  {
     "timestamp_utc": "2026-05-05T19:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no seismic events in the last hour or day, and there's a M1.31 quake recorded just yesterday at 6 PM in Sainte-Brigitte-de-Laval area of Quebec. It's our first event since we started beta testing, so far nothing to worry about but keep an eye out for more updates!"
+  },
+  {
+    "timestamp_utc": "2026-05-26T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there haven't been any quakes reported on the PiQuake Canada dashboard. The largest one was a tiny M1.21 that happened about 137 km west of Haines Junction in the Yukon and another 137 km to its east. It's all good though; no big shakes or anything exciting happening down there."
   }
 ]
