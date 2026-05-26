@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-26T08:27:10.000Z",
+    "magnitude": "2.79",
+    "depth_km": "17.85",
+    "place": "57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
+  },
+  {
     "time_utc": "2026-05-26T07:14:53.000Z",
     "magnitude": "2.71",
     "depth_km": "2.19",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.43",
     "depth_km": "4.65",
     "place": "182 km SSW of Whitehorse, YT/182 km SSO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-05-24T10:59:03.000Z",
-    "magnitude": "1.86",
-    "depth_km": "5.0",
-    "place": "11 km WSW of Belledune, NB/11 km OSO de Belledune, NB"
   }
 ];
