@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260411.0608001,2026-04-11T06:08:23.000Z,48.2767,-124.6292,33.97,ML,1.56,"34 km SSW of Port Renfrew, BC/34 km SSO de Port Renfrew, BC"
-20260411.0623001,2026-04-11T06:23:54.000Z,59.7009,-136.2417,10.0,ML1,1.39,"128 km SSW of Whitehorse, YT/128 km SSO de Whitehorse, YT"
 20260411.0713001,2026-04-11T07:13:56.000Z,46.3068,-64.8569,8.61,MwN,1.7,"3 km N of Dundas, NB/3 km N de Dundas, NB"
 20260411.0755001,2026-04-11T07:55:25.000Z,46.3918,-65.7936,5.0,MwN,0.74,"25 km NNE of Chipman, NB/25 km NNE de Chipman, NB"
 20260411.0843001,2026-04-11T08:43:18.000Z,60.506,-139.9472,5.0,ML,2.69,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
