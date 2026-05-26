@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-05T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no new earthquake reports in the last hour, but there were five events recorded yesterday. The largest event last 24 hours was a M3.52 quake near Tofino, BC. A suspected industry-related M2.56 tremor happened just outside Grande Prairie, AB today. Notable regions for activity are Alberta and British Columbia."
-  },
-  {
     "timestamp_utc": "2026-05-06T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've seen two small earthquakes with a magnitude of M2.79 around Daajing Giids area in British Columbia. The latest one happened just this morning at 8:27 AM UTC and it's pretty much where all the recent activity has been happening. Most of these quakes have been felt in Alberta (AB) and British Columbia (BC)."
+  },
+  {
+    "timestamp_utc": "2026-05-26T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is showing no events in the last hour, but there have been three small quakes recorded in the past day. The biggest one was a M2.79 near Daajing Giids, BC/DAJING GIIDS, BC, and it happened just after 8:00 AM on May 26th according to UTC time. That's where we get our latest updates from!"
   }
 ]

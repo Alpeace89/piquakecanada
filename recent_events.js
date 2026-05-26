@@ -12,6 +12,12 @@ window.recentEvents = [
     "place": "Suspected industry-related event, 69 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 69 km SSE de Grande Prairie, AB"
   },
   {
+    "time_utc": "2026-05-26T03:54:41.000Z",
+    "magnitude": "2.55",
+    "depth_km": "1.0",
+    "place": "125 km SSW of Haines Junction, YT/125 km SSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-05-25T13:56:55.000Z",
     "magnitude": "2.22",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.31",
     "depth_km": "19.1",
     "place": "22 km NNW of Sainte-Brigitte-de-Laval, QC/22 km NNO de Sainte-Brigitte-de-Laval, QC"
-  },
-  {
-    "time_utc": "2026-05-24T12:23:41.000Z",
-    "magnitude": "3.43",
-    "depth_km": "4.65",
-    "place": "182 km SSW of Whitehorse, YT/182 km SSO de Whitehorse, YT"
   }
 ];
