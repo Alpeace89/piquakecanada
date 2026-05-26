@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-05T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the PiQuake Canada dashboard's beta phase, we've had zero seismic events recorded in the last hour and just as many in the past day. The largest event was an unknown magnitude happening somewhere unknown. In case you missed it, a M2.64 quake happened yesterday at 9:12 PM BC time near Abbotsford and Dynamite, both around 70 km to the southeast."
-  },
-  {
     "timestamp_utc": "2026-05-05T14:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and the largest event detected was a magnitude unknown at an unknown location. The latest quake reported was a M1.31 that happened on May 24th around 6:04 PM local time, near Sainte-Brigitte-de-Laval, Quebec."
+  },
+  {
+    "timestamp_utc": "2026-05-26T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a M1.31 near Sainte-Brigitte-de-Laval, Quebec on May 24th at around 6:04 PM local time. That's it for today's activity."
   }
 ]
