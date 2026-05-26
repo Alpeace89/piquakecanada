@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard has not recorded any earthquake events in the last hour or day. The largest event detected was of unknown magnitude happening at an unknown location, with no specific time provided. Since then, nothing significant has occurred within the last 24 hours either.
+The PiQuake Canada dashboard shows no activity in the last hour or day, and the largest event detected was a magnitude unknown at an unknown location. The latest quake reported was a M1.31 that happened on May 24th around 6:04 PM local time, near Sainte-Brigitte-de-Laval, Quebec.
