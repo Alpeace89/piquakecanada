@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-05T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the PiQuake Canada dashboard, it's showing no earthquakes detected in the last hour or day. The largest event yesterday was an unknown magnitude at an unknown location. The latest quake recorded was a M2.64 near Blast and Dynamitage, both about 70 km southeast of Abbotsford, BC."
-  },
-  {
     "timestamp_utc": "2026-05-05T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a magnitude unknown at an unknown location, with nothing happening around Sainte-Brigitte-de-Laval, QC that we know of based on our data up to yesterday's events."
+  },
+  {
+    "timestamp_utc": "2026-05-26T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest event recorded was a M1.31 near Sainte-Brigitte-de-Laval in Quebec. It happened on May 24th at about 6:04 PM local time."
   }
 ]

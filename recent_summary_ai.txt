@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a magnitude unknown at an unknown location, with nothing happening around Sainte-Brigitte-de-Laval, QC that we know of based on our data up to yesterday's events.
+In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest event recorded was a M1.31 near Sainte-Brigitte-de-Laval in Quebec. It happened on May 24th at about 6:04 PM local time.
