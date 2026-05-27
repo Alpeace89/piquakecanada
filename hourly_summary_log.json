@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-07T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had six minor seismic events across British Columbia, Yukon, and Alaska. The largest one measured at M3.02 around Tofino in British Columbia, and the latest event was a M2.98 near Burwash Landing in the Yukon Territory. We've been keeping tabs on these activities through our new PiQuake Canada dashboard."
-  },
-  {
     "timestamp_utc": "2026-05-07T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three small earthquakes reported yesterday. The biggest one was a M3.78 near Fort McPherson, which happened about an hour ago. That's the most significant earthquake we've seen today or in the past 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-05-27T21:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour but had three events yesterday. The largest event was a M3.78, located near Fort McPherson, both in the Northwest Territories, happening about an hour ago. BC also saw some small quakes today."
   }
 ]
