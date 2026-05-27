@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-06T09:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no reported earthquakes in Canada. The largest quake was a M3.52 near Tofino, BC/AB on May 5th at around noon. It's suspected that this one may have been caused by an industry-related event, and it happened about 60 km south of Grande Prairie, AB. That's the only earthquake we've heard about in Canada in the last day or so."
-  },
-  {
     "timestamp_utc": "2026-05-06T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, two minor earthquakes hit the area, with the largest one measuring M2.79 about 57 km south-southwest of Daajing Giids in British Columbia. This latest event is similar to the ones we've seen before; the PiQuake Canada dashboard monitors all seismic activity and keeps you up-to-date on what's happening beneath our feet."
+  },
+  {
+    "timestamp_utc": "2026-05-27T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two minor quakes with a magnitude of M2.79 each, both happening about 57 kilometers south-southwest of Daajing Giids in British Columbia. That's where our latest quake was recorded on May 26 at around 8:27 AM UTC. It looks like Alberta and British Columbia were the most active regions for today's quakes."
   }
 ]
