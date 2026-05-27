@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last 24 hours, and there haven't been any events reported in that time either. The latest recorded event was a M2.79 near Daajing Giids, BC, which happened on May 26 at around 8:27 AM local time.
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude unknown at an unknown location on an unknown time. The latest event happened yesterday at a place southwest of Daajing Giids, BC, with a magnitude of M2.79.
