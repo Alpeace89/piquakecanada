@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260412.1325001,2026-04-12T13:25:24.000Z,50.4615,-130.2005,10.0,Mw',3.43,"193 km W of Port Hardy, BC/193 km O de Port Hardy, BC"
 20260412.1604001,2026-04-12T16:04:57.000Z,47.1331,-129.1039,10.0,Mw',3.85,"416 km SW of Courtenay, BC/416 km SO de Courtenay, BC"
 20260412.1623001,2026-04-12T16:23:17.000Z,49.349,-122.3158,1.03,ML,1.46,"12 km NNW of McConnell Creek, BC/12 km NNO de McConnell Creek, BC"
 20260412.1808001,2026-04-12T18:08:32.000Z,59.4267,-135.959,5.0,ML,2.05,"149 km SSW of Whitehorse, YT/149 km SSO de Whitehorse, YT"
