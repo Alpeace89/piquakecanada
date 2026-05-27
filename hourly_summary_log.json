@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-06T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had 8 PiQuake Canada events reported. The largest one was a M3.42 near Waskatenau in Alberta which is suspected to be an industrial-related event. In that time, we also saw two small quakes close to Juneau in Alaska. Most of these happened in British Columbia and Alberta regions."
-  },
-  {
     "timestamp_utc": "2026-05-06T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard has been running in beta mode and hasn't recorded any seismic events over the last 24 hours. The largest event detected was a mystery as it had an unknown magnitude from an unspecified location at an unknown time. Notably, there's no data on recent activity to keep track of since the latest quake was a M2.79 that happened in British Columbia earlier this month."
+  },
+  {
+    "timestamp_utc": "2026-05-27T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event last day with a magnitude of M3.32 near Daajing Giids, BC. It's the largest event we've seen today and it happened just after noon on May 27th, right around when you're reading this. The area where it occurred is in British Columbia."
   }
 ]

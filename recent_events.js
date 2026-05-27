@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-27T13:03:02.000Z",
+    "magnitude": "3.32",
+    "depth_km": "22.09",
+    "place": "69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC"
+  },
+  {
     "time_utc": "2026-05-26T08:27:10.000Z",
     "magnitude": "2.79",
     "depth_km": "17.85",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.34",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 67 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 67 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-05-24T18:04:24.000Z",
-    "magnitude": "1.31",
-    "depth_km": "19.1",
-    "place": "22 km NNW of Sainte-Brigitte-de-Laval, QC/22 km NNO de Sainte-Brigitte-de-Laval, QC"
   }
 ];
