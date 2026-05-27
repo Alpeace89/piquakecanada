@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-06T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we saw nine seismic events. The largest one was a M3.42 near Waskatenau in Alberta, likely caused by an industry operation there. That's compared to just one event this hour and a few happening across British Columbia, Alaska, and Yukon Territory."
-  },
-  {
     "timestamp_utc": "2026-05-07T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event last day with a magnitude of M3.32 near Daajing Giids, BC. It's the largest event we've seen today and it happened just after noon on May 27th, right around when you're reading this. The area where it occurred is in British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-05-27T19:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of two events recorded. The largest one was a M3.78 which occurred about 68 km northwest of Fort McPherson in the Northwest Territories and another slightly north of that spot. This is where our PiQuake Canada dashboard keeps track of seismic activity to help with monitoring and safety measures, but it's just for informational purposes and doesn't affect your daily life directly."
   }
 ]

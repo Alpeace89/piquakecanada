@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-27T18:02:59.000Z",
+    "magnitude": "3.78",
+    "depth_km": "10.0",
+    "place": "68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT"
+  },
+  {
     "time_utc": "2026-05-27T13:03:02.000Z",
     "magnitude": "3.32",
     "depth_km": "22.09",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.26",
     "depth_km": "5.0",
     "place": "130 km W of Haines Junction, YT/130 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-25T02:40:51.000Z",
-    "magnitude": "2.34",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 67 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 67 km SSE de Grande Prairie, AB"
   }
 ];

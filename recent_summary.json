@@ -1,32 +1,32 @@
 {
-  "generated_utc": "2026-05-27T18:03:01Z",
+  "generated_utc": "2026-05-27T19:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 491,
-  "events_last_24h": 1,
+  "rolling_window_event_count": 490,
+  "events_last_24h": 2,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 1,
+  "count_m3plus_last_24h": 2,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260527.1303001",
-    "time_utc": "2026-05-27T13:03:02.000Z",
-    "latitude": 53.3377,
-    "longitude": -133.1151,
-    "depth_km": 22.09,
+    "event_id": "20260527.1802001",
+    "time_utc": "2026-05-27T18:02:59.000Z",
+    "latitude": 67.8232,
+    "longitude": -136.1125,
+    "depth_km": 10.0,
     "mag_type": "ML",
-    "magnitude": 3.32,
-    "place": "69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC",
-    "region": "BC"
+    "magnitude": 3.78,
+    "place": "68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT",
+    "region": "NT"
   },
   "largest_event_last_24h": {
-    "event_id": "20260527.1303001",
-    "time_utc": "2026-05-27T13:03:02.000Z",
-    "latitude": 53.3377,
-    "longitude": -133.1151,
-    "depth_km": 22.09,
+    "event_id": "20260527.1802001",
+    "time_utc": "2026-05-27T18:02:59.000Z",
+    "latitude": 67.8232,
+    "longitude": -136.1125,
+    "depth_km": 10.0,
     "mag_type": "ML",
-    "magnitude": 3.32,
-    "place": "69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC",
-    "region": "BC"
+    "magnitude": 3.78,
+    "place": "68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT",
+    "region": "NT"
   },
   "deepest_event_last_24h": {
     "event_id": "20260527.1303001",
@@ -43,7 +43,11 @@
     {
       "region": "BC",
       "count": 1
+    },
+    {
+      "region": "NT",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-27 18:03 UTC, the recent Canada earthquake dataset contains 491 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.32 at 69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC. The deepest event reached 22.09 km at 69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC. The most recent listed event was M3.32 at 69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC at 2026-05-27T13:03:02.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was BC."
+  "summary_text": "As of 2026-05-27 19:03 UTC, the recent Canada earthquake dataset contains 490 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.78 at 68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT. The deepest event reached 22.09 km at 69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC. The most recent listed event was M3.78 at 68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT at 2026-05-27T18:02:59.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (1) and NT (1)."
 }
