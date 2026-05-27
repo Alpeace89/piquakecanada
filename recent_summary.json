@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-05-27T22:03:01Z",
+  "generated_utc": "2026-05-27T23:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 495,
-  "events_last_24h": 5,
+  "rolling_window_event_count": 497,
+  "events_last_24h": 7,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 4,
   "count_m4plus_last_24h": 0,
@@ -45,13 +45,13 @@
       "count": 3
     },
     {
-      "region": "YT",
+      "region": "AB",
       "count": 1
     },
     {
-      "region": "NT",
+      "region": "YT",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-27 22:03 UTC, the recent Canada earthquake dataset contains 495 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.78 at 68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT. The deepest event reached 22.09 km at 69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC. The most recent listed event was M2.81 at 125 km SSW of Port Alice, BC/125 km SSO de Port Alice, BC at 2026-05-27T19:38:33.000Z. There were 4 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and YT (1)."
+  "summary_text": "As of 2026-05-27 23:03 UTC, the recent Canada earthquake dataset contains 497 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.78 at 68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT. The deepest event reached 22.09 km at 69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC. The most recent listed event was M2.81 at 125 km SSW of Port Alice, BC/125 km SSO de Port Alice, BC at 2026-05-27T19:38:33.000Z. There were 4 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and AB (1)."
 }

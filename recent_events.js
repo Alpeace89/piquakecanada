@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC"
   },
   {
+    "time_utc": "2026-05-27T10:45:29.000Z",
+    "magnitude": "2.8",
+    "depth_km": "10.0",
+    "place": "158 km W of Juneau, AK/158 km O de Juneau, AK"
+  },
+  {
     "time_utc": "2026-05-27T09:52:14.000Z",
     "magnitude": "3.19",
     "depth_km": "5.0",
@@ -28,6 +34,12 @@ window.recentEvents = [
     "magnitude": "3.31",
     "depth_km": "18.7",
     "place": "88 km WSW of Masset, BC/88 km OSO de Masset, BC"
+  },
+  {
+    "time_utc": "2026-05-27T00:27:19.000Z",
+    "magnitude": "2.79",
+    "depth_km": "2.27",
+    "place": "Suspected industry-related event, 68 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 68 km SSE de Grande Prairie, AB"
   },
   {
     "time_utc": "2026-05-26T08:27:10.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.55",
     "depth_km": "1.0",
     "place": "125 km SSW of Haines Junction, YT/125 km SSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-25T13:56:55.000Z",
-    "magnitude": "2.22",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 74 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 74 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-05-25T13:11:55.000Z",
-    "magnitude": "1.21",
-    "depth_km": "5.0",
-    "place": "137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
   }
 ];
