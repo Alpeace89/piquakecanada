@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260412.0718001,2026-04-12T07:18:21.000Z,60.5007,-139.9606,5.0,ML,3.22,"137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
 20260412.1005001,2026-04-12T10:05:06.000Z,60.4979,-139.973,5.0,ML,2.83,"137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
 20260412.1113001,2026-04-12T11:13:36.000Z,52.1472,-132.1298,22.4,ML,2.38,"123 km S of Daajing Giids, BC/123 km S de Daajing Giids, BC"
 20260412.1138001,2026-04-12T11:38:24.000Z,47.4094,-70.0746,15.25,MwN,0.63,"5 km NW of La Pocatière, QC/5 km NO de La Pocatière, QC"
