@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-06T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't had any events detected in the last 24 hours. The largest event recorded was an unknown magnitude, happening at an unknown location. We've had no reports of activity since yesterday when a M2.56 shake happened near Grande Prairie, Alberta, suspected to be related to industry."
-  },
-  {
     "timestamp_utc": "2026-05-06T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there haven't been any recorded quakes. The largest quake was a M2.79 that happened near Daajing Giids, BC/DAAJING GIIDS, BC. It happened on May 26 at around 08:27 AM local time."
+  },
+  {
+    "timestamp_utc": "2026-05-27T12:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no recorded quakes on PiQuake Canada's dashboard. The largest quake was a mystery magnitude happening somewhere near Daajing Giids in British Columbia. That happened about 8 am today when the clock struck eight. It's pretty quiet out there!"
   }
 ]
