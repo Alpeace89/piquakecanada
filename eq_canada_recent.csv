@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260412.0207001,2026-04-12T02:07:09.000Z,49.5759,-66.4534,18.0,MwN,0.8,"49 km N of Sainte-Anne-des-Monts, QC/49 km N de Sainte-Anne-des-Monts, QC"
 20260412.0430001,2026-04-12T04:30:19.000Z,60.4647,-139.6333,5.0,ML,2.56,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
 20260412.0652001,2026-04-12T06:52:37.000Z,60.4949,-139.9423,5.0,ML,4.16,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
 20260412.0718001,2026-04-12T07:18:21.000Z,60.5007,-139.9606,5.0,ML,3.22,"137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
