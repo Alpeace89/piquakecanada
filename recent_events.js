@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-27T19:38:33.000Z",
+    "magnitude": "2.81",
+    "depth_km": "10.0",
+    "place": "125 km SSW of Port Alice, BC/125 km SSO de Port Alice, BC"
+  },
+  {
     "time_utc": "2026-05-27T18:02:59.000Z",
     "magnitude": "3.78",
     "depth_km": "10.0",
@@ -10,6 +16,12 @@ window.recentEvents = [
     "magnitude": "3.32",
     "depth_km": "22.09",
     "place": "69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-05-27T09:52:14.000Z",
+    "magnitude": "3.19",
+    "depth_km": "5.0",
+    "place": "206 km WSW of Haines Junction, YT/206 km OSO de Haines Junction, YT"
   },
   {
     "time_utc": "2026-05-27T09:17:13.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.21",
     "depth_km": "5.0",
     "place": "137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-25T12:16:21.000Z",
-    "magnitude": "2.13",
-    "depth_km": "5.0",
-    "place": "186 km WSW of Haines Junction, YT/186 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-25T11:34:53.000Z",
-    "magnitude": "2.76",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 69 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 69 km S de Grande Prairie, AB"
   }
 ];

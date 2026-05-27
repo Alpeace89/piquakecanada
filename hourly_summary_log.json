@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-07T02:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of six earthquakes reported. The largest one was a M3.02 near Tofino in British Columbia/Ontario. That's the only earthquake in the past 24 hours. The latest quake recorded happened earlier today around Burwash Landing in Yukon/Territory. This area sees more seismic activity, with three in BC and two in YT. Alaska hasn't had any reports yet."
-  },
-  {
     "timestamp_utc": "2026-05-07T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour but had three events yesterday. The largest event was a M3.78, located near Fort McPherson, both in the Northwest Territories, happening about an hour ago. BC also saw some small quakes today."
+  },
+  {
+    "timestamp_utc": "2026-05-27T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of 5 quakes reported on our PiQuake Canada dashboard. The biggest one was an M3.78 near Fort McPherson in the North Territories, and the latest quake measured at M2.81 occurred in Port Alice, British Columbia. It looks like most of these events are happening in BC and the Yukon Territory, with three quakes each counted there over the past 24 hours."
   }
 ]
