@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-06T21:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had no new events in our dashboard, but there were six reported shakes. The largest event was a M3.42 near Waskatenau, Alberta, linked to industry activities. That's quite close to where we usually see smaller, less significant quakes. Our latest shake came from Juneau in Alaska, which is always interesting as it’s far away and not often shaking there."
-  },
-  {
     "timestamp_utc": "2026-05-06T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude unknown at an unknown location on an unknown time. The latest event happened yesterday at a place southwest of Daajing Giids, BC, with a magnitude of M2.79."
+  },
+  {
+    "timestamp_utc": "2026-05-27T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard has been running in beta mode and hasn't recorded any seismic events over the last 24 hours. The largest event detected was a mystery as it had an unknown magnitude from an unspecified location at an unknown time. Notably, there's no data on recent activity to keep track of since the latest quake was a M2.79 that happened in British Columbia earlier this month."
   }
 ]

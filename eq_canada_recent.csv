@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260412.1604001,2026-04-12T16:04:57.000Z,47.1331,-129.1039,10.0,Mw',3.85,"416 km SW of Courtenay, BC/416 km SO de Courtenay, BC"
-20260412.1623001,2026-04-12T16:23:17.000Z,49.349,-122.3158,1.03,ML,1.46,"12 km NNW of McConnell Creek, BC/12 km NNO de McConnell Creek, BC"
 20260412.1808001,2026-04-12T18:08:32.000Z,59.4267,-135.959,5.0,ML,2.05,"149 km SSW of Whitehorse, YT/149 km SSO de Whitehorse, YT"
 20260412.1811001,2026-04-12T18:11:53.000Z,43.5098,-78.3752,5.0,MwN,1.41,"58 km SE of Oshawa, ON/58 km SE de Oshawa, ON"
 20260413.0117001,2026-04-13T01:17:42.000Z,60.472,-140.0,5.0,ML,1.98,"139 km WSW of Haines Junction, YT/139 km OSO de Haines Junction, YT"
