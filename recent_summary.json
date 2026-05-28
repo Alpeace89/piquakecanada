@@ -1,32 +1,32 @@
 {
-  "generated_utc": "2026-05-28T17:03:02Z",
+  "generated_utc": "2026-05-28T18:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 503,
   "events_last_24h": 13,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 1,
+  "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260528.1412001",
-    "time_utc": "2026-05-28T14:12:19.000Z",
-    "latitude": 60.495,
-    "longitude": -140.0139,
+    "event_id": "20260528.1600001",
+    "time_utc": "2026-05-28T16:00:55.000Z",
+    "latitude": 60.4033,
+    "longitude": -139.5775,
     "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 2.19,
-    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT",
+    "magnitude": 2.64,
+    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT",
     "region": "YT"
   },
   "largest_event_last_24h": {
-    "event_id": "20260527.1802001",
-    "time_utc": "2026-05-27T18:02:59.000Z",
-    "latitude": 67.8232,
-    "longitude": -136.1125,
+    "event_id": "20260528.1128001",
+    "time_utc": "2026-05-28T11:28:07.000Z",
+    "latitude": 49.4422,
+    "longitude": -128.4,
     "depth_km": 10.0,
-    "mag_type": "ML",
-    "magnitude": 3.78,
-    "place": "68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT",
-    "region": "NT"
+    "mag_type": "Mw'",
+    "magnitude": 2.95,
+    "place": "127 km SSW of Port Alice, BC/127 km SSO de Port Alice, BC",
+    "region": "BC"
   },
   "deepest_event_last_24h": {
     "event_id": "20260528.0427001",
@@ -46,12 +46,12 @@
     },
     {
       "region": "YT",
-      "count": 4
+      "count": 5
     },
     {
       "region": "AB",
       "count": 3
     }
   ],
-  "summary_text": "As of 2026-05-28 17:03 UTC, the recent Canada earthquake dataset contains 503 events from the current rolling window. In the last 24 hours, 13 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.78 at 68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT. The deepest event reached 30.02 km at 5 km ENE of Yuquot 1, BC/5 km ENE de Yuquot 1, BC. The most recent listed event was M2.19 at 140 km W of Haines Junction, YT/140 km O de Haines Junction, YT at 2026-05-28T14:12:19.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (5) and YT (4)."
+  "summary_text": "As of 2026-05-28 18:03 UTC, the recent Canada earthquake dataset contains 503 events from the current rolling window. In the last 24 hours, 13 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.95 at 127 km SSW of Port Alice, BC/127 km SSO de Port Alice, BC. The deepest event reached 30.02 km at 5 km ENE of Yuquot 1, BC/5 km ENE de Yuquot 1, BC. The most recent listed event was M2.64 at 119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT at 2026-05-28T16:00:55.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (5) and YT (5)."
 }

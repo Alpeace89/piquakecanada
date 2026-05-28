@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260413.1722001,2026-04-13T17:22:45.000Z,60.4366,-139.664,5.0,ML,2.28,"123 km WSW of Haines Junction, YT/123 km OSO de Haines Junction, YT"
-20260413.1723001,2026-04-13T17:23:48.000Z,60.5999,-140.039,5.0,ML,2.4,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
 20260413.2311001,2026-04-13T23:11:33.000Z,49.1002,-122.0148,0.0,ML,1.51,"Blast, 8 km SW of Chilliwack, BC/Dynamitage, 8 km SO de Chilliwack, BC"
 20260414.0211001,2026-04-14T02:11:14.000Z,47.5102,-70.0834,11.02,MwN,1.77,"16 km SSE of La Malbaie, QC/16 km SSE de La Malbaie, QC"
 20260414.0259001,2026-04-14T02:59:42.000Z,48.2517,-78.4518,3.08,MwN,2.8,"Mining event, LaRonde - Zone 5 Mine, QC/Événement minier, Mine LaRonde - Zone 5, QC"
@@ -487,6 +485,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260527.0917001,2026-05-27T09:17:13.000Z,53.7315,-133.4101,18.7,ML,3.31,"88 km WSW of Masset, BC/88 km OSO de Masset, BC"
 20260527.0952001,2026-05-27T09:52:14.000Z,60.0572,-140.9815,5.0,ML,3.19,"206 km WSW of Haines Junction, YT/206 km OSO de Haines Junction, YT"
 20260527.1045001,2026-05-27T10:45:29.000Z,58.5289,-137.1019,10.0,ML,2.8,"158 km W of Juneau, AK/158 km O de Juneau, AK"
+20260527.1056001,2026-05-27T10:56:03.000Z,46.4766,-81.1442,1.0,MwN,2.28,"Blast, 13 km SSW of Greater Sudbury, ON/Dynamitage, 13 km SSO de Grand Sudbury, ON"
 20260527.1303001,2026-05-27T13:03:02.000Z,53.3377,-133.1151,22.09,ML,3.32,"69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC"
 20260527.1600001,2026-05-27T16:00:18.000Z,52.7529,-67.106,0.0,MwN,2.37,"Blast, 4 km SSW of Fermont, QC/Dynamitage, 4 km SSO de Fermont, QC"
 20260527.1802001,2026-05-27T18:02:59.000Z,67.8232,-136.1125,10.0,ML,3.78,"68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT"
@@ -502,3 +501,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260528.1128001,2026-05-28T11:28:07.000Z,49.4422,-128.4,10.0,Mw',2.95,"127 km SSW of Port Alice, BC/127 km SSO de Port Alice, BC"
 20260528.1238001,2026-05-28T12:38:47.000Z,54.8414,-118.7312,1.0,MLy,2.1,"Suspected industry-related event, 37 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 37 km S de Grande Prairie, AB"
 20260528.1412001,2026-05-28T14:12:19.000Z,60.495,-140.0139,5.0,ML,2.19,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
+20260528.1600001,2026-05-28T16:00:55.000Z,60.4033,-139.5775,5.0,ML,2.64,"119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"

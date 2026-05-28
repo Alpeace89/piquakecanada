@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-07T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were 11 PiQuake Canada dashboard events, with the largest being a M3.33 quake near Daajing Giids in British Columbia at 00:36 UTC on May 7th. That's followed by a M3.26 shake that happened just after noon in Yukon and Nunavut. The highest concentration of quakes occurred in BC with 5, then Yukon and Nunavut each saw 4 and 1 respectively."
-  },
-  {
     "timestamp_utc": "2026-05-07T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were 13 recorded quakes within a day. The biggest one happened on May 27th and measured M3.78 about 68 km from Fort McPherson, NT. In the past 24 hours, British Columbia had five of these earthquakes, followed by Yukon with four and Alberta with three."
+  },
+  {
+    "timestamp_utc": "2026-05-28T18:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were 13 seismic events recorded on the PiQuake Canada dashboard. The largest event was a M2.95 near Port Alice, BC and Haines Junction, YT. In the same period, five events occurred in British Columbia, another five in Yukon Territory, and three in Alberta."
   }
 ]
