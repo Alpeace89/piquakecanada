@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-07T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four recorded quakes in the past 24 hours. The largest one was a M2.98 near Burwash Landing in the Yukon and Alaska territories, which happened on May 5th at around 8 PM UTC. It looks like it's been pretty quiet out there lately!"
-  },
-  {
     "timestamp_utc": "2026-05-07T07:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of 7 earthquakes. The largest one measured M3.78 and occurred about 68 km northwest of Fort McPherson in the Northwest Territories on May 27th at around 6 PM local time. It's been quiet since then; our latest event was an M2.71 shake, which happened just before midnight UTC on May 27th near Haines Junction in Yukon Territory. Most of these quakes have been happening in British Columbia and the territories."
+  },
+  {
+    "timestamp_utc": "2026-05-28T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we saw a total of 7 earthquakes. The largest one was a M3.78 in the area near Fort McPherson, and there have been two minor quakes around Haines Junction, both with magnitudes below M3. The regions seeing the most activity are British Columbia, Yukon Territory, and Alaska."
   }
 ]
