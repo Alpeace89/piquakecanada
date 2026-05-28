@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-07T14:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had three PiQuake Canada events. The largest one was a M3.33 located 65 km west of Daajing Giids in British Columbia and another 65 km to the east. This is the latest event as well. In that time, Alaska and Yukon each experienced one shake too."
-  },
-  {
     "timestamp_utc": "2026-05-07T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had 7 quakes reported. The biggest one was a M3.78 near Fort McPherson in the North Territories. That's just over a month ago. And earlier today, there was another minor quake around Haines Junction in Yukon Territory. It looks like British Columbia and Yukon have been feeling it more lately."
+  },
+  {
+    "timestamp_utc": "2026-05-28T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were five small quakes in the past day. The biggest one measured M3.78 and happened near Fort McPherson, Northwest Territories, almost exactly at the same time as another quake close to Haines Junction in Yukon Territory. It looks like British Columbia and the two territories of Yukon and Northwest Territories have had some activity lately."
   }
 ]
