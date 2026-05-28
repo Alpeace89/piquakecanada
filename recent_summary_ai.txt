@@ -1,1 +1,1 @@
-In the last 24 hours, we've had four seismic events recorded. The largest one was a M3.78 near Fort McPherson in the Northwest Territories. This follows another quake that measured M2.71 in Haines Junction, Yukon Territory. Most of these events have been happening in British Columbia and the territories.
+The PiQuake Canada dashboard shows no events in the last hour, but there were three in the past 24 hours. The biggest event was a M3.78 near Fort McPherson, and the latest one was a M2.71 around Haines Junction. It looks like BC, NT, and YT all had some minor quakes too.
