@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-07T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of 12 earthquakes reported. The largest event was a M3.33 near Daajing Giids, BC/YT region and happened at around 00:36 UTC on May 7th. It's been quite active with the latest quake being a M3.26 in the Burwash Landing area of Yukon Territory recorded just before 16:45 today. Mostly happening in British Columbia and Yukon, but also seeing activity in Ontario."
-  },
-  {
     "timestamp_utc": "2026-05-07T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had 8 small quakes reported. The largest one measured M3.78 and happened near Fort McPherson in the Northwest Territories. This is just about our usual for Canada, with most happening in British Columbia, Yukon Territory, and Nunavut."
+  },
+  {
+    "timestamp_utc": "2026-05-28T17:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were 13 recorded quakes within a day. The biggest one happened on May 27th and measured M3.78 about 68 km from Fort McPherson, NT. In the past 24 hours, British Columbia had five of these earthquakes, followed by Yukon with four and Alberta with three."
   }
 ]

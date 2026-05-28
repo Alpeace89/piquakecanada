@@ -1,5 +1,35 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-28T14:12:19.000Z",
+    "magnitude": "2.19",
+    "depth_km": "5.0",
+    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-28T12:38:47.000Z",
+    "magnitude": "2.1",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 37 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 37 km S de Grande Prairie, AB"
+  },
+  {
+    "time_utc": "2026-05-28T11:28:07.000Z",
+    "magnitude": "2.95",
+    "depth_km": "10.0",
+    "place": "127 km SSW of Port Alice, BC/127 km SSO de Port Alice, BC"
+  },
+  {
+    "time_utc": "2026-05-28T10:53:19.000Z",
+    "magnitude": "2.0",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 71 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 71 km SSE de Grande Prairie, AB"
+  },
+  {
+    "time_utc": "2026-05-28T06:01:30.000Z",
+    "magnitude": "2.43",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 64 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 64 km S de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-05-28T05:02:10.000Z",
     "magnitude": "2.64",
     "depth_km": "10.0",
@@ -28,35 +58,5 @@ window.recentEvents = [
     "magnitude": "1.68",
     "depth_km": "5.0",
     "place": "206 km W of Haines Junction, YT/206 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-27T21:11:14.000Z",
-    "magnitude": "2.71",
-    "depth_km": "5.0",
-    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-27T19:38:33.000Z",
-    "magnitude": "2.81",
-    "depth_km": "10.0",
-    "place": "125 km SSW of Port Alice, BC/125 km SSO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-05-27T18:02:59.000Z",
-    "magnitude": "3.78",
-    "depth_km": "10.0",
-    "place": "68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT"
-  },
-  {
-    "time_utc": "2026-05-27T13:03:02.000Z",
-    "magnitude": "3.32",
-    "depth_km": "22.09",
-    "place": "69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-05-27T10:45:29.000Z",
-    "magnitude": "2.8",
-    "depth_km": "10.0",
-    "place": "158 km W of Juneau, AK/158 km O de Juneau, AK"
   }
 ];
