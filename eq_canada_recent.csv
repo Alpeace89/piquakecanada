@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260413.0451001,2026-04-13T04:51:07.000Z,54.3113,-117.6974,1.0,MLy,2.28,"Suspected industry-related event, 58 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 58 km O de Fox Creek, AB"
-20260413.0453001,2026-04-13T04:53:50.000Z,60.5901,-140.0296,5.0,ML,3.08,"138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"
 20260413.0703001,2026-04-13T07:03:02.000Z,60.5888,-140.1345,5.0,ML,2.17,"105 km SW of Burwash Landing, YT/105 km SO de Burwash Landing, YT"
 20260413.0730001,2026-04-13T07:30:13.000Z,56.3339,-121.5814,1.0,MLy,2.07,"Suspected industry-related event, 23 km SE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 23 km SE de Halfway River 168, BC"
 20260413.0824001,2026-04-13T08:24:06.000Z,59.7285,-141.8079,5.0,ML,3.26,"263 km WSW of Haines Junction, YT/263 km OSO de Haines Junction, YT"

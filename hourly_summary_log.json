@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-07T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had three seismic events on our PiQuake Canada dashboard. The largest one was a M2.98 near Burwash Landing in the Yukon Territory and Old Crow in Alaska. This is what we've seen so far since our beta launch yesterday."
-  },
-  {
     "timestamp_utc": "2026-05-07T10:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary for the PiQuake Canada dashboard. In the last 24 hours, we had 7 events in total, with the largest one measuring M3.78 near Fort McPherson, NT. The latest event was a M2.71 just north of Haines Junction, YT. And interestingly, BC and Yukon Territory saw the most activity with three and two events each in that time frame."
+  },
+  {
+    "timestamp_utc": "2026-05-28T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had 7 quakes monitored by PiQuake Canada. The biggest one was a M3.78 near Fort McPherson in the Northwest Territories at about 68 km away from that place. Our latest quake was a M2.71 around Haines Junction in Yukon Territory, about 140 km northwest of there. Most of these quakes have been happening in British Columbia with three recorded, two in Yukon and one in Alaska."
   }
 ]
