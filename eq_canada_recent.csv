@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260413.0824001,2026-04-13T08:24:06.000Z,59.7285,-141.8079,5.0,ML,3.26,"263 km WSW of Haines Junction, YT/263 km OSO de Haines Junction, YT"
 20260413.1226001,2026-04-13T12:26:16.000Z,59.6941,-136.2091,5.0,ML,1.9,"128 km SSW of Whitehorse, YT/128 km SSO de Whitehorse, YT"
 20260413.1341001,2026-04-13T13:41:30.000Z,59.8202,-136.7319,5.0,ML,2.19,"133 km SW of Whitehorse, YT/133 km SO de Whitehorse, YT"
 20260413.1616001,2026-04-13T16:16:28.000Z,59.7531,-141.6278,5.0,ML,2.86,"253 km WSW of Haines Junction, YT/253 km OSO de Haines Junction, YT"
