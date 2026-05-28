@@ -496,3 +496,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260527.1303001,2026-05-27T13:03:02.000Z,53.3377,-133.1151,22.09,ML,3.32,"69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC"
 20260527.1802001,2026-05-27T18:02:59.000Z,67.8232,-136.1125,10.0,ML,3.78,"68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT"
 20260527.1938001,2026-05-27T19:38:33.000Z,49.479,-128.4289,10.0,Mw',2.81,"125 km SSW of Port Alice, BC/125 km SSO de Port Alice, BC"
+20260527.2111001,2026-05-27T21:11:14.000Z,60.488,-140.0138,5.0,ML,2.71,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"

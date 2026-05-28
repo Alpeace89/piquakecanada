@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-27T21:11:14.000Z",
+    "magnitude": "2.71",
+    "depth_km": "5.0",
+    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-05-27T19:38:33.000Z",
     "magnitude": "2.81",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.71",
     "depth_km": "2.19",
     "place": "Suspected industry-related event, 69 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 69 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-05-26T03:54:41.000Z",
-    "magnitude": "2.55",
-    "depth_km": "1.0",
-    "place": "125 km SSW of Haines Junction, YT/125 km SSO de Haines Junction, YT"
   }
 ];

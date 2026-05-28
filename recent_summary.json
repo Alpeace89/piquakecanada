@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-05-27T23:03:01Z",
+  "generated_utc": "2026-05-28T00:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 497,
-  "events_last_24h": 7,
+  "rolling_window_event_count": 498,
+  "events_last_24h": 8,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 4,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260527.1938001",
-    "time_utc": "2026-05-27T19:38:33.000Z",
-    "latitude": 49.479,
-    "longitude": -128.4289,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 2.81,
-    "place": "125 km SSW of Port Alice, BC/125 km SSO de Port Alice, BC",
-    "region": "BC"
+    "event_id": "20260527.2111001",
+    "time_utc": "2026-05-27T21:11:14.000Z",
+    "latitude": 60.488,
+    "longitude": -140.0138,
+    "depth_km": 5.0,
+    "mag_type": "ML",
+    "magnitude": 2.71,
+    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT",
+    "region": "YT"
   },
   "largest_event_last_24h": {
     "event_id": "20260527.1802001",
@@ -45,13 +45,13 @@
       "count": 3
     },
     {
-      "region": "AB",
-      "count": 1
+      "region": "YT",
+      "count": 2
     },
     {
-      "region": "YT",
+      "region": "AB",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-27 23:03 UTC, the recent Canada earthquake dataset contains 497 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.78 at 68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT. The deepest event reached 22.09 km at 69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC. The most recent listed event was M2.81 at 125 km SSW of Port Alice, BC/125 km SSO de Port Alice, BC at 2026-05-27T19:38:33.000Z. There were 4 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and AB (1)."
+  "summary_text": "As of 2026-05-28 00:03 UTC, the recent Canada earthquake dataset contains 498 events from the current rolling window. In the last 24 hours, 8 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.78 at 68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT. The deepest event reached 22.09 km at 69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC. The most recent listed event was M2.71 at 140 km W of Haines Junction, YT/140 km O de Haines Junction, YT at 2026-05-27T21:11:14.000Z. There were 4 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and YT (2)."
 }
