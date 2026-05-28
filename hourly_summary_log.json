@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-08T02:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had a total of nine PiQuake Canada dashboard events. The largest one was a M3.26 earthquake located about 64 km west-south-west of Burwash Landing in the Yukon and 64 km southwest of that place in Alaska. This latest event happened on May 7th at around 4:10 PM UTC, which is pretty active for our region."
-  },
-  {
     "timestamp_utc": "2026-05-08T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no new earthquakes in the last hour, but there were 13 recorded quakes over the past day. The biggest one was a M2.95 near Port Alice, BC/Port Alice, BC yesterday at about noon. In the last 24 hours, we've had activity in Yukon Territory and British Columbia with Alberta also feeling some of the tremors."
+  },
+  {
+    "timestamp_utc": "2026-05-28T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of 12 earthquakes reported. The largest one was a M2.95 near Port Alice in British Columbia. That's pretty regular for this area. We've also seen another quake that was slightly smaller at M2.64 not too far from Haines Junction in the Yukon Territory. Most of these quakes have been happening around BC and YT, with some more in Alberta as well."
   }
 ]
