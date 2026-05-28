@@ -1,5 +1,35 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-28T05:02:10.000Z",
+    "magnitude": "2.64",
+    "depth_km": "10.0",
+    "place": "182 km SSW of Port Alice, BC/182 km SSO de Port Alice, BC"
+  },
+  {
+    "time_utc": "2026-05-28T04:27:25.000Z",
+    "magnitude": "1.39",
+    "depth_km": "30.02",
+    "place": "5 km ENE of Yuquot 1, BC/5 km ENE de Yuquot 1, BC"
+  },
+  {
+    "time_utc": "2026-05-28T04:25:36.000Z",
+    "magnitude": "2.84",
+    "depth_km": "5.0",
+    "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-05-28T04:11:21.000Z",
+    "magnitude": "2.38",
+    "depth_km": "10.0",
+    "place": "211 km SSW of Port Hardy, BC/211 km SSO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-05-28T04:09:13.000Z",
+    "magnitude": "1.68",
+    "depth_km": "5.0",
+    "place": "206 km W of Haines Junction, YT/206 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-05-27T21:11:14.000Z",
     "magnitude": "2.71",
     "depth_km": "5.0",
@@ -28,35 +58,5 @@ window.recentEvents = [
     "magnitude": "2.8",
     "depth_km": "10.0",
     "place": "158 km W of Juneau, AK/158 km O de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-05-27T09:52:14.000Z",
-    "magnitude": "3.19",
-    "depth_km": "5.0",
-    "place": "206 km WSW of Haines Junction, YT/206 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-27T09:17:13.000Z",
-    "magnitude": "3.31",
-    "depth_km": "18.7",
-    "place": "88 km WSW of Masset, BC/88 km OSO de Masset, BC"
-  },
-  {
-    "time_utc": "2026-05-27T00:27:19.000Z",
-    "magnitude": "2.79",
-    "depth_km": "2.27",
-    "place": "Suspected industry-related event, 68 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 68 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-05-26T08:27:10.000Z",
-    "magnitude": "2.79",
-    "depth_km": "17.85",
-    "place": "57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-05-26T07:14:53.000Z",
-    "magnitude": "2.71",
-    "depth_km": "2.19",
-    "place": "Suspected industry-related event, 69 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 69 km SSE de Grande Prairie, AB"
   }
 ];

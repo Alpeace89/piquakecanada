@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-05-28T15:03:01Z",
+  "generated_utc": "2026-05-28T16:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 490,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 495,
+  "events_last_24h": 8,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260527.2111001",
-    "time_utc": "2026-05-27T21:11:14.000Z",
-    "latitude": 60.488,
-    "longitude": -140.0138,
-    "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 2.71,
-    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT",
-    "region": "YT"
+    "event_id": "20260528.0502001",
+    "time_utc": "2026-05-28T05:02:10.000Z",
+    "latitude": 49.0363,
+    "longitude": -128.8145,
+    "depth_km": 10.0,
+    "mag_type": "Mw'",
+    "magnitude": 2.64,
+    "place": "182 km SSW of Port Alice, BC/182 km SSO de Port Alice, BC",
+    "region": "BC"
   },
   "largest_event_last_24h": {
     "event_id": "20260527.1802001",
@@ -29,29 +29,29 @@
     "region": "NT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260527.1938001",
-    "time_utc": "2026-05-27T19:38:33.000Z",
-    "latitude": 49.479,
-    "longitude": -128.4289,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 2.81,
-    "place": "125 km SSW of Port Alice, BC/125 km SSO de Port Alice, BC",
+    "event_id": "20260528.0427001",
+    "time_utc": "2026-05-28T04:27:25.000Z",
+    "latitude": 49.6081,
+    "longitude": -126.5611,
+    "depth_km": 30.02,
+    "mag_type": "ML1",
+    "magnitude": 1.39,
+    "place": "5 km ENE of Yuquot 1, BC/5 km ENE de Yuquot 1, BC",
     "region": "BC"
   },
   "top_regions_last_24h": [
     {
-      "region": "NT",
-      "count": 1
-    },
-    {
       "region": "BC",
-      "count": 1
+      "count": 4
     },
     {
       "region": "YT",
+      "count": 3
+    },
+    {
+      "region": "NT",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-28 15:03 UTC, the recent Canada earthquake dataset contains 490 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.78 at 68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT. The deepest event reached 10.00 km at 125 km SSW of Port Alice, BC/125 km SSO de Port Alice, BC. The most recent listed event was M2.71 at 140 km W of Haines Junction, YT/140 km O de Haines Junction, YT at 2026-05-27T21:11:14.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were NT (1) and BC (1)."
+  "summary_text": "As of 2026-05-28 16:03 UTC, the recent Canada earthquake dataset contains 495 events from the current rolling window. In the last 24 hours, 8 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.78 at 68 km NW of Fort McPherson, NT/68 km NO de Fort McPherson, NT. The deepest event reached 30.02 km at 5 km ENE of Yuquot 1, BC/5 km ENE de Yuquot 1, BC. The most recent listed event was M2.64 at 182 km SSW of Port Alice, BC/182 km SSO de Port Alice, BC at 2026-05-28T05:02:10.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and YT (3)."
 }
