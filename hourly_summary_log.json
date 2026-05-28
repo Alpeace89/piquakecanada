@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-07T19:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were 11 small earthquakes reported across Canada. The biggest one was a M3.33 near Daajing Giids in British Columbia and Ontario, detected at 1 AM UTC. It's always exciting to see activity on our PiQuake dashboard. Just yesterday, we had another little shake that happened 17 kilometers north of The Dalles, ON, during dynamite blasting operations around noon local time."
-  },
-  {
     "timestamp_utc": "2026-05-07T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three in the past 24 hours. The biggest event was a M3.78 near Fort McPherson, and the latest one was a M2.71 around Haines Junction. It looks like BC, NT, and YT all had some minor quakes too."
+  },
+  {
+    "timestamp_utc": "2026-05-28T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events today, but in the last 24 hours, there were three minor quakes. The largest one measured M3.78 and happened near Fort McPherson, NT, while another was a smaller M2.71 close to Haines Junction, YT. The top regions with activity last 24 hours are Nunavut, British Columbia, and Yukon Territory."
   }
 ]
