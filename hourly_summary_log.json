@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-08T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were five events in the past 24 hours. The largest was a M2.91 near Burwash Landing, Yukon, and another quake of M2.37 happened not too far away from Haines Junction, also in Yukon."
-  },
-  {
     "timestamp_utc": "2026-05-08T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there was one event yesterday that measured M0.92 near La Pocatière in Quebec. This is the largest quake recorded today and it's happening close to where we saw activity a day ago. Most of this seismic activity has been in Quebec so far."
+  },
+  {
+    "timestamp_utc": "2026-05-29T17:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no major seismic activity in the last hour, but there was one small earthquake recorded around midnight on May 28. It happened near La Pocatière in Quebec, measuring just M0.92. This is the largest event since the dashboard started tracking, and it's happening pretty regularly with another similar quake yesterday. The area with the most recent activity is still in Quebec province."
   }
 ]
