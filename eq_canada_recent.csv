@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260414.0722001,2026-04-14T07:22:17.000Z,49.3891,-90.5739,2.0,MwN,1.22,"78 km E of Ignace, ON/78 km E de Ignace, ON"
 20260414.1018001,2026-04-14T10:18:08.000Z,52.8304,-132.5066,17.71,ML,1.96,"55 km SSW of Daajing Giids, BC/55 km SSO de Daajing Giids, BC"
 20260414.1257001,2026-04-14T12:57:24.000Z,61.5095,-140.5182,0.98,ML,2.72,"83 km WNW of Burwash Landing, YT/83 km ONO de Burwash Landing, YT"
 20260414.1503001,2026-04-14T15:03:08.000Z,49.4685,-127.0255,29.5,ML,1.56,"32 km WSW of Yuquot 1, BC/32 km OSO de Yuquot 1, BC"
