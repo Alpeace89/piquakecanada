@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-08T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of two small tremors detected on our PiQuake Canada dashboard. The largest one measured at M3.26 and happened around 64 kilometers west-southwest of Burwash Landing in Yukon or 64 km northeast of Burwash Landing in Ontario. We also had a tiny one this evening in Quebec, just north-northeast of La Malbaie. All these small quakes are part of our continuous monitoring to keep you safe and informed."
-  },
-  {
     "timestamp_utc": "2026-05-08T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had five little quakes. The biggest one was a M2.95 near Port Alice in British Columbia, which happened just after midnight our time. In the last hour, no big shakes were felt. Most of these quakes have been happening in Alberta and Yukon Territory, with two each."
+  },
+  {
+    "timestamp_utc": "2026-05-29T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had four PiQuake Canada dashboard events. The largest one was a M2.95 that happened on May 28th at 11:28 AM Pacific Time near Port Alice in British Columbia and Haines Junction in Yukon Territory. Since then, there's been another event with a magnitude of M2.64 further west around Haines Junction. This dashboard shows activity across British Columbia, Yukon, and Alberta where we've had events reported in the last 24 hours."
   }
 ]
