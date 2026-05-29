@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-08T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity for the last hour, but in the previous 24 hours, there were three minor quakes. The largest one was M2.9 just east of Haines Junction in Yukon and British Columbia, happening at about 11 PM on May 6th. The latest quake, which happened around midnight yesterday, was a tiny M1.45 near Sliammon in British Columbia."
-  },
-  {
     "timestamp_utc": "2026-05-08T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey there! The PiQuake Canada dashboard shows no earthquakes in the last hour, but two quakes happened yesterday. The biggest one was a M2.64 near Haines Junction in Yukon, and it's the only thing we've recorded so far today. Most of these happened in YT region."
+  },
+  {
+    "timestamp_utc": "2026-05-29T15:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had one event recorded by our PiQuake Canada dashboard. It was a M2.64 quake that happened near Haines Junction in the Yukon Territory. This is the largest event since we started beta testing and it's the only earthquake we've had. The top region for these quakes has been YT (1) with just one report, showing it’s still pretty quiet here."
   }
 ]
