@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-09T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had four minor quakes tracked by our PiQuake Canada dashboard. The largest one was a M2.91 near Burwash Landing and Haines Junction in Yukon, which happened yesterday at around 3 PM GMT. We also saw two more quakes each in British Columbia and the Yukon Territory. It's just another day of regular seismic activity as we keep an eye on our region for any changes."
-  },
-  {
     "timestamp_utc": "2026-05-09T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had no events reported on our PiQuake Canada dashboard. That's a bit of a quiet night out there. But to keep things interesting, we had five small quakes recorded—mostly in Quebec and New Brunswick—with the biggest one measuring M2.4 at a depth of 48 km west-northwest of Mingan. Our latest event, just an hour ago, was a tiny one of magnitude M0.89 around Saint-Georges in Quebec. We're keeping our eyes on this space for more seismic activity!"
+  },
+  {
+    "timestamp_utc": "2026-05-29T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had a total of four little quakes detected by our PiQuake Canada dashboard. The biggest one was a M2.4 near Mingan in Quebec and Ontario. And just yesterday afternoon, at around 3 PM local time, there was a smaller one that measured M0.89 about 105 km southeast of Saint-Georges in Quebec. Most of these quakes have been happening in Quebec with three recorded there, and another one near Saint-Georges."
   }
 ]
