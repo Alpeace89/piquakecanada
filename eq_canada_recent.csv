@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260414.0616001,2026-04-14T06:16:35.000Z,59.834,-136.6669,2.19,ML,2.28,"130 km SW of Whitehorse, YT/130 km SO de Whitehorse, YT"
-20260414.0620001,2026-04-14T06:20:16.000Z,56.9853,-122.268,3.16,MLy,2.25,"Suspected industry-related event, 74 km W of Prespatou, BC/Événement lié à l'industrie soupconné, 74 km O de Prespatou, BC"
 20260414.0722001,2026-04-14T07:22:17.000Z,49.3891,-90.5739,2.0,MwN,1.22,"78 km E of Ignace, ON/78 km E de Ignace, ON"
 20260414.1018001,2026-04-14T10:18:08.000Z,52.8304,-132.5066,17.71,ML,1.96,"55 km SSW of Daajing Giids, BC/55 km SSO de Daajing Giids, BC"
 20260414.1257001,2026-04-14T12:57:24.000Z,61.5095,-140.5182,0.98,ML,2.72,"83 km WNW of Burwash Landing, YT/83 km ONO de Burwash Landing, YT"
