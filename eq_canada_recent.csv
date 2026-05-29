@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260414.2127001,2026-04-14T21:27:37.000Z,47.4408,-70.1908,7.71,MwN,0.45,"14 km WNW of La Pocatière, QC/14 km ONO de La Pocatière, QC"
 20260414.2211002,2026-04-14T22:11:29.000Z,46.844,-70.8297,17.55,MwN,1.18,"8 km NW of Saint-Raphaël, QC/8 km NO de Saint-Raphaël, QC"
 20260414.2306001,2026-04-14T23:06:18.000Z,64.996,-138.5933,5.0,ML,1.61,"112 km NNE of Dawson, YT/112 km NNE de Dawson, YT"
 20260415.0816001,2026-04-15T08:16:12.000Z,54.3985,-118.395,5.0,MLy,1.94,"Suspected industry-related event, 90 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 90 km SSE de Grande Prairie, AB"
