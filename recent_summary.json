@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-05-29T15:03:02Z",
+  "generated_utc": "2026-05-29T16:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 502,
   "events_last_24h": 1,
@@ -7,43 +7,43 @@
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260528.1600001",
-    "time_utc": "2026-05-28T16:00:55.000Z",
-    "latitude": 60.4033,
-    "longitude": -139.5775,
-    "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 2.64,
-    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT",
-    "region": "YT"
+    "event_id": "20260528.2032001",
+    "time_utc": "2026-05-28T20:32:44.000Z",
+    "latitude": 47.4631,
+    "longitude": -70.0546,
+    "depth_km": 15.08,
+    "mag_type": "MwN",
+    "magnitude": 0.92,
+    "place": "10 km N of La Pocatière, QC/10 km N de La Pocatière, QC",
+    "region": "QC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260528.1600001",
-    "time_utc": "2026-05-28T16:00:55.000Z",
-    "latitude": 60.4033,
-    "longitude": -139.5775,
-    "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 2.64,
-    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT",
-    "region": "YT"
+    "event_id": "20260528.2032001",
+    "time_utc": "2026-05-28T20:32:44.000Z",
+    "latitude": 47.4631,
+    "longitude": -70.0546,
+    "depth_km": 15.08,
+    "mag_type": "MwN",
+    "magnitude": 0.92,
+    "place": "10 km N of La Pocatière, QC/10 km N de La Pocatière, QC",
+    "region": "QC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260528.1600001",
-    "time_utc": "2026-05-28T16:00:55.000Z",
-    "latitude": 60.4033,
-    "longitude": -139.5775,
-    "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 2.64,
-    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT",
-    "region": "YT"
+    "event_id": "20260528.2032001",
+    "time_utc": "2026-05-28T20:32:44.000Z",
+    "latitude": 47.4631,
+    "longitude": -70.0546,
+    "depth_km": 15.08,
+    "mag_type": "MwN",
+    "magnitude": 0.92,
+    "place": "10 km N of La Pocatière, QC/10 km N de La Pocatière, QC",
+    "region": "QC"
   },
   "top_regions_last_24h": [
     {
-      "region": "YT",
+      "region": "QC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-29 15:03 UTC, the recent Canada earthquake dataset contains 502 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.64 at 119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT. The deepest event reached 5.00 km at 119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT. The most recent listed event was M2.64 at 119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT at 2026-05-28T16:00:55.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was YT."
+  "summary_text": "As of 2026-05-29 16:03 UTC, the recent Canada earthquake dataset contains 502 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M0.92 at 10 km N of La Pocatière, QC/10 km N de La Pocatière, QC. The deepest event reached 15.08 km at 10 km N of La Pocatière, QC/10 km N de La Pocatière, QC. The most recent listed event was M0.92 at 10 km N of La Pocatière, QC/10 km N de La Pocatière, QC at 2026-05-28T20:32:44.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
 }

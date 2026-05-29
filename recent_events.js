@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-28T20:32:44.000Z",
+    "magnitude": "0.92",
+    "depth_km": "15.08",
+    "place": "10 km N of La Pocati\u00e8re, QC/10 km N de La Pocati\u00e8re, QC"
+  },
+  {
     "time_utc": "2026-05-28T16:00:55.000Z",
     "magnitude": "2.64",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.84",
     "depth_km": "5.0",
     "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-28T04:11:21.000Z",
-    "magnitude": "2.38",
-    "depth_km": "10.0",
-    "place": "211 km SSW of Port Hardy, BC/211 km SSO de Port Hardy, BC"
   }
 ];

@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260414.1503001,2026-04-14T15:03:08.000Z,49.4685,-127.0255,29.5,ML,1.56,"32 km WSW of Yuquot 1, BC/32 km OSO de Yuquot 1, BC"
 20260414.1636003,2026-04-14T16:36:43.000Z,45.7545,-76.3528,13.17,Mw,3.94,"12 km SSE of Otter Lake, QC, felt/12 km SSE de Otter Lake, QC, ressenti"
 20260414.1729001,2026-04-14T17:29:16.000Z,45.1669,-67.134,0.0,MwN,1.33,"Blast, 4 km SSW of Saint Croix, NB/Dynamitage, 4 km SSO de Saint Croix, NB"
 20260414.2127001,2026-04-14T21:27:37.000Z,47.4408,-70.1908,7.71,MwN,0.45,"14 km WNW of La Pocatière, QC/14 km ONO de La Pocatière, QC"
@@ -501,3 +500,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260528.1238001,2026-05-28T12:38:47.000Z,54.8414,-118.7312,1.0,MLy,2.1,"Suspected industry-related event, 37 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 37 km S de Grande Prairie, AB"
 20260528.1412001,2026-05-28T14:12:19.000Z,60.495,-140.0139,5.0,ML,2.19,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
 20260528.1600001,2026-05-28T16:00:55.000Z,60.4033,-139.5775,5.0,ML,2.64,"119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
+20260528.2032001,2026-05-28T20:32:44.000Z,47.4631,-70.0546,15.08,MwN,0.92,"10 km N of La Pocatière, QC/10 km N de La Pocatière, QC"
