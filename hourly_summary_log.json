@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-08T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no earthquakes reported by our dashboard. However, we did spot two quakes with a magnitude of M3.26 each near Burwash Landing in Yukon and its OSO. These events happened around 5 PM local time on May 7th."
-  },
-  {
     "timestamp_utc": "2026-05-08T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've seen five minor quakes reported. The largest one was a M2.95 near Port Alice in British Columbia, and the latest one measured M2.64 just west of Haines Junction in Yukon Territory. This is nothing to be worried about, but it gives you an idea of what's happening down under with our little Canadian shakes."
+  },
+  {
+    "timestamp_utc": "2026-05-29T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had five little quakes. The biggest one was a M2.95 near Port Alice in British Columbia, which happened just after midnight our time. In the last hour, no big shakes were felt. Most of these quakes have been happening in Alberta and Yukon Territory, with two each."
   }
 ]
