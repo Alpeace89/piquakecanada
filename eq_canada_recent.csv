@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260414.1257001,2026-04-14T12:57:24.000Z,61.5095,-140.5182,0.98,ML,2.72,"83 km WNW of Burwash Landing, YT/83 km ONO de Burwash Landing, YT"
 20260414.1503001,2026-04-14T15:03:08.000Z,49.4685,-127.0255,29.5,ML,1.56,"32 km WSW of Yuquot 1, BC/32 km OSO de Yuquot 1, BC"
 20260414.1636003,2026-04-14T16:36:43.000Z,45.7545,-76.3528,13.17,Mw,3.94,"12 km SSE of Otter Lake, QC, felt/12 km SSE de Otter Lake, QC, ressenti"
 20260414.1729001,2026-04-14T17:29:16.000Z,45.1669,-67.134,0.0,MwN,1.33,"Blast, 4 km SSW of Saint Croix, NB/Dynamitage, 4 km SSO de Saint Croix, NB"
