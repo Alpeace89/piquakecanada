@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260414.0211001,2026-04-14T02:11:14.000Z,47.5102,-70.0834,11.02,MwN,1.77,"16 km SSE of La Malbaie, QC/16 km SSE de La Malbaie, QC"
-20260414.0259001,2026-04-14T02:59:42.000Z,48.2517,-78.4518,3.08,MwN,2.8,"Mining event, LaRonde - Zone 5 Mine, QC/Événement minier, Mine LaRonde - Zone 5, QC"
 20260414.0534001,2026-04-14T05:34:19.000Z,51.0911,-124.4398,0.55,ML,1.85,"55 km SW of Lohbiee 3, BC/55 km SO de Lohbiee 3, BC"
 20260414.0616001,2026-04-14T06:16:35.000Z,59.834,-136.6669,2.19,ML,2.28,"130 km SW of Whitehorse, YT/130 km SO de Whitehorse, YT"
 20260414.0620001,2026-04-14T06:20:16.000Z,56.9853,-122.268,3.16,MLy,2.25,"Suspected industry-related event, 74 km W of Prespatou, BC/Événement lié à l'industrie soupconné, 74 km O de Prespatou, BC"
