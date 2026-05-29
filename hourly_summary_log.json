@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-08T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major earthquakes reported, but a tiny one measuring M0.19 shook a place near La Malbaie in Quebec. It's the same event that happened just before, so it counts as the latest and largest event too. The area with most activity is still Quebec province."
-  },
-  {
     "timestamp_utc": "2026-05-08T19:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, two small earthquakes shook up Canada's Yukon Territory. The largest one measured a modest M2.64 and happened about 119 kilometers west-southwest of Haines Junction in both the Yukon and Ontario side of that place. It all happened around 1:00 PM on May 28th, Canadian time. That's it for recent seismic activity here in Canada!"
+  },
+  {
+    "timestamp_utc": "2026-05-29T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey there! The PiQuake Canada dashboard shows no earthquakes in the last hour, but two quakes happened yesterday. The biggest one was a M2.64 near Haines Junction in Yukon, and it's the only thing we've recorded so far today. Most of these happened in YT region."
   }
 ]
