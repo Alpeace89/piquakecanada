@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-05-29T00:03:02Z",
+  "generated_utc": "2026-05-29T01:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 510,
   "events_last_24h": 11,
@@ -53,5 +53,5 @@
       "count": 3
     }
   ],
-  "summary_text": "As of 2026-05-29 00:03 UTC, the recent Canada earthquake dataset contains 510 events from the current rolling window. In the last 24 hours, 11 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.95 at 127 km SSW of Port Alice, BC/127 km SSO de Port Alice, BC. The deepest event reached 30.02 km at 5 km ENE of Yuquot 1, BC/5 km ENE de Yuquot 1, BC. The most recent listed event was M2.64 at 119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT at 2026-05-28T16:00:55.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (4) and BC (4)."
+  "summary_text": "As of 2026-05-29 01:03 UTC, the recent Canada earthquake dataset contains 510 events from the current rolling window. In the last 24 hours, 11 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.95 at 127 km SSW of Port Alice, BC/127 km SSO de Port Alice, BC. The deepest event reached 30.02 km at 5 km ENE of Yuquot 1, BC/5 km ENE de Yuquot 1, BC. The most recent listed event was M2.64 at 119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT at 2026-05-28T16:00:55.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (4) and BC (4)."
 }
