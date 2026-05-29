@@ -1,5 +1,29 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-29T10:32:04.000Z",
+    "magnitude": "0.89",
+    "depth_km": "5.0",
+    "place": "105 km SE of Saint-Georges, QC/105 km SE de Saint-Georges, QC"
+  },
+  {
+    "time_utc": "2026-05-29T08:43:38.000Z",
+    "magnitude": "0.1",
+    "depth_km": "10.66",
+    "place": "11 km ESE of La Malbaie, QC/11 km ESE de La Malbaie, QC"
+  },
+  {
+    "time_utc": "2026-05-29T04:18:57.000Z",
+    "magnitude": "0.77",
+    "depth_km": "5.0",
+    "place": "21 km SSW of Southampton, NB/21 km SSO de Southampton, NB"
+  },
+  {
+    "time_utc": "2026-05-29T01:01:02.000Z",
+    "magnitude": "2.4",
+    "depth_km": "2.0",
+    "place": "48 km WNW of Mingan, QC/48 km ONO de Mingan, QC"
+  },
+  {
     "time_utc": "2026-05-28T20:32:44.000Z",
     "magnitude": "0.92",
     "depth_km": "15.08",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "2.0",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 71 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 71 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-05-28T06:01:30.000Z",
-    "magnitude": "2.43",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 64 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 64 km S de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-05-28T05:02:10.000Z",
-    "magnitude": "2.64",
-    "depth_km": "10.0",
-    "place": "182 km SSW of Port Alice, BC/182 km SSO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-05-28T04:27:25.000Z",
-    "magnitude": "1.39",
-    "depth_km": "30.02",
-    "place": "5 km ENE of Yuquot 1, BC/5 km ENE de Yuquot 1, BC"
-  },
-  {
-    "time_utc": "2026-05-28T04:25:36.000Z",
-    "magnitude": "2.84",
-    "depth_km": "5.0",
-    "place": "117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
   }
 ];
