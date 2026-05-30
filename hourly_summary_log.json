@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-09T17:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey there! It's been a pretty quiet day with no major earthquakes to report, but yesterday saw three minor quakes. The largest one was a M4.6 near Fort Saskatchewan in Alberta/Premier, which is about 54 kilometers east-northeast of the city. That's quite active for that area and region!"
-  },
-  {
     "timestamp_utc": "2026-05-09T18:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity for the last hour or day. The largest event recorded was a tiny M0.89 one day ago, and it happened near Saint-Georges, Quebec. There's been nothing else to report."
+  },
+  {
+    "timestamp_utc": "2026-05-30T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest one recorded was a tiny M0.89 near Saint-Georges in Quebec. It happened around mid-morning on May 29th."
   }
 ]
