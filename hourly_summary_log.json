@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-09T10:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had two earthquakes. The biggest one was a M2.91 near Burwash Landing in the Yukon. Then, about an hour ago, there was another quake with a magnitude of M2.37 around Haines Junction in the Yukon. These are part of our regular update on what's happening with PiQuake Canada dashboard."
-  },
-  {
     "timestamp_utc": "2026-05-09T11:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two small quakes recorded yesterday. The latest one measured M0.89 and happened about 105 km southeast of Saint-Georges, QC. This place has had the most activity over the past day with two quakes."
+  },
+  {
+    "timestamp_utc": "2026-05-30T06:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two small quakes in the previous 24 hours. The largest one measured M0.89 and happened about 105 km southeast of Saint-Georges in Quebec on May 29th at around 10:32 AM UTC time. This area has seen two events so far today, which is considered pretty quiet compared to other times."
   }
 ]
