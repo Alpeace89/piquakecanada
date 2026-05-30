@@ -1,1 +1,1 @@
-Hey there! It looks like things are pretty calm around here with no earthquakes detected in the last 24 hours. The latest one was a tiny shake measuring M0.89, which happened near Saint-Georgesers QC at about 10:32 AM yesterday. So far, we're still waiting for some bigger shakes to keep us on our toes!
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event detected was M0.89, happening at a place unknown, way back on May 29th around 10 AM. This is the only update we have from yesterday. Sounds like things are quiet as of now.
