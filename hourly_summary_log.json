@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-09T16:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks, we had a bit of action in the PiQuake Canada dashboard today. There were two events last hour and three in the past day. The biggest one was a M4.6 under Fort Saskatchewan this afternoon. It happened near both Fort Saskatchewan, Alberta and another spot just east of there. That's what our latest event is as well. In the last 24 hours, we had two in AB and one in YT."
-  },
-  {
     "timestamp_utc": "2026-05-09T17:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events recorded in the last hour or day. The largest event detected was a magnitude of M0.89, which happened 105 km southeast of Saint-Georges, QC at an unknown time. That's all we have for now, folks."
+  },
+  {
+    "timestamp_utc": "2026-05-30T12:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity for the last hour or day. The largest event recorded was a tiny M0.89 one day ago, and it happened near Saint-Georges, Quebec. There's been nothing else to report."
   }
 ]
