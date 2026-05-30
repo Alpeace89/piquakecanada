@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-09T19:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there was one event reported by PiQuake Canada dashboard, it registered a M4 magnitude just northeast of Fort Saskatchewan in Alberta. This is not unusual for our region; we've had similar quakes before. The latest event happened earlier today at around 3 PM local time."
-  },
-  {
     "timestamp_utc": "2026-05-09T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and there hasn't been any recorded quakes within the past 24 hours. The largest event was a small M0.89 near Saint-Georges, QC yesterday at around noon local time. It's quiet out there!"
+  },
+  {
+    "timestamp_utc": "2026-05-30T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey there! It looks like things are pretty calm around here with no earthquakes detected in the last 24 hours. The latest one was a tiny shake measuring M0.89, which happened near Saint-Georgesers QC at about 10:32 AM yesterday. So far, we're still waiting for some bigger shakes to keep us on our toes!"
   }
 ]
