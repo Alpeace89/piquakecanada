@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events detected in the last hour or day. The largest event recorded was a magnitude of M0.89, which happened 105 km southeast of Saint-Georges, QC/105 km SE de Saint-Georges, QC on May 29th at around 10:32 AM UTC. It's been quiet up there!
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event was an unknown magnitude happening somewhere near Saint-Georges, Quebec yesterday at about 10:32 AM. That's it folks—nothing newsworthy since then.
