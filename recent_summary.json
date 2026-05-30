@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-05-30T00:03:01Z",
+  "generated_utc": "2026-05-30T01:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 508,
-  "events_last_24h": 4,
+  "events_last_24h": 3,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -18,14 +18,14 @@
     "region": "QC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260529.0101001",
-    "time_utc": "2026-05-29T01:01:02.000Z",
-    "latitude": 50.4207,
-    "longitude": -64.6655,
-    "depth_km": 2.0,
+    "event_id": "20260529.1032001",
+    "time_utc": "2026-05-29T10:32:04.000Z",
+    "latitude": 45.4499,
+    "longitude": -69.7025,
+    "depth_km": 5.0,
     "mag_type": "MwN",
-    "magnitude": 2.4,
-    "place": "48 km WNW of Mingan, QC/48 km ONO de Mingan, QC",
+    "magnitude": 0.89,
+    "place": "105 km SE of Saint-Georges, QC/105 km SE de Saint-Georges, QC",
     "region": "QC"
   },
   "deepest_event_last_24h": {
@@ -42,12 +42,12 @@
   "top_regions_last_24h": [
     {
       "region": "QC",
-      "count": 3
+      "count": 2
     },
     {
       "region": "NB",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-05-30 00:03 UTC, the recent Canada earthquake dataset contains 508 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.4 at 48 km WNW of Mingan, QC/48 km ONO de Mingan, QC. The deepest event reached 10.66 km at 11 km ESE of La Malbaie, QC/11 km ESE de La Malbaie, QC. The most recent listed event was M0.89 at 105 km SE of Saint-Georges, QC/105 km SE de Saint-Georges, QC at 2026-05-29T10:32:04.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (3) and NB (1)."
+  "summary_text": "As of 2026-05-30 01:03 UTC, the recent Canada earthquake dataset contains 508 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M0.89 at 105 km SE of Saint-Georges, QC/105 km SE de Saint-Georges, QC. The deepest event reached 10.66 km at 11 km ESE of La Malbaie, QC/11 km ESE de La Malbaie, QC. The most recent listed event was M0.89 at 105 km SE of Saint-Georges, QC/105 km SE de Saint-Georges, QC at 2026-05-29T10:32:04.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and NB (1)."
 }
