@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-09T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no seismic events in the last hour, but there was one event yesterday. The largest event happened just northeast of Fort Saskatchewan, Alberta, with a magnitude of M4, recorded on May 9 at 3 PM local time. The area is still feeling aftershocks from that latest quake."
-  },
-  {
     "timestamp_utc": "2026-05-09T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there haven't been any earthquakes recorded on the PiQuake Canada dashboard. The largest one was a tiny M0.89 which happened about 105 km southeast of Saint-Georges in Quebec. This was just yesterday at around 10:32 AM local time."
+  },
+  {
+    "timestamp_utc": "2026-05-30T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't recorded any seismic events in the last hour or day. The largest event detected was a tiny M0.89 which happened way back on May 29th around 10:30 AM, not far from Saint-Georges in Quebec."
   }
 ]
