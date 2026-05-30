@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260415.1959001,2026-04-15T19:59:20.000Z,54.4684,-134.2227,10.0,ML,2.42,"144 km WNW of Masset, BC/144 km ONO de Masset, BC"
 20260415.2054001,2026-04-15T20:54:49.000Z,52.9384,-132.6773,22.17,ML,2.04,"53 km SW of Daajing Giids, BC/53 km SO de Daajing Giids, BC"
 20260415.2116001,2026-04-15T21:16:05.000Z,52.9355,-132.6056,20.33,ML,1.98,"50 km SW of Daajing Giids, BC/50 km SO de Daajing Giids, BC"
 20260415.2119001,2026-04-15T21:19:04.000Z,54.3348,-118.4794,5.69,MLy,2.33,"Suspected industry-related event, 65 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 65 km NE de Grande Cache, AB"
