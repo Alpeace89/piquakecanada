@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-09T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were three small tremors recorded. The largest one measured M2.91 and happened near Burwash Landing in Yukon. A smaller one, M2.37, occurred further west near Haines Junction. These are all minor quakes that don't usually cause any issues, just a slight shake when you're sleeping or doing something else."
-  },
-  {
     "timestamp_utc": "2026-05-09T07:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were three recorded quakes yesterday. The largest one was a little shake with a magnitude of M0.89, happening 105 km southeast of Saint-Georges, Quebec/ Saint-Georges, QC as it's sometimes spelled. This area got hit twice by PiQuake Canada's earthquake monitors yesterday, and New Brunswick had a minor one too."
+  },
+  {
+    "timestamp_utc": "2026-05-30T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three small quakes over the past day. The largest one was a M0.89 shake that happened about 105 km southeast of Saint-Georges, Quebec at around 10:32 AM on May 29th. It's happening a lot in Quebec right now with two reports from QC and one in New Brunswick."
   }
 ]
