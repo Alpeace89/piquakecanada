@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-09T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were two events yesterday. The largest one last 24 hours was a M2.91 near Burwash Landing and Haines Junction, which happened on May 7th at around 3:19 PM UTC. Recently, we had another quake of M2.37 near those places too, happening just after 6 PM UTC the same day."
-  },
-  {
     "timestamp_utc": "2026-05-09T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey there! The PiQuake Canada dashboard shows we had no earthquakes in the last hour, but one event yesterday. It was a pretty small quake measuring M0.89 about 105 km southeast of Saint-Georges, QC. This is the latest seismic activity we've seen in the past 24 hours and it's all happening in Quebec province."
+  },
+  {
+    "timestamp_utc": "2026-05-30T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had one recorded tremor with a magnitude of M0.89 near Saint-Georges in Quebec. It's been quiet the past hour and our latest activity came from the same spot on May 29th at around 10:30 AM Eastern time. Most of this happened in the Quebec region, so that's where you'll find the most recent seismic activity right now."
   }
 ]
