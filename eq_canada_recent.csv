@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260415.1025001,2026-04-15T10:25:43.000Z,48.8591,-67.1399,7.07,MwN,0.94,"15 km ESE of Sainte-Félicité, QC/15 km ESE de Sainte-Félicité, QC"
 20260415.1339001,2026-04-15T13:39:54.000Z,48.6667,-128.5598,10.0,Mw',2.72,"201 km WSW of Tofino, BC/201 km OSO de Tofino, BC"
 20260415.1959001,2026-04-15T19:59:20.000Z,54.4684,-134.2227,10.0,ML,2.42,"144 km WNW of Masset, BC/144 km ONO de Masset, BC"
 20260415.2054001,2026-04-15T20:54:49.000Z,52.9384,-132.6773,22.17,ML,2.04,"53 km SW of Daajing Giids, BC/53 km SO de Daajing Giids, BC"
