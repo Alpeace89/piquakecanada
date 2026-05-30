@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-09T07:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had three little earthquakes—two in Yukon and one in British Columbia. The biggest was a M2.91 near Burwash Landing, which is quite far away from where our latest quake happened earlier today. It's always interesting to see where these little jolts are happening around Canada."
-  },
-  {
     "timestamp_utc": "2026-05-09T08:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three small quakes over the past day. The largest one was a M0.89 shake that happened about 105 km southeast of Saint-Georges, Quebec at around 10:32 AM on May 29th. It's happening a lot in Quebec right now with two reports from QC and one in New Brunswick."
+  },
+  {
+    "timestamp_utc": "2026-05-30T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three recorded quakes in the past day. The largest one measured M0.89 and happened about 105 km southeast of Saint-Georges, Quebec at around noon on May 29th. It's the latest event we've seen in our region. Notable places with activity include Quebec and New Brunswick, which had two reports each in the last 24 hours."
   }
 ]
