@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260416.2108001,2026-04-16T21:08:17.000Z,54.6166,-118.5662,1.0,MLy,2.72,"Suspected industry-related event, 63 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 63 km SSE de Grande Prairie, AB"
-20260416.2159001,2026-04-16T21:59:36.000Z,44.7696,-68.0432,5.0,MwN,1.14,"58 km E of Bangor, ME/58 km E de Bangor, ME"
 20260417.0047001,2026-04-17T00:47:16.000Z,52.635,-132.1722,16.37,ML,1.53,"69 km S of Daajing Giids, BC/69 km S de Daajing Giids, BC"
 20260417.0110001,2026-04-17T01:10:20.000Z,52.667,-132.1618,17.97,ML,1.69,"66 km S of Daajing Giids, BC/66 km S de Daajing Giids, BC"
 20260417.0203001,2026-04-17T02:03:52.000Z,70.8769,-133.2476,35.0,ML,2.32,"159 km N of Tuktoyaktuk, NT/159 km N de Tuktoyaktuk, NT"
