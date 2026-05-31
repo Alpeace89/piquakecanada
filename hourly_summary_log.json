@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-10T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had just one earthquake event with a magnitude of M4 happening about 54 km east-northeast of Fort Saskatchewan in Alberta. That's the largest one we've recorded and it happened on May 9th at around 3:05 PM local time. Not many quakes have been reported from this region, mostly just in Alberta for now."
-  },
-  {
     "timestamp_utc": "2026-05-10T07:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been no recorded events on the PiQuake Canada dashboard. The largest event was a M0.89 that occurred in an unknown location at an unspecified time. It's the first and only quake reported recently."
+  },
+  {
+    "timestamp_utc": "2026-05-31T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no earthquakes reported on the PiQuake Canada dashboard. The largest event was a tiny one measuring M0.89 and it happened about 105 km southeast of Saint-Georges, QC. That's just one instance, nothing major to report."
   }
 ]

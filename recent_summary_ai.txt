@@ -1,1 +1,1 @@
-In the last 24 hours, there have been no recorded events on the PiQuake Canada dashboard. The largest event was a M0.89 that occurred in an unknown location at an unspecified time. It's the first and only quake reported recently.
+In the last 24 hours, there were no earthquakes reported on the PiQuake Canada dashboard. The largest event was a tiny one measuring M0.89 and it happened about 105 km southeast of Saint-Georges, QC. That's just one instance, nothing major to report.
