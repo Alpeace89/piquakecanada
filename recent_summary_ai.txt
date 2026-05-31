@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard is running smoothly and has seen no earthquakes in the last hour or day. The latest quake recorded was a tiny M0.89 near Saint-Georges, QC on May 29th. It's nice to see there hasn't been much activity lately.
+The PiQuake Canada dashboard shows no events recorded in the last hour or day. The largest event detected was a M0.89, which happened on May 29th at around 10:32 AM and took place near Saint-Georges, Quebec. It's been quiet up there for sure!
