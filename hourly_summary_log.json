@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-10T23:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is up and running, showing there was one earthquake in the last hour and another in the last 24 hours. The largest quake during that time was a M4.33 near Daajing Giids in British Columbia, which happened just after 10 PM yesterday. So far today, everything's quiet with no new activity to report."
-  },
-  {
     "timestamp_utc": "2026-05-11T00:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard has been running in beta for a while now, and since the last update, we've had no earthquakes to report. The biggest one detected was an M0.89 near Saint-Georges, QC, which happened earlier this month on May 29th."
+  },
+  {
+    "timestamp_utc": "2026-05-31T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is running smoothly and has seen no earthquakes in the last hour or day. The latest quake recorded was a tiny M0.89 near Saint-Georges, QC on May 29th. It's nice to see there hasn't been much activity lately."
   }
 ]
