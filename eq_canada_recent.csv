@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260416.1217001,2026-04-16T12:17:16.000Z,53.9283,-113.3562,1.0,MLy,2.44,"Suspected industry-related event, 9 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 9 km ONO de Sturgeon County, AB"
 20260416.1402001,2026-04-16T14:02:15.000Z,56.7353,-121.8258,1.0,MLy,2.16,"Suspected industry-related event, 28 km N of Halfway River 168, BC/Événement lié à l'industrie soupconné, 28 km N de Halfway River 168, BC"
 20260416.1415001,2026-04-16T14:15:15.000Z,60.4431,-139.6695,5.0,ML,2.1,"123 km WSW of Haines Junction, YT/123 km OSO de Haines Junction, YT"
 20260416.1456001,2026-04-16T14:56:52.000Z,50.5559,-130.0068,10.0,Mw',3.35,"178 km W of Port Hardy, BC/178 km O de Port Hardy, BC"

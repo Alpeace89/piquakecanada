@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-10T17:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard hasn't had any events in the last hour or day, and we haven’t detected any earthquakes either. The latest small quake measured M4 happened on May 9th at around 1:05 PM local time near Fort Saskatchewan, Alberta. It's a pretty quiet period so far this month without any activity to report."
-  },
-  {
     "timestamp_utc": "2026-05-10T18:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard hasn't had any seismic events in the last hour or day, and we haven't detected any large quakes either. The latest event was a tiny one measuring M0.89 that happened yesterday at around noon. It's located near Saint-Georges in Quebec."
+  },
+  {
+    "timestamp_utc": "2026-05-31T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is still in beta mode, and as of now, there haven't been any earthquakes reported for the last hour or day. The largest event in the past 24 hours was an unknown magnitude happening somewhere around Saint-Georges, QC. It seems like we're quiet this week with no activity to report since the latest one measured M0.89 on May 29th at about 10:32 AM local time."
   }
 ]
