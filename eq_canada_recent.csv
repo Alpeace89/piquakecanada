@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260416.0908001,2026-04-16T09:08:55.000Z,60.3922,-139.5808,5.0,ML,2.13,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
 20260416.1008001,2026-04-16T10:08:40.000Z,60.1741,-139.595,5.0,ML,2.13,"131 km WSW of Haines Junction, YT/131 km OSO de Haines Junction, YT"
 20260416.1114001,2026-04-16T11:14:16.000Z,60.5094,-140.0364,5.0,ML,2.96,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
 20260416.1126001,2026-04-16T11:26:41.000Z,60.516,-140.0433,5.0,ML,2.06,"141 km W of Haines Junction, YT/141 km O de Haines Junction, YT"
