@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260416.0412001,2026-04-16T04:12:19.000Z,50.5544,-129.969,10.0,Mw',3.8,"175 km W of Port Hardy, BC/175 km O de Port Hardy, BC"
 20260416.0703001,2026-04-16T07:03:19.000Z,64.5856,-138.804,5.0,ML,2.37,"66 km NNE of Dawson, YT/66 km NNE de Dawson, YT"
 20260416.0739001,2026-04-16T07:39:08.000Z,59.7411,-141.5496,5.0,ML,2.78,"250 km WSW of Haines Junction, YT/250 km OSO de Haines Junction, YT"
 20260416.0757001,2026-04-16T07:57:31.000Z,60.0585,-140.2391,5.0,ML1,2.03,"169 km WSW of Haines Junction, YT/169 km OSO de Haines Junction, YT"
