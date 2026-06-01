@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260417.1241001,2026-04-17T12:41:21.000Z,51.206,-131.1289,10.0,Mw',3.41,"260 km WNW of Port Hardy, BC/260 km ONO de Port Hardy, BC"
-20260417.1243001,2026-04-17T12:43:14.000Z,51.2146,-131.1319,10.0,Mw',3.19,"260 km WNW of Port Hardy, BC/260 km ONO de Port Hardy, BC"
-20260417.1251001,2026-04-17T12:51:51.000Z,53.9185,-132.5467,11.47,ML,1.82,"28 km WSW of Masset, BC/28 km OSO de Masset, BC"
 20260417.1328001,2026-04-17T13:28:43.000Z,50.5428,-130.2845,10.0,Mw',3.06,"198 km W of Port Hardy, BC/198 km O de Port Hardy, BC"
 20260417.1555001,2026-04-17T15:55:47.000Z,50.4644,-130.1949,10.0,Mw',3.08,"193 km W of Port Hardy, BC/193 km O de Port Hardy, BC"
 20260417.2026001,2026-04-17T20:26:02.000Z,43.2219,-79.5999,5.0,MwN,1.6,"5 km NNW of Grimsby, ON/5 km NNO de Grimsby, ON"
