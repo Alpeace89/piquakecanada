@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "Suspected industry-related event, 76 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 76 km SSE de Grande Prairie, AB"
   },
   {
+    "time_utc": "2026-05-30T21:39:20.000Z",
+    "magnitude": "4.02",
+    "depth_km": "25.0",
+    "place": "170 km N of Tuktoyaktuk, NT/170 km N de Tuktoyaktuk, NT"
+  },
+  {
     "time_utc": "2026-05-30T19:36:48.000Z",
     "magnitude": "3.07",
     "depth_km": "10.0",
@@ -42,21 +48,15 @@ window.recentEvents = [
     "place": "3 km NNE of La Malbaie, QC/3 km NNE de La Malbaie, QC"
   },
   {
+    "time_utc": "2026-05-29T11:07:36.000Z",
+    "magnitude": "1.82",
+    "depth_km": "5.0",
+    "place": "129 km W of Haines Junction, YT/129 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-05-29T10:32:04.000Z",
     "magnitude": "0.89",
     "depth_km": "5.0",
     "place": "105 km SE of Saint-Georges, QC/105 km SE de Saint-Georges, QC"
-  },
-  {
-    "time_utc": "2026-05-29T08:43:38.000Z",
-    "magnitude": "0.1",
-    "depth_km": "10.66",
-    "place": "11 km ESE of La Malbaie, QC/11 km ESE de La Malbaie, QC"
-  },
-  {
-    "time_utc": "2026-05-29T04:18:57.000Z",
-    "magnitude": "0.77",
-    "depth_km": "5.0",
-    "place": "21 km SSW of Southampton, NB/21 km SSO de Southampton, NB"
   }
 ];
