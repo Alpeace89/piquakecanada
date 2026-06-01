@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260417.1044001,2026-04-17T10:44:57.000Z,65.104,-134.5869,10.0,ML,2.45,"180 km NNE of Mayo, YT/180 km NNE de Mayo, YT"
 20260417.1241001,2026-04-17T12:41:21.000Z,51.206,-131.1289,10.0,Mw',3.41,"260 km WNW of Port Hardy, BC/260 km ONO de Port Hardy, BC"
 20260417.1243001,2026-04-17T12:43:14.000Z,51.2146,-131.1319,10.0,Mw',3.19,"260 km WNW of Port Hardy, BC/260 km ONO de Port Hardy, BC"
 20260417.1251001,2026-04-17T12:51:51.000Z,53.9185,-132.5467,11.47,ML,1.82,"28 km WSW of Masset, BC/28 km OSO de Masset, BC"
