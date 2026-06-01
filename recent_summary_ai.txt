@@ -1,1 +1,1 @@
-For the last hour, there haven't been any quakes reported. In the past day, neither has anything happened. The largest one we know about was a tiny shake measuring M0.89, happening way out in Saint-Georges, Quebec. It's the closest thing to having an update for now, but it hasn't been active recently.
+The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was an M0.89 near Saint-Georges, QC yesterday at around noon. There haven't been any notable tremors recently.
