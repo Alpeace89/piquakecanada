@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC"
   },
   {
+    "time_utc": "2026-05-31T09:46:23.000Z",
+    "magnitude": "2.61",
+    "depth_km": "1.1",
+    "place": "Mining event, 13 km WSW of Kamloops, BC/\u00c9v\u00e9nement minier, 13 km OSO de Kamloops, BC"
+  },
+  {
     "time_utc": "2026-05-30T16:03:13.000Z",
     "magnitude": "0.67",
     "depth_km": "11.65",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "0.92",
     "depth_km": "15.08",
     "place": "10 km N of La Pocati\u00e8re, QC/10 km N de La Pocati\u00e8re, QC"
-  },
-  {
-    "time_utc": "2026-05-28T17:06:43.000Z",
-    "magnitude": "2.18",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 67 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 67 km SSE de Grande Prairie, AB"
   }
 ];

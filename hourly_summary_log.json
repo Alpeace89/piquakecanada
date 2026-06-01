@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-11T22:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows that no quakes were reported in the last hour, but there was one quake in the past 24 hours. The largest event of the day measured M4.04 and happened about 44 km southwest or southeast of Daajing Giids, BC. It's from this region where we saw activity yesterday."
-  },
-  {
     "timestamp_utc": "2026-05-11T23:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the past hour, there haven't been any quakes reported. In the last 24 hours, we had one quake measuring M1.33 near Maniwaki in Quebec and Ontario. It happened yesterday at around midnight, and it's the biggest one we've seen since this beta version of the PiQuake Canada dashboard started. That region has been our most active spot for quakes over the last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-06-01T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there was one event yesterday that measured M1.33, happening about 38 km west-northwest of Maniwaki, Quebec and a bit northwest of Ottawa, Ontario. This latest quake is from yesterday at around midnight UTC."
   }
 ]
