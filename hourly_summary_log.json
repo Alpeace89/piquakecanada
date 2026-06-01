@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-12T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event was an unknown magnitude happening somewhere near Daajing Giids, BC/BC. That was on May 10th at about 9:45 PM local time. Nothing significant has happened here recently."
-  },
-  {
     "timestamp_utc": "2026-05-12T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no new earthquake events in the last hour, but there was one event yesterday. The largest quake recorded happened around 38 km west-northwest of Maniwaki, Quebec and also a bit on the northwestern side of Ontario, with a magnitude of M1.33. It's been happening pretty regularly lately, with this being the latest in a string of small quakes in that area."
+  },
+  {
+    "timestamp_utc": "2026-06-01T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday that measured M1.33 near Maniwaki in Quebec and Ontario. The latest event matches this one from May 31st at around 23:55 UTC. That area saw activity last night with just one report in total for Quebec province over the past 24 hours."
   }
 ]
