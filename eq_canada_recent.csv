@@ -454,6 +454,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260528.1238001,2026-05-28T12:38:47.000Z,54.8414,-118.7312,1.0,MLy,2.1,"Suspected industry-related event, 37 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 37 km S de Grande Prairie, AB"
 20260528.1412001,2026-05-28T14:12:19.000Z,60.495,-140.0139,5.0,ML,2.19,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
 20260528.1600001,2026-05-28T16:00:55.000Z,60.4033,-139.5775,5.0,ML,2.64,"119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
+20260528.1706001,2026-05-28T17:06:43.000Z,54.5806,-118.5828,1.0,MLy,2.18,"Suspected industry-related event, 67 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 67 km SSE de Grande Prairie, AB"
 20260528.2032001,2026-05-28T20:32:44.000Z,47.4631,-70.0546,15.08,MwN,0.92,"10 km N of La Pocatière, QC/10 km N de La Pocatière, QC"
 20260529.0101001,2026-05-29T01:01:02.000Z,50.4207,-64.6655,2.0,MwN,2.4,"48 km WNW of Mingan, QC/48 km ONO de Mingan, QC"
 20260529.0418001,2026-05-29T04:18:57.000Z,45.7911,-67.3406,5.0,MwN,0.77,"21 km SSW of Southampton, NB/21 km SSO de Southampton, NB"
@@ -462,3 +463,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260530.0756001,2026-05-30T07:56:41.000Z,47.6807,-70.1399,14.02,MwN,0.08,"3 km NNE of La Malbaie, QC/3 km NNE de La Malbaie, QC"
 20260530.1528001,2026-05-30T15:28:54.000Z,49.041,-67.5319,18.0,MwN,0.18,"21 km N of Matane, QC/21 km N de Matane, QC"
 20260530.1603001,2026-05-30T16:03:13.000Z,47.4116,-70.3295,11.65,MwN,0.67,"14 km ESE of Baie-Saint-Paul, QC/14 km ESE de Baie-Saint-Paul, QC"
+20260531.2355001,2026-05-31T23:55:17.000Z,46.5695,-76.3899,10.83,MwN,1.33,"38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC"

@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-31T23:55:17.000Z",
+    "magnitude": "1.33",
+    "depth_km": "10.83",
+    "place": "38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC"
+  },
+  {
     "time_utc": "2026-05-30T16:03:13.000Z",
     "magnitude": "0.67",
     "depth_km": "11.65",
@@ -48,15 +54,9 @@ window.recentEvents = [
     "place": "10 km N of La Pocati\u00e8re, QC/10 km N de La Pocati\u00e8re, QC"
   },
   {
-    "time_utc": "2026-05-28T16:00:55.000Z",
-    "magnitude": "2.64",
-    "depth_km": "5.0",
-    "place": "119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-28T14:12:19.000Z",
-    "magnitude": "2.19",
-    "depth_km": "5.0",
-    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
+    "time_utc": "2026-05-28T17:06:43.000Z",
+    "magnitude": "2.18",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 67 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 67 km SSE de Grande Prairie, AB"
   }
 ];
