@@ -54,9 +54,9 @@ window.recentEvents = [
     "place": "3 km NNE of La Malbaie, QC/3 km NNE de La Malbaie, QC"
   },
   {
-    "time_utc": "2026-05-29T19:11:09.000Z",
-    "magnitude": "2.25",
-    "depth_km": "13.57",
-    "place": "41 km WSW of Daajing Giids, BC/41 km OSO de Daajing Giids, BC"
+    "time_utc": "2026-05-30T02:02:59.000Z",
+    "magnitude": "2.95",
+    "depth_km": "10.0",
+    "place": "467 km WSW of Whitehorse, YT/467 km OSO de Whitehorse, YT"
   }
 ];
