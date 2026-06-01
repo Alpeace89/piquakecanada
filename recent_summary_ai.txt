@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity for the past hour or day. The largest quake recorded in the last 24 hours was a tiny M0.89, and it happened near Saint-Georgesue in Quebec. It's been quiet so far this week!
+In the last 24 hours, there were no reported quakes on the PiQuake Canada dashboard. The largest one measured M0.89 and occurred about 105 km southeast of Saint-Georges, Quebec at an unknown time. It's been quiet out there lately.
