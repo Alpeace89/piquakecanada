@@ -1,1 +1,1 @@
-Here's the beta summary for the PiQuake Canada dashboard: Not much has been detected lately with just one tiny shake recorded in the last 24 hours. The largest event was a very small one that occurred near Saint-Georges, QC on May 29th at around 10:32 AM. No big events have happened recently and there's not much happening across Canada overall.
+The PiQuake Canada dashboard shows no activity for the past hour or day. The largest quake recorded in the last 24 hours was a tiny M0.89, and it happened near Saint-Georgesue in Quebec. It's been quiet so far this week!
