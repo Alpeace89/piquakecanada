@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard has been active for a while now and hasn't had any earthquakes in the last 24 hours. The latest small tremor was a M0.89 near Saint-Georges, QC on May 29th. There haven’t been any notable events recently that we can show you yet.
+In the last 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The latest event was a very small one measuring M0.67 near Baie-Saint-Paul in Quebec. It's the only quake we've seen happen since yesterday.

@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-05-30T16:03:13.000Z",
+    "magnitude": "0.67",
+    "depth_km": "11.65",
+    "place": "14 km ESE of Baie-Saint-Paul, QC/14 km ESE de Baie-Saint-Paul, QC"
+  },
+  {
+    "time_utc": "2026-05-30T15:28:54.000Z",
+    "magnitude": "0.18",
+    "depth_km": "18.0",
+    "place": "21 km N of Matane, QC/21 km N de Matane, QC"
+  },
+  {
+    "time_utc": "2026-05-30T07:56:41.000Z",
+    "magnitude": "0.08",
+    "depth_km": "14.02",
+    "place": "3 km NNE of La Malbaie, QC/3 km NNE de La Malbaie, QC"
+  },
+  {
     "time_utc": "2026-05-29T10:32:04.000Z",
     "magnitude": "0.89",
     "depth_km": "5.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.19",
     "depth_km": "5.0",
     "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-28T12:38:47.000Z",
-    "magnitude": "2.1",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 37 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 37 km S de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-05-28T11:28:07.000Z",
-    "magnitude": "2.95",
-    "depth_km": "10.0",
-    "place": "127 km SSW of Port Alice, BC/127 km SSO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-05-28T10:53:19.000Z",
-    "magnitude": "2.0",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 71 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 71 km SSE de Grande Prairie, AB"
   }
 ];

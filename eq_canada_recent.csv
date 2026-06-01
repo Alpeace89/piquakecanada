@@ -460,3 +460,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260529.0418001,2026-05-29T04:18:57.000Z,45.7911,-67.3406,5.0,MwN,0.77,"21 km SSW of Southampton, NB/21 km SSO de Southampton, NB"
 20260529.0843001,2026-05-29T08:43:38.000Z,47.6204,-70.0158,10.66,MwN,0.1,"11 km ESE of La Malbaie, QC/11 km ESE de La Malbaie, QC"
 20260529.1032001,2026-05-29T10:32:04.000Z,45.4499,-69.7025,5.0,MwN,0.89,"105 km SE of Saint-Georges, QC/105 km SE de Saint-Georges, QC"
+20260530.0756001,2026-05-30T07:56:41.000Z,47.6807,-70.1399,14.02,MwN,0.08,"3 km NNE of La Malbaie, QC/3 km NNE de La Malbaie, QC"
+20260530.1528001,2026-05-30T15:28:54.000Z,49.041,-67.5319,18.0,MwN,0.18,"21 km N of Matane, QC/21 km N de Matane, QC"
+20260530.1603001,2026-05-30T16:03:13.000Z,47.4116,-70.3295,11.65,MwN,0.67,"14 km ESE of Baie-Saint-Paul, QC/14 km ESE de Baie-Saint-Paul, QC"

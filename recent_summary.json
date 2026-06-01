@@ -1,24 +1,24 @@
 {
-  "generated_utc": "2026-06-01T14:03:01Z",
+  "generated_utc": "2026-06-01T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 461,
+  "rolling_window_event_count": 464,
   "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260529.1032001",
-    "time_utc": "2026-05-29T10:32:04.000Z",
-    "latitude": 45.4499,
-    "longitude": -69.7025,
-    "depth_km": 5.0,
+    "event_id": "20260530.1603001",
+    "time_utc": "2026-05-30T16:03:13.000Z",
+    "latitude": 47.4116,
+    "longitude": -70.3295,
+    "depth_km": 11.65,
     "mag_type": "MwN",
-    "magnitude": 0.89,
-    "place": "105 km SE of Saint-Georges, QC/105 km SE de Saint-Georges, QC",
+    "magnitude": 0.67,
+    "place": "14 km ESE of Baie-Saint-Paul, QC/14 km ESE de Baie-Saint-Paul, QC",
     "region": "QC"
   },
   "largest_event_last_24h": null,
   "deepest_event_last_24h": null,
   "top_regions_last_24h": [],
-  "summary_text": "As of 2026-06-01 14:03 UTC, the recent Canada earthquake dataset contains 461 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M0.89 at 105 km SE of Saint-Georges, QC/105 km SE de Saint-Georges, QC at 2026-05-29T10:32:04.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "summary_text": "As of 2026-06-01 15:03 UTC, the recent Canada earthquake dataset contains 464 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M0.67 at 14 km ESE of Baie-Saint-Paul, QC/14 km ESE de Baie-Saint-Paul, QC at 2026-05-30T16:03:13.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }
