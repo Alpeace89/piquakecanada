@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-11T05:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday that measured M4.04 near Daajing Giids in British Columbia. It's the largest recorded event within the last 24 hours and happened at around 10:45 PM on May 9th according to UTC time. The area affected is still quite small, but it’s something worth keeping an eye on for any possible future activity."
-  },
-  {
     "timestamp_utc": "2026-05-11T06:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was an M0.89 near Saint-Georges, QC yesterday at around noon. There haven't been any notable tremors recently."
+  },
+  {
+    "timestamp_utc": "2026-06-01T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event recorded was a very tiny one with an unknown magnitude occurring not long after midnight on May 29th, near Saint-Georges, Quebec. It's quiet around here so far this month!"
   }
 ]
