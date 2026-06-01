@@ -1,1 +1,1 @@
-In the last 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The latest event was a very small one measuring M0.67 near Baie-Saint-Paul in Quebec. It's the only quake we've seen happen since yesterday.
+The PiQuake Canada dashboard shows no activity in the last hour or day. The latest quake was a tiny M0.67 near Baie-Saint-Paul, QC, yesterday at about 4 PM local time. Nothing to worry about here, folks.

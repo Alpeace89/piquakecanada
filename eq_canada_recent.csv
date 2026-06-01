@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260417.1555001,2026-04-17T15:55:47.000Z,50.4644,-130.1949,10.0,Mw',3.08,"193 km W of Port Hardy, BC/193 km O de Port Hardy, BC"
 20260417.2026001,2026-04-17T20:26:02.000Z,43.2219,-79.5999,5.0,MwN,1.6,"5 km NNW of Grimsby, ON/5 km NNO de Grimsby, ON"
 20260417.2114001,2026-04-17T21:14:45.000Z,52.6277,-132.1253,16.51,ML,1.6,"70 km S of Daajing Giids, BC/70 km S de Daajing Giids, BC"
 20260417.2204001,2026-04-17T22:04:31.000Z,57.9101,-136.7124,5.0,ML,4.03,"142 km WSW of Juneau, AK/142 km OSO de Juneau, AK"

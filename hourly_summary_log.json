@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-11T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there was one earthquake event recorded in Canada with a magnitude of M4.04 happening about 44 km southwest or south of Daajing Giids, BC. It's not uncommon for little quakes like this to happen around here and nothing too serious happens from them. The latest one happened on May 10th at around 10:45 PM local time."
-  },
-  {
     "timestamp_utc": "2026-05-11T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The latest event was a very small one measuring M0.67 near Baie-Saint-Paul in Quebec. It's the only quake we've seen happen since yesterday."
+  },
+  {
+    "timestamp_utc": "2026-06-01T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The latest quake was a tiny M0.67 near Baie-Saint-Paul, QC, yesterday at about 4 PM local time. Nothing to worry about here, folks."
   }
 ]
