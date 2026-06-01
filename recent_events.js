@@ -12,6 +12,18 @@ window.recentEvents = [
     "place": "Mining event, 13 km WSW of Kamloops, BC/\u00c9v\u00e9nement minier, 13 km OSO de Kamloops, BC"
   },
   {
+    "time_utc": "2026-05-31T00:56:26.000Z",
+    "magnitude": "2.78",
+    "depth_km": "2.19",
+    "place": "Suspected industry-related event, 76 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 76 km SSE de Grande Prairie, AB"
+  },
+  {
+    "time_utc": "2026-05-30T19:36:48.000Z",
+    "magnitude": "3.07",
+    "depth_km": "10.0",
+    "place": "236 km SSW of Port Hardy, BC/236 km SSO de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-05-30T16:03:13.000Z",
     "magnitude": "0.67",
     "depth_km": "11.65",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "0.77",
     "depth_km": "5.0",
     "place": "21 km SSW of Southampton, NB/21 km SSO de Southampton, NB"
-  },
-  {
-    "time_utc": "2026-05-29T01:01:02.000Z",
-    "magnitude": "2.4",
-    "depth_km": "2.0",
-    "place": "48 km WNW of Mingan, QC/48 km ONO de Mingan, QC"
-  },
-  {
-    "time_utc": "2026-05-28T20:32:44.000Z",
-    "magnitude": "0.92",
-    "depth_km": "15.08",
-    "place": "10 km N of La Pocati\u00e8re, QC/10 km N de La Pocati\u00e8re, QC"
   }
 ];
