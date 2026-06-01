@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260417.2114001,2026-04-17T21:14:45.000Z,52.6277,-132.1253,16.51,ML,1.6,"70 km S of Daajing Giids, BC/70 km S de Daajing Giids, BC"
 20260417.2204001,2026-04-17T22:04:31.000Z,57.9101,-136.7124,5.0,ML,4.03,"142 km WSW of Juneau, AK/142 km OSO de Juneau, AK"
 20260417.2210001,2026-04-17T22:10:41.000Z,57.9421,-136.7018,5.0,ML,3.12,"140 km WSW of Juneau, AK/140 km OSO de Juneau, AK"
 20260417.2212001,2026-04-17T22:12:47.000Z,49.5587,-126.9018,26.04,ML,0.98,"21 km WSW of Yuquot 1, BC/21 km OSO de Yuquot 1, BC"
@@ -467,6 +466,10 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260529.0843001,2026-05-29T08:43:38.000Z,47.6204,-70.0158,10.66,MwN,0.1,"11 km ESE of La Malbaie, QC/11 km ESE de La Malbaie, QC"
 20260529.1032001,2026-05-29T10:32:04.000Z,45.4499,-69.7025,5.0,MwN,0.89,"105 km SE of Saint-Georges, QC/105 km SE de Saint-Georges, QC"
 20260529.1107001,2026-05-29T11:07:36.000Z,60.5311,-139.8415,5.0,ML,1.82,"129 km W of Haines Junction, YT/129 km O de Haines Junction, YT"
+20260529.1249001,2026-05-29T12:49:58.000Z,54.7829,-118.5874,1.0,MLy,2.37,"Suspected industry-related event, 45 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 45 km SSE de Grande Prairie, AB"
+20260529.1348001,2026-05-29T13:48:51.000Z,60.5798,-139.966,5.0,ML,3.14,"135 km W of Haines Junction, YT/135 km O de Haines Junction, YT"
+20260529.1846001,2026-05-29T18:46:30.000Z,60.5027,-140.0862,5.0,ML,1.86,"143 km W of Haines Junction, YT/143 km O de Haines Junction, YT"
+20260529.1911001,2026-05-29T19:11:09.000Z,53.0856,-132.6348,13.57,ML,2.25,"41 km WSW of Daajing Giids, BC/41 km OSO de Daajing Giids, BC"
 20260530.0756001,2026-05-30T07:56:41.000Z,47.6807,-70.1399,14.02,MwN,0.08,"3 km NNE of La Malbaie, QC/3 km NNE de La Malbaie, QC"
 20260530.1528001,2026-05-30T15:28:54.000Z,49.041,-67.5319,18.0,MwN,0.18,"21 km N of Matane, QC/21 km N de Matane, QC"
 20260530.1603001,2026-05-30T16:03:13.000Z,47.4116,-70.3295,11.65,MwN,0.67,"14 km ESE of Baie-Saint-Paul, QC/14 km ESE de Baie-Saint-Paul, QC"
@@ -474,4 +477,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260530.2139002,2026-05-30T21:39:20.000Z,70.9534,-132.224,25.0,ML,4.02,"170 km N of Tuktoyaktuk, NT/170 km N de Tuktoyaktuk, NT"
 20260531.0056001,2026-05-31T00:56:26.000Z,54.517,-118.4603,2.19,MLy,2.78,"Suspected industry-related event, 76 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 76 km SSE de Grande Prairie, AB"
 20260531.0946001,2026-05-31T09:46:23.000Z,50.648,-120.522,1.1,ML,2.61,"Mining event, 13 km WSW of Kamloops, BC/Événement minier, 13 km OSO de Kamloops, BC"
+20260531.2103001,2026-05-31T21:03:36.000Z,50.4982,-130.2457,10.0,Mw',2.71,"195 km W of Port Hardy, BC/195 km O de Port Hardy, BC"
 20260531.2355001,2026-05-31T23:55:17.000Z,46.5695,-76.3899,10.83,MwN,1.33,"38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC"

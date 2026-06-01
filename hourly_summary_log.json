@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-12T02:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks, it's been a quiet few days with no earthquakes to report. The latest quake measured M4.04 and happened about 44 km southwest or south of Daajing Giids in British Columbia. It was the only event we tracked in the last 24 hours."
-  },
-  {
     "timestamp_utc": "2026-05-12T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one event recorded on the PiQuake Canada dashboard, which registered a magnitude of M1.33 near Maniwaki and Montmagny in Quebec. This is similar to what we've seen recently with smaller quakes happening regularly around that area."
+  },
+  {
+    "timestamp_utc": "2026-06-01T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday that measured M1.33 near Maniwaki, QC/Maniwaki, ON. This is the largest quake we've recorded recently and it happened just after midnight UTC on May 31st. The main region affected was Quebec with only one occurrence."
   }
 ]

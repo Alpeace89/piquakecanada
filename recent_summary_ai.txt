@@ -1,1 +1,1 @@
-In the last 24 hours, there was one event recorded on the PiQuake Canada dashboard, which registered a magnitude of M1.33 near Maniwaki and Montmagny in Quebec. This is similar to what we've seen recently with smaller quakes happening regularly around that area.
+The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday that measured M1.33 near Maniwaki, QC/Maniwaki, ON. This is the largest quake we've recorded recently and it happened just after midnight UTC on May 31st. The main region affected was Quebec with only one occurrence.

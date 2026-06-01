@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC"
   },
   {
+    "time_utc": "2026-05-31T21:03:36.000Z",
+    "magnitude": "2.71",
+    "depth_km": "10.0",
+    "place": "195 km W of Port Hardy, BC/195 km O de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-05-31T09:46:23.000Z",
     "magnitude": "2.61",
     "depth_km": "1.1",
@@ -48,15 +54,9 @@ window.recentEvents = [
     "place": "3 km NNE of La Malbaie, QC/3 km NNE de La Malbaie, QC"
   },
   {
-    "time_utc": "2026-05-29T11:07:36.000Z",
-    "magnitude": "1.82",
-    "depth_km": "5.0",
-    "place": "129 km W of Haines Junction, YT/129 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-05-29T10:32:04.000Z",
-    "magnitude": "0.89",
-    "depth_km": "5.0",
-    "place": "105 km SE of Saint-Georges, QC/105 km SE de Saint-Georges, QC"
+    "time_utc": "2026-05-29T19:11:09.000Z",
+    "magnitude": "2.25",
+    "depth_km": "13.57",
+    "place": "41 km WSW of Daajing Giids, BC/41 km OSO de Daajing Giids, BC"
   }
 ];
