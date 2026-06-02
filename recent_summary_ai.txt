@@ -1,1 +1,1 @@
-In the last 24 hours, there was one quake detected by our PiQuake Canada dashboard. The largest event measured M2.12 and was felt in La Malbaie, Quebec, both south-southwest and southwest of that city. This is the latest activity we've recorded so far.
+The PiQuake Canada dashboard shows there was one event in the last hour and four events in the last 24 hours. The largest of those recent events had a magnitude of M2.75, suspected to be an industry-related quake near Prespatou in British Columbia, happening at about 5:04 PM on June 2nd.

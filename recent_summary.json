@@ -1,32 +1,32 @@
 {
-  "generated_utc": "2026-06-02T17:03:01Z",
+  "generated_utc": "2026-06-02T18:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 484,
-  "events_last_24h": 1,
-  "events_last_hour": 0,
+  "rolling_window_event_count": 485,
+  "events_last_24h": 4,
+  "events_last_hour": 1,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260602.0633003",
-    "time_utc": "2026-06-02T06:33:52.000Z",
-    "latitude": 47.4828,
-    "longitude": -70.2151,
-    "depth_km": 17.86,
-    "mag_type": "MwN",
-    "magnitude": 2.12,
-    "place": "19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti",
-    "region": "Unknown"
+    "event_id": "20260602.1704001",
+    "time_utc": "2026-06-02T17:04:18.000Z",
+    "latitude": 56.8685,
+    "longitude": -121.9432,
+    "depth_km": 5.0,
+    "mag_type": "MLy",
+    "magnitude": 2.75,
+    "place": "Suspected industry-related event, 55 km W of Prespatou, BC/Événement lié à l'industrie soupconné, 55 km O de Prespatou, BC",
+    "region": "BC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260602.0633003",
-    "time_utc": "2026-06-02T06:33:52.000Z",
-    "latitude": 47.4828,
-    "longitude": -70.2151,
-    "depth_km": 17.86,
-    "mag_type": "MwN",
-    "magnitude": 2.12,
-    "place": "19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti",
-    "region": "Unknown"
+    "event_id": "20260602.1704001",
+    "time_utc": "2026-06-02T17:04:18.000Z",
+    "latitude": 56.8685,
+    "longitude": -121.9432,
+    "depth_km": 5.0,
+    "mag_type": "MLy",
+    "magnitude": 2.75,
+    "place": "Suspected industry-related event, 55 km W of Prespatou, BC/Événement lié à l'industrie soupconné, 55 km O de Prespatou, BC",
+    "region": "BC"
   },
   "deepest_event_last_24h": {
     "event_id": "20260602.0633003",
@@ -41,9 +41,17 @@
   },
   "top_regions_last_24h": [
     {
+      "region": "YT",
+      "count": 2
+    },
+    {
       "region": "Unknown",
+      "count": 1
+    },
+    {
+      "region": "BC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-02 17:03 UTC, the recent Canada earthquake dataset contains 484 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.12 at 19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti. The deepest event reached 17.86 km at 19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti. The most recent listed event was M2.12 at 19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti at 2026-06-02T06:33:52.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was Unknown."
+  "summary_text": "As of 2026-06-02 18:03 UTC, the recent Canada earthquake dataset contains 485 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 1 in the last hour. The largest event in the last 24 hours was M2.75 at Suspected industry-related event, 55 km W of Prespatou, BC/Événement lié à l'industrie soupconné, 55 km O de Prespatou, BC. The deepest event reached 17.86 km at 19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti. The most recent listed event was M2.75 at Suspected industry-related event, 55 km W of Prespatou, BC/Événement lié à l'industrie soupconné, 55 km O de Prespatou, BC at 2026-06-02T17:04:18.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (2) and Unknown (1)."
 }

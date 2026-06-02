@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260418.1705001,2026-04-18T17:05:58.000Z,56.6719,-121.6288,5.03,MLy,2.32,"Suspected industry-related event, 26 km NNE of Halfway River 168, BC/Événement lié à l'industrie soupconné, 26 km NNE de Halfway River 168, BC"
-20260418.1753001,2026-04-18T17:53:20.000Z,48.833,-85.0184,2.0,MwN,1.95,"3 km NNW of Sugar Zone Mine, ON/3 km NNO de la mine Sugar Zone, ON"
 20260418.1838001,2026-04-18T18:38:24.000Z,59.6747,-136.1264,6.89,ML,2.68,"127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
 20260418.2156004,2026-04-18T21:56:33.000Z,53.9389,-113.4074,1.69,MLy,4.15,"Industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie, 12 km ONO de Sturgeon County, AB, ressenti"
 20260419.1057001,2026-04-19T10:57:56.000Z,49.273,-67.1726,17.24,MwN,1.24,"40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"
@@ -482,4 +480,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260601.0859001,2026-06-01T08:59:20.000Z,49.4481,-127.8189,10.0,Mw',2.49,"72 km SSW of Houpsitas 6, BC/72 km SSO de Houpsitas 6, BC"
 20260601.1102001,2026-06-01T11:02:30.000Z,54.6085,-118.576,1.0,MLy,3.58,"Suspected industry-related event, 64 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 64 km SSE de Grande Prairie, AB"
 20260601.1253001,2026-06-01T12:53:40.000Z,60.49,-140.0053,5.0,ML,3.57,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
+20260602.0517001,2026-06-02T05:17:01.000Z,60.4659,-139.7854,1.0,ML,2.75,"128 km WSW of Haines Junction, YT/128 km OSO de Haines Junction, YT"
 20260602.0633003,2026-06-02T06:33:52.000Z,47.4828,-70.2151,17.86,MwN,2.12,"19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti"
+20260602.0817001,2026-06-02T08:17:26.000Z,60.5403,-139.786,1.0,ML,2.59,"126 km W of Haines Junction, YT/126 km O de Haines Junction, YT"
+20260602.1704001,2026-06-02T17:04:18.000Z,56.8685,-121.9432,5.0,MLy,2.75,"Suspected industry-related event, 55 km W of Prespatou, BC/Événement lié à l'industrie soupconné, 55 km O de Prespatou, BC"

@@ -1,9 +1,27 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-02T17:04:18.000Z",
+    "magnitude": "2.75",
+    "depth_km": "5.0",
+    "place": "Suspected industry-related event, 55 km W of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 55 km O de Prespatou, BC"
+  },
+  {
+    "time_utc": "2026-06-02T08:17:26.000Z",
+    "magnitude": "2.59",
+    "depth_km": "1.0",
+    "place": "126 km W of Haines Junction, YT/126 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-06-02T06:33:52.000Z",
     "magnitude": "2.12",
     "depth_km": "17.86",
     "place": "19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti"
+  },
+  {
+    "time_utc": "2026-06-02T05:17:01.000Z",
+    "magnitude": "2.75",
+    "depth_km": "1.0",
+    "place": "128 km WSW of Haines Junction, YT/128 km OSO de Haines Junction, YT"
   },
   {
     "time_utc": "2026-06-01T12:53:40.000Z",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.5",
     "depth_km": "5.0",
     "place": "69 km SSE of Haines Junction, YT/69 km SSE de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-01T01:24:38.000Z",
-    "magnitude": "3.02",
-    "depth_km": "5.0",
-    "place": "59 km WSW of Burwash Landing, YT/59 km OSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-05-31T23:55:17.000Z",
-    "magnitude": "1.33",
-    "depth_km": "10.83",
-    "place": "38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC"
-  },
-  {
-    "time_utc": "2026-05-31T21:03:36.000Z",
-    "magnitude": "2.71",
-    "depth_km": "10.0",
-    "place": "195 km W of Port Hardy, BC/195 km O de Port Hardy, BC"
   }
 ];
