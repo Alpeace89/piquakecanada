@@ -1,9 +1,15 @@
 window.recentEvents = [
   {
     "time_utc": "2026-06-02T06:33:52.000Z",
-    "magnitude": "2.1",
-    "depth_km": "17.94",
+    "magnitude": "2.12",
+    "depth_km": "17.86",
     "place": "19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti"
+  },
+  {
+    "time_utc": "2026-06-01T01:24:38.000Z",
+    "magnitude": "3.02",
+    "depth_km": "5.0",
+    "place": "59 km WSW of Burwash Landing, YT/59 km OSO de Burwash Landing, YT"
   },
   {
     "time_utc": "2026-05-31T23:55:17.000Z",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "0.18",
     "depth_km": "18.0",
     "place": "21 km N of Matane, QC/21 km N de Matane, QC"
-  },
-  {
-    "time_utc": "2026-05-30T07:56:41.000Z",
-    "magnitude": "0.08",
-    "depth_km": "14.02",
-    "place": "3 km NNE of La Malbaie, QC/3 km NNE de La Malbaie, QC"
   }
 ];

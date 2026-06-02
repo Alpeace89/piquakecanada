@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-12T19:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is showing no activity for the past 24 hours. The last event recorded was a M4.04 quake, which happened about 44 km southwest of Daajing Giids, BC or 44 km south of Daajing Giids, BC. It occurred on May 10 at around 9:45 PM UTC."
-  },
-  {
     "timestamp_utc": "2026-05-12T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events reported in the last hour, but we had one event yesterday that measured M2.1 and was felt or noticed near La Malbaie in Quebec. The latest one occurred this morning around 6:30 AM local time. It's interesting to note most of these happenings are still unknown since the system is in its beta phase."
+  },
+  {
+    "timestamp_utc": "2026-06-02T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary for the PiQuake Canada dashboard: In the last hour, there were no events. Over the past 24 hours, we had one event with a magnitude of M2.12 felt in La Malbaie, Quebec and slightly to the southwest. That was the latest event too. Not much has been happening this week in terms of earthquakes."
   }
 ]
