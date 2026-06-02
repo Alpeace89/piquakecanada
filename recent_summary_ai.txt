@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event was a magnitude unknown, happening at an unknown location and time. Recently, we had a M1.33 quake about 38 km west-northwest of Maniwaki, QC. It happened on May 31st around 11:55 PM.
+Here's a quick summary of the PiQuake Canada dashboard in plain terms for you folks. No events were recorded last hour or day, and the largest event was M1.33 about 38 km away from Maniwaki, Quebec at around 2026-05-31T23:55:17Z. That's it folks, that’s all we’ve got for now.
