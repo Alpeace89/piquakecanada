@@ -402,6 +402,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260524.1854001,2026-05-24T18:54:13.000Z,60.5536,-139.724,1.0,ML,2.59,"123 km W of Haines Junction, YT/123 km O de Haines Junction, YT"
 20260525.0240001,2026-05-25T02:40:51.000Z,54.5818,-118.5802,1.0,MLy,2.34,"Suspected industry-related event, 67 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 67 km SSE de Grande Prairie, AB"
 20260525.0310001,2026-05-25T03:10:14.000Z,60.5432,-139.8575,5.0,ML,2.26,"130 km W of Haines Junction, YT/130 km O de Haines Junction, YT"
+20260525.0626001,2026-05-25T06:26:24.000Z,72.5466,-71.2788,18.0,ML,2.25,"222 km E of Pond Inlet, NU/222 km E de Pond Inlet, NU"
+20260525.1032001,2026-05-25T10:32:03.000Z,45.0549,-74.1659,9.0,MwN,1.26,"3 km S of Huntingdon, QC/3 km S de Huntingdon, QC"
 20260525.1134001,2026-05-25T11:34:53.000Z,54.5569,-118.595,1.0,MLy,2.76,"Suspected industry-related event, 69 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 69 km S de Grande Prairie, AB"
 20260525.1216001,2026-05-25T12:16:21.000Z,60.2306,-140.7344,5.0,ML,2.13,"186 km WSW of Haines Junction, YT/186 km OSO de Haines Junction, YT"
 20260525.1311001,2026-05-25T13:11:55.000Z,60.4982,-139.9674,5.0,ML1,1.21,"137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
@@ -469,3 +471,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260531.0946001,2026-05-31T09:46:23.000Z,50.648,-120.522,1.1,ML,2.61,"Mining event, 13 km WSW of Kamloops, BC/Événement minier, 13 km OSO de Kamloops, BC"
 20260531.2103001,2026-05-31T21:03:36.000Z,50.4982,-130.2457,10.0,Mw',2.71,"195 km W of Port Hardy, BC/195 km O de Port Hardy, BC"
 20260531.2355001,2026-05-31T23:55:17.000Z,46.5695,-76.3899,10.83,MwN,1.33,"38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC"
+20260602.0633001,2026-06-02T06:33:52.000Z,47.4828,-70.215,17.94,MwN,2.1,"19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti"

@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-02T06:33:52.000Z",
+    "magnitude": "2.1",
+    "depth_km": "17.94",
+    "place": "19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti"
+  },
+  {
     "time_utc": "2026-05-31T23:55:17.000Z",
     "magnitude": "1.33",
     "depth_km": "10.83",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "0.08",
     "depth_km": "14.02",
     "place": "3 km NNE of La Malbaie, QC/3 km NNE de La Malbaie, QC"
-  },
-  {
-    "time_utc": "2026-05-30T02:02:59.000Z",
-    "magnitude": "2.95",
-    "depth_km": "10.0",
-    "place": "467 km WSW of Whitehorse, YT/467 km OSO de Whitehorse, YT"
   }
 ];

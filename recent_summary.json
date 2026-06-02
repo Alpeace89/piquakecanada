@@ -1,24 +1,49 @@
 {
-  "generated_utc": "2026-06-02T13:03:01Z",
+  "generated_utc": "2026-06-02T14:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 470,
-  "events_last_24h": 0,
+  "rolling_window_event_count": 473,
+  "events_last_24h": 1,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260531.2355001",
-    "time_utc": "2026-05-31T23:55:17.000Z",
-    "latitude": 46.5695,
-    "longitude": -76.3899,
-    "depth_km": 10.83,
+    "event_id": "20260602.0633001",
+    "time_utc": "2026-06-02T06:33:52.000Z",
+    "latitude": 47.4828,
+    "longitude": -70.215,
+    "depth_km": 17.94,
     "mag_type": "MwN",
-    "magnitude": 1.33,
-    "place": "38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC",
-    "region": "QC"
+    "magnitude": 2.1,
+    "place": "19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti",
+    "region": "Unknown"
   },
-  "largest_event_last_24h": null,
-  "deepest_event_last_24h": null,
-  "top_regions_last_24h": [],
-  "summary_text": "As of 2026-06-02 13:03 UTC, the recent Canada earthquake dataset contains 470 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M1.33 at 38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC at 2026-05-31T23:55:17.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "largest_event_last_24h": {
+    "event_id": "20260602.0633001",
+    "time_utc": "2026-06-02T06:33:52.000Z",
+    "latitude": 47.4828,
+    "longitude": -70.215,
+    "depth_km": 17.94,
+    "mag_type": "MwN",
+    "magnitude": 2.1,
+    "place": "19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti",
+    "region": "Unknown"
+  },
+  "deepest_event_last_24h": {
+    "event_id": "20260602.0633001",
+    "time_utc": "2026-06-02T06:33:52.000Z",
+    "latitude": 47.4828,
+    "longitude": -70.215,
+    "depth_km": 17.94,
+    "mag_type": "MwN",
+    "magnitude": 2.1,
+    "place": "19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti",
+    "region": "Unknown"
+  },
+  "top_regions_last_24h": [
+    {
+      "region": "Unknown",
+      "count": 1
+    }
+  ],
+  "summary_text": "As of 2026-06-02 14:03 UTC, the recent Canada earthquake dataset contains 473 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.1 at 19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti. The deepest event reached 17.94 km at 19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti. The most recent listed event was M2.1 at 19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti at 2026-06-02T06:33:52.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was Unknown."
 }
