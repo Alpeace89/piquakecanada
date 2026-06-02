@@ -1,1 +1,1 @@
-For the past 24 hours, there haven't been any recorded earthquakes on our PiQuake Canada dashboard. The largest one was a small M1.33 that happened near Maniwaki and ONO de Maniwaki in Quebec. It's all pretty quiet so far this week.
+The PiQuake Canada dashboard is currently in beta and hasn't recorded any earthquake events over the last 24 hours. The largest event seen was a M1.33, which happened about 38 km away from Maniwaki, Quebec at night on May 31st. It's all good though, no big shakes to report today.
