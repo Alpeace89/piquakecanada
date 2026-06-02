@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "Suspected industry-related event, 55 km W of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 55 km O de Prespatou, BC"
   },
   {
+    "time_utc": "2026-06-02T10:26:40.000Z",
+    "magnitude": "2.27",
+    "depth_km": "16.5",
+    "place": "149 km SSE of Daajing Giids, BC/149 km SSE de Daajing Giids, BC"
+  },
+  {
     "time_utc": "2026-06-02T08:17:26.000Z",
     "magnitude": "2.59",
     "depth_km": "1.0",
@@ -16,6 +22,12 @@ window.recentEvents = [
     "magnitude": "2.12",
     "depth_km": "17.86",
     "place": "19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti"
+  },
+  {
+    "time_utc": "2026-06-02T06:05:45.000Z",
+    "magnitude": "2.53",
+    "depth_km": "1.0",
+    "place": "130 km W of Haines Junction, YT/130 km O de Haines Junction, YT"
   },
   {
     "time_utc": "2026-06-02T05:17:01.000Z",
@@ -30,33 +42,21 @@ window.recentEvents = [
     "place": "139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
   },
   {
+    "time_utc": "2026-06-01T12:40:09.000Z",
+    "magnitude": "2.22",
+    "depth_km": "10.0",
+    "place": "75 km SSW of Houpsitas 6, BC/75 km SSO de Houpsitas 6, BC"
+  },
+  {
+    "time_utc": "2026-06-01T11:03:36.000Z",
+    "magnitude": "2.41",
+    "depth_km": "5.0",
+    "place": "134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-06-01T11:02:30.000Z",
     "magnitude": "3.58",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 64 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 64 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-01T08:59:20.000Z",
-    "magnitude": "2.49",
-    "depth_km": "10.0",
-    "place": "72 km SSW of Houpsitas 6, BC/72 km SSO de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-06-01T06:50:43.000Z",
-    "magnitude": "2.57",
-    "depth_km": "15.4",
-    "place": "61 km W of Daajing Giids, BC/61 km O de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-01T03:11:40.000Z",
-    "magnitude": "2.82",
-    "depth_km": "10.0",
-    "place": "74 km SSW of Houpsitas 6, BC/74 km SSO de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-06-01T01:40:40.000Z",
-    "magnitude": "2.5",
-    "depth_km": "5.0",
-    "place": "69 km SSE of Haines Junction, YT/69 km SSE de Haines Junction, YT"
   }
 ];
