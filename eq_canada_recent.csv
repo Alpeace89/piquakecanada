@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260418.0417001,2026-04-18T04:17:39.000Z,53.288,-132.9899,15.49,ML,1.67,"60 km W of Daajing Giids, BC/60 km O de Daajing Giids, BC"
 20260418.0631001,2026-04-18T06:31:16.000Z,54.8399,-118.7658,1.58,MLy,2.1,"Suspected industry-related event, 37 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 37 km S de Grande Prairie, AB"
 20260418.0847001,2026-04-18T08:47:17.000Z,60.5101,-139.8227,1.0,ML,2.84,"129 km W of Haines Junction, YT/129 km O de Haines Junction, YT"
 20260418.1150001,2026-04-18T11:50:41.000Z,48.9169,-85.0664,2.0,MwN,1.5,"13 km NNW of Sugar Zone Mine, ON/13 km NNO de la mine Sugar Zone, ON"
