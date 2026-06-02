@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-12T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no recorded quakes on our PiQuake Canada dashboard. The largest one was a M4.04 near Daajing Giids in British Columbia. That's the latest update we have without any new activity to report."
-  },
-  {
     "timestamp_utc": "2026-05-12T21:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary for the PiQuake Canada dashboard: In the last hour, there were no events. Over the past 24 hours, we had one event with a magnitude of M2.12 felt in La Malbaie, Quebec and slightly to the southwest. That was the latest event too. Not much has been happening this week in terms of earthquakes."
+  },
+  {
+    "timestamp_utc": "2026-06-02T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no seismic events in the last hour, but we had one event yesterday—magnitude M2.12 under La Malbaie, QC, felt and resented by people who were 19 kilometers south-southwest or directly southeast of where it occurred. It happened on June 2nd at around 6:34 AM in the morning time zone."
   }
 ]
