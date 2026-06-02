@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260418.2156004,2026-04-18T21:56:33.000Z,53.9389,-113.4074,1.69,MLy,4.15,"Industry-related event, 12 km WNW of Sturgeon County, AB, felt/Événement lié à l'industrie, 12 km ONO de Sturgeon County, AB, ressenti"
 20260419.1057001,2026-04-19T10:57:56.000Z,49.273,-67.1726,17.24,MwN,1.24,"40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"
 20260419.1141001,2026-04-19T11:41:07.000Z,53.9284,-113.4097,1.0,MLy,2.77,"Suspected industry-related event, 12 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB"
 20260419.1250001,2026-04-19T12:50:27.000Z,60.5281,-140.0194,1.0,ML,3.34,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
@@ -463,7 +462,9 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260529.1846001,2026-05-29T18:46:30.000Z,60.5027,-140.0862,5.0,ML,1.86,"143 km W of Haines Junction, YT/143 km O de Haines Junction, YT"
 20260529.1911001,2026-05-29T19:11:09.000Z,53.0856,-132.6348,13.57,ML,2.25,"41 km WSW of Daajing Giids, BC/41 km OSO de Daajing Giids, BC"
 20260530.0202001,2026-05-30T02:02:59.000Z,58.3362,-141.9422,10.0,ML,2.95,"467 km WSW of Whitehorse, YT/467 km OSO de Whitehorse, YT"
+20260530.0752001,2026-05-30T07:52:34.000Z,65.9833,-135.3477,5.0,ML,2.43,"163 km S of Fort McPherson, NT/163 km S de Fort McPherson, NT"
 20260530.0756001,2026-05-30T07:56:41.000Z,47.6807,-70.1399,14.02,MwN,0.08,"3 km NNE of La Malbaie, QC/3 km NNE de La Malbaie, QC"
+20260530.0941001,2026-05-30T09:41:28.000Z,52.5095,-131.9112,22.18,ML,2.14,"84 km S of Daajing Giids, BC/84 km S de Daajing Giids, BC"
 20260530.1342001,2026-05-30T13:42:31.000Z,60.5119,-139.8926,1.0,ML,2.71,"133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
 20260530.1528001,2026-05-30T15:28:54.000Z,49.041,-67.5319,18.0,MwN,0.18,"21 km N of Matane, QC/21 km N de Matane, QC"
 20260530.1603001,2026-05-30T16:03:13.000Z,47.4116,-70.3295,11.65,MwN,0.67,"14 km ESE of Baie-Saint-Paul, QC/14 km ESE de Baie-Saint-Paul, QC"
@@ -471,6 +472,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260530.2139002,2026-05-30T21:39:20.000Z,70.9534,-132.224,25.0,ML,4.02,"170 km N of Tuktoyaktuk, NT/170 km N de Tuktoyaktuk, NT"
 20260531.0056001,2026-05-31T00:56:26.000Z,54.517,-118.4603,2.19,MLy,2.78,"Suspected industry-related event, 76 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 76 km SSE de Grande Prairie, AB"
 20260531.0946001,2026-05-31T09:46:23.000Z,50.648,-120.522,1.1,ML,2.61,"Mining event, 13 km WSW of Kamloops, BC/Événement minier, 13 km OSO de Kamloops, BC"
+20260531.1202001,2026-05-31T12:02:31.000Z,59.1803,-138.66,5.0,ML,2.69,"186 km SSW of Haines Junction, YT/186 km SSO de Haines Junction, YT"
 20260531.2103001,2026-05-31T21:03:36.000Z,50.4982,-130.2457,10.0,Mw',2.71,"195 km W of Port Hardy, BC/195 km O de Port Hardy, BC"
 20260531.2155001,2026-05-31T21:55:17.000Z,50.6038,-130.4329,10.0,Mw',2.67,"207 km W of Port Hardy, BC/207 km O de Port Hardy, BC"
 20260531.2355001,2026-05-31T23:55:17.000Z,46.5695,-76.3899,10.83,MwN,1.33,"38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC"
@@ -493,3 +495,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260602.0844001,2026-06-02T08:44:26.000Z,48.5511,-122.6314,16.14,ML,2.43,"26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA"
 20260602.1026001,2026-06-02T10:26:40.000Z,52.0015,-131.3169,16.5,ML,2.27,"149 km SSE of Daajing Giids, BC/149 km SSE de Daajing Giids, BC"
 20260602.1704001,2026-06-02T17:04:18.000Z,56.8685,-121.9432,5.0,MLy,2.75,"Suspected industry-related event, 55 km W of Prespatou, BC/Événement lié à l'industrie soupconné, 55 km O de Prespatou, BC"
+20260602.2054001,2026-06-02T20:54:58.000Z,54.597,-118.5275,3.59,MLy,3.59,"Suspected industry-related event, 66 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 66 km SSE de Grande Prairie, AB"
