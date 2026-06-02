@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-12T12:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the last hour and day, there haven't been any earthquakes recorded. The largest event in the past 24 hours was an unknown magnitude happening at an unknown location at an unknown time. Not long ago, a M4.04 earthquake occurred near Daajing Giids, BC, yesterday evening around 10 PM."
-  },
-  {
     "timestamp_utc": "2026-05-12T13:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and there's also nothing big happening right now. The latest event was a small one measuring M1.33 near Maniwaki, QC/ON area on May 31st around 11:55 PM."
+  },
+  {
+    "timestamp_utc": "2026-06-02T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event was a magnitude unknown, happening at an unknown location and time. Recently, we had a M1.33 quake about 38 km west-northwest of Maniwaki, QC. It happened on May 31st around 11:55 PM."
   }
 ]
