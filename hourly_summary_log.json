@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-12T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary for the PiQuake Canada dashboard beta version: No events recorded in the last hour. The only event from yesterday was a M4.04 quake, located 44 km southwest of Daajing Giids and another 44 km southeast. This is the latest activity reported by our system so far."
-  },
-  {
     "timestamp_utc": "2026-05-12T07:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event was a M1.33 which happened 38 km west-northwest of Maniwaki, Quebec and 38 km north of it in Ontario. It occurred around 11:55 PM last night UTC time."
+  },
+  {
+    "timestamp_utc": "2026-06-02T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest one recorded was a tiny M1.33 near Maniwaki and Ottawa area in Quebec, which happened at about 11:55 PM on May 31st."
   }
 ]
