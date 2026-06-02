@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-12T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The largest one we know of was a M4.04 near Daajing Giids in British Columbia. That happened about 22 hours ago at around 9:45 PM local time."
-  },
-  {
     "timestamp_utc": "2026-05-12T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary of the PiQuake Canada dashboard in plain terms: No events recorded in the last hour or day. The largest event was unknown magnitude at an unknown location, happening around midnight yesterday. That’s it folks—nothing newsworthy since then either."
+  },
+  {
+    "timestamp_utc": "2026-06-02T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the past 24 hours, there haven't been any recorded earthquakes on our PiQuake Canada dashboard. The largest one was a small M1.33 that happened near Maniwaki and ONO de Maniwaki in Quebec. It's all pretty quiet so far this week."
   }
 ]
