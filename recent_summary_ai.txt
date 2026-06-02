@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day, and there's an event with a magnitude of M1.33 that happened on May 31st at about 11:55 PM local time near Maniwaki, Quebec. That's all from our latest update.
+The PiQuake Canada dashboard shows no events in the last hour or day, and there's also nothing big happening right now. The latest event was a small one measuring M1.33 near Maniwaki, QC/ON area on May 31st around 11:55 PM.
