@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a M1.33 near Maniwaki, QC and nearby parts of Ontario, happening on May 31st at around 11 PM ET. Nothing significant has been detected lately.
+In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event was a M1.33 which happened 38 km west-northwest of Maniwaki, Quebec and 38 km north of it in Ontario. It occurred around 11:55 PM last night UTC time.

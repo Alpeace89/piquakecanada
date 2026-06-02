@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260418.0056001,2026-04-18T00:56:38.000Z,49.2452,-119.9478,1.0,ML,2.05,"10 km WNW of Keremeos, BC/10 km ONO de Keremeos, BC"
-20260418.0057001,2026-04-18T00:57:53.000Z,49.2454,-119.9444,5.0,ML,2.43,"9 km WNW of Keremeos, BC/9 km ONO de Keremeos, BC"
 20260418.0334002,2026-04-18T03:34:47.000Z,55.9716,-120.3,1.0,MLy,2.08,"13 km NW of Rolla, BC/13 km NO de Rolla, BC"
 20260418.0417001,2026-04-18T04:17:39.000Z,53.288,-132.9899,15.49,ML,1.67,"60 km W of Daajing Giids, BC/60 km O de Daajing Giids, BC"
 20260418.0631001,2026-04-18T06:31:16.000Z,54.8399,-118.7658,1.58,MLy,2.1,"Suspected industry-related event, 37 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 37 km S de Grande Prairie, AB"

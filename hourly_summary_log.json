@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-12T05:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there have been no recorded events on the PiQuake Canada dashboard. The largest event was a M4.04, which happened 44 km southwest of Daajing Giids in British Columbia at about 10 PM on May 10th. It's good to know we've had a quiet period so far."
-  },
-  {
     "timestamp_utc": "2026-05-12T06:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a M1.33 near Maniwaki, QC and nearby parts of Ontario, happening on May 31st at around 11 PM ET. Nothing significant has been detected lately."
+  },
+  {
+    "timestamp_utc": "2026-06-02T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event was a M1.33 which happened 38 km west-northwest of Maniwaki, Quebec and 38 km north of it in Ontario. It occurred around 11:55 PM last night UTC time."
   }
 ]
