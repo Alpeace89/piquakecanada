@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-13T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the PiQuake Canada dashboard in beta right now, we've had no events recorded for the last hour and no events reported in the last 24 hours either. The largest event yesterday was an unknown magnitude happening at an unknown location. We did have one recent quakie though, a M4.04 near Daajing Giids in British Columbia that happened on May 10th around 10:45 PM."
-  },
-  {
     "timestamp_utc": "2026-05-13T01:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were six minor quakes reported in the past 24 hours. The largest one was a M2.75 earthquake suspected to be related to industry, about 55 km west of Prespatou in British Columbia, happening at around 5:04 PM on June 2nd. This is where our dashboard got its latest update."
+  },
+  {
+    "timestamp_utc": "2026-06-02T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were seven reported events yesterday. The largest event was a M2.75 near Prespatou, BC linked to industry, happening about an hour ago. This region has seen activity with Yukon having three reports and British Columbia two."
   }
 ]

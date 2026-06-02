@@ -12,6 +12,12 @@ window.recentEvents = [
     "place": "149 km SSE of Daajing Giids, BC/149 km SSE de Daajing Giids, BC"
   },
   {
+    "time_utc": "2026-06-02T08:44:26.000Z",
+    "magnitude": "2.43",
+    "depth_km": "16.14",
+    "place": "26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA"
+  },
+  {
     "time_utc": "2026-06-02T08:17:26.000Z",
     "magnitude": "2.59",
     "depth_km": "1.0",
@@ -36,6 +42,12 @@ window.recentEvents = [
     "place": "128 km WSW of Haines Junction, YT/128 km OSO de Haines Junction, YT"
   },
   {
+    "time_utc": "2026-06-01T13:03:42.000Z",
+    "magnitude": "2.89",
+    "depth_km": "5.0",
+    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-06-01T12:53:40.000Z",
     "magnitude": "3.57",
     "depth_km": "5.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.22",
     "depth_km": "10.0",
     "place": "75 km SSW of Houpsitas 6, BC/75 km SSO de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-06-01T11:03:36.000Z",
-    "magnitude": "2.41",
-    "depth_km": "5.0",
-    "place": "134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-01T11:02:30.000Z",
-    "magnitude": "3.58",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 64 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 64 km SSE de Grande Prairie, AB"
   }
 ];
