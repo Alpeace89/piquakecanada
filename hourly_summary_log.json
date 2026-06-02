@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-12T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard hasn't logged any earthquakes in the last hour or day. The largest event recorded was a magnitude unknown earthquake at an unknown location, and there's no latest event reported yet. It seems we've been quiet with seismic activity here in BC."
-  },
-  {
     "timestamp_utc": "2026-05-12T08:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest one recorded was a tiny M1.33 near Maniwaki and Ottawa area in Quebec, which happened at about 11:55 PM on May 31st."
+  },
+  {
+    "timestamp_utc": "2026-06-02T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the last hour, there haven't been any earthquakes recorded. In the past 24 hours, we still didn't see any shakes either. The largest one we tracked was a little under M1 magnitude from an unknown location and time. We've got nothing to report from that area right now; it happened in Maniwaki, Quebec, about 38 km west-northwest of where the last event took place."
   }
 ]
