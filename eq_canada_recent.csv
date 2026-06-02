@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260417.2310001,2026-04-17T23:10:46.000Z,45.7592,-76.3604,11.42,MwN,1.77,"12 km SSE of Otter Lake, QC/12 km SSE de Otter Lake, QC"
 20260418.0056001,2026-04-18T00:56:38.000Z,49.2452,-119.9478,1.0,ML,2.05,"10 km WNW of Keremeos, BC/10 km ONO de Keremeos, BC"
 20260418.0057001,2026-04-18T00:57:53.000Z,49.2454,-119.9444,5.0,ML,2.43,"9 km WNW of Keremeos, BC/9 km ONO de Keremeos, BC"
 20260418.0334002,2026-04-18T03:34:47.000Z,55.9716,-120.3,1.0,MLy,2.08,"13 km NW of Rolla, BC/13 km NO de Rolla, BC"

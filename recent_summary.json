@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-06-01T23:03:01Z",
+  "generated_utc": "2026-06-02T00:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 478,
-  "events_last_24h": 1,
+  "rolling_window_event_count": 477,
+  "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -17,33 +17,8 @@
     "place": "38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC",
     "region": "QC"
   },
-  "largest_event_last_24h": {
-    "event_id": "20260531.2355001",
-    "time_utc": "2026-05-31T23:55:17.000Z",
-    "latitude": 46.5695,
-    "longitude": -76.3899,
-    "depth_km": 10.83,
-    "mag_type": "MwN",
-    "magnitude": 1.33,
-    "place": "38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC",
-    "region": "QC"
-  },
-  "deepest_event_last_24h": {
-    "event_id": "20260531.2355001",
-    "time_utc": "2026-05-31T23:55:17.000Z",
-    "latitude": 46.5695,
-    "longitude": -76.3899,
-    "depth_km": 10.83,
-    "mag_type": "MwN",
-    "magnitude": 1.33,
-    "place": "38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC",
-    "region": "QC"
-  },
-  "top_regions_last_24h": [
-    {
-      "region": "QC",
-      "count": 1
-    }
-  ],
-  "summary_text": "As of 2026-06-01 23:03 UTC, the recent Canada earthquake dataset contains 478 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.33 at 38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC. The deepest event reached 10.83 km at 38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC. The most recent listed event was M1.33 at 38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC at 2026-05-31T23:55:17.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
+  "largest_event_last_24h": null,
+  "deepest_event_last_24h": null,
+  "top_regions_last_24h": [],
+  "summary_text": "As of 2026-06-02 00:03 UTC, the recent Canada earthquake dataset contains 477 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M1.33 at 38 km WNW of Maniwaki, QC/38 km ONO de Maniwaki, QC at 2026-05-31T23:55:17.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }
