@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-13T05:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest recorded event was a M4.04 near Daajing Giids in British Columbia. This occurred on May 10th at around 10:45 PM UTC. It's like having a weather app that doesn't show any storm clouds or rain for the whole day, even though it might have happened somewhere out there."
-  },
-  {
     "timestamp_utc": "2026-05-13T06:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour but had eight suspected industry-related quakes in the last 24 hours, with the largest being a M3.59 near Grande Prairie, AB. This is the latest event as well. The top regions where these quakes occurred are Yukon Territory, British Columbia, and an unknown location."
+  },
+  {
+    "timestamp_utc": "2026-06-03T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of eight quakes detected by our PiQuake Canada dashboard. The largest one was a M3.59 and it seemed to be related to an industry somewhere near Grande Prairie in Alberta. This is not the first time something like this has happened; there have been three in Yukon and two in British Columbia in the last 24 hours too, with one event happening in an unknown location."
   }
 ]
