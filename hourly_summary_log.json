@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-13T20:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of four earthquakes monitored by our PiQuake Canada dashboard. The largest one was a M3.95 near Skidegate in British Columbia, which people felt and some reported resonance effects. More recently, another M3.25 quake hit around Port Hardy in BC early this afternoon. Our coverage so far has been primarily from the western parts of Canada with events in BC and Alaska, but we're seeing more activity now extending a bit into the east coast under \"Unknown\" as well."
-  },
-  {
     "timestamp_utc": "2026-05-13T21:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes were detected in the last hour, but there were two events recorded yesterday. The largest event was a M3.59 and it appeared to be an industry-related quake near Grande Prairie, Alberta. It happened about 66 km south-southeast of that city on June 2nd at around 8:54 PM UTC."
+  },
+  {
+    "timestamp_utc": "2026-06-03T16:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary for the PiQuake Canada dashboard: In the last 24 hours, we had two minor seismic events. The biggest one was a M3.59 and it happened near Grande Prairie in Alberta. It was suspected to be an industrial-related event. This is just like when you hear about a small rumble under your house - it's not from an earthquake, but something else causing a little shake. It's been happening more often in British Columbia as well this week."
   }
 ]
