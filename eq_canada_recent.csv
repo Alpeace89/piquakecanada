@@ -489,4 +489,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260602.1704001,2026-06-02T17:04:18.000Z,56.8685,-121.9432,5.0,MLy,2.75,"Suspected industry-related event, 55 km W of Prespatou, BC/Événement lié à l'industrie soupconné, 55 km O de Prespatou, BC"
 20260602.2054001,2026-06-02T20:54:58.000Z,54.597,-118.5275,3.59,MLy,3.59,"Suspected industry-related event, 66 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 66 km SSE de Grande Prairie, AB"
 20260603.0302001,2026-06-03T03:02:11.000Z,48.8097,-128.9756,10.0,Mw',2.66,"238 km SSW of Port Hardy, BC/238 km SSO de Port Hardy, BC"
+20260603.0449001,2026-06-03T04:49:47.000Z,66.7141,-135.7665,10.0,ML,3.11,"89 km SSW of Fort McPherson, NT/89 km SSO de Fort McPherson, NT"
 20260603.1333001,2026-06-03T13:33:03.000Z,60.6029,-140.1324,1.0,ML,3.52,"104 km SW of Burwash Landing, YT/104 km SO de Burwash Landing, YT"

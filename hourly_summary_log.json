@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-14T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had a total of six earthquakes monitored by our PiQuake Canada dashboard. The largest event was a M3.51 near Daajing Giids in British Columbia and its neighbor to the west. Just yesterday afternoon, another shake measuring M3.09 occurred about 207 km south of Fort McPherson, Northwest Territories. BC, NT, and AK have been the top regions with activity over this period."
-  },
-  {
     "timestamp_utc": "2026-05-14T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three recorded events. The largest one was a M3.59 near Grande Prairie, Alberta, linked to industry activities. That's in addition to an M3.52 shake around Burwash Landing in Yukon Territory earlier today. It's all happening in regions like Alberta and Yukon."
+  },
+  {
+    "timestamp_utc": "2026-06-03T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've seen four quakes on our dashboard. The biggest one was a M3.59 near Grande Prairie in Alberta. That's an industry-related event that happened about 66 km to the southeast of where they're at. Today, we also had a smaller one at M3.52 around Burwash Landing in the Yukon Territory, which is 104 kilometers southwest of there. Both are quite small and not much to worry about, but it's always good to keep an eye on these things."
   }
 ]

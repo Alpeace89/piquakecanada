@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "104 km SW of Burwash Landing, YT/104 km SO de Burwash Landing, YT"
   },
   {
+    "time_utc": "2026-06-03T04:49:47.000Z",
+    "magnitude": "3.11",
+    "depth_km": "10.0",
+    "place": "89 km SSW of Fort McPherson, NT/89 km SSO de Fort McPherson, NT"
+  },
+  {
     "time_utc": "2026-06-03T03:02:11.000Z",
     "magnitude": "2.66",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.53",
     "depth_km": "1.0",
     "place": "130 km W of Haines Junction, YT/130 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-02T05:17:01.000Z",
-    "magnitude": "2.75",
-    "depth_km": "1.0",
-    "place": "128 km WSW of Haines Junction, YT/128 km OSO de Haines Junction, YT"
   }
 ];
