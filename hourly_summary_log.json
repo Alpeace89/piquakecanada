@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-13T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had no events reported in our beta dashboard, but things got interesting with a total of six quakes. The largest one was a M3.51 near Daajing Giids, BC, and the most recent event clocked at M3.09 about 207 km south of Fort McPherson, NT. So there you have it, folks—our Canada PiQuake dashboard keeps watchin' for any shakes in the Great White North!"
-  },
-  {
     "timestamp_utc": "2026-05-13T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two events on our PiQuake Canada dashboard. The largest one was a M3.59 and it happened near Grande Prairie in Alberta. This event is suspected to be related to industry work. It's the first time we've seen an industry-related event since this dashboard went live. Most of the activity has been in British Columbia and Alberta, but that's where our latest event came from as well."
+  },
+  {
+    "timestamp_utc": "2026-06-03T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major events reported. However, we saw a M3.59 event suspected to be industry-related near Grande Prairie in Alberta, and a smaller M2.66 event spotted in British Columbia. These are part of our beta dashboard showing current activity across Canada."
   }
 ]

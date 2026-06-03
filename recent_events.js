@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-03T03:02:11.000Z",
+    "magnitude": "2.66",
+    "depth_km": "10.0",
+    "place": "238 km SSW of Port Hardy, BC/238 km SSO de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-06-02T20:54:58.000Z",
     "magnitude": "3.59",
     "depth_km": "3.59",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.19",
     "depth_km": "15.7",
     "place": "57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-01T13:03:42.000Z",
-    "magnitude": "2.89",
-    "depth_km": "5.0",
-    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
   }
 ];
