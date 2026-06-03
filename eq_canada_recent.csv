@@ -498,3 +498,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260603.1045001,2026-06-03T10:45:54.000Z,50.5963,-130.3742,10.0,Mw',2.6,"203 km W of Port Hardy, BC/203 km O de Port Hardy, BC"
 20260603.1051001,2026-06-03T10:51:42.000Z,50.5513,-130.3521,10.0,Mw',2.58,"202 km W of Port Hardy, BC/202 km O de Port Hardy, BC"
 20260603.1333001,2026-06-03T13:33:03.000Z,60.6029,-140.1324,1.0,ML,3.52,"104 km SW of Burwash Landing, YT/104 km SO de Burwash Landing, YT"
+20260603.1740001,2026-06-03T17:40:33.000Z,54.8055,-118.6686,2.76,MLy,2.56,"Suspected industry-related event, 41 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 41 km SSE de Grande Prairie, AB"
