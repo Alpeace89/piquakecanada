@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-13T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour but had three events yesterday. The largest was a M3.95 near Skidegate, BC, felt and reported in both forms—26 km northeast of Skidegate, 1, BC. This was also the latest event on the dashboard. In the past 24 hours, Yukon, Alaska, and an unknown region had their share of quakes."
-  },
-  {
     "timestamp_utc": "2026-05-13T16:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey there! We've had a quiet couple of hours so far, with no major events to report. The latest one was a M3.59 event suspected to be caused by an industry nearby Grande Prairie in Alberta. It happened on June 2nd at around 8:55 PM local time. So far today, we saw two quakes in British Columbia and one in Alberta combined."
+  },
+  {
+    "timestamp_utc": "2026-06-03T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a short summary for the PiQuake Canada dashboard in plain Canadian English: For the past 24 hours, we've had no major seismic events. However, there have been two incidents reported under industry-related suspicion in northern Alberta close to Grande Prairie. The largest of these was a M3.59 quake spotted on June 2nd at around 8:55 PM local time. It's interesting to note that this is the latest and only event we've had in our dashboard during this period, which covers BC and AB regions."
   }
 ]

@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260419.1057001,2026-04-19T10:57:56.000Z,49.273,-67.1726,17.24,MwN,1.24,"40 km WNW of Cap-Chat, QC/40 km ONO de Cap-Chat, QC"
 20260419.1141001,2026-04-19T11:41:07.000Z,53.9284,-113.4097,1.0,MLy,2.77,"Suspected industry-related event, 12 km WNW of Sturgeon County, AB/Événement lié à l'industrie soupconné, 12 km ONO de Sturgeon County, AB"
 20260419.1250001,2026-04-19T12:50:27.000Z,60.5281,-140.0194,1.0,ML,3.34,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
 20260419.1315001,2026-04-19T13:15:41.000Z,44.6232,-57.1117,18.0,MwN,2.36,"294 km SE of Cape Breton, NS/294 km SE de Cape Breton, NS"
