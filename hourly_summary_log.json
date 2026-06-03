@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-13T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no events reported on our PiQuake Canada dashboard. But one of them had a magnitude of M3.95 near Skidegate, BC and was felt/resented by people. Since then, another event with a smaller magnitude of M3.25 occurred farther west in Port Hardy, BC. We've had three events tracked in total over the last 24 hours across different regions including British Columbia and Alaska."
-  },
-  {
     "timestamp_utc": "2026-05-13T20:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary of the PiQuake Canada dashboard for public facing beta users. In the last 24 hours, we had two events. The largest one was a M3.59 near Grande Prairie in Alberta, suspected to be related to an industry. That event happened on June 2nd around 10 PM. And it's been quiet as of now, no activity for quite some time. We're keeping an eye out though and tracking BC for any potential seismic events too."
+  },
+  {
+    "timestamp_utc": "2026-06-03T15:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes were detected in the last hour, but there were two events recorded yesterday. The largest event was a M3.59 and it appeared to be an industry-related quake near Grande Prairie, Alberta. It happened about 66 km south-southeast of that city on June 2nd at around 8:54 PM UTC."
   }
 ]
