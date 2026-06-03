@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-13T21:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three reports within a day. The biggest shake was a M3.51 near Daajing Giids, BC/BC, and another M3.25 event happened 201 km west-southwest of Port Hardy, BC. BC had two reports for the day while Alaska had one."
-  },
-  {
     "timestamp_utc": "2026-05-13T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary for the PiQuake Canada dashboard: In the last 24 hours, we had two minor seismic events. The biggest one was a M3.59 and it happened near Grande Prairie in Alberta. It was suspected to be an industrial-related event. This is just like when you hear about a small rumble under your house - it's not from an earthquake, but something else causing a little shake. It's been happening more often in British Columbia as well this week."
+  },
+  {
+    "timestamp_utc": "2026-06-03T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two events on our PiQuake Canada dashboard. The largest one was a M3.59 and it happened near Grande Prairie in Alberta. This event is suspected to be related to industry work. It's the first time we've seen an industry-related event since this dashboard went live. Most of the activity has been in British Columbia and Alberta, but that's where our latest event came from as well."
   }
 ]
