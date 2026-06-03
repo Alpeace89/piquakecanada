@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-13T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the past 24 hours, we've had six earthquakes in Canada. The biggest one was a M3.51 near Daajing Giids, BC/NT area at around 10:46 AM yesterday. In the last hour, there haven't been any quakes, but earlier today, we saw a M3.09 not far from Fort McPherson in the Northwest Territories. The top regions with activity were Alaska and British Columbia where two events each occurred within one day."
-  },
-  {
     "timestamp_utc": "2026-05-14T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major events reported. However, we saw a M3.59 event suspected to be industry-related near Grande Prairie in Alberta, and a smaller M2.66 event spotted in British Columbia. These are part of our beta dashboard showing current activity across Canada."
+  },
+  {
+    "timestamp_utc": "2026-06-03T19:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had three recorded events. The largest one was a M3.59 near Grande Prairie, Alberta, linked to industry activities. That's in addition to an M3.52 shake around Burwash Landing in Yukon Territory earlier today. It's all happening in regions like Alberta and Yukon."
   }
 ]
