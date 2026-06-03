@@ -6,6 +6,18 @@ window.recentEvents = [
     "place": "104 km SW of Burwash Landing, YT/104 km SO de Burwash Landing, YT"
   },
   {
+    "time_utc": "2026-06-03T10:51:42.000Z",
+    "magnitude": "2.58",
+    "depth_km": "10.0",
+    "place": "202 km W of Port Hardy, BC/202 km O de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-06-03T06:26:44.000Z",
+    "magnitude": "2.92",
+    "depth_km": "2.71",
+    "place": "Suspected industry-related event, 42 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 42 km S de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-06-03T04:49:47.000Z",
     "magnitude": "3.11",
     "depth_km": "10.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.59",
     "depth_km": "1.0",
     "place": "126 km W of Haines Junction, YT/126 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-02T06:33:52.000Z",
-    "magnitude": "2.12",
-    "depth_km": "17.86",
-    "place": "19 km SSW of La Malbaie, QC, felt/19 km SSO de La Malbaie, QC, ressenti"
-  },
-  {
-    "time_utc": "2026-06-02T06:05:45.000Z",
-    "magnitude": "2.53",
-    "depth_km": "1.0",
-    "place": "130 km W of Haines Junction, YT/130 km O de Haines Junction, YT"
   }
 ];
