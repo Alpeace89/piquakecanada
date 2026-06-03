@@ -48,15 +48,15 @@ window.recentEvents = [
     "place": "128 km WSW of Haines Junction, YT/128 km OSO de Haines Junction, YT"
   },
   {
+    "time_utc": "2026-06-01T19:04:49.000Z",
+    "magnitude": "2.19",
+    "depth_km": "15.7",
+    "place": "57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
+  },
+  {
     "time_utc": "2026-06-01T13:03:42.000Z",
     "magnitude": "2.89",
     "depth_km": "5.0",
     "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-01T12:53:40.000Z",
-    "magnitude": "3.57",
-    "depth_km": "5.0",
-    "place": "139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
   }
 ];
