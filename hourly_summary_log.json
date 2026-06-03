@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-13T12:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the PiQuake Canada dashboard in its beta phase, there's been no activity recorded so far. The last event was a minor shake with a magnitude of M4.04, happening around 44 km southwest or southeast of Daajing Giids, BC. That was back on May 10th at about 10:45 PM local time."
-  },
-  {
     "timestamp_utc": "2026-05-13T13:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were five events yesterday. The largest event was a M3.59 on June 2nd, suspected to be an industry-related event about 66 km southeast of Grande Prairie, AB. That's the latest and biggest thing we've seen so far this month."
+  },
+  {
+    "timestamp_utc": "2026-06-03T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the PiQuake Canada dashboard, we've had a quiet few days with no major seismic events. The largest one recorded was a M3.59 near Grande Prairie in Alberta yesterday evening, suspected to be related to industry work. It's been our first activity in this region for the last 24 hours, but not uncommon for BC and Yukon to experience more frequent small shakes."
   }
 ]
