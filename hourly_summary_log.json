@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-13T16:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there have been no earthquakes reported. However, a M3.95 quake was felt about 26 km northeast of Skidegate, BC, and another one with magnitude M3.51 occurred 66 km west of Daajing Giids, BC. These are the only quakes we've tracked in our Beta Canada dashboard since the last update."
-  },
-  {
     "timestamp_utc": "2026-05-13T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a short summary for the PiQuake Canada dashboard in plain Canadian English: For the past 24 hours, we've had no major seismic events. However, there have been two incidents reported under industry-related suspicion in northern Alberta close to Grande Prairie. The largest of these was a M3.59 quake spotted on June 2nd at around 8:55 PM local time. It's interesting to note that this is the latest and only event we've had in our dashboard during this period, which covers BC and AB regions."
+  },
+  {
+    "timestamp_utc": "2026-06-03T12:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two suspected industry-related quakes in the previous 24 hours. The largest was a M3.59, around 66 km southeast of Grande Prairie, Alberta. This is thought to be related to industrial activities, though we don't know exactly what caused it. That's all from just yesterday."
   }
 ]
