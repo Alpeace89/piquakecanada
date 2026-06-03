@@ -12,6 +12,30 @@ window.recentEvents = [
     "place": "202 km W of Port Hardy, BC/202 km O de Port Hardy, BC"
   },
   {
+    "time_utc": "2026-06-03T10:45:54.000Z",
+    "magnitude": "2.6",
+    "depth_km": "10.0",
+    "place": "203 km W of Port Hardy, BC/203 km O de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-06-03T10:40:09.000Z",
+    "magnitude": "2.46",
+    "depth_km": "10.0",
+    "place": "195 km W of Port Hardy, BC/195 km O de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-06-03T10:32:59.000Z",
+    "magnitude": "2.48",
+    "depth_km": "10.0",
+    "place": "205 km W of Port Hardy, BC/205 km O de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-06-03T08:29:05.000Z",
+    "magnitude": "2.84",
+    "depth_km": "1.0",
+    "place": "146 km WNW of Juneau, AK/146 km ONO de Juneau, AK"
+  },
+  {
     "time_utc": "2026-06-03T06:26:44.000Z",
     "magnitude": "2.92",
     "depth_km": "2.71",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "3.59",
     "depth_km": "3.59",
     "place": "Suspected industry-related event, 66 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 66 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-02T17:04:18.000Z",
-    "magnitude": "2.75",
-    "depth_km": "5.0",
-    "place": "Suspected industry-related event, 55 km W of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 55 km O de Prespatou, BC"
-  },
-  {
-    "time_utc": "2026-06-02T10:26:40.000Z",
-    "magnitude": "2.27",
-    "depth_km": "16.5",
-    "place": "149 km SSE of Daajing Giids, BC/149 km SSE de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-02T08:44:26.000Z",
-    "magnitude": "2.43",
-    "depth_km": "16.14",
-    "place": "26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA"
-  },
-  {
-    "time_utc": "2026-06-02T08:17:26.000Z",
-    "magnitude": "2.59",
-    "depth_km": "1.0",
-    "place": "126 km W of Haines Junction, YT/126 km O de Haines Junction, YT"
   }
 ];
