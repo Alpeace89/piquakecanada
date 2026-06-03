@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-13T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events recorded in the last hour or day. The largest event of unknown magnitude happened somewhere we don't know, but a minor one just occurred on May 10 at about 10 PM Pacific Time near Daajing Giids in British Columbia."
-  },
-  {
     "timestamp_utc": "2026-05-13T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey there, folks! We had a small shake last night with the largest event being a M3.59 near Grande Prairie in Alberta. It's suspected to be related to an industry operation. That was our only big one yesterday, and mostly we're seeing activity around Yukon Territory, British Columbia, and it seems like there might be some unknown origins as well."
+  },
+  {
+    "timestamp_utc": "2026-06-03T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of 8 events reported on our PiQuake Canada dashboard. The largest event was a M3.59 near Grande Prairie in Alberta and it's suspected to be an industry-related activity. This is the latest event as well. In that time, YT (Yellowknife area) had three reports, BC (British Columbia) had two, and one event's origin could not be determined."
   }
 ]
