@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-13T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the last 24 hours, there haven't been any earthquakes reported on our PiQuake Canada dashboard. The largest one was a M4.04 that happened 44 km southwest or south of Daajing Giids in British Columbia around 10:45 PM on May 10th."
-  },
-  {
     "timestamp_utc": "2026-05-13T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of 8 events reported on our PiQuake Canada dashboard. The largest event was a M3.59 near Grande Prairie in Alberta and it's suspected to be an industry-related activity. This is the latest event as well. In that time, YT (Yellowknife area) had three reports, BC (British Columbia) had two, and one event's origin could not be determined."
+  },
+  {
+    "timestamp_utc": "2026-06-03T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here’s a quick summary of the PiQuake Canada dashboard for you: In the last 24 hours, we had eight events reported. The biggest one was a M3.59 near Grande Prairie in Alberta, suspected to be an industry-related event. That's the latest and largest incident."
   }
 ]
