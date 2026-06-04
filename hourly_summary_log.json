@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-14T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two quakes recorded yesterday. The largest event was a M3.25 near Port Hardy in BC and another one not far away from Fort McPherson in the Northwest Territories. That's all for today on our dashboards."
-  },
-  {
     "timestamp_utc": "2026-05-14T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had six PiQuake Canada events. The largest one was a M3.52 near Burwash Landing in Yukon and Alberta. That's right after another event that measured M2.56 linked to industry activities in Grande Prairie. We're still exploring BC for its activity too."
+  },
+  {
+    "timestamp_utc": "2026-06-04T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two small tremors. The largest one was a M3.52 near Burwash Landing in the Yukon and Grande Prairie in Alberta. That's pretty tame stuff compared to what you might see elsewhere. In that same period, there were events recorded in both the Yukon and Alberta regions."
   }
 ]
