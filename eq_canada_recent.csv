@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260420.2030001,2026-04-20T20:30:06.000Z,52.7192,-132.3147,13.4,ML,1.94,"61 km SSW of Daajing Giids, BC/61 km SSO de Daajing Giids, BC"
 20260420.2108001,2026-04-20T21:08:13.000Z,48.7697,-128.913,10.0,Mw',2.96,"240 km SSW of Port Hardy, BC/240 km SSO de Port Hardy, BC"
 20260421.0113001,2026-04-21T01:13:03.000Z,52.782,-132.3558,19.09,ML,2.08,"56 km SSW of Daajing Giids, BC/56 km SSO de Daajing Giids, BC"
 20260421.0205001,2026-04-21T02:05:27.000Z,44.7098,-79.5945,5.0,MwN,0.9,"18 km NW of Orillia, ON/18 km NO de Orillia, ON"
