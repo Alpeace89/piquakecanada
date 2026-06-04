@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-15T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were nine recorded quakes yesterday. The largest one was a M3.75 near Holberg, BC at around 9:20 AM on May 14th. And just today, we had another quake with a magnitude of M3.17 about an hour after midnight in Port Hardy, BC. The top regions seeing the most activity are Yukon and British Columbia."
-  },
-  {
     "timestamp_utc": "2026-05-15T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had four minor seismic events. The largest one was a M3.75 near Hinton in Alberta, happening just after 7 PM yesterday. This is part of what our PiQuake Canada dashboard shows us—just a few small quakes to keep an eye on."
+  },
+  {
+    "timestamp_utc": "2026-06-04T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had four PiQuake Canada events. The largest one was a M3.75 near Hinton in Alberta. This happened just after midnight UTC on June 4th. It's been quiet around here with no activity for the past hour. We're seeing more action out West, mostly in British Columbia and Quebec provinces."
   }
 ]
