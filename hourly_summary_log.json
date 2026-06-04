@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-14T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the last 24 hours, we've seen a total of seven PiQuake Canada events. The biggest one was an M3.75 near Holberg in British Columbia at around 9:20 AM on May 14th. We also had another event yesterday afternoon that measured M2.92 and happened about 250 km southwest of Port Hardy, BC. Most of these events have been happening in the Yukon (3 times) and British Columbia regions (3 times). There hasn't been much activity recently as only one tiny quakie was recorded this hour."
-  },
-  {
     "timestamp_utc": "2026-05-14T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major seismic events detected. But we did see two minor quakes—both less than magnitude 3. The largest one was M2.56 and it happened near Grande Prairie in Alberta. A smaller one occurred near Lévis in Quebec earlier today at about 7:50 AM local time. That's what our PiQuake Canada dashboard is tracking, keeping Canadians updated on the latest seismic activity."
+  },
+  {
+    "timestamp_utc": "2026-06-04T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no big quakes reported in Canada. A M2.56 event was suspected to be industry-related near Grande Prairie in Alberta. The smallest quake of the day hit Lévis, Quebec at a magnitude of M1.02, about 16 km northeast from that city."
   }
 ]

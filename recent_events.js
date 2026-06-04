@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "16 km NE of L\u00e9vis, QC/16 km NE de L\u00e9vis, QC"
   },
   {
+    "time_utc": "2026-06-04T03:24:06.000Z",
+    "magnitude": "2.38",
+    "depth_km": "10.0",
+    "place": "169 km W of Tofino, BC/169 km O de Tofino, BC"
+  },
+  {
     "time_utc": "2026-06-03T17:40:33.000Z",
     "magnitude": "2.56",
     "depth_km": "2.76",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.92",
     "depth_km": "2.71",
     "place": "Suspected industry-related event, 42 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 42 km S de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-03T04:49:47.000Z",
-    "magnitude": "3.11",
-    "depth_km": "10.0",
-    "place": "89 km SSW of Fort McPherson, NT/89 km SSO de Fort McPherson, NT"
   }
 ];
