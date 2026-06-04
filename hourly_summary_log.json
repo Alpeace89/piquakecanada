@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-15T02:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had nine PiQuake Canada dashboard events. The biggest one was a M3.75 shake 84 km west-southwest of Holberg, BC. It's like when you're playing hide and seek and someone calls out your name from far away — it's pretty big but not that scary. Our latest event was even closer to home, just shy of Port Hardy in British Columbia. And guess what? Most of these quakes happened in Yukon Territory with four, followed by British Columbia with four too."
-  },
-  {
     "timestamp_utc": "2026-05-15T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had four little tremors. The largest one was a M3.75 near Hinton in Alberta—pretty quiet stuff but worth keeping an eye on. It happened around dinner time yesterday and there haven't been any more since then. Places like British Columbia, Quebec, and Alberta have felt the shakes."
+  },
+  {
+    "timestamp_utc": "2026-06-04T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had four minor seismic events. The largest one was a M3.75 near Hinton in Alberta, happening just after 7 PM yesterday. This is part of what our PiQuake Canada dashboard shows us—just a few small quakes to keep an eye on."
   }
 ]
