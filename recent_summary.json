@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-06-04T05:03:01Z",
+  "generated_utc": "2026-06-04T06:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 497,
   "events_last_24h": 8,
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-04 05:03 UTC, the recent Canada earthquake dataset contains 497 events from the current rolling window. In the last 24 hours, 8 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.52 at 104 km SW of Burwash Landing, YT/104 km SO de Burwash Landing, YT. The deepest event reached 10.00 km at 202 km W of Port Hardy, BC/202 km O de Port Hardy, BC. The most recent listed event was M2.56 at Suspected industry-related event, 41 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 41 km SSE de Grande Prairie, AB at 2026-06-03T17:40:33.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and AB (2)."
+  "summary_text": "As of 2026-06-04 06:03 UTC, the recent Canada earthquake dataset contains 497 events from the current rolling window. In the last 24 hours, 8 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.52 at 104 km SW of Burwash Landing, YT/104 km SO de Burwash Landing, YT. The deepest event reached 10.00 km at 202 km W of Port Hardy, BC/202 km O de Port Hardy, BC. The most recent listed event was M2.56 at Suspected industry-related event, 41 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 41 km SSE de Grande Prairie, AB at 2026-06-03T17:40:33.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and AB (2)."
 }
