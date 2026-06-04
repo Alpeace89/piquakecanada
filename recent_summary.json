@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-06-04T12:03:01Z",
+  "generated_utc": "2026-06-04T13:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 491,
-  "events_last_24h": 2,
+  "rolling_window_event_count": 490,
+  "events_last_24h": 3,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260603.1740001",
-    "time_utc": "2026-06-03T17:40:33.000Z",
-    "latitude": 54.8055,
-    "longitude": -118.6686,
-    "depth_km": 2.76,
-    "mag_type": "MLy",
-    "magnitude": 2.56,
-    "place": "Suspected industry-related event, 41 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 41 km SSE de Grande Prairie, AB",
-    "region": "AB"
+    "event_id": "20260604.0648001",
+    "time_utc": "2026-06-04T06:48:58.000Z",
+    "latitude": 46.8828,
+    "longitude": -71.0184,
+    "depth_km": 11.87,
+    "mag_type": "MwN",
+    "magnitude": 1.02,
+    "place": "16 km NE of Lévis, QC/16 km NE de Lévis, QC",
+    "region": "QC"
   },
   "largest_event_last_24h": {
     "event_id": "20260603.1333001",
@@ -29,15 +29,15 @@
     "region": "YT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260603.1740001",
-    "time_utc": "2026-06-03T17:40:33.000Z",
-    "latitude": 54.8055,
-    "longitude": -118.6686,
-    "depth_km": 2.76,
-    "mag_type": "MLy",
-    "magnitude": 2.56,
-    "place": "Suspected industry-related event, 41 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 41 km SSE de Grande Prairie, AB",
-    "region": "AB"
+    "event_id": "20260604.0648001",
+    "time_utc": "2026-06-04T06:48:58.000Z",
+    "latitude": 46.8828,
+    "longitude": -71.0184,
+    "depth_km": 11.87,
+    "mag_type": "MwN",
+    "magnitude": 1.02,
+    "place": "16 km NE of Lévis, QC/16 km NE de Lévis, QC",
+    "region": "QC"
   },
   "top_regions_last_24h": [
     {
@@ -47,7 +47,11 @@
     {
       "region": "AB",
       "count": 1
+    },
+    {
+      "region": "QC",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-04 12:03 UTC, the recent Canada earthquake dataset contains 491 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.52 at 104 km SW of Burwash Landing, YT/104 km SO de Burwash Landing, YT. The deepest event reached 2.76 km at Suspected industry-related event, 41 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 41 km SSE de Grande Prairie, AB. The most recent listed event was M2.56 at Suspected industry-related event, 41 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 41 km SSE de Grande Prairie, AB at 2026-06-03T17:40:33.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (1) and AB (1)."
+  "summary_text": "As of 2026-06-04 13:03 UTC, the recent Canada earthquake dataset contains 490 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.52 at 104 km SW of Burwash Landing, YT/104 km SO de Burwash Landing, YT. The deepest event reached 11.87 km at 16 km NE of Lévis, QC/16 km NE de Lévis, QC. The most recent listed event was M1.02 at 16 km NE of Lévis, QC/16 km NE de Lévis, QC at 2026-06-04T06:48:58.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (1) and AB (1)."
 }

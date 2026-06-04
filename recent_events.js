@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-04T06:48:58.000Z",
+    "magnitude": "1.02",
+    "depth_km": "11.87",
+    "place": "16 km NE of L\u00e9vis, QC/16 km NE de L\u00e9vis, QC"
+  },
+  {
     "time_utc": "2026-06-03T17:40:33.000Z",
     "magnitude": "2.56",
     "depth_km": "2.76",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.11",
     "depth_km": "10.0",
     "place": "89 km SSW of Fort McPherson, NT/89 km SSO de Fort McPherson, NT"
-  },
-  {
-    "time_utc": "2026-06-03T03:02:11.000Z",
-    "magnitude": "2.66",
-    "depth_km": "10.0",
-    "place": "238 km SSW of Port Hardy, BC/238 km SSO de Port Hardy, BC"
   }
 ];
