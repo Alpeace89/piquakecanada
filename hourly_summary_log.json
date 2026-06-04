@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-14T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had no significant seismic events reported. However, a M3.75 quake hit 84 km west-southwest of Holberg in British Columbia around noon our time. That was followed by another tremor at about 5 PM with a magnitude of M3.17, which was located even farther south near Port Hardy. Throughout the region last night, we saw activity mainly concentrated in Yukon Territory and British Columbia, with BC having the highest number of quakes at four."
-  },
-  {
     "timestamp_utc": "2026-05-14T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here’s a quick summary of the PiQuake Canada dashboard in plain Canadian English: Over the last 24 hours, there have been no significant quakes reported. But we did catch three little tremors - one near Grande Prairie in Alberta, another around Lévis in Quebec, and a tiny one just outside BC. The biggest event was a M2.56 near Grande Prairie on June 3rd at around 5 PM our time. Not to worry though, these are all small shakes mostly linked to industry activities, not natural disasters or major problems."
+  },
+  {
+    "timestamp_utc": "2026-06-04T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had four small earthquakes in Canada. The biggest one was a M2.56 near Grande Prairie in Alberta on June 3rd. And today at around 7 AM, there was a tiny tremor just north of Lévis in Quebec that measured only M1.02. It looks like industry-related events have been the most common type lately, and they mostly happen in Alberta."
   }
 ]

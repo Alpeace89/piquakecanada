@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-06-04T16:03:02Z",
+  "generated_utc": "2026-06-04T17:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 487,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 486,
+  "events_last_24h": 4,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -42,7 +42,7 @@
   "top_regions_last_24h": [
     {
       "region": "AB",
-      "count": 1
+      "count": 2
     },
     {
       "region": "BC",
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-04 16:03 UTC, the recent Canada earthquake dataset contains 487 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.56 at Suspected industry-related event, 41 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 41 km SSE de Grande Prairie, AB. The deepest event reached 11.87 km at 16 km NE of Lévis, QC/16 km NE de Lévis, QC. The most recent listed event was M1.02 at 16 km NE of Lévis, QC/16 km NE de Lévis, QC at 2026-06-04T06:48:58.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (1) and BC (1)."
+  "summary_text": "As of 2026-06-04 17:03 UTC, the recent Canada earthquake dataset contains 486 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.56 at Suspected industry-related event, 41 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 41 km SSE de Grande Prairie, AB. The deepest event reached 11.87 km at 16 km NE of Lévis, QC/16 km NE de Lévis, QC. The most recent listed event was M1.02 at 16 km NE of Lévis, QC/16 km NE de Lévis, QC at 2026-06-04T06:48:58.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (2) and BC (1)."
 }

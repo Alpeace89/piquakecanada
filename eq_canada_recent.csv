@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260420.1637001,2026-04-20T16:37:01.000Z,48.8217,-128.988,10.0,Mw',3.19,"237 km SSW of Port Hardy, BC/237 km SSO de Port Hardy, BC"
-20260420.1659001,2026-04-20T16:59:01.000Z,48.7609,-128.9713,10.0,Mw',3.42,"243 km SSW of Port Hardy, BC/243 km SSO de Port Hardy, BC"
 20260420.1959001,2026-04-20T19:59:01.000Z,52.3011,-131.7465,10.0,ML,2.1,"108 km SSE of Daajing Giids, BC/108 km SSE de Daajing Giids, BC"
 20260420.2030001,2026-04-20T20:30:06.000Z,52.7192,-132.3147,13.4,ML,1.94,"61 km SSW of Daajing Giids, BC/61 km SSO de Daajing Giids, BC"
 20260420.2108001,2026-04-20T21:08:13.000Z,48.7697,-128.913,10.0,Mw',2.96,"240 km SSW of Port Hardy, BC/240 km SSO de Port Hardy, BC"
@@ -484,5 +482,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260603.1051001,2026-06-03T10:51:42.000Z,50.5513,-130.3521,10.0,Mw',2.58,"202 km W of Port Hardy, BC/202 km O de Port Hardy, BC"
 20260603.1333001,2026-06-03T13:33:03.000Z,60.6029,-140.1324,1.0,ML,3.52,"104 km SW of Burwash Landing, YT/104 km SO de Burwash Landing, YT"
 20260603.1740001,2026-06-03T17:40:33.000Z,54.8055,-118.6686,2.76,MLy,2.56,"Suspected industry-related event, 41 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 41 km SSE de Grande Prairie, AB"
+20260603.1806001,2026-06-03T18:06:00.000Z,54.5859,-118.5408,1.0,MLy,2.45,"Suspected industry-related event, 67 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 67 km SSE de Grande Prairie, AB"
 20260604.0324001,2026-06-04T03:24:06.000Z,48.8873,-128.1815,10.0,Mw',2.38,"169 km W of Tofino, BC/169 km O de Tofino, BC"
 20260604.0648001,2026-06-04T06:48:58.000Z,46.8828,-71.0184,11.87,MwN,1.02,"16 km NE of Lévis, QC/16 km NE de Lévis, QC"

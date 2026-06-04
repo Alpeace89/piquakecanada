@@ -12,6 +12,12 @@ window.recentEvents = [
     "place": "169 km W of Tofino, BC/169 km O de Tofino, BC"
   },
   {
+    "time_utc": "2026-06-03T18:06:00.000Z",
+    "magnitude": "2.45",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 67 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 67 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-06-03T17:40:33.000Z",
     "magnitude": "2.56",
     "depth_km": "2.76",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.84",
     "depth_km": "1.0",
     "place": "146 km WNW of Juneau, AK/146 km ONO de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-06-03T06:26:44.000Z",
-    "magnitude": "2.92",
-    "depth_km": "2.71",
-    "place": "Suspected industry-related event, 42 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 42 km S de Grande Prairie, AB"
   }
 ];
