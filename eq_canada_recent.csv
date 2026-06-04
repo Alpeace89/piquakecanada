@@ -484,4 +484,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260603.1740001,2026-06-03T17:40:33.000Z,54.8055,-118.6686,2.76,MLy,2.56,"Suspected industry-related event, 41 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 41 km SSE de Grande Prairie, AB"
 20260603.1806001,2026-06-03T18:06:00.000Z,54.5859,-118.5408,1.0,MLy,2.45,"Suspected industry-related event, 67 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 67 km SSE de Grande Prairie, AB"
 20260604.0324001,2026-06-04T03:24:06.000Z,48.8873,-128.1815,10.0,Mw',2.38,"169 km W of Tofino, BC/169 km O de Tofino, BC"
+20260604.0406001,2026-06-04T04:06:06.000Z,47.4818,-128.9969,10.0,Mw',3.27,"383 km SW of Courtenay, BC/383 km SO de Courtenay, BC"
 20260604.0648001,2026-06-04T06:48:58.000Z,46.8828,-71.0184,11.87,MwN,1.02,"16 km NE of Lévis, QC/16 km NE de Lévis, QC"

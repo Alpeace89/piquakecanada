@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "16 km NE of L\u00e9vis, QC/16 km NE de L\u00e9vis, QC"
   },
   {
+    "time_utc": "2026-06-04T04:06:06.000Z",
+    "magnitude": "3.27",
+    "depth_km": "10.0",
+    "place": "383 km SW of Courtenay, BC/383 km SO de Courtenay, BC"
+  },
+  {
     "time_utc": "2026-06-04T03:24:06.000Z",
     "magnitude": "2.38",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.48",
     "depth_km": "10.0",
     "place": "205 km W of Port Hardy, BC/205 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-06-03T08:29:05.000Z",
-    "magnitude": "2.84",
-    "depth_km": "1.0",
-    "place": "146 km WNW of Juneau, AK/146 km ONO de Juneau, AK"
   }
 ];
