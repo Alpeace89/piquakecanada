@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-04T19:16:55.000Z",
+    "magnitude": "3.75",
+    "depth_km": "0.0",
+    "place": "Blast, 11 km ESE of Hinton, AB/Dynamitage, 11 km ESE de Hinton, AB"
+  },
+  {
     "time_utc": "2026-06-04T06:48:58.000Z",
     "magnitude": "1.02",
     "depth_km": "11.87",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.46",
     "depth_km": "10.0",
     "place": "195 km W of Port Hardy, BC/195 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-06-03T10:32:59.000Z",
-    "magnitude": "2.48",
-    "depth_km": "10.0",
-    "place": "205 km W of Port Hardy, BC/205 km O de Port Hardy, BC"
   }
 ];

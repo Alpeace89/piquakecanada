@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-15T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had 10 earthquakes reported. The largest one was a M3.75 near Holberg in British Columbia, which happened just before dawn on May 14th. If you're in Yukon, BC, or Washington State, that region saw most of those shakes, with 5 in the Yukon, and 4 each in BC and WA."
-  },
-  {
     "timestamp_utc": "2026-05-15T01:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three events over the past 24 hours. The largest was a M3.27 near Courtenay in British Columbia and Lévis in Quebec, which happened around noon on June 4th. The latest event was a small one just before midnight that morning, also close to Lévis. Most of these were happening in BC and QC regions."
+  },
+  {
+    "timestamp_utc": "2026-06-04T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey folks, we've got a pretty active day in the PiQuake Canada dashboard with just one event reported last hour. It's an M3.75 quake that happened near Hinton in Alberta. This is our largest event so far this year and it’s been happening quite frequently across BC, Quebec, and Alberta in the past 24 hours."
   }
 ]
