@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-14T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows we had no big quakes in the last hour, but a total of ten over the past day. The largest one was M3.75 near Holberg, BC, and another recent quake was M3.17, which happened today around 4:38 PM in Port Hardy, BC. We've been active mostly in Yukon Territory, British Columbia, and Washington State during this period."
-  },
-  {
     "timestamp_utc": "2026-05-15T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had four minor earthquakes. The biggest one was a M3.27 near Courtenay in British Columbia and Lévis in Quebec. That's just about as big as a pinball machine would be if it could happen naturally. And our latest event, which was a surprisingly small M1.02, happened earlier today. We're monitoring the regions of BC, Alberta, and Quebec for any more action."
+  },
+  {
+    "timestamp_utc": "2026-06-04T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three events over the past 24 hours. The largest was a M3.27 near Courtenay in British Columbia and Lévis in Quebec, which happened around noon on June 4th. The latest event was a small one just before midnight that morning, also close to Lévis. Most of these were happening in BC and QC regions."
   }
 ]
