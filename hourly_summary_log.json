@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-14T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were seven quakes recorded yesterday. The largest quake was a M3.75 that happened 84 km west-southwest of Holberg, BC/84 km OSO de Holberg, BC. It's the latest quake on record too. Places like Yukon Territory and British Columbia saw some activity with two quakes each in the past 24 hours."
-  },
-  {
     "timestamp_utc": "2026-05-14T19:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've seen three minor quakes. The largest one measured M3.52 near Burwash Landing in the Yukon and Lévis in Quebec, both happening at around the same time early this morning. That's way down there with the latest quake being a tiny M1.02 just north of Lévis earlier today. It looks like we've had activity across three provinces: Yukon, Alberta, and Quebec."
+  },
+  {
+    "timestamp_utc": "2026-06-04T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major seismic events detected. But we did see two minor quakes—both less than magnitude 3. The largest one was M2.56 and it happened near Grande Prairie in Alberta. A smaller one occurred near Lévis in Quebec earlier today at about 7:50 AM local time. That's what our PiQuake Canada dashboard is tracking, keeping Canadians updated on the latest seismic activity."
   }
 ]
