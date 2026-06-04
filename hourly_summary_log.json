@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-14T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of 2 small earthquakes. The largest one measured M3.25 and happened near Port Hardy in British Columbia and Fort McPherson in the Northwest Territories. That's the only earthquake we've seen since yesterday."
-  },
-  {
     "timestamp_utc": "2026-05-14T14:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of 7 PiQuake Canada events. The largest one was a M3.52 near Burwash Landing in Yukon and Alaska. We also saw another event this afternoon that might have been caused by industry activities near Grande Prairie in Alberta. These are all happening mostly in British Columbia, with a couple each in Yukon and Alaska."
+  },
+  {
+    "timestamp_utc": "2026-06-04T09:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had six small tremors across British Columbia, the Yukon Territory, and Alberta. The largest one was a M3.52 near Burwash Landing, which is quite close to where another event happened yesterday. There's also this one from Grande Prairie that seems like it might be an industry-related shake-up, about 41 km south-southeast of the city."
   }
 ]
