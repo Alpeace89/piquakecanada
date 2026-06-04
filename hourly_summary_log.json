@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-14T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there have been four quakes recorded in the past day. The largest one was a M3.51 just west of Daajing Giids in British Columbia, and another M3.09 near Fort McPherson in the Northwest Territories. Most activity has been reported from northern parts like the NWT and BC."
-  },
-  {
     "timestamp_utc": "2026-05-14T10:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we had a total of nine seismic events recorded on our PiQuake Canada dashboard. The largest event was a M3.52 under Burwash Landing in the Yukon and British Columbia, which happened just before noon yesterday. We also saw a M2.56 quake near Grande Prairie in Alberta earlier today. Most of these occurred within British Columbia and Alberta, with some spotted in the Northwest Territories as well."
+  },
+  {
+    "timestamp_utc": "2026-06-04T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had eight small quakes with our PiQuake Canada dashboard. The largest one was a M3.52 near Burwash Landing in Yukon and another place nearby. There's also this little mystery quake that might be from an industry, just north of Grande Prairie in Alberta. That's how things have been here over the past day."
   }
 ]
