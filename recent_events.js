@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-05T17:28:18.000Z",
+    "magnitude": "0.96",
+    "depth_km": "7.49",
+    "place": "18 km S of La Malbaie, QC/18 km S de La Malbaie, QC"
+  },
+  {
+    "time_utc": "2026-06-05T14:53:23.000Z",
+    "magnitude": "0.49",
+    "depth_km": "7.48",
+    "place": "4 km SE of La Malbaie, QC/4 km SE de La Malbaie, QC"
+  },
+  {
     "time_utc": "2026-06-05T00:57:43.000Z",
     "magnitude": "3.57",
     "depth_km": "5.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.47",
     "depth_km": "39.45",
     "place": "6 km E of Tahsis, BC/6 km E de Tahsis, BC"
-  },
-  {
-    "time_utc": "2026-06-04T06:48:58.000Z",
-    "magnitude": "1.02",
-    "depth_km": "11.87",
-    "place": "16 km NE of L\u00e9vis, QC/16 km NE de L\u00e9vis, QC"
-  },
-  {
-    "time_utc": "2026-06-04T05:10:31.000Z",
-    "magnitude": "1.84",
-    "depth_km": "67.71",
-    "place": "65 km WNW of Vancouver, BC/65 km ONO de Vancouver, BC"
   }
 ];

@@ -391,6 +391,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260527.0722001,2026-05-27T07:22:53.000Z,54.5866,-118.5236,5.32,MLy,2.45,"Suspected industry-related event, 67 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 67 km SSE de Grande Prairie, AB"
 20260527.0917001,2026-05-27T09:17:13.000Z,53.7315,-133.4101,18.7,ML,3.31,"88 km WSW of Masset, BC/88 km OSO de Masset, BC"
 20260527.0952001,2026-05-27T09:52:14.000Z,60.0572,-140.9815,5.0,ML,3.19,"206 km WSW of Haines Junction, YT/206 km OSO de Haines Junction, YT"
+20260527.1038001,2026-05-27T10:38:57.000Z,50.5333,-63.166,0.0,MwN,2.69,"Blast, 18 km E of Lac Tio Mine, QC/Dynamitage, 18 km E de la mine Lac Tio, QC"
 20260527.1045001,2026-05-27T10:45:29.000Z,58.5289,-137.1019,10.0,ML,2.8,"158 km W of Juneau, AK/158 km O de Juneau, AK"
 20260527.1056001,2026-05-27T10:56:03.000Z,46.4766,-81.1442,1.0,MwN,2.28,"Blast, 13 km SSW of Greater Sudbury, ON/Dynamitage, 13 km SSO de Grand Sudbury, ON"
 20260527.1303001,2026-05-27T13:03:02.000Z,53.3377,-133.1151,22.09,ML,3.32,"69 km W of Daajing Giids, BC/69 km O de Daajing Giids, BC"
@@ -495,3 +496,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260604.1916001,2026-06-04T19:16:55.000Z,53.3623,-117.4106,0.0,ML,3.75,"Blast, 11 km ESE of Hinton, AB/Dynamitage, 11 km ESE de Hinton, AB"
 20260604.2118001,2026-06-04T21:18:10.000Z,60.7652,-137.7758,5.0,ML,2.62,"14 km W of Haines Junction, YT/14 km O de Haines Junction, YT"
 20260605.0057005,2026-06-05T00:57:43.000Z,60.7493,-137.7896,5.0,ML,3.57,"15 km W of Haines Junction, YT/15 km O de Haines Junction, YT"
+20260605.1453001,2026-06-05T14:53:23.000Z,47.624,-70.1218,7.48,MwN,0.49,"4 km SE of La Malbaie, QC/4 km SE de La Malbaie, QC"
+20260605.1728001,2026-06-05T17:28:18.000Z,47.485,-70.139,7.49,MwN,0.96,"18 km S of La Malbaie, QC/18 km S de La Malbaie, QC"
