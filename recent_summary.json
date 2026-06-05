@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-06-05T12:03:02Z",
+  "generated_utc": "2026-06-05T13:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 482,
   "events_last_24h": 2,
@@ -7,14 +7,14 @@
   "count_m3plus_last_24h": 2,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260605.0057004",
-    "time_utc": "2026-06-05T00:57:42.000Z",
-    "latitude": 60.7447,
-    "longitude": -137.817,
-    "depth_km": 1.15,
+    "event_id": "20260605.0057005",
+    "time_utc": "2026-06-05T00:57:43.000Z",
+    "latitude": 60.7493,
+    "longitude": -137.7896,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 3.54,
-    "place": "17 km W of Haines Junction, YT/17 km O de Haines Junction, YT",
+    "magnitude": 3.57,
+    "place": "15 km W of Haines Junction, YT/15 km O de Haines Junction, YT",
     "region": "YT"
   },
   "largest_event_last_24h": {
@@ -29,14 +29,14 @@
     "region": "AB"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260605.0057004",
-    "time_utc": "2026-06-05T00:57:42.000Z",
-    "latitude": 60.7447,
-    "longitude": -137.817,
-    "depth_km": 1.15,
+    "event_id": "20260605.0057005",
+    "time_utc": "2026-06-05T00:57:43.000Z",
+    "latitude": 60.7493,
+    "longitude": -137.7896,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 3.54,
-    "place": "17 km W of Haines Junction, YT/17 km O de Haines Junction, YT",
+    "magnitude": 3.57,
+    "place": "15 km W of Haines Junction, YT/15 km O de Haines Junction, YT",
     "region": "YT"
   },
   "top_regions_last_24h": [
@@ -49,5 +49,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-05 12:03 UTC, the recent Canada earthquake dataset contains 482 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.75 at Blast, 11 km ESE of Hinton, AB/Dynamitage, 11 km ESE de Hinton, AB. The deepest event reached 1.15 km at 17 km W of Haines Junction, YT/17 km O de Haines Junction, YT. The most recent listed event was M3.54 at 17 km W of Haines Junction, YT/17 km O de Haines Junction, YT at 2026-06-05T00:57:42.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (1) and YT (1)."
+  "summary_text": "As of 2026-06-05 13:03 UTC, the recent Canada earthquake dataset contains 482 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.75 at Blast, 11 km ESE of Hinton, AB/Dynamitage, 11 km ESE de Hinton, AB. The deepest event reached 5.00 km at 15 km W of Haines Junction, YT/15 km O de Haines Junction, YT. The most recent listed event was M3.57 at 15 km W of Haines Junction, YT/15 km O de Haines Junction, YT at 2026-06-05T00:57:43.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (1) and YT (1)."
 }

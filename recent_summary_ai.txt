@@ -1,1 +1,1 @@
-In the last 24 hours, we had two small quakes. The biggest one was a M3.75 near Hinton in Alberta on June 4th, and another M3.54 near Haines Junction in Yukon Territory yesterday morning. It's just how we monitor earthquakes here in Canada to keep everyone safe.
+The PiQuake Canada dashboard is tracking two minor earthquakes so far today. The largest one last 24 hours was a M3.75 near Hinton, Alberta at around 8 PM yesterday, and the latest event we have logged is an M3.57 near Haines Junction in the Yukon Territory this morning around 1 AM.

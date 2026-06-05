@@ -1,9 +1,9 @@
 window.recentEvents = [
   {
-    "time_utc": "2026-06-05T00:57:42.000Z",
-    "magnitude": "3.54",
-    "depth_km": "1.15",
-    "place": "17 km W of Haines Junction, YT/17 km O de Haines Junction, YT"
+    "time_utc": "2026-06-05T00:57:43.000Z",
+    "magnitude": "3.57",
+    "depth_km": "5.0",
+    "place": "15 km W of Haines Junction, YT/15 km O de Haines Junction, YT"
   },
   {
     "time_utc": "2026-06-04T19:16:55.000Z",
