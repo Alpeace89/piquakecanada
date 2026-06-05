@@ -18,6 +18,24 @@ window.recentEvents = [
     "place": "Blast, 11 km ESE of Hinton, AB/Dynamitage, 11 km ESE de Hinton, AB"
   },
   {
+    "time_utc": "2026-06-04T11:25:26.000Z",
+    "magnitude": "1.27",
+    "depth_km": "16.48",
+    "place": "31 km W of Houpsitas 6, BC/31 km O de Houpsitas 6, BC"
+  },
+  {
+    "time_utc": "2026-06-04T09:03:33.000Z",
+    "magnitude": "1.55",
+    "depth_km": "18.83",
+    "place": "80 km S of Daajing Giids, BC/80 km S de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-06-04T08:22:06.000Z",
+    "magnitude": "2.88",
+    "depth_km": "5.0",
+    "place": "71 km WSW of Burwash Landing, YT/71 km OSO de Burwash Landing, YT"
+  },
+  {
     "time_utc": "2026-06-04T07:33:33.000Z",
     "magnitude": "1.47",
     "depth_km": "39.45",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "3.27",
     "depth_km": "10.0",
     "place": "383 km SW of Courtenay, BC/383 km SO de Courtenay, BC"
-  },
-  {
-    "time_utc": "2026-06-04T03:24:06.000Z",
-    "magnitude": "2.38",
-    "depth_km": "10.0",
-    "place": "169 km W of Tofino, BC/169 km O de Tofino, BC"
-  },
-  {
-    "time_utc": "2026-06-03T18:06:00.000Z",
-    "magnitude": "2.45",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 67 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 67 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-03T17:40:33.000Z",
-    "magnitude": "2.56",
-    "depth_km": "2.76",
-    "place": "Suspected industry-related event, 41 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 41 km SSE de Grande Prairie, AB"
   }
 ];
