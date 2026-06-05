@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260421.0113001,2026-04-21T01:13:03.000Z,52.782,-132.3558,19.09,ML,2.08,"56 km SSW of Daajing Giids, BC/56 km SSO de Daajing Giids, BC"
 20260421.0205001,2026-04-21T02:05:27.000Z,44.7098,-79.5945,5.0,MwN,0.9,"18 km NW of Orillia, ON/18 km NO de Orillia, ON"
 20260421.0248001,2026-04-21T02:48:34.000Z,45.8623,-74.8454,12.33,MwN,2.15,"8 km ESE of Namur, QC, felt/8 km ESE de Namur, QC, ressenti"
 20260421.0539001,2026-04-21T05:39:22.000Z,65.5363,-134.7297,5.0,ML,2.42,"211 km S of Fort McPherson, NT/211 km S de Fort McPherson, NT"
