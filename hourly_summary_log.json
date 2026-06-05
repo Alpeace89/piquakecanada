@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-15T05:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were six shakes recorded in the past 24 hours. The largest one was a M3.75 near Holberg, BC on May 14th at around 9:20 am UTC. Since then, we've had two more quakes—both small ones of M3.17—in Port Hardy, BC. Most of these happened in British Columbia, with some in the Yukon Territory as well."
-  },
-  {
     "timestamp_utc": "2026-05-15T06:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've seen four minor earthquakes with the largest measuring M3.75 near Hinton in Alberta. The latest event was exactly that—no big surprises here. Notably, this area tends to have a few quakes around dynamite blasts, which is why we keep an eye on things in British Columbia, Quebec, and Alberta too."
+  },
+  {
+    "timestamp_utc": "2026-06-05T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had four little earthquakes. The biggest one measured M3.75 and happened near Hinton in Alberta—where dynamite is being used for blasting. That's the latest event since our PiQuake Canada dashboard went live. Not many of these have been happening lately though; only two places—British Columbia and Quebec—have had some little quakes too."
   }
 ]
