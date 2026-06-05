@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-16T02:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks! So, it looks like we had one little shake in the ground yesterday near Haines Junction, Yukon. It was a M2.39 and that's the biggest we've seen in the last 24 hours. That happened just before midnight on May 15th. The whole area of YT (which is just Haines Junction) got shaken up by this little tremor."
-  },
-  {
     "timestamp_utc": "2026-05-16T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had four small quakes. The biggest one was a M3.57 near Haines Junction in Yukon and La Malbaie in Quebec. That's quite active, especially with two in each area. Latest quake yesterday at around 5:28 PM hit again near La Malbaie. Things are pretty calm overall though."
+  },
+  {
+    "timestamp_utc": "2026-06-05T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had three small earthquakes. The largest one was a M3.57 near Haines Junction in the Yukon and La Malbaie in Quebec. We also had a minor quake that morning close to La Malbaie. Most of these happened in Quebec and the Yukon region."
   }
 ]
