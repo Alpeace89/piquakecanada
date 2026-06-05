@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-15T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had three PiQuake Canada events. The biggest one was a M3.17 near Port Hardy in British Columbia, and it happened about 241 km south-southwest of that city. In Quebec, another event with a magnitude of M0.55 shook La Malbaie region just two hours before midnight. That's the whole story for our beta version dashboard folks!"
-  },
-  {
     "timestamp_utc": "2026-05-15T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had two small quakes monitored by our PiQuake Canada dashboard. The biggest one was a M3.75 in Hinton area, which is not too surprising given that dynamite explosions happen nearby often enough to be recorded. And earlier today, near Haines Junction in the Yukon, another minor quake hit with a magnitude of M3.54. These events are all part of our regular update on seismic activity across Canada."
+  },
+  {
+    "timestamp_utc": "2026-06-05T11:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we had two small earthquakes happening in Canada. The largest one was a M3.75 near Hinton in Alberta and another M3.54 near Haines Junction in Yukon. It's just regular stuff happening under the ground that our PiQuake Canada dashboard picks up on."
   }
 ]
