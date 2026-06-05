@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-15T11:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary of the PiQuake Canada dashboard for you. In the last hour, we didn't have any events at all. Over the past 24 hours though, there were two quakes registered with the largest one measuring M3.17 and happening near Port Hardy in British Columbia. That latest event happened on May 14th at about 5:38 PM local time. And to give you an idea of where it was felt, we had activity reported in both Yukon and British Columbia regions that day."
-  },
-  {
     "timestamp_utc": "2026-05-15T12:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the last 24 hours, we've had three small tremors recorded by our PiQuake Canada dashboard. The largest one was a M3.75 near Hinton, Alberta, and another M3.54 hit the area around Haines Junction in the Yukon Territory. These are pretty tiny shakes compared to what you might feel under your bed at home, but they're part of what we call regular activity in our region."
+  },
+  {
+    "timestamp_utc": "2026-06-05T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two small quakes. The biggest one was a M3.75 near Hinton in Alberta on June 4th at around 7 PM. A bit earlier that day, there was another M3.54 quake near Haines Junction in Yukon Territory. Both happened within the last 24 hours and mostly affecting those two regions."
   }
 ]

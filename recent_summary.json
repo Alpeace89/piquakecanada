@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-06-05T06:03:02Z",
+  "generated_utc": "2026-06-05T07:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 482,
-  "events_last_24h": 3,
+  "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 2,
   "count_m4plus_last_24h": 0,
@@ -29,21 +29,17 @@
     "region": "AB"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260604.0648001",
-    "time_utc": "2026-06-04T06:48:58.000Z",
-    "latitude": 46.8828,
-    "longitude": -71.0184,
-    "depth_km": 11.87,
-    "mag_type": "MwN",
-    "magnitude": 1.02,
-    "place": "16 km NE of Lévis, QC/16 km NE de Lévis, QC",
-    "region": "QC"
+    "event_id": "20260605.0057004",
+    "time_utc": "2026-06-05T00:57:42.000Z",
+    "latitude": 60.7447,
+    "longitude": -137.817,
+    "depth_km": 1.15,
+    "mag_type": "ML",
+    "magnitude": 3.54,
+    "place": "17 km W of Haines Junction, YT/17 km O de Haines Junction, YT",
+    "region": "YT"
   },
   "top_regions_last_24h": [
-    {
-      "region": "QC",
-      "count": 1
-    },
     {
       "region": "AB",
       "count": 1
@@ -53,5 +49,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-05 06:03 UTC, the recent Canada earthquake dataset contains 482 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.75 at Blast, 11 km ESE of Hinton, AB/Dynamitage, 11 km ESE de Hinton, AB. The deepest event reached 11.87 km at 16 km NE of Lévis, QC/16 km NE de Lévis, QC. The most recent listed event was M3.54 at 17 km W of Haines Junction, YT/17 km O de Haines Junction, YT at 2026-06-05T00:57:42.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (1) and AB (1)."
+  "summary_text": "As of 2026-06-05 07:03 UTC, the recent Canada earthquake dataset contains 482 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.75 at Blast, 11 km ESE of Hinton, AB/Dynamitage, 11 km ESE de Hinton, AB. The deepest event reached 1.15 km at 17 km W of Haines Junction, YT/17 km O de Haines Junction, YT. The most recent listed event was M3.54 at 17 km W of Haines Junction, YT/17 km O de Haines Junction, YT at 2026-06-05T00:57:42.000Z. There were 2 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (1) and YT (1)."
 }
