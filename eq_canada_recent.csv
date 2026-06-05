@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260421.2217001,2026-04-21T22:17:36.000Z,54.9496,-121.0916,0.0,ML,3.06,"Blast, 11 km WSW of Trend Mine, BC/Dynamitage, 11 km OSO de la mine Trend, BC"
-20260421.2222001,2026-04-21T22:22:36.000Z,45.6286,-79.9206,2.0,MwN,0.76,"13 km N of McKellar, ON/13 km N de McKellar, ON"
 20260422.0740001,2026-04-22T07:40:23.000Z,49.1057,-91.653,2.0,MwN,0.91,"39 km N of Atikokan, ON/39 km N de Atikokan, ON"
 20260422.1233001,2026-04-22T12:33:03.000Z,47.5898,-69.9673,12.07,MwN,0.5,"15 km ESE of La Malbaie, QC/15 km ESE de La Malbaie, QC"
 20260422.1433002,2026-04-22T14:33:50.000Z,48.3005,-123.5431,33.66,ML,2.69,"19 km SW of Victoria, BC/19 km SO de Victoria, BC"
