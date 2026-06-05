@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260421.0205001,2026-04-21T02:05:27.000Z,44.7098,-79.5945,5.0,MwN,0.9,"18 km NW of Orillia, ON/18 km NO de Orillia, ON"
-20260421.0248001,2026-04-21T02:48:34.000Z,45.8623,-74.8454,12.33,MwN,2.15,"8 km ESE of Namur, QC, felt/8 km ESE de Namur, QC, ressenti"
 20260421.0539001,2026-04-21T05:39:22.000Z,65.5363,-134.7297,5.0,ML,2.42,"211 km S of Fort McPherson, NT/211 km S de Fort McPherson, NT"
 20260421.1827001,2026-04-21T18:27:04.000Z,48.5176,-124.9331,29.28,ML,1.47,"38 km SSE of Bamfield, BC/38 km SSE de Bamfield, BC"
 20260421.2015002,2026-04-21T20:15:22.000Z,50.9614,-130.8078,10.0,Mw',4.19,"234 km W of Port Hardy, BC/234 km O de Port Hardy, BC"
