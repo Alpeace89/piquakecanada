@@ -481,6 +481,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260604.0406001,2026-06-04T04:06:06.000Z,47.4818,-128.9969,10.0,Mw',3.27,"383 km SW of Courtenay, BC/383 km SO de Courtenay, BC"
 20260604.0648001,2026-06-04T06:48:58.000Z,46.8828,-71.0184,11.87,MwN,1.02,"16 km NE of Lévis, QC/16 km NE de Lévis, QC"
 20260604.1916001,2026-06-04T19:16:55.000Z,53.3623,-117.4106,0.0,ML,3.75,"Blast, 11 km ESE of Hinton, AB/Dynamitage, 11 km ESE de Hinton, AB"
-20260605.0057001,2026-06-05T00:57:42.000Z,60.76,-137.79,4.0,ML,3.6,"Preliminary; 15 km W   of Haines Junction, YT/Preliminaire; 15 km O   de Haines Junction, YT"
-20260605.0057003,2026-06-05T00:57:42.000Z,60.76,-137.79,4.0,ML,3.6,"Preliminary; 15 km W   of Haines Junction, YT/Preliminaire; 15 km O   de Haines Junction, YT"
 20260605.0057004,2026-06-05T00:57:42.000Z,60.7447,-137.817,1.15,ML,3.54,"17 km W of Haines Junction, YT/17 km O de Haines Junction, YT"

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-15T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the last 24 hours, we've had six little earthquakes reported. The biggest one measured M3.75 and happened about 84 km west-southwest of a place called Holberg in British Columbia. If you didn't know, that's just slightly north of where Highway 97 goes through. The latest quake was even smaller at M3.17, and it hit someplace near Port Hardy on the western side of Vancouver Island yesterday afternoon. Most of these have happened in BC, but we've also seen a couple up in Yukon Territory."
-  },
-  {
     "timestamp_utc": "2026-05-15T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had six seismic events. The largest one was a M3.75 near Hinton in Alberta on June 4th at about 7 PM. That's been our biggest event since early May. In total, there have been three quakes reported today, all happening around the Yukon Territory and British Columbia regions."
+  },
+  {
+    "timestamp_utc": "2026-06-05T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had three PiQuake Canada events. The largest one was a M3.75 near Hinton in Alberta on June 4th at around 7 PM. That's just like a tiny shake you might feel if you were standing still outside. On the flip side, we also saw a minor event that morning in Yellowknife, Yukon. These are all our most recent small quakes from across Canada since our dashboard went live."
   }
 ]

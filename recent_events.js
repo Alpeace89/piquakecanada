@@ -1,18 +1,6 @@
 window.recentEvents = [
   {
     "time_utc": "2026-06-05T00:57:42.000Z",
-    "magnitude": "3.6",
-    "depth_km": "4.0",
-    "place": "Preliminary; 15 km W   of Haines Junction, YT/Preliminaire; 15 km O   de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-05T00:57:42.000Z",
-    "magnitude": "3.6",
-    "depth_km": "4.0",
-    "place": "Preliminary; 15 km W   of Haines Junction, YT/Preliminaire; 15 km O   de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-05T00:57:42.000Z",
     "magnitude": "3.54",
     "depth_km": "1.15",
     "place": "17 km W of Haines Junction, YT/17 km O de Haines Junction, YT"
@@ -58,5 +46,17 @@ window.recentEvents = [
     "magnitude": "3.52",
     "depth_km": "1.0",
     "place": "104 km SW of Burwash Landing, YT/104 km SO de Burwash Landing, YT"
+  },
+  {
+    "time_utc": "2026-06-03T10:51:42.000Z",
+    "magnitude": "2.58",
+    "depth_km": "10.0",
+    "place": "202 km W of Port Hardy, BC/202 km O de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-06-03T10:45:54.000Z",
+    "magnitude": "2.6",
+    "depth_km": "10.0",
+    "place": "203 km W of Port Hardy, BC/203 km O de Port Hardy, BC"
   }
 ];
