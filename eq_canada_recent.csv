@@ -395,6 +395,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260527.1513001,2026-05-27T15:13:54.000Z,58.6938,-136.0928,5.0,ML,2.57,"106 km WNW of Juneau, AK/106 km ONO de Juneau, AK"
 20260527.1547001,2026-05-27T15:47:00.000Z,54.5786,-118.5693,4.9,MLy,2.39,"Suspected industry-related event, 67 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 67 km SSE de Grande Prairie, AB"
 20260527.1600001,2026-05-27T16:00:18.000Z,52.7529,-67.106,0.0,MwN,2.37,"Blast, 4 km SSW of Fermont, QC/Dynamitage, 4 km SSO de Fermont, QC"
+20260527.1720001,2026-05-27T17:20:11.000Z,49.243,-67.5551,18.0,MwN,1.07,"44 km N of Matane, QC/44 km N de Matane, QC"
 20260527.1802002,2026-05-27T18:02:59.000Z,67.8444,-136.1809,5.0,ML,3.78,"64 km SW of Aklavik, NT/64 km SO de Aklavik, NT"
 20260527.1853001,2026-05-27T18:53:05.000Z,60.4144,-139.5941,1.0,ML,2.62,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
 20260527.1938001,2026-05-27T19:38:33.000Z,49.479,-128.4289,10.0,Mw',2.81,"125 km SSW of Port Alice, BC/125 km SSO de Port Alice, BC"
@@ -480,4 +481,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260604.0406001,2026-06-04T04:06:06.000Z,47.4818,-128.9969,10.0,Mw',3.27,"383 km SW of Courtenay, BC/383 km SO de Courtenay, BC"
 20260604.0648001,2026-06-04T06:48:58.000Z,46.8828,-71.0184,11.87,MwN,1.02,"16 km NE of Lévis, QC/16 km NE de Lévis, QC"
 20260604.1916001,2026-06-04T19:16:55.000Z,53.3623,-117.4106,0.0,ML,3.75,"Blast, 11 km ESE of Hinton, AB/Dynamitage, 11 km ESE de Hinton, AB"
+20260604.2118001,2026-06-04T21:18:10.000Z,60.7652,-137.7758,5.0,ML,2.62,"14 km W of Haines Junction, YT/14 km O de Haines Junction, YT"
 20260605.0057005,2026-06-05T00:57:43.000Z,60.7493,-137.7896,5.0,ML,3.57,"15 km W of Haines Junction, YT/15 km O de Haines Junction, YT"
