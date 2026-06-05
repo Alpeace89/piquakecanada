@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260421.1827001,2026-04-21T18:27:04.000Z,48.5176,-124.9331,29.28,ML,1.47,"38 km SSE of Bamfield, BC/38 km SSE de Bamfield, BC"
 20260421.2015002,2026-04-21T20:15:22.000Z,50.9614,-130.8078,10.0,Mw',4.19,"234 km W of Port Hardy, BC/234 km O de Port Hardy, BC"
 20260421.2040001,2026-04-21T20:40:08.000Z,48.8778,-128.7028,10.0,Mw',3.65,"206 km W of Tofino, BC/206 km O de Tofino, BC"
 20260421.2217001,2026-04-21T22:17:36.000Z,54.9496,-121.0916,0.0,ML,3.06,"Blast, 11 km WSW of Trend Mine, BC/Dynamitage, 11 km OSO de la mine Trend, BC"

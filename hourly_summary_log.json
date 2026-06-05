@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-15T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four recorded quakes in the past day. The largest one was a M2.72 near Holberg in British Columbia, and the latest quake measured at M2.39 was closer to Haines Junction in Yukon Territory. BC had three of those quakes, while YT got one."
-  },
-  {
     "timestamp_utc": "2026-05-16T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had a total of 3 PiQuake Canada events. The largest one was a M3.75 near Hinton in Alberta yesterday at around 9 PM. We also saw another event this morning in Yukon with a magnitude of M3.57, which is about 15 km west of Haines Junction. These are the most recent activities we've recorded in our beta dashboard."
+  },
+  {
+    "timestamp_utc": "2026-06-05T19:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had three PiQuake Canada events. The biggest one was a M3.75 near Hinton in Alberta on June 4th at around 7 PM. In the last hour, there have been no quakes reported. Two of these small shakes happened in Yukon Territory - one near Haines Junction and another a bit further away from that place."
   }
 ]
