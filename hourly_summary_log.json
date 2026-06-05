@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-16T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here’s a quick summary for the PiQuake Canada dashboard in plain Canadian English. In the last 24 hours, there were no events reported. However, we had some minor quakes. The largest one was M2.72 near Holberg, BC. Another little shake happened about 130 kilometers away from Haines Junction, YT. These are just a couple of our recent small tremors in the top regions like British Columbia and Yukon Territory."
-  },
-  {
     "timestamp_utc": "2026-05-16T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we saw four minor seismic events. The largest one was a M3.57 near Haines Junction in the Yukon and La Malbaie in Quebec. That's pretty much it - no major shakes to report. The latest event this past afternoon was a very small one at M0.96. We've seen activity mainly in the Yukon and Quebec regions over the last day."
+  },
+  {
+    "timestamp_utc": "2026-06-05T21:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had four small quakes. The biggest one was a M3.57 near Haines Junction in Yukon and La Malbaie in Quebec. That's quite active, especially with two in each area. Latest quake yesterday at around 5:28 PM hit again near La Malbaie. Things are pretty calm overall though."
   }
 ]
