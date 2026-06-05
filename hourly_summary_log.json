@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-15T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had one little shake in Port Hardy area of British Columbia. The biggest one was a M3.17 at around 5 PM yesterday, and it's happened again today. It's all about small quakes but happens often in that part of BC."
-  },
-  {
     "timestamp_utc": "2026-05-15T14:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had two minor tremors. The largest one measured M3.75 and happened in Alberta near Hinton, while the latest event was a bit smaller at M3.54 in Yukon. These are all part of what we call PiQuake Canada, which is like keeping an eye on small earthquakes to help make our big Canadian maps safer for everyone."
+  },
+  {
+    "timestamp_utc": "2026-06-05T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two small earthquakes. The largest one was a M3.75 near Hinton, Alberta on June 4th at around 7 PM. Just yesterday morning, we also had an earthquake with a magnitude of M3.54 in Haines Junction, Yukon Territory. Those are the only quakes we've seen since our last check-up."
   }
 ]
