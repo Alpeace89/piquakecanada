@@ -492,6 +492,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260604.0822001,2026-06-04T08:22:06.000Z,61.0301,-140.123,5.0,ML,2.88,"71 km WSW of Burwash Landing, YT/71 km OSO de Burwash Landing, YT"
 20260604.0903001,2026-06-04T09:03:33.000Z,52.536,-131.9667,18.83,ML,1.55,"80 km S of Daajing Giids, BC/80 km S de Daajing Giids, BC"
 20260604.1125001,2026-06-04T11:25:26.000Z,49.9787,-127.8034,16.48,ML,1.27,"31 km W of Houpsitas 6, BC/31 km O de Houpsitas 6, BC"
+20260604.1504001,2026-06-04T15:04:20.000Z,60.0409,-139.3134,10.0,ML,2.8,"127 km SW of Haines Junction, YT/127 km SO de Haines Junction, YT"
 20260604.1916001,2026-06-04T19:16:55.000Z,53.3623,-117.4106,0.0,ML,3.75,"Blast, 11 km ESE of Hinton, AB/Dynamitage, 11 km ESE de Hinton, AB"
 20260604.2118001,2026-06-04T21:18:10.000Z,60.7652,-137.7758,5.0,ML,2.62,"14 km W of Haines Junction, YT/14 km O de Haines Junction, YT"
 20260605.0057005,2026-06-05T00:57:43.000Z,60.7493,-137.7896,5.0,ML,3.57,"15 km W of Haines Junction, YT/15 km O de Haines Junction, YT"

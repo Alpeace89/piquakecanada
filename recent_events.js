@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "Blast, 11 km ESE of Hinton, AB/Dynamitage, 11 km ESE de Hinton, AB"
   },
   {
+    "time_utc": "2026-06-04T15:04:20.000Z",
+    "magnitude": "2.8",
+    "depth_km": "10.0",
+    "place": "127 km SW of Haines Junction, YT/127 km SO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-06-04T11:25:26.000Z",
     "magnitude": "1.27",
     "depth_km": "16.48",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.84",
     "depth_km": "67.71",
     "place": "65 km WNW of Vancouver, BC/65 km ONO de Vancouver, BC"
-  },
-  {
-    "time_utc": "2026-06-04T04:06:06.000Z",
-    "magnitude": "3.27",
-    "depth_km": "10.0",
-    "place": "383 km SW of Courtenay, BC/383 km SO de Courtenay, BC"
   }
 ];
