@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-15T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had four minor seismic events. The largest one was a M3.17 near Port Hardy in BC and another close by in Quebec. If you're curious about where they happen, most of these quakes have been in Quebec with three recorded there, and one each in British Columbia. The latest one was from dynamite blasts just outside Mirabel and Mirabel, Quebec."
-  },
-  {
     "timestamp_utc": "2026-05-15T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we had two small earthquakes happening in Canada. The largest one was a M3.75 near Hinton in Alberta and another M3.54 near Haines Junction in Yukon. It's just regular stuff happening under the ground that our PiQuake Canada dashboard picks up on."
+  },
+  {
+    "timestamp_utc": "2026-06-05T12:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two small quakes. The biggest one was a M3.75 near Hinton in Alberta on June 4th, and another M3.54 near Haines Junction in Yukon Territory yesterday morning. It's just how we monitor earthquakes here in Canada to keep everyone safe."
   }
 ]
