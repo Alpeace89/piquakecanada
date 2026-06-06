@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-16T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is still in beta mode, but so far there haven't been any earthquakes recorded over the past 24 hours. The latest one measured M2.39 hit an area near Haines Junction, Yukon and Old Stalingrad, Yukon, around 1:38 AM on May 15th."
-  },
-  {
     "timestamp_utc": "2026-05-16T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is showing no events in the last hour, but there was one event yesterday. It happened about 18 kilometers south of La Malbaie in Quebec and it was a pretty small shake with a magnitude of M0.96. This isn't anything to worry about though; it's just part of what happens naturally here from time to time."
+  },
+  {
+    "timestamp_utc": "2026-06-06T18:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard hasn't had any events in the last hour or day. The largest event recorded was M0.96, which happened around La Malbaie, QC on June 5th at about 5:28 PM. There were no active regions reported for the past 24 hours."
   }
 ]
