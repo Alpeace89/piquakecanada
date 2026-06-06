@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-16T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is showing no events in the last hour or day. The largest event recorded was a magnitude unknown, occurring at an unknown location and time. It's been quiet around here with just one small shake on May 15th that measured M2.39 near Haines Junction in the Yukon Territory."
-  },
-  {
     "timestamp_utc": "2026-05-17T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard hasn't had any events in the last hour or day. The largest event recorded was M0.96, which happened around La Malbaie, QC on June 5th at about 5:28 PM. There were no active regions reported for the past 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-06-06T19:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a tiny M0.96 magnitude, which happened about 18 kilometers south of La Malbaie, Quebec around midnight on June 5th. It's all quiet out there!"
   }
 ]
