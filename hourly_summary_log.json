@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-16T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest event recorded was a M2.39 near Haines Junction in Yukon Territory. It happened on May 15th at around 02:38 AM UTC time."
-  },
-  {
     "timestamp_utc": "2026-05-16T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two shakes recorded yesterday. The largest one was a tiny M0.96 near La Malbaie, Quebec, which happened on June 5th at around 5:28 PM. That's the only quake we saw here in the past day and it's happening not far from where you live!"
+  },
+  {
+    "timestamp_utc": "2026-06-06T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were two small quakes yesterday. The biggest one measured M0.96 and happened about 18 kilometers southeast of La Malbaie in Quebec. That's the latest event they have recorded for this region."
   }
 ]

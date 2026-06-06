@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there were two shakes recorded yesterday. The largest one was a tiny M0.96 near La Malbaie, Quebec, which happened on June 5th at around 5:28 PM. That's the only quake we saw here in the past day and it's happening not far from where you live!
+The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were two small quakes yesterday. The biggest one measured M0.96 and happened about 18 kilometers southeast of La Malbaie in Quebec. That's the latest event they have recorded for this region.
