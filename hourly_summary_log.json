@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-16T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour and none in the last 24 hours. The biggest one reported was a magnitude unknown located at an unknown place, also from a time that's unknown. The latest earthquake recorded on May 15th had a magnitude of M2.39 near Haines Junction in Yukon Territory."
-  },
-  {
     "timestamp_utc": "2026-05-16T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For those who are part of the PiQuake Canada beta, we've had two minor seismic events in the last 24 hours. The largest one was a M0.96 near La Malbaie, QC/La Malbaie, QC and happened yesterday at around 5:28 PM local time. It's all part of what we're monitoring to keep you updated about any small quakes happening in your area."
+  },
+  {
+    "timestamp_utc": "2026-06-06T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was just one earthquake event reported in Canada. The quake had a magnitude of M0.96 and happened about 18 kilometers south of La Malbaie in Quebec. This is the only earthquake we saw happen within the past day, so it's definitely something worth keeping an eye on if you live in or around that area."
   }
 ]
