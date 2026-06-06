@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there were two small quakes recorded yesterday. The largest of these measured M0.96 and happened near La Malbaie, Quebec around 5 PM local time. That's just one of the two places where seismic activity was detected today.
+For the past 24 hours, we've had two minor earthquakes in Quebec near La Malbaie. The largest one measured at M0.96 and occurred just after 5 PM yesterday. It's right around that area again today with another small quake of the same magnitude.
