@@ -1,1 +1,1 @@
-For the PiQuake Canada dashboard, we had no seismic events in the last hour but two in the past day. The largest event was a M0.96 that happened near La Malbaie, Quebec around midnight yesterday. That's what our latest event is too.
+For those who are part of the PiQuake Canada beta, we've had two minor seismic events in the last 24 hours. The largest one was a M0.96 near La Malbaie, QC/La Malbaie, QC and happened yesterday at around 5:28 PM local time. It's all part of what we're monitoring to keep you updated about any small quakes happening in your area.
