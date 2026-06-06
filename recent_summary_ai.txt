@@ -1,1 +1,1 @@
-In the last 24 hours, we had a total of two little earthquakes recorded in Canada. The largest one measured at M0.96 and happened just 18 km south of La Malbaie in Quebec. This is our latest event as well. Most of these small quakes are happening in Quebec area.
+For the PiQuake Canada dashboard, we had no seismic events in the last hour but two in the past day. The largest event was a M0.96 that happened near La Malbaie, Quebec around midnight yesterday. That's what our latest event is too.
