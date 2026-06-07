@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard is still in its beta phase, and there haven't been any events reported for the last 24 hours. The largest event recorded was a tiny M0.96 one day ago near La Malbaie, Quebec. It's not often we see anything happen here with this system though.
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a tiny M0.96 that happened around 18 kilometers south of La Malbaie, QC, on June 5th at about 5 PM. Nothing major has been happening for quite some time now.
