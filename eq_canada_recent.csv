@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260423.0517001,2026-04-23T05:17:57.000Z,52.745,-132.3209,14.57,ML,2.24,"59 km SSW of Daajing Giids, BC/59 km SSO de Daajing Giids, BC"
 20260423.0939001,2026-04-23T09:39:21.000Z,59.194,-137.2381,5.0,ML,2.18,"206 km SW of Whitehorse, YT/206 km SO de Whitehorse, YT"
 20260423.1835001,2026-04-23T18:35:07.000Z,50.3265,-126.8429,13.95,ML,0.73,"31 km SSE of Hyde Creek, BC/31 km SSE de Hyde Creek, BC"
 20260424.0114001,2026-04-24T01:14:49.000Z,45.3986,-66.2042,5.0,MwN,1.06,"17 km W of Quispamsis - Rothesay, NB/17 km O de Quispamsis - Rothesay, NB"
