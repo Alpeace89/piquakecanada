@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day, and the largest event recorded was M0.96 which happened around 5 days ago near La Malbaie, QC. There haven't been any events reported today yet.
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was of unknown magnitude occurring at an unknown location and time. Our latest quake, which measured M0.96, happened near La Malbaie, Quebec yesterday afternoon.
