@@ -1,1 +1,1 @@
-In the last hour, there were no earthquakes reported. In the past 24 hours, zero quakes happened too. The largest quake recorded in that time was an unknown magnitude at an unknown location and time. The latest earthquake we have data on was a very small one measuring M0.96, happening near La Malbaie, Quebec early June 5th.
+The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event was M0.96 near La Malbaie, QC/Sainte-Anne-de-Bellevue, QC, which happened on June 5 at around 5 PM. There haven't been any events today to keep an eye on.
