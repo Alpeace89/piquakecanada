@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a tiny M0.96 that happened around 18 kilometers south of La Malbaie, QC, on June 5th at about 5 PM. Nothing major has been happening for quite some time now.
+The PiQuake Canada dashboard is still in beta and hasn't recorded any seismic events this hour or in the last day. The largest event we have so far was a tiny M0.96, which happened way back on June 5th around 17:28 PM in La Malbaie, Quebec. It's all very quiet out there!
