@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-17T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the last hour, there haven't been any earthquakes reported. In the past day, nothing major either. The biggest one was a M2.39 near Haines Junction in Yukon, which happened around midnight yesterday. Nothing to worry about here, just some small shakes that we're keeping an eye on."
-  },
-  {
     "timestamp_utc": "2026-05-17T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in beta and we haven't had any earthquake activity detected in the last hour or day. The largest event recorded was a tiny shake with an unknown magnitude from an unspecified location. It happened around noon on June 5th, pretty far away in the area near La Malbaie, Quebec. So it's been quiet up there lately!"
+  },
+  {
+    "timestamp_utc": "2026-06-07T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and the largest event recorded was M0.96 which happened around 5 days ago near La Malbaie, QC. There haven't been any events reported today yet."
   }
 ]
