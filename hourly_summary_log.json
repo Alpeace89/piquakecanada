@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-17T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity events in the last hour or day. The largest event was a magnitude unknown at an unknown location, and it happened around midnight yesterday. Since then, there have been no earthquakes reported."
-  },
-  {
     "timestamp_utc": "2026-05-17T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was M0.96, which happened around 18 km south of La Malbaie, QC on June 5th at around 5 PM. It's quiet out there so far this week."
+  },
+  {
+    "timestamp_utc": "2026-06-07T18:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't recorded any events in the last hour or day. The largest event seen over the past 24 hours was a tiny one measuring M0.96, which happened on June 5th near La Malbaie in Quebec."
   }
 ]
