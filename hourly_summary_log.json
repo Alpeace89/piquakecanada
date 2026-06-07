@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-17T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there haven't been any recorded quakes on the PiQuake Canada dashboard. The largest one was a tiny M2.39 that happened around midnight in the Yukon Territory. It's always interesting to see if we catch even smaller ones as they happen."
-  },
-  {
     "timestamp_utc": "2026-05-17T14:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a tiny M0.96, which happened about 18 km south of La Malbaie, Quebec on June 5th at around 5 PM. No regions reported significant activity either."
+  },
+  {
+    "timestamp_utc": "2026-06-07T09:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no earthquakes recorded on the PiQuake Canada dashboard. The largest event was a tiny M0.96 one day ago near La Malbaie in Quebec. That's it—no big shakes or small ones to report."
   }
 ]
