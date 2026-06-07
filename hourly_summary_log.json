@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-17T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event was an unknown magnitude, occurring at an unknown location. The latest seismic event registered a M2.39 near Haines Junction, Yukon Territory, happening on May 15th around 02:38 AM local time."
-  },
-  {
     "timestamp_utc": "2026-05-18T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is currently in beta and hasn't recorded any events in the last hour or day. The largest event seen over the past 24 hours was a tiny one measuring M0.96, which happened on June 5th near La Malbaie in Quebec."
+  },
+  {
+    "timestamp_utc": "2026-06-07T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is still in beta and hasn't recorded any events in the last hour or day. The largest event detected was a tiny M0.96, which happened around La Malbaie in Quebec earlier this month. It's pretty quiet out there!"
   }
 ]
