@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day. The largest event was of unknown magnitude happening somewhere near La Malbaie, Quebec, recorded about a week ago. Latest activity? A minor shake registered at M0.96 on June 5th around 17:28 PM.
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a tiny M0.96, which happened about 18 km south of La Malbaie, Quebec on June 5th at around 5 PM. No regions reported significant activity either.
