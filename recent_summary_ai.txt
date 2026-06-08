@@ -1,1 +1,1 @@
-Here's a quick summary for the PiQuake Canada dashboard in plain Canadian English: No earthquakes were recorded last hour or day, and there’s no large quake this past 24 hours. The latest one was a tiny shake of M0.96 around La Malbaie, QC on June 5th.
+In the last 24 hours, no earthquakes were reported by our PiQuake Canada dashboard. The largest one was a very small M0.96 and it happened near La Malbaie in Quebec on June 5th at around 5:28 PM local time. It's just there to show we're tracking everything, even when nothing is happening.
