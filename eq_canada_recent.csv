@@ -482,3 +482,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260605.1453001,2026-06-05T14:53:23.000Z,47.624,-70.1218,7.48,MwN,0.49,"4 km SE of La Malbaie, QC/4 km SE de La Malbaie, QC"
 20260605.1728001,2026-06-05T17:28:18.000Z,47.485,-70.139,7.49,MwN,0.96,"18 km S of La Malbaie, QC/18 km S de La Malbaie, QC"
 20260605.2350001,2026-06-05T23:50:53.000Z,46.1705,-75.3982,16.96,MwN,1.06,"22 km SE of Notre-Dame-de-Pontmain, QC/22 km SE de Notre-Dame-de-Pontmain, QC"
+20260606.0946001,2026-06-06T09:46:03.000Z,46.6108,-66.046,5.0,MwN,0.91,"7 km NE of Doaktown, NB/7 km NE de Doaktown, NB"
+20260606.1845001,2026-06-06T18:45:11.000Z,48.0577,-71.5833,14.19,MwN,0.97,"47 km SSW of Chicoutimi - Jonquière, QC/47 km SSO de Chicoutimi - Jonquière, QC"

@@ -1,24 +1,24 @@
 {
-  "generated_utc": "2026-06-08T13:03:02Z",
+  "generated_utc": "2026-06-08T14:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 483,
+  "rolling_window_event_count": 485,
   "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260605.2350001",
-    "time_utc": "2026-06-05T23:50:53.000Z",
-    "latitude": 46.1705,
-    "longitude": -75.3982,
-    "depth_km": 16.96,
+    "event_id": "20260606.1845001",
+    "time_utc": "2026-06-06T18:45:11.000Z",
+    "latitude": 48.0577,
+    "longitude": -71.5833,
+    "depth_km": 14.19,
     "mag_type": "MwN",
-    "magnitude": 1.06,
-    "place": "22 km SE of Notre-Dame-de-Pontmain, QC/22 km SE de Notre-Dame-de-Pontmain, QC",
+    "magnitude": 0.97,
+    "place": "47 km SSW of Chicoutimi - Jonquière, QC/47 km SSO de Chicoutimi - Jonquière, QC",
     "region": "QC"
   },
   "largest_event_last_24h": null,
   "deepest_event_last_24h": null,
   "top_regions_last_24h": [],
-  "summary_text": "As of 2026-06-08 13:03 UTC, the recent Canada earthquake dataset contains 483 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M1.06 at 22 km SE of Notre-Dame-de-Pontmain, QC/22 km SE de Notre-Dame-de-Pontmain, QC at 2026-06-05T23:50:53.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "summary_text": "As of 2026-06-08 14:03 UTC, the recent Canada earthquake dataset contains 485 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M0.97 at 47 km SSW of Chicoutimi - Jonquière, QC/47 km SSO de Chicoutimi - Jonquière, QC at 2026-06-06T18:45:11.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }

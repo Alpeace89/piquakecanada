@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-18T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The biggest one recorded was a M2.39 that happened around Haines Junction, Yukon and Ontario on May 15th. There's nothing to worry about with this app, folks."
-  },
-  {
     "timestamp_utc": "2026-05-18T19:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and we're tracking a M1.06 earthquake that happened on June 5th around midnight, way out east near some small towns in Quebec. It's the only quake we've seen since our system went live."
+  },
+  {
+    "timestamp_utc": "2026-06-08T14:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events for the last hour or day, and it's been quiet with a single M0.97 event happening on June 6th in the Chicoutimi-Jonquière, QC area. Nothing major here, just a minor shake that's probably not noticeable."
   }
 ]

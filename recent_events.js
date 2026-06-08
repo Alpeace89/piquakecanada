@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-06T18:45:11.000Z",
+    "magnitude": "0.97",
+    "depth_km": "14.19",
+    "place": "47 km SSW of Chicoutimi - Jonqui\u00e8re, QC/47 km SSO de Chicoutimi - Jonqui\u00e8re, QC"
+  },
+  {
+    "time_utc": "2026-06-06T09:46:03.000Z",
+    "magnitude": "0.91",
+    "depth_km": "5.0",
+    "place": "7 km NE of Doaktown, NB/7 km NE de Doaktown, NB"
+  },
+  {
     "time_utc": "2026-06-05T23:50:53.000Z",
     "magnitude": "1.06",
     "depth_km": "16.96",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.27",
     "depth_km": "16.48",
     "place": "31 km W of Houpsitas 6, BC/31 km O de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-06-04T09:03:33.000Z",
-    "magnitude": "1.55",
-    "depth_km": "18.83",
-    "place": "80 km S of Daajing Giids, BC/80 km S de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-04T08:22:06.000Z",
-    "magnitude": "2.88",
-    "depth_km": "5.0",
-    "place": "71 km WSW of Burwash Landing, YT/71 km OSO de Burwash Landing, YT"
   }
 ];
