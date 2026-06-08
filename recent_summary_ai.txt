@@ -1,1 +1,1 @@
-In the last 24 hours, we had one earthquake event recorded. The largest was a tiny tremor measuring M0.52 near Baie-Saint-Paul in Quebec. This happened at about 7:18 PM on June 6th, local time. That's it for yesterday's activity—no big shakes this round!
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a tiny M0.52 earthquake, which happened near Baie-Saint-Paul in Quebec. It's been quiet up there for at least one full day now.

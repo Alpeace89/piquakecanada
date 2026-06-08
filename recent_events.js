@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "Blast, 19 km N of Grande Cache, AB/Dynamitage, 19 km N de Grande Cache, AB"
   },
   {
+    "time_utc": "2026-06-07T15:01:48.000Z",
+    "magnitude": "2.71",
+    "depth_km": "4.61",
+    "place": "Suspected industry-related event, 54 km W of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 54 km O de Prespatou, BC"
+  },
+  {
     "time_utc": "2026-06-07T08:59:13.000Z",
     "magnitude": "0.54",
     "depth_km": "10.92",
@@ -42,21 +48,15 @@ window.recentEvents = [
     "place": "47 km SSW of Chicoutimi - Jonqui\u00e8re, QC/47 km SSO de Chicoutimi - Jonqui\u00e8re, QC"
   },
   {
+    "time_utc": "2026-06-06T16:37:00.000Z",
+    "magnitude": "2.4",
+    "depth_km": "5.0",
+    "place": "138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-06-06T15:15:11.000Z",
     "magnitude": "2.77",
     "depth_km": "0.68",
     "place": "Suspected industry-related event, 58 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km S de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-06T09:46:03.000Z",
-    "magnitude": "0.91",
-    "depth_km": "5.0",
-    "place": "7 km NE of Doaktown, NB/7 km NE de Doaktown, NB"
-  },
-  {
-    "time_utc": "2026-06-05T23:50:53.000Z",
-    "magnitude": "1.06",
-    "depth_km": "16.96",
-    "place": "22 km SE of Notre-Dame-de-Pontmain, QC/22 km SE de Notre-Dame-de-Pontmain, QC"
   }
 ];
