@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-18T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last 24 hours, and we only had a minor shake with a magnitude of M2.39 that happened around midnight yesterday near Haines Junction, YT. It's just another day on the dashboard without any big updates or events to report."
-  },
-  {
     "timestamp_utc": "2026-05-19T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had two minor earthquakes here in Canada. The largest one was a measly M0.52 near Baie-Saint-Paul in Quebec. It happened around 7:18 PM last Friday. That's pretty much it — just some mild shaking without any serious effects."
+  },
+  {
+    "timestamp_utc": "2026-06-08T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had one earthquake event recorded. The largest was a tiny tremor measuring M0.52 near Baie-Saint-Paul in Quebec. This happened at about 7:18 PM on June 6th, local time. That's it for yesterday's activity—no big shakes this round!"
   }
 ]

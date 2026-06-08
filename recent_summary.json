@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-06-08T18:03:01Z",
+  "generated_utc": "2026-06-08T19:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 491,
-  "events_last_24h": 2,
+  "rolling_window_event_count": 494,
+  "events_last_24h": 1,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -29,21 +29,21 @@
     "region": "QC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260607.1859001",
-    "time_utc": "2026-06-07T18:59:13.000Z",
-    "latitude": 47.4344,
-    "longitude": -70.3022,
-    "depth_km": 13.05,
+    "event_id": "20260607.1918001",
+    "time_utc": "2026-06-07T19:18:38.000Z",
+    "latitude": 47.4474,
+    "longitude": -70.3709,
+    "depth_km": 3.36,
     "mag_type": "MwN",
-    "magnitude": 0.51,
-    "place": "15 km E of Baie-Saint-Paul, QC/15 km E de Baie-Saint-Paul, QC",
+    "magnitude": 0.52,
+    "place": "10 km E of Baie-Saint-Paul, QC/10 km E de Baie-Saint-Paul, QC",
     "region": "QC"
   },
   "top_regions_last_24h": [
     {
       "region": "QC",
-      "count": 2
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-08 18:03 UTC, the recent Canada earthquake dataset contains 491 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M0.52 at 10 km E of Baie-Saint-Paul, QC/10 km E de Baie-Saint-Paul, QC. The deepest event reached 13.05 km at 15 km E of Baie-Saint-Paul, QC/15 km E de Baie-Saint-Paul, QC. The most recent listed event was M0.52 at 10 km E of Baie-Saint-Paul, QC/10 km E de Baie-Saint-Paul, QC at 2026-06-07T19:18:38.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
+  "summary_text": "As of 2026-06-08 19:03 UTC, the recent Canada earthquake dataset contains 494 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M0.52 at 10 km E of Baie-Saint-Paul, QC/10 km E de Baie-Saint-Paul, QC. The deepest event reached 3.36 km at 10 km E of Baie-Saint-Paul, QC/10 km E de Baie-Saint-Paul, QC. The most recent listed event was M0.52 at 10 km E of Baie-Saint-Paul, QC/10 km E de Baie-Saint-Paul, QC at 2026-06-07T19:18:38.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
 }

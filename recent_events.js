@@ -12,6 +12,12 @@ window.recentEvents = [
     "place": "15 km E of Baie-Saint-Paul, QC/15 km E de Baie-Saint-Paul, QC"
   },
   {
+    "time_utc": "2026-06-07T17:00:54.000Z",
+    "magnitude": "2.99",
+    "depth_km": "0.0",
+    "place": "Blast, 19 km N of Grande Cache, AB/Dynamitage, 19 km N de Grande Cache, AB"
+  },
+  {
     "time_utc": "2026-06-07T08:59:13.000Z",
     "magnitude": "0.54",
     "depth_km": "10.92",
@@ -36,6 +42,12 @@ window.recentEvents = [
     "place": "47 km SSW of Chicoutimi - Jonqui\u00e8re, QC/47 km SSO de Chicoutimi - Jonqui\u00e8re, QC"
   },
   {
+    "time_utc": "2026-06-06T15:15:11.000Z",
+    "magnitude": "2.77",
+    "depth_km": "0.68",
+    "place": "Suspected industry-related event, 58 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km S de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-06-06T09:46:03.000Z",
     "magnitude": "0.91",
     "depth_km": "5.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.06",
     "depth_km": "16.96",
     "place": "22 km SE of Notre-Dame-de-Pontmain, QC/22 km SE de Notre-Dame-de-Pontmain, QC"
-  },
-  {
-    "time_utc": "2026-06-05T17:28:18.000Z",
-    "magnitude": "0.96",
-    "depth_km": "7.49",
-    "place": "18 km S of La Malbaie, QC/18 km S de La Malbaie, QC"
-  },
-  {
-    "time_utc": "2026-06-05T14:53:23.000Z",
-    "magnitude": "0.49",
-    "depth_km": "7.48",
-    "place": "4 km SE of La Malbaie, QC/4 km SE de La Malbaie, QC"
   }
 ];
