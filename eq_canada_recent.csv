@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260424.0939001,2026-04-24T09:39:50.000Z,60.5655,-139.921,5.0,ML,2.22,"133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
-20260424.0954001,2026-04-24T09:54:54.000Z,53.0681,-132.764,17.28,ML,2.61,"50 km WSW of Daajing Giids, BC/50 km OSO de Daajing Giids, BC"
 20260424.1409001,2026-04-24T14:09:08.000Z,66.6819,-135.8717,5.0,ML,2.19,"94 km SSW of Fort McPherson, NT/94 km SSO de Fort McPherson, NT"
 20260424.1453001,2026-04-24T14:53:06.000Z,58.0472,-137.5884,10.0,ML,2.65,"188 km W of Juneau, AK/188 km O de Juneau, AK"
 20260424.1701001,2026-04-24T17:01:17.000Z,66.5826,-135.8458,5.0,ML,2.02,"104 km SSW of Fort McPherson, NT/104 km SSO de Fort McPherson, NT"
