@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard hasn't recorded any quakes in the last hour or day, and there was no big shake either. The latest little tremor happened on June 5th at about 5:28 PM local time, near La Malbaie, Quebec. That's it for today's updates!
+The PiQuake Canada dashboard shows no activity in the last hour or day, and there's a minor quake recorded yesterday. It was a little shake of M0.96 near La Malbaie in Quebec that happened around 5 PM local time. That’s it for today—no big news from underfoot!
