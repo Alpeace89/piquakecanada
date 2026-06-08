@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event was M2.39, which happened around Haines Junction in the Yukon Territory on May 15th at about 2:38 am local time. There haven't been any activity in that region recently either."
-  },
-  {
     "timestamp_utc": "2026-05-19T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a tiny M0.52 earthquake, which happened near Baie-Saint-Paul in Quebec. It's been quiet up there for at least one full day now."
+  },
+  {
+    "timestamp_utc": "2026-06-08T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, there was just one quake in our PiQuake Canada dashboard. It measured M2.07 and happened near a dynamite blast site southeast of Mount Milligan Mine in British Columbia. This is the only earthquake we saw happen within that timeframe, all happening way back on June 6th at around 9:48 PM."
   }
 ]

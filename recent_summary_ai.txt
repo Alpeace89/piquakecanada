@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a tiny M0.52 earthquake, which happened near Baie-Saint-Paul in Quebec. It's been quiet up there for at least one full day now.
+In the past 24 hours, there was just one quake in our PiQuake Canada dashboard. It measured M2.07 and happened near a dynamite blast site southeast of Mount Milligan Mine in British Columbia. This is the only earthquake we saw happen within that timeframe, all happening way back on June 6th at around 9:48 PM.

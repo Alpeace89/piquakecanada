@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-07T21:48:45.000Z",
+    "magnitude": "2.07",
+    "depth_km": "0.0",
+    "place": "Blast, 14 km SE of Mount Milligan Mine, BC/Dynamitage, 14 km SE de la mine Mount Milligan, BC"
+  },
+  {
     "time_utc": "2026-06-07T19:18:38.000Z",
     "magnitude": "0.52",
     "depth_km": "3.36",
@@ -42,21 +48,15 @@ window.recentEvents = [
     "place": "4 km SE of Baie-Saint-Paul, QC/4 km SE de Baie-Saint-Paul, QC"
   },
   {
+    "time_utc": "2026-06-06T20:03:23.000Z",
+    "magnitude": "2.43",
+    "depth_km": "10.0",
+    "place": "124 km SSW of Port Alice, BC/124 km SSO de Port Alice, BC"
+  },
+  {
     "time_utc": "2026-06-06T18:45:11.000Z",
     "magnitude": "0.97",
     "depth_km": "14.19",
     "place": "47 km SSW of Chicoutimi - Jonqui\u00e8re, QC/47 km SSO de Chicoutimi - Jonqui\u00e8re, QC"
-  },
-  {
-    "time_utc": "2026-06-06T16:37:00.000Z",
-    "magnitude": "2.4",
-    "depth_km": "5.0",
-    "place": "138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-06T15:15:11.000Z",
-    "magnitude": "2.77",
-    "depth_km": "0.68",
-    "place": "Suspected industry-related event, 58 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km S de Grande Prairie, AB"
   }
 ];
