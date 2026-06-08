@@ -1,5 +1,35 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-07T19:18:38.000Z",
+    "magnitude": "0.52",
+    "depth_km": "3.36",
+    "place": "10 km E of Baie-Saint-Paul, QC/10 km E de Baie-Saint-Paul, QC"
+  },
+  {
+    "time_utc": "2026-06-07T18:59:13.000Z",
+    "magnitude": "0.51",
+    "depth_km": "13.05",
+    "place": "15 km E of Baie-Saint-Paul, QC/15 km E de Baie-Saint-Paul, QC"
+  },
+  {
+    "time_utc": "2026-06-07T08:59:13.000Z",
+    "magnitude": "0.54",
+    "depth_km": "10.92",
+    "place": "5 km WNW of Saint-Jean-Port-Joli, QC/5 km ONO de Saint-Jean-Port-Joli, QC"
+  },
+  {
+    "time_utc": "2026-06-07T07:04:28.000Z",
+    "magnitude": "0.47",
+    "depth_km": "20.21",
+    "place": "6 km NNW of La Pocati\u00e8re, QC/6 km NNO de La Pocati\u00e8re, QC"
+  },
+  {
+    "time_utc": "2026-06-07T06:27:13.000Z",
+    "magnitude": "0.17",
+    "depth_km": "6.38",
+    "place": "4 km SE of Baie-Saint-Paul, QC/4 km SE de Baie-Saint-Paul, QC"
+  },
+  {
     "time_utc": "2026-06-06T18:45:11.000Z",
     "magnitude": "0.97",
     "depth_km": "14.19",
@@ -28,35 +58,5 @@ window.recentEvents = [
     "magnitude": "0.49",
     "depth_km": "7.48",
     "place": "4 km SE of La Malbaie, QC/4 km SE de La Malbaie, QC"
-  },
-  {
-    "time_utc": "2026-06-05T00:57:43.000Z",
-    "magnitude": "3.57",
-    "depth_km": "5.0",
-    "place": "15 km W of Haines Junction, YT/15 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-04T21:18:10.000Z",
-    "magnitude": "2.62",
-    "depth_km": "5.0",
-    "place": "14 km W of Haines Junction, YT/14 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-04T19:16:55.000Z",
-    "magnitude": "3.75",
-    "depth_km": "0.0",
-    "place": "Blast, 11 km ESE of Hinton, AB/Dynamitage, 11 km ESE de Hinton, AB"
-  },
-  {
-    "time_utc": "2026-06-04T15:04:20.000Z",
-    "magnitude": "2.8",
-    "depth_km": "10.0",
-    "place": "127 km SW of Haines Junction, YT/127 km SO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-04T11:25:26.000Z",
-    "magnitude": "1.27",
-    "depth_km": "16.48",
-    "place": "31 km W of Houpsitas 6, BC/31 km O de Houpsitas 6, BC"
   }
 ];

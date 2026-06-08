@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-18T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For those in the beta testing phase of PiQuake Canada, we've had a quiet period with no events detected in the last hour or day. The largest event recorded was just a minor shake at M2.39 near Haines Junction and its surroundings. It happened around midnight on May 15th."
-  },
-  {
     "timestamp_utc": "2026-05-18T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events for the last hour or day, and it's been quiet with a single M0.97 event happening on June 6th in the Chicoutimi-Jonquière, QC area. Nothing major here, just a minor shake that's probably not noticeable."
+  },
+  {
+    "timestamp_utc": "2026-06-08T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two minor tremors recorded yesterday. The largest one was a M0.52 near Baie-Saint-Paul, Quebec around midnight on June 7th. It's been quiet since then with nothing new happening lately."
   }
 ]

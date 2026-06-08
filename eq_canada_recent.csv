@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260424.1409001,2026-04-24T14:09:08.000Z,66.6819,-135.8717,5.0,ML,2.19,"94 km SSW of Fort McPherson, NT/94 km SSO de Fort McPherson, NT"
-20260424.1453001,2026-04-24T14:53:06.000Z,58.0472,-137.5884,10.0,ML,2.65,"188 km W of Juneau, AK/188 km O de Juneau, AK"
 20260424.1701001,2026-04-24T17:01:17.000Z,66.5826,-135.8458,5.0,ML,2.02,"104 km SSW of Fort McPherson, NT/104 km SSO de Fort McPherson, NT"
 20260424.2032001,2026-04-24T20:32:34.000Z,48.2295,-122.6437,26.21,ML,1.52,"58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
 20260425.0225001,2026-04-25T02:25:25.000Z,54.3297,-118.4603,3.19,MLy,2.76,"Suspected industry-related event, 65 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 65 km NE de Grande Cache, AB"
@@ -484,3 +482,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260605.2350001,2026-06-05T23:50:53.000Z,46.1705,-75.3982,16.96,MwN,1.06,"22 km SE of Notre-Dame-de-Pontmain, QC/22 km SE de Notre-Dame-de-Pontmain, QC"
 20260606.0946001,2026-06-06T09:46:03.000Z,46.6108,-66.046,5.0,MwN,0.91,"7 km NE of Doaktown, NB/7 km NE de Doaktown, NB"
 20260606.1845001,2026-06-06T18:45:11.000Z,48.0577,-71.5833,14.19,MwN,0.97,"47 km SSW of Chicoutimi - Jonquière, QC/47 km SSO de Chicoutimi - Jonquière, QC"
+20260607.0627001,2026-06-07T06:27:13.000Z,47.4267,-70.4675,6.38,MwN,0.17,"4 km SE of Baie-Saint-Paul, QC/4 km SE de Baie-Saint-Paul, QC"
+20260607.0704001,2026-06-07T07:04:28.000Z,47.4211,-70.0677,20.21,MwN,0.47,"6 km NNW of La Pocatière, QC/6 km NNO de La Pocatière, QC"
+20260607.0859001,2026-06-07T08:59:13.000Z,47.2366,-70.3266,10.92,MwN,0.54,"5 km WNW of Saint-Jean-Port-Joli, QC/5 km ONO de Saint-Jean-Port-Joli, QC"
+20260607.1859001,2026-06-07T18:59:13.000Z,47.4344,-70.3022,13.05,MwN,0.51,"15 km E of Baie-Saint-Paul, QC/15 km E de Baie-Saint-Paul, QC"
+20260607.1918001,2026-06-07T19:18:38.000Z,47.4474,-70.3709,3.36,MwN,0.52,"10 km E of Baie-Saint-Paul, QC/10 km E de Baie-Saint-Paul, QC"

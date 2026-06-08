@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events for the last hour or day, and it's been quiet with a single M0.97 event happening on June 6th in the Chicoutimi-Jonquière, QC area. Nothing major here, just a minor shake that's probably not noticeable.
+The PiQuake Canada dashboard shows no events in the last hour, but there were two minor tremors recorded yesterday. The largest one was a M0.52 near Baie-Saint-Paul, Quebec around midnight on June 7th. It's been quiet since then with nothing new happening lately.
