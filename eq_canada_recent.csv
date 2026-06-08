@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260424.0556001,2026-04-24T05:56:24.000Z,49.2779,-126.8783,29.38,ML,2.63,"45 km WSW of Refuge Cove 6, BC/45 km OSO de Refuge Cove 6, BC"
 20260424.0939001,2026-04-24T09:39:50.000Z,60.5655,-139.921,5.0,ML,2.22,"133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
 20260424.0954001,2026-04-24T09:54:54.000Z,53.0681,-132.764,17.28,ML,2.61,"50 km WSW of Daajing Giids, BC/50 km OSO de Daajing Giids, BC"
 20260424.1409001,2026-04-24T14:09:08.000Z,66.6819,-135.8717,5.0,ML,2.19,"94 km SSW of Fort McPherson, NT/94 km SSO de Fort McPherson, NT"
