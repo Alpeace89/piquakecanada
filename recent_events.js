@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-07T22:07:52.000Z",
+    "magnitude": "2.39",
+    "depth_km": "0.0",
+    "place": "Blast, 15 km SW of Trend Mine, BC/Dynamitage, 15 km SO de la mine Trend, BC"
+  },
+  {
     "time_utc": "2026-06-07T21:48:45.000Z",
     "magnitude": "2.07",
     "depth_km": "0.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.43",
     "depth_km": "10.0",
     "place": "124 km SSW of Port Alice, BC/124 km SSO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-06-06T18:45:11.000Z",
-    "magnitude": "0.97",
-    "depth_km": "14.19",
-    "place": "47 km SSW of Chicoutimi - Jonqui\u00e8re, QC/47 km SSO de Chicoutimi - Jonqui\u00e8re, QC"
   }
 ];

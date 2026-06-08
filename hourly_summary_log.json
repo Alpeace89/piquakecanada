@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T02:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For those of you on the PiQuake Canada dashboard, there were no earthquakes reported in the last 24 hours. The largest one measured M2.39 and happened about 125 km west-southwest of Haines Junction, Yukon or around the same spot but slightly further east. It was spotted at about 2:38 AM yesterday."
-  },
-  {
     "timestamp_utc": "2026-05-19T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there was just one quake in our PiQuake Canada dashboard. It measured M2.07 and happened near a dynamite blast site southeast of Mount Milligan Mine in British Columbia. This is the only earthquake we saw happen within that timeframe, all happening way back on June 6th at around 9:48 PM."
+  },
+  {
+    "timestamp_utc": "2026-06-08T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was just one seismic event detected in Canada through our PiQuake dashboard. It was a M2.39 earthquake that occurred near a mine operation and has happened before. This area seems to be experiencing these little quakes more often lately, with it being the only region in BC where we've seen any activity recently."
   }
 ]

@@ -485,6 +485,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260605.2350001,2026-06-05T23:50:53.000Z,46.1705,-75.3982,16.96,MwN,1.06,"22 km SE of Notre-Dame-de-Pontmain, QC/22 km SE de Notre-Dame-de-Pontmain, QC"
 20260606.0153001,2026-06-06T01:53:41.000Z,48.7154,-120.2533,6.1,ML,2.3,"67 km WSW of Osoyoos, BC/67 km OSO de Osoyoos, BC"
 20260606.0946001,2026-06-06T09:46:03.000Z,46.6108,-66.046,5.0,MwN,0.91,"7 km NE of Doaktown, NB/7 km NE de Doaktown, NB"
+20260606.1103001,2026-06-06T11:03:45.000Z,49.5565,-128.3739,20.0,Mw',2.65,"116 km SSW of Port Alice, BC/116 km SSO de Port Alice, BC"
 20260606.1515001,2026-06-06T15:15:11.000Z,54.6522,-118.6551,0.68,MLy,2.77,"Suspected industry-related event, 58 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 58 km S de Grande Prairie, AB"
 20260606.1637001,2026-06-06T16:37:00.000Z,60.5505,-140.0133,5.0,ML,2.4,"138 km W of Haines Junction, YT/138 km O de Haines Junction, YT"
 20260606.1845001,2026-06-06T18:45:11.000Z,48.0577,-71.5833,14.19,MwN,0.97,"47 km SSW of Chicoutimi - Jonquière, QC/47 km SSO de Chicoutimi - Jonquière, QC"
@@ -497,3 +498,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260607.1859001,2026-06-07T18:59:13.000Z,47.4344,-70.3022,13.05,MwN,0.51,"15 km E of Baie-Saint-Paul, QC/15 km E de Baie-Saint-Paul, QC"
 20260607.1918001,2026-06-07T19:18:38.000Z,47.4474,-70.3709,3.36,MwN,0.52,"10 km E of Baie-Saint-Paul, QC/10 km E de Baie-Saint-Paul, QC"
 20260607.2148001,2026-06-07T21:48:45.000Z,55.0294,-123.871,0.0,ML,2.07,"Blast, 14 km SE of Mount Milligan Mine, BC/Dynamitage, 14 km SE de la mine Mount Milligan, BC"
+20260607.2207001,2026-06-07T22:07:52.000Z,54.9088,-121.1328,0.0,ML,2.39,"Blast, 15 km SW of Trend Mine, BC/Dynamitage, 15 km SO de la mine Trend, BC"
