@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-18T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard hasn't had any seismic events reported in the last hour or day. The largest event recorded within 24 hours was a magnitude unknown at an unspecified location and time. Our latest update shows a M2.39 quake that happened around 02:38 AM today, but we don’t have more details on its exact place since it’s still being investigated."
-  },
-  {
     "timestamp_utc": "2026-05-18T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no events reported on the PiQuake Canada dashboard. However, a tiny shake with a magnitude of M0.52 occurred 10 kilometers east of Baie-Saint-Paul, Quebec at around 7:18 PM yesterday. It's the only event we have data for from that region in the last day."
+  },
+  {
+    "timestamp_utc": "2026-06-08T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had two minor earthquakes here in Canada. The largest one was a measly M0.52 near Baie-Saint-Paul in Quebec. It happened around 7:18 PM last Friday. That's pretty much it — just some mild shaking without any serious effects."
   }
 ]
