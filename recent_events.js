@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-05T23:50:53.000Z",
+    "magnitude": "1.06",
+    "depth_km": "16.96",
+    "place": "22 km SE of Notre-Dame-de-Pontmain, QC/22 km SE de Notre-Dame-de-Pontmain, QC"
+  },
+  {
     "time_utc": "2026-06-05T17:28:18.000Z",
     "magnitude": "0.96",
     "depth_km": "7.49",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.88",
     "depth_km": "5.0",
     "place": "71 km WSW of Burwash Landing, YT/71 km OSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-06-04T07:33:33.000Z",
-    "magnitude": "1.47",
-    "depth_km": "39.45",
-    "place": "6 km E of Tahsis, BC/6 km E de Tahsis, BC"
   }
 ];
