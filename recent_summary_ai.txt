@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was M2.39, occurring on June 7th at a mine location near Trend in British Columbia. It's the latest seismic event we have logged so far.
+The PiQuake Canada dashboard shows no events in the last hour or day, and the largest event recorded was a M2.39 happening near a mining area in British Columbia at an unknown time. That's it for today’s activity folks.
