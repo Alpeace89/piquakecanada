@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T17:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but one event happened yesterday near Saint Andrews, New Brunswick. The largest of those was a M0.34 quake recorded at 8:39 PM on May 18th. It's been quiet around there lately with just this small shake counted over the past 24 hours."
-  },
-  {
     "timestamp_utc": "2026-05-19T18:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, with the largest event being a magnitude M2.39 that happened on June 7th near some mining operations in British Columbia. It's still a beta so not all details are finalized yet."
+  },
+  {
+    "timestamp_utc": "2026-06-09T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no seismic events in the last hour or day, and there's nothing notable from yesterday either. The latest event was a small one measuring M2.39 near some mining areas in British Columbia, happening on June 7th at around 10 PM local time. Nothing major has been recorded here recently."
   }
 ]
