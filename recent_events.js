@@ -1,5 +1,29 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-09T14:53:00.000Z",
+    "magnitude": "2.38",
+    "depth_km": "4.28",
+    "place": "Suspected industry-related event, 30 km W of Blueberry River 205, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 30 km O de Blueberry River 205, BC"
+  },
+  {
+    "time_utc": "2026-06-09T07:41:11.000Z",
+    "magnitude": "2.25",
+    "depth_km": "5.0",
+    "place": "Suspected industry-related event, 54 km W of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 54 km O de Prespatou, BC"
+  },
+  {
+    "time_utc": "2026-06-08T07:38:28.000Z",
+    "magnitude": "1.83",
+    "depth_km": "29.15",
+    "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
+  },
+  {
+    "time_utc": "2026-06-08T06:46:31.000Z",
+    "magnitude": "2.53",
+    "depth_km": "29.17",
+    "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
+  },
+  {
     "time_utc": "2026-06-08T06:43:56.000Z",
     "magnitude": "3.12",
     "depth_km": "28.41",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "0.52",
     "depth_km": "3.36",
     "place": "10 km E of Baie-Saint-Paul, QC/10 km E de Baie-Saint-Paul, QC"
-  },
-  {
-    "time_utc": "2026-06-07T18:59:13.000Z",
-    "magnitude": "0.51",
-    "depth_km": "13.05",
-    "place": "15 km E of Baie-Saint-Paul, QC/15 km E de Baie-Saint-Paul, QC"
-  },
-  {
-    "time_utc": "2026-06-07T17:00:54.000Z",
-    "magnitude": "2.99",
-    "depth_km": "0.0",
-    "place": "Blast, 19 km N of Grande Cache, AB/Dynamitage, 19 km N de Grande Cache, AB"
-  },
-  {
-    "time_utc": "2026-06-07T15:01:48.000Z",
-    "magnitude": "2.71",
-    "depth_km": "4.61",
-    "place": "Suspected industry-related event, 54 km W of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 54 km O de Prespatou, BC"
-  },
-  {
-    "time_utc": "2026-06-07T08:59:13.000Z",
-    "magnitude": "0.54",
-    "depth_km": "10.92",
-    "place": "5 km WNW of Saint-Jean-Port-Joli, QC/5 km ONO de Saint-Jean-Port-Joli, QC"
   }
 ];

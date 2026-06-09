@@ -1,24 +1,49 @@
 {
-  "generated_utc": "2026-06-09T18:03:01Z",
+  "generated_utc": "2026-06-09T19:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 499,
-  "events_last_24h": 0,
+  "rolling_window_event_count": 504,
+  "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260608.0643003",
-    "time_utc": "2026-06-08T06:43:56.000Z",
-    "latitude": 48.278,
-    "longitude": -122.6213,
-    "depth_km": 28.41,
-    "mag_type": "ML",
-    "magnitude": 3.12,
-    "place": "57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti",
-    "region": "Unknown"
+    "event_id": "20260609.1453001",
+    "time_utc": "2026-06-09T14:53:00.000Z",
+    "latitude": 56.6864,
+    "longitude": -121.5864,
+    "depth_km": 4.28,
+    "mag_type": "MLy",
+    "magnitude": 2.38,
+    "place": "Suspected industry-related event, 30 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 30 km O de Blueberry River 205, BC",
+    "region": "BC"
   },
-  "largest_event_last_24h": null,
-  "deepest_event_last_24h": null,
-  "top_regions_last_24h": [],
-  "summary_text": "As of 2026-06-09 18:03 UTC, the recent Canada earthquake dataset contains 499 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M3.12 at 57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti at 2026-06-08T06:43:56.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "largest_event_last_24h": {
+    "event_id": "20260609.1453001",
+    "time_utc": "2026-06-09T14:53:00.000Z",
+    "latitude": 56.6864,
+    "longitude": -121.5864,
+    "depth_km": 4.28,
+    "mag_type": "MLy",
+    "magnitude": 2.38,
+    "place": "Suspected industry-related event, 30 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 30 km O de Blueberry River 205, BC",
+    "region": "BC"
+  },
+  "deepest_event_last_24h": {
+    "event_id": "20260609.0741001",
+    "time_utc": "2026-06-09T07:41:11.000Z",
+    "latitude": 56.8724,
+    "longitude": -121.9273,
+    "depth_km": 5.0,
+    "mag_type": "MLy",
+    "magnitude": 2.25,
+    "place": "Suspected industry-related event, 54 km W of Prespatou, BC/Événement lié à l'industrie soupconné, 54 km O de Prespatou, BC",
+    "region": "BC"
+  },
+  "top_regions_last_24h": [
+    {
+      "region": "BC",
+      "count": 2
+    }
+  ],
+  "summary_text": "As of 2026-06-09 19:03 UTC, the recent Canada earthquake dataset contains 504 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.38 at Suspected industry-related event, 30 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 30 km O de Blueberry River 205, BC. The deepest event reached 5.00 km at Suspected industry-related event, 54 km W of Prespatou, BC/Événement lié à l'industrie soupconné, 54 km O de Prespatou, BC. The most recent listed event was M2.38 at Suspected industry-related event, 30 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 30 km O de Blueberry River 205, BC at 2026-06-09T14:53:00.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was BC."
 }

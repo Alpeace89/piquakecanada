@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had four PiQuake Canada dashboard events. The largest one was a M3.24 quake near Hinton in Alberta on May 19th at around 2:02 PM UTC. It's been a quiet few days though, with only one event reported since yesterday—another M3.16 earthquake in the Yukon Territory just after 5:40 PM UTC. The top regions for these quakes are still YT and AB, with BC having its lone quake last night."
-  },
-  {
     "timestamp_utc": "2026-05-20T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were detected on the PiQuake Canada dashboard. The largest event recorded was a magnitude unknown located at an unknown place with an unclear time. The latest earthquake felt in British Columbia happened earlier today near Victoria, and it measured M3.12."
+  },
+  {
+    "timestamp_utc": "2026-06-09T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary of the PiQuake Canada dashboard for you. In the last 24 hours, we had two events. The largest one was a M2.38 and it happened near Blueberry River 205 in British Columbia. This event is suspected to be related to industry activities. It occurred at around 1:53 PM UTC today. That's it for the last 24 hours of activity."
   }
 ]
