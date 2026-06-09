@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there was one earthquake detected by our PiQuake Canada dashboard. It measured M0.34 and happened near Saint Andrews in New Brunswick. That's a very small quake but it's on record. And that's all we've had so far today."
-  },
-  {
     "timestamp_utc": "2026-05-19T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were detected on PiQuake Canada's dashboard. The largest event was a magnitude unknown one at an unknown location and time. The most recent earthquake recorded was a M2.39 near Trend Mine in British Columbia, which happened yesterday at 10:07 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-06-09T12:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, with the largest event being a magnitude M2.39 that happened on June 7th near some mining operations in British Columbia. It's still a beta so not all details are finalized yet."
   }
 ]
