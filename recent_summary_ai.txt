@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day, with the largest event being an unknown magnitude that happened somewhere around BC. The latest recorded event was a M2.39 near Trend Mine and Dynamitage, which took place on June 7th at about 10 PM.
+The PiQuake Canada dashboard hasn't had any earthquake activity in the last hour or day, and the largest quake was just a minor M2.39 that happened near some mining sites in British Columbia yesterday evening. It's been quiet around here!
