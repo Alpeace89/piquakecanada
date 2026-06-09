@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, with the largest event being an unknown magnitude at an unknown location. The latest recorded quake was a M2.39 near Haines Junction and its surroundings, happening on May 15th around 02:38 AM UTC."
-  },
-  {
     "timestamp_utc": "2026-05-19T07:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day, and there hasn't been any significant activity since a M2.39 quake that happened on June 7 at Blast, about 15 km southwest of the Trend Mine in British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-06-09T02:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events for the last hour or day. The largest event recorded was M2.39, happening at Blast, 15 km SW of Trend Mine in BC/Dynamitage, 15 km SO de la mine Trend, BC on June 7th around 10:08 PM UTC."
   }
 ]

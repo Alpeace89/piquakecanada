@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no earthquakes in the last hour or day, and there hasn't been any significant activity since a M2.39 quake that happened on June 7 at Blast, about 15 km southwest of the Trend Mine in British Columbia.
+The PiQuake Canada dashboard shows no events for the last hour or day. The largest event recorded was M2.39, happening at Blast, 15 km SW of Trend Mine in BC/Dynamitage, 15 km SO de la mine Trend, BC on June 7th around 10:08 PM UTC.
