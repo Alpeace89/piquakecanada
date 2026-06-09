@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary for the PiQuake Canada dashboard in plain Canadian English: In the last 24 hours, there have been no events reported. But we did see five quakes that measured from M3.24 to M3.16, with the largest being M3.24 near Hinton, Alberta and another at Burwash Landing in Yukon. Most of these quakes happened in the territories and British Columbia."
-  },
-  {
     "timestamp_utc": "2026-05-19T21:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is currently in beta and hasn't recorded any earthquakes over the last hour or day. The largest quake seen was a mystery with unknown magnitude, occurring at an unknown location and time. The latest earthquake spotted was a M2.39 near some mining sites in British Columbia, which happened yesterday at 10:07 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-06-09T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest event was a magnitude of M2.39 that occurred near Trend Mine in British Columbia at around 10 PM on June 7th. It's important to note that most days have no recorded quakes here."
   }
 ]
