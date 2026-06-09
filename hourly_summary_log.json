@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary of the PiQuake Canada dashboard: No earthquakes were detected in the last hour or day. The largest recorded quake was M2.39, which happened near Haines Junction in Yukon yesterday at around 2:38 AM. That's about 125 km away from both towns."
-  },
-  {
     "timestamp_utc": "2026-05-19T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events for the last hour or day. The largest event recorded was M2.39, happening at Blast, 15 km SW of Trend Mine in BC/Dynamitage, 15 km SO de la mine Trend, BC on June 7th around 10:08 PM UTC."
+  },
+  {
+    "timestamp_utc": "2026-06-09T03:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a M2.39 near Trend Mine and Dynamitage, BC yesterday at around 10 PM local time. It's quiet as usual here."
   }
 ]

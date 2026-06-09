@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260425.0225001,2026-04-25T02:25:25.000Z,54.3297,-118.4603,3.19,MLy,2.76,"Suspected industry-related event, 65 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 65 km NE de Grande Cache, AB"
 20260425.0552001,2026-04-25T05:52:56.000Z,55.512,-135.3029,5.0,ML,2.86,"172 km S of Sitka, AK/172 km S de Sitka, AK"
 20260425.1256001,2026-04-25T12:56:21.000Z,60.5618,-139.9428,1.0,ML,2.79,"134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"
 20260425.1551001,2026-04-25T15:51:09.000Z,50.9563,-130.7135,10.0,Mw',3.55,"227 km W of Port Hardy, BC/227 km O de Port Hardy, BC"
