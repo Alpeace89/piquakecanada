@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there were no major seismic events reported. However, a M3.24 quake hit near Hinton, Alberta and another M3.16 shake was felt in Yukon territory. These are our top areas with recent quakes, which have been happening mostly in YT and BC regions."
-  },
-  {
     "timestamp_utc": "2026-05-19T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest event was a mystery with an unknown magnitude occurring in an unknown location at an unknown time. Our latest quake was a M3.12 hit about 57 km east-southeast of Victoria, BC around 6:40 AM on the 8th of June."
+  },
+  {
+    "timestamp_utc": "2026-06-09T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, no earthquakes were detected on the PiQuake Canada dashboard. The largest event recorded was a magnitude unknown located at an unknown place with an unclear time. The latest earthquake felt in British Columbia happened earlier today near Victoria, and it measured M3.12."
   }
 ]

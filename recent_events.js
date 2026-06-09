@@ -3,7 +3,7 @@ window.recentEvents = [
     "time_utc": "2026-06-08T06:43:56.000Z",
     "magnitude": "3.12",
     "depth_km": "28.41",
-    "place": "57 km ESE of Victoria, BC/57 km ESE de Victoria, BC"
+    "place": "57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti"
   },
   {
     "time_utc": "2026-06-08T06:19:07.000Z",
