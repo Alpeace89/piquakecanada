@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard didn't show any activity in the last hour or day. The biggest quake recorded was a M2.39 that happened on May 15th, near Haines Junction, Yukon and Ontario. That's the latest we have without knowing more details like magnitude or location."
-  },
-  {
     "timestamp_utc": "2026-05-19T05:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary of the PiQuake Canada dashboard for public facing, no fancy stuff here. There were no earthquakes reported in the last hour or day, and the largest one was M2.39 which happened about an hour ago near some mining areas in British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-06-09T00:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary for the PiQuake Canada dashboard in plain Canadian English: No earthquakes detected over the last 24 hours. The largest one was a tiny M2.39 near some mining operations in British Columbia on June 7th at around 10 PM. No regions showed any activity, so everything's quiet out there!"
   }
 ]
