@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260425.1627001,2026-04-25T16:27:57.000Z,47.8008,-70.0294,7.83,MwN,0.71,"11 km WSW of Saint-Siméon, QC/11 km OSO de Saint-Siméon, QC"
 20260425.2307001,2026-04-25T23:07:48.000Z,47.3096,-66.2693,5.0,MwN,2.35,"29 km S of Caribou Mine, NB/29 km S de la mine Caribou, NB"
 20260426.0159001,2026-04-26T01:59:46.000Z,43.7446,-75.4199,5.0,MwN,2.37,"47 km ESE of Watertown, NY/47 km ESE de Watertown, NY"
 20260426.1204001,2026-04-26T12:04:01.000Z,47.3722,-70.3185,15.05,MwN,0.71,"6 km ESE of L'Isle-aux-Coudres, QC/6 km ESE de L'Isle-aux-Coudres, QC"
@@ -153,6 +152,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260508.0858001,2026-05-08T08:58:10.000Z,48.9743,-128.3172,10.0,Mw',2.46,"177 km W of Tofino, BC/177 km O de Tofino, BC"
 20260508.1519001,2026-05-08T15:19:33.000Z,60.5876,-139.9576,5.0,ML,2.91,"100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
 20260508.1820001,2026-05-08T18:20:53.000Z,60.526,-139.9611,5.0,ML,2.37,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
+20260508.2220001,2026-05-08T22:20:50.000Z,70.5847,-97.0703,18.0,MwN,2.83,"178 km NW of Taloyoak, NU/178 km NO de Taloyoak, NU"
 20260508.2326001,2026-05-08T23:26:49.000Z,47.4722,-70.0604,6.81,MwN,1.68,"11 km N of La Pocatière, QC/11 km N de La Pocatière, QC"
 20260509.0423001,2026-05-09T04:23:17.000Z,47.4265,-70.0568,7.33,MwN,0.11,"6 km NNW of La Pocatière, QC/6 km NNO de La Pocatière, QC"
 20260509.0600001,2026-05-09T06:00:03.000Z,47.6297,-70.0473,23.33,MwN,0.44,"8 km ESE of La Malbaie, QC/8 km ESE de La Malbaie, QC"
@@ -495,3 +495,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260607.1918001,2026-06-07T19:18:38.000Z,47.4474,-70.3709,3.36,MwN,0.52,"10 km E of Baie-Saint-Paul, QC/10 km E de Baie-Saint-Paul, QC"
 20260607.2148001,2026-06-07T21:48:45.000Z,55.0294,-123.871,0.0,ML,2.07,"Blast, 14 km SE of Mount Milligan Mine, BC/Dynamitage, 14 km SE de la mine Mount Milligan, BC"
 20260607.2207001,2026-06-07T22:07:52.000Z,54.9088,-121.1328,0.0,ML,2.39,"Blast, 15 km SW of Trend Mine, BC/Dynamitage, 15 km SO de la mine Trend, BC"
+20260608.0605001,2026-06-08T06:05:08.000Z,53.863,-131.6389,29.01,ML,2.15,"37 km ESE of Masset, BC/37 km ESE de Masset, BC"
+20260608.0619001,2026-06-08T06:19:07.000Z,53.0254,-132.6725,17.93,ML,2.41,"47 km WSW of Daajing Giids, BC/47 km OSO de Daajing Giids, BC"
+20260608.0643001,2026-06-08T06:43:56.000Z,48.278,-122.6213,28.41,ML,3.12,"57 km ESE of Victoria, BC/57 km ESE de Victoria, BC"

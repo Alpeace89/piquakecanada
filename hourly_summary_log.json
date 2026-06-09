@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T21:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major earthquakes reported. But we did see a M3.24 shake things up in Hinton, AB and another M3.16 near Burwash Landing in Yukon. Those are our biggest quakes for this period, with activity mainly happening in YT and BC."
-  },
-  {
     "timestamp_utc": "2026-05-19T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest event was a magnitude of M2.39 that occurred near Trend Mine in British Columbia at around 10 PM on June 7th. It's important to note that most days have no recorded quakes here."
+  },
+  {
+    "timestamp_utc": "2026-06-09T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest event was a mystery with an unknown magnitude occurring in an unknown location at an unknown time. Our latest quake was a M3.12 hit about 57 km east-southeast of Victoria, BC around 6:40 AM on the 8th of June."
   }
 ]

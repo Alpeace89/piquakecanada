@@ -1,1 +1,1 @@
-In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest event was a magnitude of M2.39 that occurred near Trend Mine in British Columbia at around 10 PM on June 7th. It's important to note that most days have no recorded quakes here.
+In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest event was a mystery with an unknown magnitude occurring in an unknown location at an unknown time. Our latest quake was a M3.12 hit about 57 km east-southeast of Victoria, BC around 6:40 AM on the 8th of June.

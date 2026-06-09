@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-08T06:43:56.000Z",
+    "magnitude": "3.12",
+    "depth_km": "28.41",
+    "place": "57 km ESE of Victoria, BC/57 km ESE de Victoria, BC"
+  },
+  {
+    "time_utc": "2026-06-08T06:19:07.000Z",
+    "magnitude": "2.41",
+    "depth_km": "17.93",
+    "place": "47 km WSW of Daajing Giids, BC/47 km OSO de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-06-08T06:05:08.000Z",
+    "magnitude": "2.15",
+    "depth_km": "29.01",
+    "place": "37 km ESE of Masset, BC/37 km ESE de Masset, BC"
+  },
+  {
     "time_utc": "2026-06-07T22:07:52.000Z",
     "magnitude": "2.39",
     "depth_km": "0.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "0.54",
     "depth_km": "10.92",
     "place": "5 km WNW of Saint-Jean-Port-Joli, QC/5 km ONO de Saint-Jean-Port-Joli, QC"
-  },
-  {
-    "time_utc": "2026-06-07T07:04:28.000Z",
-    "magnitude": "0.47",
-    "depth_km": "20.21",
-    "place": "6 km NNW of La Pocati\u00e8re, QC/6 km NNO de La Pocati\u00e8re, QC"
-  },
-  {
-    "time_utc": "2026-06-07T06:27:13.000Z",
-    "magnitude": "0.17",
-    "depth_km": "6.38",
-    "place": "4 km SE of Baie-Saint-Paul, QC/4 km SE de Baie-Saint-Paul, QC"
-  },
-  {
-    "time_utc": "2026-06-06T20:03:23.000Z",
-    "magnitude": "2.43",
-    "depth_km": "10.0",
-    "place": "124 km SSW of Port Alice, BC/124 km SSO de Port Alice, BC"
   }
 ];
