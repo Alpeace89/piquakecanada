@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T13:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event last hour was a magnitude unknown near an unknown location. The latest event was a M2 earthquake that occurred at Blast, 19 km southwest of Gogama, ON or Dynamitage, 19 km south of Gogama, ON on May 17th at 03:56 PM UTC."
-  },
-  {
     "timestamp_utc": "2026-05-19T14:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event was a M2.39 that happened on June 7th, near the Blast and Dynamitage locations in British Columbia. It's important to note though, we don't know where exactly this quake occurred as it's an 'unknown location'."
+  },
+  {
+    "timestamp_utc": "2026-06-09T09:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was M2.39, occurring on June 7th at a mine location near Trend in British Columbia. It's the latest seismic event we have logged so far."
   }
 ]

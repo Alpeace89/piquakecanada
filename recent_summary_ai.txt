@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event was a M2.39 that happened on June 7th, near the Blast and Dynamitage locations in British Columbia. It's important to note though, we don't know where exactly this quake occurred as it's an 'unknown location'.
+The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was M2.39, occurring on June 7th at a mine location near Trend in British Columbia. It's the latest seismic event we have logged so far.
