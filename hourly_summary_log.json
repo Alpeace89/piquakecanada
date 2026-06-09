@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's the latest from our PiQuake Canada dashboard. We had no earthquakes in the last hour or day, and the biggest one we picked up was M2.39 near Haines Junction in the Yukon. It happened on May 15th around 2:40 AM. That's it for today - nothing to report."
-  },
-  {
     "timestamp_utc": "2026-05-19T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a M2.39 near Trend Mine and Dynamitage, BC yesterday at around 10 PM local time. It's quiet as usual here."
+  },
+  {
+    "timestamp_utc": "2026-06-09T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or 24 hours. The largest event detected was a M2.39 near some mining sites, which happened yesterday at night. There's nothing to worry about, everything is quiet as usual."
   }
 ]
