@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-06-09T20:03:02Z",
+  "generated_utc": "2026-06-09T21:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 514,
-  "events_last_24h": 8,
-  "events_last_hour": 0,
-  "count_m3plus_last_24h": 1,
+  "rolling_window_event_count": 518,
+  "events_last_24h": 12,
+  "events_last_hour": 1,
+  "count_m3plus_last_24h": 3,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260609.1453001",
-    "time_utc": "2026-06-09T14:53:00.000Z",
-    "latitude": 56.6864,
-    "longitude": -121.5864,
-    "depth_km": 4.28,
-    "mag_type": "MLy",
-    "magnitude": 2.38,
-    "place": "Suspected industry-related event, 30 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 30 km O de Blueberry River 205, BC",
+    "event_id": "20260609.2024001",
+    "time_utc": "2026-06-09T20:24:26.000Z",
+    "latitude": 49.9826,
+    "longitude": -114.7697,
+    "depth_km": 0.0,
+    "mag_type": "ML",
+    "magnitude": 3.27,
+    "place": "Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC",
     "region": "BC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260609.0509001",
-    "time_utc": "2026-06-09T05:09:28.000Z",
-    "latitude": 49.5285,
-    "longitude": -128.3707,
-    "depth_km": 20.0,
+    "event_id": "20260608.2226001",
+    "time_utc": "2026-06-08T22:26:15.000Z",
+    "latitude": 49.4661,
+    "longitude": -128.3665,
+    "depth_km": 10.0,
     "mag_type": "Mw'",
-    "magnitude": 3.19,
-    "place": "118 km SSW of Port Alice, BC/118 km SSO de Port Alice, BC",
+    "magnitude": 3.63,
+    "place": "124 km SSW of Port Alice, BC/124 km SSO de Port Alice, BC",
     "region": "BC"
   },
   "deepest_event_last_24h": {
@@ -42,12 +42,16 @@
   "top_regions_last_24h": [
     {
       "region": "BC",
-      "count": 7
+      "count": 10
     },
     {
       "region": "YT",
       "count": 1
+    },
+    {
+      "region": "AK",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-09 20:03 UTC, the recent Canada earthquake dataset contains 514 events from the current rolling window. In the last 24 hours, 8 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.19 at 118 km SSW of Port Alice, BC/118 km SSO de Port Alice, BC. The deepest event reached 20.00 km at 115 km SW of Port Alice, BC/115 km SO de Port Alice, BC. The most recent listed event was M2.38 at Suspected industry-related event, 30 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 30 km O de Blueberry River 205, BC at 2026-06-09T14:53:00.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (7) and YT (1)."
+  "summary_text": "As of 2026-06-09 21:03 UTC, the recent Canada earthquake dataset contains 518 events from the current rolling window. In the last 24 hours, 12 events were recorded, including 1 in the last hour. The largest event in the last 24 hours was M3.63 at 124 km SSW of Port Alice, BC/124 km SSO de Port Alice, BC. The deepest event reached 20.00 km at 115 km SW of Port Alice, BC/115 km SO de Port Alice, BC. The most recent listed event was M3.27 at Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC at 2026-06-09T20:24:26.000Z. There were 3 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (10) and YT (1)."
 }

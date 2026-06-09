@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-09T20:24:26.000Z",
+    "magnitude": "3.27",
+    "depth_km": "0.0",
+    "place": "Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC"
+  },
+  {
+    "time_utc": "2026-06-09T19:44:57.000Z",
+    "magnitude": "2.25",
+    "depth_km": "5.0",
+    "place": "170 km W of Juneau, AK/170 km O de Juneau, AK"
+  },
+  {
     "time_utc": "2026-06-09T14:53:00.000Z",
     "magnitude": "2.38",
     "depth_km": "4.28",
@@ -42,21 +54,9 @@ window.recentEvents = [
     "place": "118 km SSW of Port Alice, BC/118 km SSO de Port Alice, BC"
   },
   {
-    "time_utc": "2026-06-08T22:13:09.000Z",
-    "magnitude": "2.74",
-    "depth_km": "5.0",
-    "place": "15 km W of Haines Junction, YT/15 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-08T15:46:49.000Z",
-    "magnitude": "3.23",
-    "depth_km": "16.39",
-    "place": "50 km WSW of Daajing Giids, BC/50 km OSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-08T12:04:50.000Z",
-    "magnitude": "2.5",
-    "depth_km": "5.0",
-    "place": "120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
+    "time_utc": "2026-06-09T03:26:21.000Z",
+    "magnitude": "2.04",
+    "depth_km": "20.0",
+    "place": "117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC"
   }
 ];
