@@ -1,1 +1,1 @@
-Here's a quick summary for the PiQuake Canada dashboard in plain Canadian English: No earthquakes detected over the last 24 hours. The largest one was a tiny M2.39 near some mining operations in British Columbia on June 7th at around 10 PM. No regions showed any activity, so everything's quiet out there!
+The PiQuake Canada dashboard shows no earthquakes in the last hour or day, and there hasn't been any significant activity since a M2.39 quake that happened on June 7 at Blast, about 15 km southwest of the Trend Mine in British Columbia.
