@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-19T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three quakes in the past day. The largest one measured M2.86 and happened 127 km south-southwest of Whitehorse, Yukon. It's the latest event we have recorded so far this year."
-  },
-  {
     "timestamp_utc": "2026-05-19T19:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no seismic events in the last hour or day, and there's nothing notable from yesterday either. The latest event was a small one measuring M2.39 near some mining areas in British Columbia, happening on June 7th at around 10 PM local time. Nothing major has been recorded here recently."
+  },
+  {
+    "timestamp_utc": "2026-06-09T14:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no recorded earthquakes on the PiQuake Canada dashboard. The largest event was a M2.39 near some mining sites in British Columbia. It happened yesterday at about 10 PM. So far today, nothing has been detected."
   }
 ]
