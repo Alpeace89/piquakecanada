@@ -1,20 +1,20 @@
 {
-  "generated_utc": "2026-06-10T16:36:33Z",
+  "generated_utc": "2026-06-10T17:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 515,
-  "events_last_24h": 2,
+  "rolling_window_event_count": 517,
+  "events_last_24h": 4,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260609.2024001",
-    "time_utc": "2026-06-09T20:24:26.000Z",
-    "latitude": 49.9826,
-    "longitude": -114.7697,
-    "depth_km": 0.0,
-    "mag_type": "ML",
-    "magnitude": 3.27,
-    "place": "Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC",
+    "event_id": "20260610.1137001",
+    "time_utc": "2026-06-10T11:37:46.000Z",
+    "latitude": 49.5376,
+    "longitude": -128.3617,
+    "depth_km": 20.0,
+    "mag_type": "Mw'",
+    "magnitude": 2.56,
+    "place": "117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC",
     "region": "BC"
   },
   "largest_event_last_24h": {
@@ -29,25 +29,25 @@
     "region": "BC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260609.1944001",
-    "time_utc": "2026-06-09T19:44:57.000Z",
-    "latitude": 58.0638,
-    "longitude": -137.2803,
-    "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 2.25,
-    "place": "170 km W of Juneau, AK/170 km O de Juneau, AK",
-    "region": "AK"
+    "event_id": "20260610.1137001",
+    "time_utc": "2026-06-10T11:37:46.000Z",
+    "latitude": 49.5376,
+    "longitude": -128.3617,
+    "depth_km": 20.0,
+    "mag_type": "Mw'",
+    "magnitude": 2.56,
+    "place": "117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC",
+    "region": "BC"
   },
   "top_regions_last_24h": [
     {
-      "region": "AK",
-      "count": 1
+      "region": "BC",
+      "count": 3
     },
     {
-      "region": "BC",
+      "region": "AK",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-10 16:36 UTC, the recent Canada earthquake dataset contains 515 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.27 at Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC. The deepest event reached 5.00 km at 170 km W of Juneau, AK/170 km O de Juneau, AK. The most recent listed event was M3.27 at Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC at 2026-06-09T20:24:26.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AK (1) and BC (1)."
+  "summary_text": "As of 2026-06-10 17:03 UTC, the recent Canada earthquake dataset contains 517 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.27 at Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC. The deepest event reached 20.00 km at 117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC. The most recent listed event was M2.56 at 117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC at 2026-06-10T11:37:46.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and AK (1)."
 }

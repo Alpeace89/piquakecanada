@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-10T11:37:46.000Z",
+    "magnitude": "2.56",
+    "depth_km": "20.0",
+    "place": "117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC"
+  },
+  {
+    "time_utc": "2026-06-10T09:22:43.000Z",
+    "magnitude": "2.92",
+    "depth_km": "10.0",
+    "place": "119 km SSW of Port Alice, BC/119 km SSO de Port Alice, BC"
+  },
+  {
     "time_utc": "2026-06-09T20:24:26.000Z",
     "magnitude": "3.27",
     "depth_km": "0.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.63",
     "depth_km": "20.0",
     "place": "118 km SW of Port Alice, BC/118 km SO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-06-09T05:09:28.000Z",
-    "magnitude": "3.19",
-    "depth_km": "20.0",
-    "place": "118 km SSW of Port Alice, BC/118 km SSO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-06-09T03:26:21.000Z",
-    "magnitude": "2.04",
-    "depth_km": "20.0",
-    "place": "117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC"
   }
 ];

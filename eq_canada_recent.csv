@@ -514,3 +514,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260609.1453001,2026-06-09T14:53:00.000Z,56.6864,-121.5864,4.28,MLy,2.38,"Suspected industry-related event, 30 km W of Blueberry River 205, BC/Événement lié à l'industrie soupconné, 30 km O de Blueberry River 205, BC"
 20260609.1944001,2026-06-09T19:44:57.000Z,58.0638,-137.2803,5.0,ML,2.25,"170 km W of Juneau, AK/170 km O de Juneau, AK"
 20260609.2024001,2026-06-09T20:24:26.000Z,49.9826,-114.7697,0.0,ML,3.27,"Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC"
+20260610.0922001,2026-06-10T09:22:43.000Z,49.5032,-128.3339,10.0,Mw',2.92,"119 km SSW of Port Alice, BC/119 km SSO de Port Alice, BC"
+20260610.1137001,2026-06-10T11:37:46.000Z,49.5376,-128.3617,20.0,Mw',2.56,"117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC"
