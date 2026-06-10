@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-20T17:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows that there was one event detected in the last 24 hours, with a magnitude of M3.16. This happened 61 km west-south-west of Burwash Landing, Yukon and another place nearby. It's the largest earthquake recorded so far this year."
-  },
-  {
     "timestamp_utc": "2026-05-20T18:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no reported events on the PiQuake Canada dashboard. However, a M3.27 earthquake occurred at Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC. It was the largest event in that time frame and happened on June 9th around 8:24 PM UTC. The epicenter is located in British Columbia with one occurrence reported from Alaska as well."
+  },
+  {
+    "timestamp_utc": "2026-06-10T13:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there were three events over the past 24 hours. The largest event was a M3.27 near Elkford, BC on June 9th at around 8 PM local time. That's where they dynamite things and it usually shakes stuff up a bit. The region with most activity recently is British Columbia with two blasts, and Alaska had one too."
   }
 ]

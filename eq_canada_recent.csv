@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260426.1204001,2026-04-26T12:04:01.000Z,47.3722,-70.3185,15.05,MwN,0.71,"6 km ESE of L'Isle-aux-Coudres, QC/6 km ESE de L'Isle-aux-Coudres, QC"
-20260426.1220001,2026-04-26T12:20:17.000Z,65.1843,-138.7483,5.67,ML,2.33,"129 km NNE of Dawson, YT/129 km NNE de Dawson, YT"
 20260426.1432002,2026-04-26T14:32:04.000Z,42.0306,-83.042,5.0,MwN,2.89,"10 km S of Amherstburg, ON, felt/10 km S de Amherstburg, ON, ressenti"
 20260426.1807001,2026-04-26T18:07:22.000Z,54.906,-121.1284,0.0,ML,3.14,"Blast, 15 km SW of Trend Mine, BC/Dynamitage, 15 km SO de la mine Trend, BC"
 20260426.1959001,2026-04-26T19:59:41.000Z,57.1208,-121.9107,1.76,MLy,2.97,"Suspected industry-related event, 56 km WNW of Prespatou, BC/Événement lié à l'industrie soupconné, 56 km ONO de Prespatou, BC"
