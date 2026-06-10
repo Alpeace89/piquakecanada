@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260425.2307001,2026-04-25T23:07:48.000Z,47.3096,-66.2693,5.0,MwN,2.35,"29 km S of Caribou Mine, NB/29 km S de la mine Caribou, NB"
 20260426.0159001,2026-04-26T01:59:46.000Z,43.7446,-75.4199,5.0,MwN,2.37,"47 km ESE of Watertown, NY/47 km ESE de Watertown, NY"
 20260426.1204001,2026-04-26T12:04:01.000Z,47.3722,-70.3185,15.05,MwN,0.71,"6 km ESE of L'Isle-aux-Coudres, QC/6 km ESE de L'Isle-aux-Coudres, QC"
 20260426.1220001,2026-04-26T12:20:17.000Z,65.1843,-138.7483,5.67,ML,2.33,"129 km NNE of Dawson, YT/129 km NNE de Dawson, YT"

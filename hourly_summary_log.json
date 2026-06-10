@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-20T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had four PiQuake Canada dashboard events. The biggest one was a M3.24 quake near Hinton in Alberta and there's been another one with a magnitude of M3.16 today around Burwash Landing in Yukon Territory. These happenings are happening pretty regularly too; the dashboard shows three quakes occurred yesterday alone, all in Western Canada."
-  },
-  {
     "timestamp_utc": "2026-05-20T05:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had 10 PiQuake Canada events. The largest one was a M3.27 near Elkford in British Columbia and Alaska. It happened at 10 past 8 PM yesterday. Most of these quakes were happening in BC with nine, while one was spotted in AK."
+  },
+  {
+    "timestamp_utc": "2026-06-10T00:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the last hour, there were no recorded quakes. Over the past 24 hours, we've seen ten quakes with the biggest one measuring M3.27 around Blast and Dynamitage in BC. The latest quake was also a M3.27 happening at about the same place on June 9th at 8:24 PM UTC. Most of these happened in British Columbia, but there were also some in Alaska."
   }
 ]
