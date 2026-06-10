@@ -36,6 +36,12 @@ window.recentEvents = [
     "place": "119 km SSE of Daajing Giids, BC/119 km SSE de Daajing Giids, BC"
   },
   {
+    "time_utc": "2026-06-09T23:57:13.000Z",
+    "magnitude": "2.72",
+    "depth_km": "1.79",
+    "place": "Suspected industry-related event, 75 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 75 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-06-09T20:24:26.000Z",
     "magnitude": "3.27",
     "depth_km": "0.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.38",
     "depth_km": "4.28",
     "place": "Suspected industry-related event, 30 km W of Blueberry River 205, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 30 km O de Blueberry River 205, BC"
-  },
-  {
-    "time_utc": "2026-06-09T10:18:23.000Z",
-    "magnitude": "2.39",
-    "depth_km": "20.0",
-    "place": "115 km SW of Port Alice, BC/115 km SO de Port Alice, BC"
   }
 ];
