@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-20T21:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last hour and day, there haven't been any seismic events reported. The largest event in the past 24 hours was a magnitude that's still unknown. But earlier today at around 5 PM Yukon time, we had a small shake with a magnitude of M3.16 near Burwash Landing in the Yukon. It might have been a bit jarring if you were outdoors!"
-  },
-  {
     "timestamp_utc": "2026-05-20T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two in the past 24 hours. The largest event was a M3.27 quake near Elkford, BC. This is the latest and only recorded activity for that time frame."
+  },
+  {
+    "timestamp_utc": "2026-06-10T16:36:33Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there have been no earthquakes reported in Canada. However, a small quake of magnitude M3.27 hit near Elkford, BC yesterday evening during dynamite blasting operations. This is the only event we've recorded since then as well."
   }
 ]

@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there were two in the past 24 hours. The largest event was a M3.27 quake near Elkford, BC. This is the latest and only recorded activity for that time frame.
+In the last 24 hours, there have been no earthquakes reported in Canada. However, a small quake of magnitude M3.27 hit near Elkford, BC yesterday evening during dynamite blasting operations. This is the only event we've recorded since then as well.
