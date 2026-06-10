@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-20T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had two minor seismic events detected by our PiQuake Canada dashboard. The largest one measured M3.24 near Hinton in Alberta and occurred at about 16:02 on May 19th local time. Another event with a magnitude of M3.16 happened around Burwash Landing in the Yukon Territory at roughly 17:43 that day. It looks like most activity has been concentrated in Alberta and the Yukon."
-  },
-  {
     "timestamp_utc": "2026-05-20T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were a total of 5 seismic events recorded by our PiQuake Canada dashboard. The largest one measured M3.27 and happened near Elkford, BC. This is the only event we've had in that area since June 9th at around 8 PM Pacific time. So far this month, most activity has been in British Columbia with 4 events, and Alaska had just a single one."
+  },
+  {
+    "timestamp_utc": "2026-06-10T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the past 24 hours, there have been three PiQuake Canada dashboard events. The largest one was a M3.27 quake that happened near Elkford in British Columbia and an area used for dynamite blasting. This is nothing to worry about, but it's something we've noticed happening more frequently lately."
   }
 ]
