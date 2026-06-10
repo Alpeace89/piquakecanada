@@ -1,1 +1,1 @@
-In the last 24 hours, we had a total of six PiQuake Canada dashboard events. The largest one was a M3.27 earthquake that happened near Elkford in British Columbia and also in Alaska. It's good to know there haven't been any events recently as we've only seen six so far this past day.
+The PiQuake Canada dashboard shows no events in the last hour, but there were six recorded events over the past day. The largest event was a M3.27 quake near Elkford, BC and Dynamitage, BC on June 9th at around 8 PM UTC. That's the latest major quakes we've seen this month.
