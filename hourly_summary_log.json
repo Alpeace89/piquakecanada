@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-21T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks! It's been a quiet day on the PiQuake Canada dashboard. No quakes to report, but our latest event was a M3.16 near Burwash Landing in Yukon. Nothing too big or small - just another day of keeping an eye out for any seismic activity around the country."
-  },
-  {
     "timestamp_utc": "2026-05-21T02:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had a total of four PiQuake Canada events. The largest was a M3.27 near Elkford in BC. Just yesterday at around 8 PM, there were another three small quakes in BC and one in Alaska as well. It's pretty calm here at the moment with no big activity recorded since then, but we've got our eyes on any new small ones that might pop up!"
+  },
+  {
+    "timestamp_utc": "2026-06-10T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four minor quakes recorded over the past 24 hours. The largest of those was a M3.52 quake that happened about 90 km west-northwest of Fort Good Hope, NT, just north of its ONO location. That event is the latest one we have on record."
   }
 ]

@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-10T13:17:14.000Z",
+    "magnitude": "3.52",
+    "depth_km": "1.0",
+    "place": "90 km WNW of Fort Good Hope, NT/90 km ONO de Fort Good Hope, NT"
+  },
+  {
     "time_utc": "2026-06-10T11:37:46.000Z",
     "magnitude": "2.56",
     "depth_km": "20.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.25",
     "depth_km": "5.0",
     "place": "Suspected industry-related event, 54 km W of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 54 km O de Prespatou, BC"
-  },
-  {
-    "time_utc": "2026-06-09T06:44:17.000Z",
-    "magnitude": "2.63",
-    "depth_km": "20.0",
-    "place": "118 km SW of Port Alice, BC/118 km SO de Port Alice, BC"
   }
 ];
