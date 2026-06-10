@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-06-10T18:03:01Z",
+  "generated_utc": "2026-06-10T19:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 517,
+  "rolling_window_event_count": 518,
   "events_last_24h": 4,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
@@ -49,5 +49,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-10 18:03 UTC, the recent Canada earthquake dataset contains 517 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.27 at Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC. The deepest event reached 20.00 km at 117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC. The most recent listed event was M2.56 at 117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC at 2026-06-10T11:37:46.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and AK (1)."
+  "summary_text": "As of 2026-06-10 19:03 UTC, the recent Canada earthquake dataset contains 518 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.27 at Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC. The deepest event reached 20.00 km at 117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC. The most recent listed event was M2.56 at 117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC at 2026-06-10T11:37:46.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and AK (1)."
 }

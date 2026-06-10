@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260426.1807001,2026-04-26T18:07:22.000Z,54.906,-121.1284,0.0,ML,3.14,"Blast, 15 km SW of Trend Mine, BC/Dynamitage, 15 km SO de la mine Trend, BC"
 20260426.1959001,2026-04-26T19:59:41.000Z,57.1208,-121.9107,1.76,MLy,2.97,"Suspected industry-related event, 56 km WNW of Prespatou, BC/Événement lié à l'industrie soupconné, 56 km ONO de Prespatou, BC"
 20260426.2309001,2026-04-26T23:09:22.000Z,60.4129,-139.5455,1.0,ML,3.66,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
 20260426.2312002,2026-04-26T23:12:53.000Z,71.2369,-133.7208,35.0,ML,4.31,"200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT"
@@ -311,6 +310,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260522.0946001,2026-05-22T09:46:14.000Z,60.5099,-139.8138,5.0,ML,2.34,"128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
 20260522.1815003,2026-05-22T18:15:09.000Z,47.7176,-79.3562,10.44,MwN,2.13,"16 km NE of Notre-Dame-du-Nord, QC, felt/16 km NE de Notre-Dame-du-Nord, QC, ressenti"
 20260522.2154001,2026-05-22T21:54:05.000Z,49.7603,-126.9549,37.4,ML,1.4,"27 km SW of Tahsis, BC/27 km SO de Tahsis, BC"
+20260522.2305001,2026-05-22T23:05:59.000Z,42.7971,-80.0966,5.0,MwN,2.07,"9 km E of Port Dover, ON/9 km E de Port Dover, ON"
 20260523.0024001,2026-05-23T00:24:53.000Z,54.3145,-118.4426,1.0,MLy,2.74,"Suspected industry-related event, 65 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 65 km NE de Grande Cache, AB"
 20260523.0136001,2026-05-23T01:36:56.000Z,54.3212,-118.4298,3.78,MLy,2.62,"Suspected industry-related event, 66 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 66 km NE de Grande Cache, AB"
 20260523.0432001,2026-05-23T04:32:52.000Z,54.5642,-118.5571,4.1,MLy,2.54,"Suspected industry-related event, 69 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 69 km SSE de Grande Prairie, AB"
@@ -425,6 +425,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260601.0124001,2026-06-01T01:24:38.000Z,61.1504,-140.0044,5.0,ML,3.02,"59 km WSW of Burwash Landing, YT/59 km OSO de Burwash Landing, YT"
 20260601.0140001,2026-06-01T01:40:40.000Z,60.19,-136.9657,5.0,ML,2.5,"69 km SSE of Haines Junction, YT/69 km SSE de Haines Junction, YT"
 20260601.0311001,2026-06-01T03:11:40.000Z,49.4363,-127.8421,10.0,Mw',2.82,"74 km SSW of Houpsitas 6, BC/74 km SSO de Houpsitas 6, BC"
+20260601.0520001,2026-06-01T05:20:00.000Z,68.8677,-68.2537,18.0,MwN,2.04,"178 km S of Clyde River, NU/178 km S de Clyde River, NU"
 20260601.0650001,2026-06-01T06:50:43.000Z,53.2824,-132.9995,15.4,ML,2.57,"61 km W of Daajing Giids, BC/61 km O de Daajing Giids, BC"
 20260601.0859001,2026-06-01T08:59:20.000Z,49.4481,-127.8189,10.0,Mw',2.49,"72 km SSW of Houpsitas 6, BC/72 km SSO de Houpsitas 6, BC"
 20260601.0931001,2026-06-01T09:31:34.000Z,49.4323,-127.8555,10.0,Mw',2.26,"75 km SSW of Houpsitas 6, BC/75 km SSO de Houpsitas 6, BC"

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-21T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there haven't been any reported earthquakes on the PiQuake Canada dashboard. The largest one we have information about was M3.16 and it happened near Burwash Landing in the Yukon Territory yesterday at around 5:42 PM local time. No new regions with higher activity were identified either."
-  },
-  {
     "timestamp_utc": "2026-05-21T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four quakes in the previous day. The largest one measured M3.27 and happened near Elkford in BC earlier today. That's the biggest quake we've seen since our beta launch yesterday. We're seeing activity mostly in British Columbia and Alaska."
+  },
+  {
+    "timestamp_utc": "2026-06-10T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had a total of four PiQuake Canada events. The largest was a M3.27 near Elkford in BC. Just yesterday at around 8 PM, there were another three small quakes in BC and one in Alaska as well. It's pretty calm here at the moment with no big activity recorded since then, but we've got our eyes on any new small ones that might pop up!"
   }
 ]
