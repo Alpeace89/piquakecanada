@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260427.1740001,2026-04-27T17:40:06.000Z,50.2077,-127.8108,15.23,ML,1.75,"33 km SW of Port Alice, BC/33 km SO de Port Alice, BC"
 20260427.1805001,2026-04-27T18:05:10.000Z,60.5399,-139.8893,5.0,ML,2.12,"132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
 20260427.1850001,2026-04-27T18:50:37.000Z,48.5498,-122.6378,18.01,ML,1.81,"26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA"
 20260427.2007001,2026-04-27T20:07:59.000Z,47.5625,-81.9092,0.0,MwN,1.76,"Blast, 19 km SW of Gogama, ON/Dynamitage, 19 km SO de Gogama, ON"
@@ -491,7 +490,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260608.0255001,2026-06-08T02:55:08.000Z,45.7039,-76.4363,21.86,MwN,1.6,"12 km NNE of Shawville, QC, felt/12 km NNE de Shawville, QC, ressenti"
 20260608.0605001,2026-06-08T06:05:08.000Z,53.863,-131.6389,29.01,ML,2.15,"37 km ESE of Masset, BC/37 km ESE de Masset, BC"
 20260608.0619001,2026-06-08T06:19:07.000Z,53.0254,-132.6725,17.93,ML,2.41,"47 km WSW of Daajing Giids, BC/47 km OSO de Daajing Giids, BC"
-20260608.0643003,2026-06-08T06:43:56.000Z,48.278,-122.6213,28.41,ML,3.12,"57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti"
+20260608.0643004,2026-06-08T06:43:56.000Z,48.278,-122.6213,28.41,ML,3.12,"57 km ESE of Victoria, BC/57 km ESE de Victoria, BC"
 20260608.0646001,2026-06-08T06:46:31.000Z,48.2899,-122.6102,29.17,ML,2.53,"58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
 20260608.0738001,2026-06-08T07:38:28.000Z,48.2843,-122.6079,29.15,ML,1.83,"58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
 20260608.0800001,2026-06-08T08:00:27.000Z,60.5912,-139.9222,5.0,ML,2.49,"99 km SSW of Burwash Landing, YT/99 km SSO de Burwash Landing, YT"
