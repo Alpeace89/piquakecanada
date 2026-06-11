@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260427.0422001,2026-04-27T04:22:38.000Z,48.5592,-122.6341,16.37,ML,2.97,"25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
 20260427.0705001,2026-04-27T07:05:07.000Z,60.7274,-139.9395,5.0,ML,2.74,"87 km SW of Burwash Landing, YT/87 km SO de Burwash Landing, YT"
 20260427.1440001,2026-04-27T14:40:04.000Z,54.5653,-118.5882,1.0,MLy,2.31,"Suspected industry-related event, 69 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 69 km SSE de Grande Prairie, AB"
 20260427.1514001,2026-04-27T15:14:31.000Z,61.335,-140.9183,5.0,ML,2.4,"103 km W of Burwash Landing, YT/103 km O de Burwash Landing, YT"

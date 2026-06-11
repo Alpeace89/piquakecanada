@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-21T10:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no recorded earthquakes. The largest one measured M3.16 and happened near Burwash Landing in the Yukon Territory, not too far from another spot called OSO de Burwash Landing. It all happened on May 19th at around 5:42 PM local time."
-  },
-  {
     "timestamp_utc": "2026-05-21T11:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've seen five seismic events reported on our PiQuake Canada dashboard. The largest was a M3.52 near Fort Good Hope in the Northwest Territories, and then there's another one recently reported as possibly industry-related in Grande Prairie, Alberta. It’s all part of what we offer during our beta testing phase to help monitor these natural occurrences around Canada."
+  },
+  {
+    "timestamp_utc": "2026-06-11T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were five recorded earthquakes with the largest measuring M3.52 near Fort Good Hope in the Northwest Territories. The latest quake was a smaller M2.67 linked to industry in Grande Prairie, Alberta. Most of these happened in AB and BC regions."
   }
 ]
