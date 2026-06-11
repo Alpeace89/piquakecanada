@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "16 km SSW of Surrey, BC/16 km SSO de Surrey, BC"
   },
   {
+    "time_utc": "2026-06-11T06:34:40.000Z",
+    "magnitude": "1.0",
+    "depth_km": "10.0",
+    "place": "45 km ENE of Powell River, BC/45 km ENE de Powell River, BC"
+  },
+  {
     "time_utc": "2026-06-11T06:14:13.000Z",
     "magnitude": "2.99",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "0.57",
     "depth_km": "8.85",
     "place": "10 km NNW of La Malbaie, QC/10 km NNO de La Malbaie, QC"
-  },
-  {
-    "time_utc": "2026-06-10T18:32:52.000Z",
-    "magnitude": "2.67",
-    "depth_km": "1.15",
-    "place": "Suspected industry-related event, 74 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 74 km SSE de Grande Prairie, AB"
   }
 ];

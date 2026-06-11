@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260427.1805001,2026-04-27T18:05:10.000Z,60.5399,-139.8893,5.0,ML,2.12,"132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
-20260427.1850001,2026-04-27T18:50:37.000Z,48.5498,-122.6378,18.01,ML,1.81,"26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA"
 20260427.2007001,2026-04-27T20:07:59.000Z,47.5625,-81.9092,0.0,MwN,1.76,"Blast, 19 km SW of Gogama, ON/Dynamitage, 19 km SO de Gogama, ON"
 20260427.2131001,2026-04-27T21:31:39.000Z,47.0088,-66.5702,5.0,MwN,2.27,"64 km E of Plaster Rock, NB/64 km E de Plaster Rock, NB"
 20260427.2154001,2026-04-27T21:54:12.000Z,54.5868,-118.5681,1.0,MLy,2.01,"Suspected industry-related event, 67 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 67 km SSE de Grande Prairie, AB"
@@ -279,6 +277,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260520.1930001,2026-05-20T19:30:40.000Z,60.1528,-140.7484,5.0,ML,3.06,"190 km WSW of Haines Junction, YT/190 km OSO de Haines Junction, YT"
 20260521.0230002,2026-05-21T02:30:28.000Z,49.6899,-124.844,10.83,ML,2.08,"11 km E of Courtenay, BC/11 km E de Courtenay, BC"
 20260521.0251001,2026-05-21T02:51:38.000Z,52.7693,-132.3626,14.83,ML,2.26,"57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
+20260521.0542001,2026-05-21T05:42:19.000Z,68.5072,-135.2722,5.0,ML,1.52,"34 km NNW of Aklavik, NT/34 km NNO de Aklavik, NT"
 20260521.0607001,2026-05-21T06:07:40.000Z,60.5571,-139.9678,5.0,ML,2.35,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
 20260521.0838001,2026-05-21T08:38:07.000Z,54.7946,-118.5991,1.0,MLy,2.45,"Suspected industry-related event, 44 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km SSE de Grande Prairie, AB"
 20260521.1156001,2026-05-21T11:56:57.000Z,60.3891,-139.5457,5.0,ML,2.25,"118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
@@ -524,4 +523,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260611.0526001,2026-06-11T05:26:23.000Z,49.0299,-123.1292,21.2,ML,1.76,"15 km S of Richmond, BC/15 km S de Richmond, BC"
 20260611.0539001,2026-06-11T05:39:03.000Z,54.7715,-118.6903,1.0,MLy,2.27,"Suspected industry-related event, 45 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 45 km S de Grande Prairie, AB"
 20260611.0614001,2026-06-11T06:14:13.000Z,54.6784,-118.519,1.0,MLy,2.99,"Suspected industry-related event, 58 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 58 km SSE de Grande Prairie, AB"
+20260611.0634001,2026-06-11T06:34:40.000Z,49.922,-123.9136,10.0,ML1,1.0,"45 km ENE of Powell River, BC/45 km ENE de Powell River, BC"
 20260611.1437001,2026-06-11T14:37:50.000Z,48.9676,-122.8763,28.42,ML,2.53,"16 km SSW of Surrey, BC/16 km SSO de Surrey, BC"
