@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260427.1600002,2026-04-27T16:00:33.000Z,52.8073,-67.4214,0.0,MwN,2.06,"Blast, 8 km NW of Mont-Wright Mine, QC/Dynamitage, 8 km NO de la mine Mont-Wright, QC"
-20260427.1600001,2026-04-27T16:00:39.000Z,60.5625,-139.7262,5.0,ML,2.9,"123 km W of Haines Junction, YT/123 km O de Haines Junction, YT"
 20260427.1740001,2026-04-27T17:40:06.000Z,50.2077,-127.8108,15.23,ML,1.75,"33 km SW of Port Alice, BC/33 km SO de Port Alice, BC"
 20260427.1805001,2026-04-27T18:05:10.000Z,60.5399,-139.8893,5.0,ML,2.12,"132 km W of Haines Junction, YT/132 km O de Haines Junction, YT"
 20260427.1850001,2026-04-27T18:50:37.000Z,48.5498,-122.6378,18.01,ML,1.81,"26 km SSW of Bellingham, WA/26 km SSO de Bellingham, WA"
@@ -526,4 +524,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260611.0423001,2026-06-11T04:23:14.000Z,49.4493,-128.3314,10.0,Mw',2.9,"124 km SSW of Port Alice, BC/124 km SSO de Port Alice, BC"
 20260611.0526001,2026-06-11T05:26:23.000Z,49.0299,-123.1292,21.2,ML,1.76,"15 km S of Richmond, BC/15 km S de Richmond, BC"
 20260611.0539001,2026-06-11T05:39:03.000Z,54.7715,-118.6903,1.0,MLy,2.27,"Suspected industry-related event, 45 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 45 km S de Grande Prairie, AB"
+20260611.0614001,2026-06-11T06:14:13.000Z,54.6784,-118.519,1.0,MLy,2.99,"Suspected industry-related event, 58 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 58 km SSE de Grande Prairie, AB"
 20260611.1437001,2026-06-11T14:37:50.000Z,48.9676,-122.8763,28.42,ML,2.53,"16 km SSW of Surrey, BC/16 km SSO de Surrey, BC"
