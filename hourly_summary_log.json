@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-21T15:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary for the PiQuake Canada dashboard: In the last 24 hours, we had four minor quakes. The biggest one was a M2.45 near Grande Prairie in Alberta and it happened on May 21st at around 8:38 AM. Most of these quakes were reported from British Columbia and the Northwest Territories too."
-  },
-  {
     "timestamp_utc": "2026-05-21T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've seen four small quakes recorded by our PiQuake Canada dashboard. The largest one was a M3.52 near Fort Good Hope in the North Territories, and there's also been a suspected industry-related quake in Alberta. It seems most of these came from British Columbia and Alberta regions."
+  },
+  {
+    "timestamp_utc": "2026-06-11T10:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had three minor quakes with the largest being a M3.52 near Fort Good Hope in the Northwest Territories. The latest event was an industry-related shake around Grande Prairie, Alberta. All these happenings are happening more often in British Columbia, the Northwest Territories, and Alberta."
   }
 ]
