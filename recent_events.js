@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-11T05:39:03.000Z",
+    "magnitude": "2.27",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 45 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 45 km S de Grande Prairie, AB"
+  },
+  {
+    "time_utc": "2026-06-11T05:26:23.000Z",
+    "magnitude": "1.76",
+    "depth_km": "21.2",
+    "place": "15 km S of Richmond, BC/15 km S de Richmond, BC"
+  },
+  {
+    "time_utc": "2026-06-11T04:23:14.000Z",
+    "magnitude": "2.9",
+    "depth_km": "10.0",
+    "place": "124 km SSW of Port Alice, BC/124 km SSO de Port Alice, BC"
+  },
+  {
     "time_utc": "2026-06-11T03:28:40.000Z",
     "magnitude": "2.3",
     "depth_km": "17.67",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.56",
     "depth_km": "20.0",
     "place": "117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-06-10T09:22:43.000Z",
-    "magnitude": "2.92",
-    "depth_km": "10.0",
-    "place": "119 km SSW of Port Alice, BC/119 km SSO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-06-10T07:12:23.000Z",
-    "magnitude": "2.4",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 75 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 75 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-10T01:25:10.000Z",
-    "magnitude": "2.42",
-    "depth_km": "15.81",
-    "place": "119 km SSE of Daajing Giids, BC/119 km SSE de Daajing Giids, BC"
   }
 ];

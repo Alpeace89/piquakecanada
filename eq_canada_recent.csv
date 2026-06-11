@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260427.1440001,2026-04-27T14:40:04.000Z,54.5653,-118.5882,1.0,MLy,2.31,"Suspected industry-related event, 69 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 69 km SSE de Grande Prairie, AB"
 20260427.1514001,2026-04-27T15:14:31.000Z,61.335,-140.9183,5.0,ML,2.4,"103 km W of Burwash Landing, YT/103 km O de Burwash Landing, YT"
 20260427.1538001,2026-04-27T15:38:46.000Z,59.6879,-136.1722,5.0,ML,1.59,"127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
 20260427.1600002,2026-04-27T16:00:33.000Z,52.8073,-67.4214,0.0,MwN,2.06,"Blast, 8 km NW of Mont-Wright Mine, QC/Dynamitage, 8 km NO de la mine Mont-Wright, QC"
@@ -256,6 +255,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260517.1636001,2026-05-17T16:36:10.000Z,53.0272,-132.7236,18.88,ML,2.77,"50 km WSW of Daajing Giids, BC/50 km OSO de Daajing Giids, BC"
 20260518.0042001,2026-05-18T00:42:29.000Z,55.8702,-120.2731,1.0,MLy,2.06,"Suspected industry-related event, 12 km N of Dawson Creek, BC/Événement lié à l'industrie soupconné, 12 km N de Dawson Creek, BC"
 20260518.0310001,2026-05-18T03:10:54.000Z,49.3157,-128.9554,10.0,Mw',2.43,"188 km SW of Port Hardy, BC/188 km SO de Port Hardy, BC"
+20260518.0417001,2026-05-18T04:17:18.000Z,69.2302,-123.8512,18.0,MwN,1.79,"16 km SSE of Paulatuk, NT/16 km SSE de Paulatuk, NT"
 20260518.0845001,2026-05-18T08:45:17.000Z,52.8024,-127.5025,1.0,ML,2.04,"71 km NW of Bella Coola 1, BC/71 km NO de Bella Coola 1, BC"
 20260518.0958001,2026-05-18T09:58:26.000Z,67.4626,-135.7811,5.0,ML,0.91,"38 km W of Fort McPherson, NT/38 km O de Fort McPherson, NT"
 20260518.1023001,2026-05-18T10:23:10.000Z,67.4608,-135.8525,5.0,ML,1.43,"41 km W of Fort McPherson, NT/41 km O de Fort McPherson, NT"
@@ -525,3 +525,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260611.0215001,2026-06-11T02:15:14.000Z,53.1065,-132.8979,14.64,ML,2.31,"57 km WSW of Daajing Giids, BC/57 km OSO de Daajing Giids, BC"
 20260611.0217001,2026-06-11T02:17:01.000Z,54.6758,-118.5122,1.0,MLy,2.31,"Suspected industry-related event, 58 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 58 km SSE de Grande Prairie, AB"
 20260611.0328001,2026-06-11T03:28:40.000Z,52.0022,-131.3085,17.67,ML,2.3,"149 km SSE of Daajing Giids, BC/149 km SSE de Daajing Giids, BC"
+20260611.0423001,2026-06-11T04:23:14.000Z,49.4493,-128.3314,10.0,Mw',2.9,"124 km SSW of Port Alice, BC/124 km SSO de Port Alice, BC"
+20260611.0526001,2026-06-11T05:26:23.000Z,49.0299,-123.1292,21.2,ML,1.76,"15 km S of Richmond, BC/15 km S de Richmond, BC"
+20260611.0539001,2026-06-11T05:39:03.000Z,54.7715,-118.6903,1.0,MLy,2.27,"Suspected industry-related event, 45 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 45 km S de Grande Prairie, AB"
