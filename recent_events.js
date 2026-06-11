@@ -6,6 +6,30 @@ window.recentEvents = [
     "place": "16 km SSW of Surrey, BC/16 km SSO de Surrey, BC"
   },
   {
+    "time_utc": "2026-06-11T12:10:47.000Z",
+    "magnitude": "2.16",
+    "depth_km": "17.55",
+    "place": "69 km S of Daajing Giids, BC/69 km S de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-06-11T10:52:37.000Z",
+    "magnitude": "2.24",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 73 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 73 km S de Grande Prairie, AB"
+  },
+  {
+    "time_utc": "2026-06-11T08:43:36.000Z",
+    "magnitude": "3.29",
+    "depth_km": "10.0",
+    "place": "117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC"
+  },
+  {
+    "time_utc": "2026-06-11T07:26:51.000Z",
+    "magnitude": "1.02",
+    "depth_km": "17.72",
+    "place": "11 km S of Bellingham, WA/11 km S de Bellingham, WA"
+  },
+  {
     "time_utc": "2026-06-11T06:34:40.000Z",
     "magnitude": "1.0",
     "depth_km": "10.0",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "2.9",
     "depth_km": "10.0",
     "place": "124 km SSW of Port Alice, BC/124 km SSO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-06-11T03:28:40.000Z",
-    "magnitude": "2.3",
-    "depth_km": "17.67",
-    "place": "149 km SSE of Daajing Giids, BC/149 km SSE de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-11T02:17:01.000Z",
-    "magnitude": "2.31",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 58 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-11T02:15:14.000Z",
-    "magnitude": "2.31",
-    "depth_km": "14.64",
-    "place": "57 km WSW of Daajing Giids, BC/57 km OSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-11T01:09:33.000Z",
-    "magnitude": "0.57",
-    "depth_km": "8.85",
-    "place": "10 km NNW of La Malbaie, QC/10 km NNO de La Malbaie, QC"
   }
 ];

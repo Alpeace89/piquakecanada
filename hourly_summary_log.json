@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-22T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had 11 PiQuake Canada events recorded. The largest one was a M4.15 near Mayo in Yukon on May 21st at around 8 PM local time. It's been quiet for today with just 0 events reported since then. We're keeping an eye on BC, Yukon Territory, and Alaska where most of the activity has been happening recently."
-  },
-  {
     "timestamp_utc": "2026-05-22T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we saw 10 quakes reported. The biggest one was a M2.99 near Grande Prairie in Alberta, thought to be an industry-related event. Surrey in British Columbia had its fair share too with a M2.53 quake earlier today. Notable regions with more activity were British Columbia, Alberta, and Quebec."
+  },
+  {
+    "timestamp_utc": "2026-06-11T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had a total of 14 PiQuake Canada dashboard events. The largest event was a M3.29 near Port Alice in British Columbia and Surrey in British Columbia. It's been quite active with one quake every hour on average recently. We're seeing most activity in BC with 8 quakes, followed by Alberta with 4 and Quebec City with the only one in our top regions."
   }
 ]
