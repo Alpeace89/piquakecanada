@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-06-11T11:03:01Z",
+  "generated_utc": "2026-06-11T12:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 522,
-  "events_last_24h": 3,
+  "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
@@ -29,21 +29,17 @@
     "region": "NT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260610.1137001",
-    "time_utc": "2026-06-10T11:37:46.000Z",
-    "latitude": 49.5376,
-    "longitude": -128.3617,
-    "depth_km": 20.0,
-    "mag_type": "Mw'",
-    "magnitude": 2.56,
-    "place": "117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC",
-    "region": "BC"
+    "event_id": "20260610.1832001",
+    "time_utc": "2026-06-10T18:32:52.000Z",
+    "latitude": 54.5296,
+    "longitude": -118.4801,
+    "depth_km": 1.15,
+    "mag_type": "MLy",
+    "magnitude": 2.67,
+    "place": "Suspected industry-related event, 74 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 74 km SSE de Grande Prairie, AB",
+    "region": "AB"
   },
   "top_regions_last_24h": [
-    {
-      "region": "BC",
-      "count": 1
-    },
     {
       "region": "NT",
       "count": 1
@@ -53,5 +49,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-11 11:03 UTC, the recent Canada earthquake dataset contains 522 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.52 at 90 km WNW of Fort Good Hope, NT/90 km ONO de Fort Good Hope, NT. The deepest event reached 20.00 km at 117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC. The most recent listed event was M2.67 at Suspected industry-related event, 74 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 74 km SSE de Grande Prairie, AB at 2026-06-10T18:32:52.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (1) and NT (1)."
+  "summary_text": "As of 2026-06-11 12:03 UTC, the recent Canada earthquake dataset contains 522 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.52 at 90 km WNW of Fort Good Hope, NT/90 km ONO de Fort Good Hope, NT. The deepest event reached 1.15 km at Suspected industry-related event, 74 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 74 km SSE de Grande Prairie, AB. The most recent listed event was M2.67 at Suspected industry-related event, 74 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 74 km SSE de Grande Prairie, AB at 2026-06-10T18:32:52.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were NT (1) and AB (1)."
 }
