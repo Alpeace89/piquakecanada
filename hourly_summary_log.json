@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-21T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows one event happened in the last hour, with a total of ten events in the past day. The largest event was a M4.15 under Mayo, YT on May 21st at around 8:29 PM. That's where we've been seeing most activity lately—mostly in BC and Yukon Territory, with Alberta having one too."
-  },
-  {
     "timestamp_utc": "2026-05-21T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had eight minor earthquakes, with the biggest one measuring M2.9 near Port Alice in British Columbia. The latest event was a smaller one at Grande Prairie in Alberta, suspected to be related to industry. Most of these happened in BC and Alberta regions."
+  },
+  {
+    "timestamp_utc": "2026-06-11T16:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had nine little shakes reported across Canada. The largest one was a M2.9 near Port Alice in British Columbia around 4 AM this morning. Surrey also got a M2.53 shake just after noon. Most of these happened in BC with three more in Alberta and one in Quebec."
   }
 ]

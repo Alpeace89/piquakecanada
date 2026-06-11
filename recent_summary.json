@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-06-11T15:03:01Z",
+  "generated_utc": "2026-06-11T16:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 529,
-  "events_last_24h": 8,
+  "rolling_window_event_count": 528,
+  "events_last_24h": 9,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260611.0539001",
-    "time_utc": "2026-06-11T05:39:03.000Z",
-    "latitude": 54.7715,
-    "longitude": -118.6903,
-    "depth_km": 1.0,
-    "mag_type": "MLy",
-    "magnitude": 2.27,
-    "place": "Suspected industry-related event, 45 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 45 km S de Grande Prairie, AB",
-    "region": "AB"
+    "event_id": "20260611.1437001",
+    "time_utc": "2026-06-11T14:37:50.000Z",
+    "latitude": 48.9676,
+    "longitude": -122.8763,
+    "depth_km": 28.42,
+    "mag_type": "ML",
+    "magnitude": 2.53,
+    "place": "16 km SSW of Surrey, BC/16 km SSO de Surrey, BC",
+    "region": "BC"
   },
   "largest_event_last_24h": {
     "event_id": "20260611.0423001",
@@ -29,20 +29,20 @@
     "region": "BC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260611.0526001",
-    "time_utc": "2026-06-11T05:26:23.000Z",
-    "latitude": 49.0299,
-    "longitude": -123.1292,
-    "depth_km": 21.2,
+    "event_id": "20260611.1437001",
+    "time_utc": "2026-06-11T14:37:50.000Z",
+    "latitude": 48.9676,
+    "longitude": -122.8763,
+    "depth_km": 28.42,
     "mag_type": "ML",
-    "magnitude": 1.76,
-    "place": "15 km S of Richmond, BC/15 km S de Richmond, BC",
+    "magnitude": 2.53,
+    "place": "16 km SSW of Surrey, BC/16 km SSO de Surrey, BC",
     "region": "BC"
   },
   "top_regions_last_24h": [
     {
       "region": "BC",
-      "count": 4
+      "count": 5
     },
     {
       "region": "AB",
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-11 15:03 UTC, the recent Canada earthquake dataset contains 529 events from the current rolling window. In the last 24 hours, 8 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.9 at 124 km SSW of Port Alice, BC/124 km SSO de Port Alice, BC. The deepest event reached 21.20 km at 15 km S of Richmond, BC/15 km S de Richmond, BC. The most recent listed event was M2.27 at Suspected industry-related event, 45 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 45 km S de Grande Prairie, AB at 2026-06-11T05:39:03.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and AB (3)."
+  "summary_text": "As of 2026-06-11 16:03 UTC, the recent Canada earthquake dataset contains 528 events from the current rolling window. In the last 24 hours, 9 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.9 at 124 km SSW of Port Alice, BC/124 km SSO de Port Alice, BC. The deepest event reached 28.42 km at 16 km SSW of Surrey, BC/16 km SSO de Surrey, BC. The most recent listed event was M2.53 at 16 km SSW of Surrey, BC/16 km SSO de Surrey, BC at 2026-06-11T14:37:50.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (5) and AB (3)."
 }

@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-11T14:37:50.000Z",
+    "magnitude": "2.53",
+    "depth_km": "28.42",
+    "place": "16 km SSW of Surrey, BC/16 km SSO de Surrey, BC"
+  },
+  {
     "time_utc": "2026-06-11T05:39:03.000Z",
     "magnitude": "2.27",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.52",
     "depth_km": "1.0",
     "place": "90 km WNW of Fort Good Hope, NT/90 km ONO de Fort Good Hope, NT"
-  },
-  {
-    "time_utc": "2026-06-10T11:37:46.000Z",
-    "magnitude": "2.56",
-    "depth_km": "20.0",
-    "place": "117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC"
   }
 ];
