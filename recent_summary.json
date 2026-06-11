@@ -1,57 +1,57 @@
 {
-  "generated_utc": "2026-06-11T13:03:01Z",
+  "generated_utc": "2026-06-11T14:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 523,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 526,
+  "events_last_24h": 5,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 1,
+  "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260611.0109001",
-    "time_utc": "2026-06-11T01:09:33.000Z",
-    "latitude": 47.7381,
-    "longitude": -70.1798,
-    "depth_km": 8.85,
-    "mag_type": "MwN",
-    "magnitude": 0.57,
-    "place": "10 km NNW of La Malbaie, QC/10 km NNO de La Malbaie, QC",
-    "region": "QC"
+    "event_id": "20260611.0328001",
+    "time_utc": "2026-06-11T03:28:40.000Z",
+    "latitude": 52.0022,
+    "longitude": -131.3085,
+    "depth_km": 17.67,
+    "mag_type": "ML",
+    "magnitude": 2.3,
+    "place": "149 km SSE of Daajing Giids, BC/149 km SSE de Daajing Giids, BC",
+    "region": "BC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260610.1317001",
-    "time_utc": "2026-06-10T13:17:14.000Z",
-    "latitude": 66.6476,
-    "longitude": -130.4161,
-    "depth_km": 1.0,
-    "mag_type": "ML",
-    "magnitude": 3.52,
-    "place": "90 km WNW of Fort Good Hope, NT/90 km ONO de Fort Good Hope, NT",
-    "region": "NT"
+    "event_id": "20260610.1832001",
+    "time_utc": "2026-06-10T18:32:52.000Z",
+    "latitude": 54.5296,
+    "longitude": -118.4801,
+    "depth_km": 1.15,
+    "mag_type": "MLy",
+    "magnitude": 2.67,
+    "place": "Suspected industry-related event, 74 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 74 km SSE de Grande Prairie, AB",
+    "region": "AB"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260611.0109001",
-    "time_utc": "2026-06-11T01:09:33.000Z",
-    "latitude": 47.7381,
-    "longitude": -70.1798,
-    "depth_km": 8.85,
-    "mag_type": "MwN",
-    "magnitude": 0.57,
-    "place": "10 km NNW of La Malbaie, QC/10 km NNO de La Malbaie, QC",
-    "region": "QC"
+    "event_id": "20260611.0328001",
+    "time_utc": "2026-06-11T03:28:40.000Z",
+    "latitude": 52.0022,
+    "longitude": -131.3085,
+    "depth_km": 17.67,
+    "mag_type": "ML",
+    "magnitude": 2.3,
+    "place": "149 km SSE of Daajing Giids, BC/149 km SSE de Daajing Giids, BC",
+    "region": "BC"
   },
   "top_regions_last_24h": [
     {
-      "region": "NT",
-      "count": 1
+      "region": "AB",
+      "count": 2
     },
     {
-      "region": "AB",
-      "count": 1
+      "region": "BC",
+      "count": 2
     },
     {
       "region": "QC",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-11 13:03 UTC, the recent Canada earthquake dataset contains 523 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.52 at 90 km WNW of Fort Good Hope, NT/90 km ONO de Fort Good Hope, NT. The deepest event reached 8.85 km at 10 km NNW of La Malbaie, QC/10 km NNO de La Malbaie, QC. The most recent listed event was M0.57 at 10 km NNW of La Malbaie, QC/10 km NNO de La Malbaie, QC at 2026-06-11T01:09:33.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were NT (1) and AB (1)."
+  "summary_text": "As of 2026-06-11 14:03 UTC, the recent Canada earthquake dataset contains 526 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.67 at Suspected industry-related event, 74 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 74 km SSE de Grande Prairie, AB. The deepest event reached 17.67 km at 149 km SSE of Daajing Giids, BC/149 km SSE de Daajing Giids, BC. The most recent listed event was M2.3 at 149 km SSE of Daajing Giids, BC/149 km SSE de Daajing Giids, BC at 2026-06-11T03:28:40.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (2) and BC (2)."
 }

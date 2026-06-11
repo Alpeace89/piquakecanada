@@ -522,3 +522,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260610.1317001,2026-06-10T13:17:14.000Z,66.6476,-130.4161,1.0,ML,3.52,"90 km WNW of Fort Good Hope, NT/90 km ONO de Fort Good Hope, NT"
 20260610.1832001,2026-06-10T18:32:52.000Z,54.5296,-118.4801,1.15,MLy,2.67,"Suspected industry-related event, 74 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 74 km SSE de Grande Prairie, AB"
 20260611.0109001,2026-06-11T01:09:33.000Z,47.7381,-70.1798,8.85,MwN,0.57,"10 km NNW of La Malbaie, QC/10 km NNO de La Malbaie, QC"
+20260611.0215001,2026-06-11T02:15:14.000Z,53.1065,-132.8979,14.64,ML,2.31,"57 km WSW of Daajing Giids, BC/57 km OSO de Daajing Giids, BC"
+20260611.0217001,2026-06-11T02:17:01.000Z,54.6758,-118.5122,1.0,MLy,2.31,"Suspected industry-related event, 58 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 58 km SSE de Grande Prairie, AB"
+20260611.0328001,2026-06-11T03:28:40.000Z,52.0022,-131.3085,17.67,ML,2.3,"149 km SSE of Daajing Giids, BC/149 km SSE de Daajing Giids, BC"

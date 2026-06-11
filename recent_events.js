@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-11T03:28:40.000Z",
+    "magnitude": "2.3",
+    "depth_km": "17.67",
+    "place": "149 km SSE of Daajing Giids, BC/149 km SSE de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-06-11T02:17:01.000Z",
+    "magnitude": "2.31",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 58 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km SSE de Grande Prairie, AB"
+  },
+  {
+    "time_utc": "2026-06-11T02:15:14.000Z",
+    "magnitude": "2.31",
+    "depth_km": "14.64",
+    "place": "57 km WSW of Daajing Giids, BC/57 km OSO de Daajing Giids, BC"
+  },
+  {
     "time_utc": "2026-06-11T01:09:33.000Z",
     "magnitude": "0.57",
     "depth_km": "8.85",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.42",
     "depth_km": "15.81",
     "place": "119 km SSE of Daajing Giids, BC/119 km SSE de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-09T23:57:13.000Z",
-    "magnitude": "2.72",
-    "depth_km": "1.79",
-    "place": "Suspected industry-related event, 75 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 75 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-09T20:24:26.000Z",
-    "magnitude": "3.27",
-    "depth_km": "0.0",
-    "place": "Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC"
-  },
-  {
-    "time_utc": "2026-06-09T19:44:57.000Z",
-    "magnitude": "2.25",
-    "depth_km": "5.0",
-    "place": "170 km W of Juneau, AK/170 km O de Juneau, AK"
   }
 ];
