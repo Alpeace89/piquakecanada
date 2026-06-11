@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-21T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, with a total of five events recorded over the past 24 hours. The largest event was an M2.45 near Grande Prairie in Alberta, suspected to be related to industry. In the latest update, there's also been a minor shake in Haines Junction, Yukon. Most of these were spotted in British Columbia and the Yukon Territory."
-  },
-  {
     "timestamp_utc": "2026-05-21T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had three minor quakes with the largest being a M3.52 near Fort Good Hope in the Northwest Territories. The latest event was an industry-related shake around Grande Prairie, Alberta. All these happenings are happening more often in British Columbia, the Northwest Territories, and Alberta."
+  },
+  {
+    "timestamp_utc": "2026-06-11T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had three minor quakes with the biggest being a M3.52 near Fort Good Hope in the North Territories. The latest one was reported as happening around Grande Prairie in Alberta and suspected to be related to industry. It's been quiet for quite some time now, with no events recorded since last hour."
   }
 ]
