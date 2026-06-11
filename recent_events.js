@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-11T01:09:33.000Z",
+    "magnitude": "0.57",
+    "depth_km": "8.85",
+    "place": "10 km NNW of La Malbaie, QC/10 km NNO de La Malbaie, QC"
+  },
+  {
     "time_utc": "2026-06-10T18:32:52.000Z",
     "magnitude": "2.67",
     "depth_km": "1.15",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.25",
     "depth_km": "5.0",
     "place": "170 km W of Juneau, AK/170 km O de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-06-09T14:53:00.000Z",
-    "magnitude": "2.38",
-    "depth_km": "4.28",
-    "place": "Suspected industry-related event, 30 km W of Blueberry River 205, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 30 km O de Blueberry River 205, BC"
   }
 ];
