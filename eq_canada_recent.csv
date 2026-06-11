@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260426.2309001,2026-04-26T23:09:22.000Z,60.4129,-139.5455,1.0,ML,3.66,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-20260426.2312002,2026-04-26T23:12:53.000Z,71.2369,-133.7208,35.0,ML,4.31,"200 km N of Tuktoyaktuk, NT/200 km N de Tuktoyaktuk, NT"
 20260427.0130001,2026-04-27T01:30:33.000Z,60.4559,-139.6276,5.0,ML,2.09,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
 20260427.0257001,2026-04-27T02:57:17.000Z,57.7684,-137.9768,5.0,ML,3.66,"218 km WSW of Juneau, AK/218 km OSO de Juneau, AK"
 20260427.0308001,2026-04-27T03:08:50.000Z,60.4256,-139.5885,5.0,ML,2.13,"119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
