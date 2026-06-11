@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-21T11:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is still in beta and has not recorded any quakes in the last hour or day. The largest quake in the past 24 hours was an unknown magnitude coming from an unknown location, and there's no latest event listed either."
-  },
-  {
     "timestamp_utc": "2026-05-21T12:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were five recorded earthquakes with the largest measuring M3.52 near Fort Good Hope in the Northwest Territories. The latest quake was a smaller M2.67 linked to industry in Grande Prairie, Alberta. Most of these happened in AB and BC regions."
+  },
+  {
+    "timestamp_utc": "2026-06-11T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had five minor quakes. The biggest one was a M3.52 near Fort Good Hope in the North Territories on June 9th at around 1 p.m. local time. We also had another quake that people suspect might have been caused by an industry event in Alberta. That one happened about two hours after the big one, just outside of Grande Prairie. It's important to know this so we're prepared for any small quakes in those areas."
   }
 ]
