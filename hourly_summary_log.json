@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-21T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there was one event yesterday with a magnitude of M2.21 happening 10 kilometers east of Courtenay, BC at around 2:30 AM today. This is our latest and only recorded quake since we started beta testing."
-  },
-  {
     "timestamp_utc": "2026-05-21T15:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been four minor earthquakes reported on the PiQuake Canada dashboard. The largest event measured M3.52 and happened about 90 km west-northwest of Fort Good Hope in the Northwest Territories around 1 p.m. local time. There was also a small quake recorded near Grande Prairie, Alberta earlier that evening which is suspected to be related to industry activities."
+  },
+  {
+    "timestamp_utc": "2026-06-11T09:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've seen four small quakes recorded by our PiQuake Canada dashboard. The largest one was a M3.52 near Fort Good Hope in the North Territories, and there's also been a suspected industry-related quake in Alberta. It seems most of these came from British Columbia and Alberta regions."
   }
 ]
