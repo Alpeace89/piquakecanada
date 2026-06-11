@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-11T16:36:02.000Z",
+    "magnitude": "2.8",
+    "depth_km": "10.0",
+    "place": "148 km W of Port Hardy, BC/148 km O de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-06-11T15:15:10.000Z",
+    "magnitude": "2.66",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 59 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-06-11T14:37:50.000Z",
     "magnitude": "2.53",
     "depth_km": "28.42",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.27",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 45 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 45 km S de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-11T05:26:23.000Z",
-    "magnitude": "1.76",
-    "depth_km": "21.2",
-    "place": "15 km S of Richmond, BC/15 km S de Richmond, BC"
-  },
-  {
-    "time_utc": "2026-06-11T04:23:14.000Z",
-    "magnitude": "2.9",
-    "depth_km": "10.0",
-    "place": "124 km SSW of Port Alice, BC/124 km SSO de Port Alice, BC"
   }
 ];
