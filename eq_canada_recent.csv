@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260427.0257001,2026-04-27T02:57:17.000Z,57.7684,-137.9768,5.0,ML,3.66,"218 km WSW of Juneau, AK/218 km OSO de Juneau, AK"
 20260427.0308001,2026-04-27T03:08:50.000Z,60.4256,-139.5885,5.0,ML,2.13,"119 km WSW of Haines Junction, YT/119 km OSO de Haines Junction, YT"
 20260427.0422001,2026-04-27T04:22:38.000Z,48.5592,-122.6341,16.37,ML,2.97,"25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
 20260427.0705001,2026-04-27T07:05:07.000Z,60.7274,-139.9395,5.0,ML,2.74,"87 km SW of Burwash Landing, YT/87 km SO de Burwash Landing, YT"
