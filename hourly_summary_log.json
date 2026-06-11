@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-22T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had nine quakes reported. The biggest one was a M4.15 near Mayo in the Yukon, and there was another M3.01 off the coast of Alaska. Most of them were happening in British Columbia and the Yukon Territory."
-  },
-  {
     "timestamp_utc": "2026-05-22T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were 16 recorded quakes in the previous 24 hours. The largest event was a M3.29 near Port Alice in British Columbia at 8:43 AM on June 11th. In the last 24 hours, we've seen activity across different regions—most notably in BC with nine events, Alberta with five, and Quebec with one."
+  },
+  {
+    "timestamp_utc": "2026-06-11T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had 16 earthquakes recorded. The biggest one was a M3.29 that happened near Port Alice in British Columbia. That's about 117 km south-southwest of where Port Alice is located. It occurred just before noon yesterday. Other smaller ones were also felt across BC and the rest of Canada, with British Columbia feeling them most often."
   }
 ]
