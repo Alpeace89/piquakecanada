@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-06-11T01:03:01Z",
+  "generated_utc": "2026-06-11T02:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 527,
-  "events_last_24h": 6,
+  "rolling_window_event_count": 526,
+  "events_last_24h": 5,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
@@ -41,11 +41,11 @@
   },
   "top_regions_last_24h": [
     {
-      "region": "BC",
-      "count": 3
+      "region": "AB",
+      "count": 2
     },
     {
-      "region": "AB",
+      "region": "BC",
       "count": 2
     },
     {
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-11 01:03 UTC, the recent Canada earthquake dataset contains 527 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.52 at 90 km WNW of Fort Good Hope, NT/90 km ONO de Fort Good Hope, NT. The deepest event reached 20.00 km at 117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC. The most recent listed event was M2.67 at Suspected industry-related event, 74 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 74 km SSE de Grande Prairie, AB at 2026-06-10T18:32:52.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and AB (2)."
+  "summary_text": "As of 2026-06-11 02:03 UTC, the recent Canada earthquake dataset contains 526 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.52 at 90 km WNW of Fort Good Hope, NT/90 km ONO de Fort Good Hope, NT. The deepest event reached 20.00 km at 117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC. The most recent listed event was M2.67 at Suspected industry-related event, 74 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 74 km SSE de Grande Prairie, AB at 2026-06-10T18:32:52.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (2) and BC (2)."
 }

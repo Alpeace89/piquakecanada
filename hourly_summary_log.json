@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-21T07:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard hasn't recorded any seismic events in the last 24 hours, and we haven't had a big one either. The most recent event was a small shake with a magnitude of M3.16 that happened on May 19th at around 5:42 PM local time. Everything's quiet out there so far."
-  },
-  {
     "timestamp_utc": "2026-05-21T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but we had six quakes in the past day. The largest one was a M3.52 near Fort Good Hope, and there's another recent quake suspected to be linked to industry happening close to Grande Prairie. Most of these happened in British Columbia, Alberta, and the Northwest Territories."
+  },
+  {
+    "timestamp_utc": "2026-06-11T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had five PiQuake Canada events. The biggest one was a M3.52 near Fort Good Hope in the Northwest Territories. That happened on June 9th at around 1 p.m. Our latest event was an industry-related shake measured at M2.67 near Grande Prairie in Alberta. It occurred earlier today, just before 6:30 p.m. on June 9th. Most of these events have been happening in the provinces of British Columbia and Alberta."
   }
 ]
