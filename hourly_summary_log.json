@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-21T13:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a M3.16 that happened 61 km west-southwest of Burwash Landing, YT on May 19th at around 5 PM. There haven't been any new earthquakes reported since then."
-  },
-  {
     "timestamp_utc": "2026-05-21T14:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no seismic events in the last hour, but there were five recorded quakes in the past 24 hours. The largest one was a M3.52 under Fort Good Hope, NT. In the latest event, a suspected industry-related M2.67 shake-up happened in Grande Prairie, AB."
+  },
+  {
+    "timestamp_utc": "2026-06-11T08:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there have been four minor earthquakes reported on the PiQuake Canada dashboard. The largest event measured M3.52 and happened about 90 km west-northwest of Fort Good Hope in the Northwest Territories around 1 p.m. local time. There was also a small quake recorded near Grande Prairie, Alberta earlier that evening which is suspected to be related to industry activities."
   }
 ]
