@@ -6,6 +6,18 @@ window.recentEvents = [
     "place": "287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC"
   },
   {
+    "time_utc": "2026-06-11T22:51:10.000Z",
+    "magnitude": "2.01",
+    "depth_km": "5.0",
+    "place": "115 km WSW of Haines Junction, YT/115 km OSO de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-06-11T20:18:28.000Z",
+    "magnitude": "2.39",
+    "depth_km": "24.32",
+    "place": "56 km SSW of Houpsitas 6, BC/56 km SSO de Houpsitas 6, BC"
+  },
+  {
     "time_utc": "2026-06-11T19:50:57.000Z",
     "magnitude": "2.6",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.24",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 73 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 73 km S de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-11T08:43:36.000Z",
-    "magnitude": "3.29",
-    "depth_km": "10.0",
-    "place": "117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-06-11T07:26:51.000Z",
-    "magnitude": "1.02",
-    "depth_km": "17.72",
-    "place": "11 km S of Bellingham, WA/11 km S de Bellingham, WA"
   }
 ];

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-22T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had five minor seismic events. The largest one was a M3.01 happening about 168 km west of Juneau in Alaska. We also had a smaller event this morning near Grande Prairie in Alberta, suspected to be related to industry activities. As always, our PiQuake Canada dashboard keeps track of these minor quakes across British Columbia and Alaska, with one mysterious occurrence in the Unknown region too."
-  },
-  {
     "timestamp_utc": "2026-05-22T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had five minor quakes monitored by our PiQuake Canada dashboard. The largest one measured M2.97 and happened just outside Haines Junction in Yukon Territory and British Columbia. It's been quite active with two more quakes happening in BC alone today, right around Port Alberni. Most of these have been felt across the Western provinces like Alberta and BC."
+  },
+  {
+    "timestamp_utc": "2026-06-12T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were six shakes recorded over the past 24 hours. The biggest one was a M2.97 near Haines Junction and Port Alberni areas, happening on June 11th. In the same time frame, we saw quakes in British Columbia and Yukon Territory too."
   }
 ]
