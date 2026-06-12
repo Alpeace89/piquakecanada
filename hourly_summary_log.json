@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-22T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no new major earthquake events reported, but a few small quakes hit areas like BC, ON, and Yukon. The biggest one was around M4.15 near Mayo in YT, and another M2.52 shook Garson Mine area in Ontario. This is the first time we have a detailed dashboard for Canada's quake activity, so stay tuned as we monitor any changes!"
-  },
-  {
     "timestamp_utc": "2026-05-22T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had six seismic events. The largest one measured M3.29 and happened about 117 km south-southwest of Port Alice in British Columbia. That's not a big deal, just regular stuff happening down there. There have been four quakes in BC and two in Alberta so far today."
+  },
+  {
+    "timestamp_utc": "2026-06-12T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had 5 PiQuake Canada dashboard events. The largest one was a M2.8 just west of Port Hardy in British Columbia and a bit off to the east. This area has been active as well with three quakes in BC and two in Alberta. So far today, there haven't been any new shakes, but we're keeping an eye on things."
   }
 ]
