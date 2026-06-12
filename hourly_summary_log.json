@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-22T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there were no major earthquakes reported. However, we saw a few small quakes around Canada with the largest one measuring M4.15 near Mayo in Yukon and another one at Juneau in Alaska. Other regions like British Columbia also had their fair share of tremors."
-  },
-  {
     "timestamp_utc": "2026-05-22T14:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had a total of seven seismic events monitored by our PiQuake Canada dashboard. The largest one was M3.29 near Port Alice in British Columbia and occurred around 8:40 AM on June 11th. In that time frame, there have also been two quakes each in Alberta and Washington State."
+  },
+  {
+    "timestamp_utc": "2026-06-12T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had six seismic events. The largest one measured M3.29 and happened about 117 km south-southwest of Port Alice in British Columbia. That's not a big deal, just regular stuff happening down there. There have been four quakes in BC and two in Alberta so far today."
   }
 ]
