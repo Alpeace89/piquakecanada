@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-22T12:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had six quakes reported on our PiQuake Canada dashboard. The biggest one was a M4.15 near Mayo in the Yukon and another M3.01 close to Juneau in Alaska. That's not too many, but it shows activity happening across different parts of Canada like BC and Ontario as well."
-  },
-  {
     "timestamp_utc": "2026-05-22T13:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've seen nine quakes reported through our PiQuake Canada dashboard. The biggest one was a M3.29 that shook just south of Port Alice in British Columbia at around 8:40 am on June 11th. And earlier today, there was another shake with a magnitude of M2.8 near Port Hardy, which is about 50 km west of there. It seems like most of these quakes have been happening in British Columbia and Alberta."
+  },
+  {
+    "timestamp_utc": "2026-06-12T07:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had a total of seven seismic events monitored by our PiQuake Canada dashboard. The largest one was M3.29 near Port Alice in British Columbia and occurred around 8:40 AM on June 11th. In that time frame, there have also been two quakes each in Alberta and Washington State."
   }
 ]
