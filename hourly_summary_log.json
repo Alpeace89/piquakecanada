@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-22T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M2.55 quake linked to industry, spotted about 45 km south of Grande Prairie in Alberta. That's our latest and only event since we started beta testing, coming from the same area as before."
-  },
-  {
     "timestamp_utc": "2026-05-22T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were six shakes recorded over the past 24 hours. The biggest one was a M2.97 near Haines Junction and Port Alberni areas, happening on June 11th. In the same time frame, we saw quakes in British Columbia and Yukon Territory too."
+  },
+  {
+    "timestamp_utc": "2026-06-12T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of five PiQuake Canada events. The biggest one was a M2.97 near Haines Junction in Yukon and Ontario territories, which happened on June 11th at around 7:48 PM local time. Then yesterday afternoon, there was a smaller quake measuring M2.85 about 300 km west-southwest of Port Alberni in British Columbia. We're seeing activity mostly in the Yukon and British Columbia regions lately."
   }
 ]
