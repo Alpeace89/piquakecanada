@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC"
   },
   {
+    "time_utc": "2026-06-12T00:32:44.000Z",
+    "magnitude": "1.77",
+    "depth_km": "0.0",
+    "place": "Suspected blast, 5 km SSW of Thetford Mines, QC/Dynamitage soupconn\u00e9, 5 km SSO de Thetford Mines, QC"
+  },
+  {
     "time_utc": "2026-06-11T22:51:10.000Z",
     "magnitude": "2.01",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.16",
     "depth_km": "17.55",
     "place": "69 km S of Daajing Giids, BC/69 km S de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-11T10:52:37.000Z",
-    "magnitude": "2.24",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 73 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 73 km S de Grande Prairie, AB"
   }
 ];
