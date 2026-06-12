@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-23T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks! We had a little shake in the ground near Grande Prairie, Alberta yesterday. It was a M2.55 event that they think might have been caused by some industry activity out there. That's our only report for today and the last 24 hours, so keep an ear to the ground if you're in the area!"
-  },
-  {
     "timestamp_utc": "2026-05-23T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had six earthquakes. The biggest one was a M2.97 near Haines Junction in Yukon and another one nearby in British Columbia was just under M3. The latest shake we saw was a M2.85 near Port Alberni in British Columbia yesterday afternoon. These happen mostly in the north, specifically Yukon and BC, with Alberta having had one too."
+  },
+  {
+    "timestamp_utc": "2026-06-12T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we saw four minor quakes with the largest being a M2.85 hit 287 km southwest of Port Alberni in British Columbia and 287 km south-southwest of Port Alberni in British Colombia. This latest event happened on June 12 at around 12:28 PM UTC, which is quite regular for the region as there were three quakes reported from BC alone."
   }
 ]
