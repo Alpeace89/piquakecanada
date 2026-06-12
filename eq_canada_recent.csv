@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260428.0206001,2026-04-28T02:06:25.000Z,54.9041,-121.0928,0.0,ML,2.56,"Blast, 14 km SW of Trend Mine, BC/Dynamitage, 14 km SO de la mine Trend, BC"
-20260428.0228001,2026-04-28T02:28:11.000Z,53.2104,-132.832,14.75,ML,1.87,"50 km W of Daajing Giids, BC/50 km O de Daajing Giids, BC"
 20260428.0412001,2026-04-28T04:12:05.000Z,60.4063,-139.511,1.0,ML,2.47,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
 20260428.0515001,2026-04-28T05:15:17.000Z,54.6064,-118.5591,3.17,MLy,2.15,"Suspected industry-related event, 65 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 65 km SSE de Grande Prairie, AB"
 20260428.0759001,2026-04-28T07:59:18.000Z,61.1169,-140.0763,1.0,ML,2.53,"64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
