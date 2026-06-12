@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-22T07:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had 8 quakes reported. The biggest one was a M4.15 near Mayo in the Yukon Territory. And today, we saw our smallest quake of the day at just M3.01 in Juneau, Alaska. Not too many places felt this shake with two hits in YT and two in AK."
-  },
-  {
     "timestamp_utc": "2026-05-22T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows we had no quakes in the last hour, but a total of 16 events yesterday. The biggest one was M3.29 near Port Alice, BC. If you’re curious about where most of these happened, it’s mostly in British Columbia with nine spots and Alberta with five."
+  },
+  {
+    "timestamp_utc": "2026-06-12T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had a total of 15 PiQuake Canada dashboard events. The largest one was M3.29 about 117 km SSW of Port Alice, BC at around 8:40 AM today. It's just a reminder that despite having only a few quakes this period, it's important to stay prepared and be aware."
   }
 ]

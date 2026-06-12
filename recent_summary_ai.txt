@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows we had no quakes in the last hour, but a total of 16 events yesterday. The biggest one was M3.29 near Port Alice, BC. If you’re curious about where most of these happened, it’s mostly in British Columbia with nine spots and Alberta with five.
+In the last 24 hours, we've had a total of 15 PiQuake Canada dashboard events. The largest one was M3.29 about 117 km SSW of Port Alice, BC at around 8:40 AM today. It's just a reminder that despite having only a few quakes this period, it's important to stay prepared and be aware.
