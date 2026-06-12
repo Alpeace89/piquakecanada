@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-06-12T14:03:01Z",
+  "generated_utc": "2026-06-12T15:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 524,
-  "events_last_24h": 4,
+  "rolling_window_event_count": 525,
+  "events_last_24h": 5,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -18,6 +18,17 @@
     "region": "BC"
   },
   "largest_event_last_24h": {
+    "event_id": "20260611.1948001",
+    "time_utc": "2026-06-11T19:48:23.000Z",
+    "latitude": 60.3945,
+    "longitude": -139.4501,
+    "depth_km": 5.0,
+    "mag_type": "ML",
+    "magnitude": 2.97,
+    "place": "113 km WSW of Haines Junction, YT/113 km OSO de Haines Junction, YT",
+    "region": "YT"
+  },
+  "deepest_event_last_24h": {
     "event_id": "20260612.1228001",
     "time_utc": "2026-06-12T12:28:25.000Z",
     "latitude": 47.6181,
@@ -28,26 +39,19 @@
     "place": "287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC",
     "region": "BC"
   },
-  "deepest_event_last_24h": {
-    "event_id": "20260611.1437001",
-    "time_utc": "2026-06-11T14:37:50.000Z",
-    "latitude": 48.9676,
-    "longitude": -122.8763,
-    "depth_km": 28.42,
-    "mag_type": "ML",
-    "magnitude": 2.53,
-    "place": "16 km SSW of Surrey, BC/16 km SSO de Surrey, BC",
-    "region": "BC"
-  },
   "top_regions_last_24h": [
     {
-      "region": "BC",
-      "count": 3
+      "region": "AB",
+      "count": 2
     },
     {
-      "region": "AB",
+      "region": "BC",
+      "count": 2
+    },
+    {
+      "region": "YT",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-12 14:03 UTC, the recent Canada earthquake dataset contains 524 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.85 at 287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC. The deepest event reached 28.42 km at 16 km SSW of Surrey, BC/16 km SSO de Surrey, BC. The most recent listed event was M2.85 at 287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC at 2026-06-12T12:28:25.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and AB (1)."
+  "summary_text": "As of 2026-06-12 15:03 UTC, the recent Canada earthquake dataset contains 525 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.97 at 113 km WSW of Haines Junction, YT/113 km OSO de Haines Junction, YT. The deepest event reached 10.00 km at 287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC. The most recent listed event was M2.85 at 287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC at 2026-06-12T12:28:25.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AB (2) and BC (2)."
 }

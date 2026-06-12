@@ -6,6 +6,18 @@ window.recentEvents = [
     "place": "287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC"
   },
   {
+    "time_utc": "2026-06-11T19:50:57.000Z",
+    "magnitude": "2.6",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 49 km W of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 49 km O de Fox Creek, AB"
+  },
+  {
+    "time_utc": "2026-06-11T19:48:23.000Z",
+    "magnitude": "2.97",
+    "depth_km": "5.0",
+    "place": "113 km WSW of Haines Junction, YT/113 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-06-11T16:36:02.000Z",
     "magnitude": "2.8",
     "depth_km": "10.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.02",
     "depth_km": "17.72",
     "place": "11 km S of Bellingham, WA/11 km S de Bellingham, WA"
-  },
-  {
-    "time_utc": "2026-06-11T06:34:40.000Z",
-    "magnitude": "1.0",
-    "depth_km": "10.0",
-    "place": "45 km ENE of Powell River, BC/45 km ENE de Powell River, BC"
-  },
-  {
-    "time_utc": "2026-06-11T06:14:13.000Z",
-    "magnitude": "2.99",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 58 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km SSE de Grande Prairie, AB"
   }
 ];

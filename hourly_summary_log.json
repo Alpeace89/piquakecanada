@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-22T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had no new mainshocks reported but there were six minor quakes. The biggest one was a M4.15 that happened close to Mayo in Yukon Territory. Yesterday morning at around 8 AM, local time, another quake of magnitude M2.55 rattled the area near Grande Prairie in Alberta. It's a suspected industry-related event, and it's been our smallest but most recent one."
-  },
-  {
     "timestamp_utc": "2026-05-22T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no new quakes reported on the PiQuake Canada dashboard. The largest event was a M2.85 quake that happened about 287 km southwest of Port Alberni in BC and 287 km south-southeast of Port Alberni, BC. This is the same place and time for the latest quake too. In the past 24 hours, there have been three quakes reported from British Columbia and one from Alberta."
+  },
+  {
+    "timestamp_utc": "2026-06-12T15:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had five minor quakes monitored by our PiQuake Canada dashboard. The largest one measured M2.97 and happened just outside Haines Junction in Yukon Territory and British Columbia. It's been quite active with two more quakes happening in BC alone today, right around Port Alberni. Most of these have been felt across the Western provinces like Alberta and BC."
   }
 ]

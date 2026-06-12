@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260428.1428002,2026-04-28T14:28:42.000Z,49.3113,-127.7433,30.0,ML,2.25,"84 km SSW of Houpsitas 6, BC/84 km SSO de Houpsitas 6, BC"
 20260428.1522001,2026-04-28T15:22:22.000Z,60.3141,-139.3819,5.0,ML,2.36,"113 km WSW of Haines Junction, YT/113 km OSO de Haines Junction, YT"
 20260428.1628001,2026-04-28T16:28:47.000Z,59.1493,-138.6944,3.17,ML,2.67,"190 km SSW of Haines Junction, YT/190 km SSO de Haines Junction, YT"
 20260428.2122001,2026-04-28T21:22:36.000Z,53.3873,-117.3311,0.0,MLy,3.16,"Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB"
@@ -522,4 +521,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260611.1437001,2026-06-11T14:37:50.000Z,48.9676,-122.8763,28.42,ML,2.53,"16 km SSW of Surrey, BC/16 km SSO de Surrey, BC"
 20260611.1515001,2026-06-11T15:15:10.000Z,54.6714,-118.506,1.0,MLy,2.66,"Suspected industry-related event, 59 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 59 km SSE de Grande Prairie, AB"
 20260611.1636001,2026-06-11T16:36:02.000Z,50.8079,-129.6033,10.0,Mw',2.8,"148 km W of Port Hardy, BC/148 km O de Port Hardy, BC"
+20260611.1948001,2026-06-11T19:48:23.000Z,60.3945,-139.4501,5.0,ML,2.97,"113 km WSW of Haines Junction, YT/113 km OSO de Haines Junction, YT"
+20260611.1950001,2026-06-11T19:50:57.000Z,54.3583,-117.5561,1.0,MLy,2.6,"Suspected industry-related event, 49 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 49 km O de Fox Creek, AB"
 20260612.1228001,2026-06-12T12:28:25.000Z,47.6181,-127.8314,10.0,Mw',2.85,"287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC"
