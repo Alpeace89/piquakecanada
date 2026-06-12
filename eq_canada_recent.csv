@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260427.2309001,2026-04-27T23:09:57.000Z,50.6261,-130.4494,10.0,Mw',2.92,"208 km W of Port Hardy, BC/208 km O de Port Hardy, BC"
 20260428.0206001,2026-04-28T02:06:25.000Z,54.9041,-121.0928,0.0,ML,2.56,"Blast, 14 km SW of Trend Mine, BC/Dynamitage, 14 km SO de la mine Trend, BC"
 20260428.0228001,2026-04-28T02:28:11.000Z,53.2104,-132.832,14.75,ML,1.87,"50 km W of Daajing Giids, BC/50 km O de Daajing Giids, BC"
 20260428.0412001,2026-04-28T04:12:05.000Z,60.4063,-139.511,1.0,ML,2.47,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
