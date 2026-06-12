@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-22T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had four small tremors reported across British Columbia, Yukon Territory, and Alaska. The biggest one measured at M4.15 near Mayo in the Yukon Territory, while a minor shake from dynamite blasting hit Garson Mine in Ontario. This is about normal for our area, with most events being too weak to feel."
-  },
-  {
     "timestamp_utc": "2026-05-22T19:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there were no events recorded. But the largest one was a M2.8 quake that hit 148 km west of Port Hardy in British Columbia and its opposite direction, happening at 16:36 UTC on June 11th. It's the latest event we have information about. The places with most activity were BC and Alberta."
+  },
+  {
+    "timestamp_utc": "2026-06-12T13:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three recorded quakes in the past day. The biggest one was a M2.8 near Port Hardy, BC, which happened on June 10th around 4 PM. It's been mostly quiet, with activity happening mainly in British Columbia and Alberta over the last 24 hours."
   }
 ]
