@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-22T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had nine quakes monitored by our PiQuake Canada dashboard. The largest one was a M4.15 near Mayo in the Yukon Territory, and there's another one just yesterday that measured M3.01 about Juneau in Alaska. Most of these happened in British Columbia, Yukon, and Alaska regions."
-  },
-  {
     "timestamp_utc": "2026-05-22T07:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we saw a total of 16 PiQuake Canada dashboard events. The largest event was a M3.29 near Port Alice in British Columbia, and our most recent alert came from Port Hardy in BC with a M2.8. With activity mostly concentrated in British Columbia—nine in BC, five in Alberta, and one in Quebec—we're keeping an eye on things to make sure everyone stays safe."
+  },
+  {
+    "timestamp_utc": "2026-06-12T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows we had no quakes in the last hour, but a total of 16 events yesterday. The biggest one was M3.29 near Port Alice, BC. If you’re curious about where most of these happened, it’s mostly in British Columbia with nine spots and Alberta with five."
   }
 ]
