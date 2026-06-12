@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-23T02:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey there! So we've got some minor quakes happening in the area, mostly in Alberta. There were no big shocks last hour and just one since yesterday, a little shake that measured M2.55 near Grande Prairie. That's an event thought to be linked to industry, which happened 45 kilometers south of there on May 22nd around 3:47 AM. And it looks like Alberta is where things are happening lately."
-  },
-  {
     "timestamp_utc": "2026-05-23T03:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we saw four minor quakes with the largest being a M2.85 hit 287 km southwest of Port Alberni in British Columbia and 287 km south-southwest of Port Alberni in British Colombia. This latest event happened on June 12 at around 12:28 PM UTC, which is quite regular for the region as there were three quakes reported from BC alone."
+  },
+  {
+    "timestamp_utc": "2026-06-12T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey there, folks! We just had three quakes in the past 24 hours, with the biggest one being a M2.85 about 287 km southwest of Port Alberni in British Columbia and another spot south of it. The latest one happened today at around noon. It looks like we've been keeping an eye on things down in the Yukon Territory (YT), Quebec (QC), and British Columbia (BC)."
   }
 ]
