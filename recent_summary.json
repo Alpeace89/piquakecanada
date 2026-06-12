@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-06-12T04:03:02Z",
+  "generated_utc": "2026-06-12T05:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 528,
-  "events_last_24h": 12,
+  "rolling_window_event_count": 527,
+  "events_last_24h": 11,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
@@ -42,7 +42,7 @@
   "top_regions_last_24h": [
     {
       "region": "BC",
-      "count": 7
+      "count": 6
     },
     {
       "region": "AB",
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-12 04:03 UTC, the recent Canada earthquake dataset contains 528 events from the current rolling window. In the last 24 hours, 12 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.29 at 117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC. The deepest event reached 28.42 km at 16 km SSW of Surrey, BC/16 km SSO de Surrey, BC. The most recent listed event was M2.8 at 148 km W of Port Hardy, BC/148 km O de Port Hardy, BC at 2026-06-11T16:36:02.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (7) and AB (4)."
+  "summary_text": "As of 2026-06-12 05:03 UTC, the recent Canada earthquake dataset contains 527 events from the current rolling window. In the last 24 hours, 11 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.29 at 117 km SSW of Port Alice, BC/117 km SSO de Port Alice, BC. The deepest event reached 28.42 km at 16 km SSW of Surrey, BC/16 km SSO de Surrey, BC. The most recent listed event was M2.8 at 148 km W of Port Hardy, BC/148 km O de Port Hardy, BC at 2026-06-11T16:36:02.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (6) and AB (4)."
 }
