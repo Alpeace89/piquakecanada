@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-22T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had six little shakes reported across Canada. The biggest one was a M4.15 near Mayo in the Yukon Territory, and then there were smaller ones around Daajing Giids in British Columbia and other places too. It's pretty common to see quakes like this happen sometimes here in Canada."
-  },
-  {
     "timestamp_utc": "2026-05-22T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three recorded quakes in the past day. The biggest one was a M2.8 near Port Hardy, BC, which happened on June 10th around 4 PM. It's been mostly quiet, with activity happening mainly in British Columbia and Alberta over the last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-06-12T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no new quakes reported on the PiQuake Canada dashboard. The largest event was a M2.85 quake that happened about 287 km southwest of Port Alberni in BC and 287 km south-southeast of Port Alberni, BC. This is the same place and time for the latest quake too. In the past 24 hours, there have been three quakes reported from British Columbia and one from Alberta."
   }
 ]

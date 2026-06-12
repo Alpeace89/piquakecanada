@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-12T12:28:25.000Z",
+    "magnitude": "2.85",
+    "depth_km": "10.0",
+    "place": "287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC"
+  },
+  {
     "time_utc": "2026-06-11T16:36:02.000Z",
     "magnitude": "2.8",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.99",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 58 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 58 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-11T05:39:03.000Z",
-    "magnitude": "2.27",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 45 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 45 km S de Grande Prairie, AB"
   }
 ];
