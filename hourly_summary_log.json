@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-23T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard has been updated for beta testing, and so far it's showing no activity in the last 24 hours. The largest event recorded was a M2.55 near Grande Prairie, Alberta yesterday at around 3:47 AM local time, suspected to be an industry-related event."
-  },
-  {
     "timestamp_utc": "2026-05-23T05:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three in the past day. The largest event was a M2.85 near Port Alberni, BC yesterday afternoon, and it's where all the activity has been happening lately with one more event reported today too."
+  },
+  {
+    "timestamp_utc": "2026-06-12T23:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary for the PiQuake Canada dashboard. So far today, there have been no major quakes in the last hour but we had two small ones yesterday. The biggest one was a M2.85 about 300 km southwest of Port Alberni in British Columbia. That area has seen most of our recent activity with both events happening in that part of the province."
   }
 ]
