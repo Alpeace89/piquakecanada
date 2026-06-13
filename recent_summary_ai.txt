@@ -1,1 +1,1 @@
-In the last 24 hours, we had one earthquake event in Canada. The largest was a M2.85 near Port Alberni in British Columbia. That's it—no big surprises here but there you go!
+The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M2.85 quake happening about 287 km southwest of Port Alberni in British Columbia and about 287 km south-southwest from there. That's the largest quake recorded in the last 24 hours, and it happened on June 12 at around 12:28 PM UTC.
