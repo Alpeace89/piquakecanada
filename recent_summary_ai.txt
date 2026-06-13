@@ -1,1 +1,1 @@
-For the PiQuake Canada dashboard, we had zero earthquake reports in the last hour and one report in the last 24 hours. The largest event was a M2.72 felt at the Niobec Mine in Quebec, which happened around 6:38 AM today. That's our latest and only report for the day so far.
+The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It happened at a mining site in Niobec, Quebec and people felt it. The largest event of the day had a magnitude of M2.72. That's the latest event too.
