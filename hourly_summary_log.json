@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-23T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here’s a short summary for the PiQuake Canada dashboard beta: No earthquakes were detected in the last hour or day. The largest quake recorded was of unknown magnitude at an unknown location, which nobody felt. The latest earthquake measured M2.24 happened on May 22nd and was felt/resented about 16 km northeast of Notre-Dame-du-Nord, Quebec."
-  },
-  {
     "timestamp_utc": "2026-05-23T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard has been running in beta for a while now, and during this period, we've seen no significant earthquakes. The largest event recorded was an unknown magnitude happening somewhere far away from any populated areas. As of the last update, there haven't been any major quakes in the past 24 hours either."
+  },
+  {
+    "timestamp_utc": "2026-06-13T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, with the largest event being an unknown magnitude happening at an unknown location. The latest recorded event was a M2.85 near Port Alberni, BC. It happened on June 12th around noon our time."
   }
 ]
