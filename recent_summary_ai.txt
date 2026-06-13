@@ -1,1 +1,1 @@
-Hey folks, in the last 24 hours we had one little earthquake near Port Alberni, British Columbia. The biggest one was a M2.85 and it happened on June 12th at around 12:28 PM. It's pretty much nothing to worry about but stay tuned for more updates if these start happening more often.
+The PiQuake Canada dashboard shows no events today, but there was one small shake on June 12th measuring M2.85 about 290 km southwest of Port Alberni in British Columbia. That's the only jolt they've picked up in the last 24 hours and the whole event happened around noon that day.
