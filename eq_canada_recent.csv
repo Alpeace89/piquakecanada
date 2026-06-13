@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260429.0422001,2026-04-29T04:22:46.000Z,46.0005,-74.9574,18.36,MwN,1.8,"16 km WSW of Amherst, QC/16 km OSO de Amherst, QC"
 20260429.0524001,2026-04-29T05:24:27.000Z,49.4945,-67.1358,25.04,MwN,0.45,"77 km NNE of Matane, QC/77 km NNE de Matane, QC"
 20260429.0842001,2026-04-29T08:42:33.000Z,49.7176,-123.5936,0.71,ML,2.3,"32 km W of Squamish, BC/32 km O de Squamish, BC"
 20260429.0919001,2026-04-29T09:19:54.000Z,60.4694,-139.8758,1.0,ML,2.71,"133 km WSW of Haines Junction, YT/133 km OSO de Haines Junction, YT"
