@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-23T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there was just one minor earthquake with a magnitude of M2.24 near Notre-Dame-du-Nord in Quebec. It was felt and reported as ressenti about 16 kilometers northeast of that town. This was the latest event recorded by our dashboard, which hasn't had any significant earthquakes recently."
-  },
-  {
     "timestamp_utc": "2026-05-23T17:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had one earthquake with a magnitude of M2.85 happening 287 km southwest or south-southeast of Port Alberni in British Columbia. This is the largest event we've recorded and it happened on June 12th at around 12:28 PM local time. That's our latest quake, too."
+  },
+  {
+    "timestamp_utc": "2026-06-13T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary for the PiQuake Canada dashboard: So far today, we've had one minor earthquake. It was pretty small with a magnitude of M2.85 and happened about 287 kilometers southwest of Port Alberni in British Columbia on June 12th at around 12:28 PM. That's the most recent shake we've seen in the last 24 hours, which is the first one since May 30th when there was another M2.85 event in the same area."
   }
 ]
