@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-23T05:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no reported earthquakes of any magnitude. The largest event was a mystery, with unknown details like magnitude and location. But earlier today in Alberta, just north of Grande Prairie, something shook the ground at a small but mysterious M2.55 quake, likely linked to industry."
-  },
-  {
     "timestamp_utc": "2026-05-23T06:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary for the PiQuake Canada dashboard. So far today, there have been no major quakes in the last hour but we had two small ones yesterday. The biggest one was a M2.85 about 300 km southwest of Port Alberni in British Columbia. That area has seen most of our recent activity with both events happening in that part of the province."
+  },
+  {
+    "timestamp_utc": "2026-06-13T00:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey folks, we've got two little tremors in the last 24 hours. The biggest one was a M2.85 near Port Alberni, BC and it happened on June 12th at about 12:28 PM. That's close to where you'd find some parts of Quebec too. It looks like that area is getting a bit more active lately, with two shakes in one day!"
   }
 ]
