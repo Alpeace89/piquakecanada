@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard had no events reported last hour, but recorded one event in the past 24 hours with a magnitude of M2.85 happening 287 km southwest of Port Alberni, BC or 287 km south of Port Alberni, BC. This was also the largest event observed over the last 24 hours and is our latest recorded one as well.
+The PiQuake Canada dashboard showed no earthquakes in the last hour, but there was one event yesterday. The largest quake recorded recently was a M2.85 near Port Alberni, BC/Port Alberni, Mexico area, which happened on June 12th at around 12:28 PM UTC.

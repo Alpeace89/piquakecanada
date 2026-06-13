@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-23T09:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks, in the last 24 hours, we had a small shake with a magnitude of M2.24 near Notre-Dame-du-Nord, QC, that was felt and noticed by people there. It's the largest event since our dashboard started beta testing, and it's happening pretty regularly up here—like once every few days. We haven't seen any other similar events around this area in recent times though."
-  },
-  {
     "timestamp_utc": "2026-05-23T10:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard had no events reported last hour, but recorded one event in the past 24 hours with a magnitude of M2.85 happening 287 km southwest of Port Alberni, BC or 287 km south of Port Alberni, BC. This was also the largest event observed over the last 24 hours and is our latest recorded one as well."
+  },
+  {
+    "timestamp_utc": "2026-06-13T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard showed no earthquakes in the last hour, but there was one event yesterday. The largest quake recorded recently was a M2.85 near Port Alberni, BC/Port Alberni, Mexico area, which happened on June 12th at around 12:28 PM UTC."
   }
 ]
