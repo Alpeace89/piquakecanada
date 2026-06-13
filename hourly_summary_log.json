@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-24T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had no earthquakes reported. The largest one was a tiny M2.24 that occurred just outside of a small Quebec town. It felt like an earthquake but also got some local folks feeling things too. Our dashboard didn't record anything unusual today."
-  },
-  {
     "timestamp_utc": "2026-05-24T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one earthquake event felt at the Niobec Mine in Quebec. It measured M2.72 and occurred around 6:38 AM yesterday. This is our latest quake as well, since that's when it happened. The only place where we heard about an earthquake within Canada last 24 hours was Niobec Mine in Quebec."
+  },
+  {
+    "timestamp_utc": "2026-06-13T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no new earthquake events in the last hour but we had one event yesterday. The largest quake was a M2.72 felt at Niobec Mine, QC. It's been quite smooth sailing as far as recent quakes go, with everything happening mostly around Mining area, QC."
   }
 ]
