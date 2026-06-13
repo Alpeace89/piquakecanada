@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260429.0919001,2026-04-29T09:19:54.000Z,60.4694,-139.8758,1.0,ML,2.71,"133 km WSW of Haines Junction, YT/133 km OSO de Haines Junction, YT"
 20260429.1848001,2026-04-29T18:48:33.000Z,53.3135,-133.2619,13.24,ML,1.61,"79 km W of Daajing Giids, BC/79 km O de Daajing Giids, BC"
 20260429.2241001,2026-04-29T22:41:08.000Z,48.9061,-129.6135,10.0,Mw',2.74,"253 km SW of Port Hardy, BC/253 km SO de Port Hardy, BC"
 20260430.0105004,2026-04-30T01:05:39.000Z,60.4766,-139.6568,5.0,ML,4.07,"121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
