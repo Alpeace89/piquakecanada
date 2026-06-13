@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-23T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard showed no events in the last hour or day. The largest event recorded was a M2.24 quake that happened near Notre-Dame-du-Nord, QC, both felt and reported. It all occurred on May 22nd at around 6:15 PM local time."
-  },
-  {
     "timestamp_utc": "2026-05-24T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest one recorded was a M2.85 near Port Alberni in British Columbia. This happened on June 12th around noon. It's important to note that unknown magnitude events occurred too during this period."
+  },
+  {
+    "timestamp_utc": "2026-06-13T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the PiQuake Canada dashboard, we had zero earthquake reports in the last hour and one report in the last 24 hours. The largest event was a M2.72 felt at the Niobec Mine in Quebec, which happened around 6:38 AM today. That's our latest and only report for the day so far."
   }
 ]

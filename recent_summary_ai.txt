@@ -1,1 +1,1 @@
-In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest one recorded was a M2.85 near Port Alberni in British Columbia. This happened on June 12th around noon. It's important to note that unknown magnitude events occurred too during this period.
+For the PiQuake Canada dashboard, we had zero earthquake reports in the last hour and one report in the last 24 hours. The largest event was a M2.72 felt at the Niobec Mine in Quebec, which happened around 6:38 AM today. That's our latest and only report for the day so far.

@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-13T06:38:16.000Z",
+    "magnitude": "2.72",
+    "depth_km": "0.49",
+    "place": "Mining event, Niobec Mine, QC, felt/\u00c9v\u00e9nement minier, Mine Niobec, QC, ressenti"
+  },
+  {
     "time_utc": "2026-06-12T12:28:25.000Z",
     "magnitude": "2.85",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.53",
     "depth_km": "28.42",
     "place": "16 km SSW of Surrey, BC/16 km SSO de Surrey, BC"
-  },
-  {
-    "time_utc": "2026-06-11T12:10:47.000Z",
-    "magnitude": "2.16",
-    "depth_km": "17.55",
-    "place": "69 km S of Daajing Giids, BC/69 km S de Daajing Giids, BC"
   }
 ];
