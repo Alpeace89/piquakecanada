@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-06-14T06:03:02Z",
+  "generated_utc": "2026-06-14T07:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 527,
-  "events_last_24h": 1,
+  "rolling_window_event_count": 526,
+  "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
@@ -17,33 +17,8 @@
     "place": "Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti",
     "region": "Unknown"
   },
-  "largest_event_last_24h": {
-    "event_id": "20260613.0638001",
-    "time_utc": "2026-06-13T06:38:16.000Z",
-    "latitude": 48.5321,
-    "longitude": -71.157,
-    "depth_km": 0.49,
-    "mag_type": "MwN",
-    "magnitude": 2.72,
-    "place": "Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti",
-    "region": "Unknown"
-  },
-  "deepest_event_last_24h": {
-    "event_id": "20260613.0638001",
-    "time_utc": "2026-06-13T06:38:16.000Z",
-    "latitude": 48.5321,
-    "longitude": -71.157,
-    "depth_km": 0.49,
-    "mag_type": "MwN",
-    "magnitude": 2.72,
-    "place": "Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti",
-    "region": "Unknown"
-  },
-  "top_regions_last_24h": [
-    {
-      "region": "Unknown",
-      "count": 1
-    }
-  ],
-  "summary_text": "As of 2026-06-14 06:03 UTC, the recent Canada earthquake dataset contains 527 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.72 at Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti. The deepest event reached 0.49 km at Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti. The most recent listed event was M2.72 at Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti at 2026-06-13T06:38:16.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was Unknown."
+  "largest_event_last_24h": null,
+  "deepest_event_last_24h": null,
+  "top_regions_last_24h": [],
+  "summary_text": "As of 2026-06-14 07:03 UTC, the recent Canada earthquake dataset contains 526 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M2.72 at Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti at 2026-06-13T06:38:16.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }
