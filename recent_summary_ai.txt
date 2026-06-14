@@ -1,1 +1,1 @@
-Hey folks, it's been a quiet hour with no quakes to report. But in the last day, there was just one little tremor felt at the Niobec Mine in Quebec, which measured M2.72. It’s not something you’d notice unless you were standing right next to it or near where they mine, but we’re keeping an eye on things just in case more of these happen.
+Here's a quick summary for the PiQuake Canada dashboard: There were no events reported last hour, but one event occurred yesterday at Niobec Mine in Quebec. It was a M2.72 and felt/ressenti. That’s our latest activity on the dashboard.
