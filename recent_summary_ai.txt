@@ -1,1 +1,1 @@
-Here's a quick summary for the PiQuake Canada dashboard in plain Canadian English: No events were recorded last hour or day, and the largest event was an unknown magnitude happening at Mining event, Niobec Mine, QC. The latest felt event was M2.72 near Niobec Mine, QC, which people could feel.
+The PiQuake Canada dashboard shows no events in the last hour or day, but there was a M2.72 mining event felt at Niobec Mine, QC, on June 13th. It's just another quiet day for now.
