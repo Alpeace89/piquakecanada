@@ -1,1 +1,1 @@
-In the last 24 hours, there haven't been any recorded earthquakes. The largest one was a M2.72 that happened at Niobec Mine in Quebec, and it felt by people in the area. That's all we have from the dashboard for now.
+The PiQuake Canada dashboard hasn't had any earthquakes in the last hour or day, and we've got no big shakes to report either. The latest one was a little shake at Niobec Mine in Quebec that people could feel. It happened on June 13th around 6:38 AM.
