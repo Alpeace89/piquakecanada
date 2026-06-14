@@ -1,1 +1,1 @@
-In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The latest event was a M2.72 magnitude quake felt at Niobec Mine in Quebec. It happened on June 13th around 6:38 AM local time. We keep an eye out for any future tremors.
+The PiQuake Canada dashboard shows no earthquakes in the last 24 hours and an M2.72 mining event at Niobec Mine, QC that was felt earlier today. No largest earthquake of the day could be determined as its magnitude is unknown.

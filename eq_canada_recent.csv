@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260430.0704001,2026-04-30T07:04:39.000Z,54.6074,-118.5648,1.0,MLy,2.24,"Suspected industry-related event, 64 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 64 km SSE de Grande Prairie, AB"
 20260430.0911001,2026-04-30T09:11:35.000Z,49.2218,-128.4778,10.0,Mw',2.9,"152 km SSW of Port Alice, BC/152 km SSO de Port Alice, BC"
 20260430.1001001,2026-04-30T10:01:47.000Z,60.0949,-141.1555,5.0,ML,2.02,"213 km WSW of Haines Junction, YT/213 km OSO de Haines Junction, YT"
 20260430.1013001,2026-04-30T10:13:55.000Z,60.453,-139.7575,5.0,ML,2.23,"127 km WSW of Haines Junction, YT/127 km OSO de Haines Junction, YT"
