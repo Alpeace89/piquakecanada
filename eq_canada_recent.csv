@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260430.0105004,2026-04-30T01:05:39.000Z,60.4766,-139.6568,5.0,ML,4.07,"121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
 20260430.0317001,2026-04-30T03:17:45.000Z,47.6483,-122.9067,52.03,ML,1.26,"43 km WNW of Seattle, WA/43 km ONO de Seattle, WA"
 20260430.0425002,2026-04-30T04:25:10.000Z,49.0837,-122.813,9.14,ML,1.25,"3 km SSE of Surrey, BC/3 km SSE de Surrey, BC"
 20260430.0653001,2026-04-30T06:53:43.000Z,59.6839,-136.1679,5.0,ML,2.27,"128 km SSW of Whitehorse, YT/128 km SSO de Whitehorse, YT"
