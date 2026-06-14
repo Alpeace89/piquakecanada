@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260430.1457001,2026-04-30T14:57:15.000Z,50.5131,-125.7229,1.0,ML1,0.92,"22 km NE of Sayward, BC/22 km NE de Sayward, BC"
-20260430.1457002,2026-04-30T14:57:15.000Z,60.5679,-139.8154,5.0,ML,2.18,"127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
 20260430.1553002,2026-04-30T15:53:26.000Z,45.7469,-76.3578,13.44,MwN,1.94,"13 km SSE of Otter Lake, QC, felt/13 km SSE de Otter Lake, QC, ressenti"
 20260430.1659001,2026-04-30T16:59:57.000Z,49.3998,-127.6993,10.0,Mw',2.26,"74 km SSW of Houpsitas 6, BC/74 km SSO de Houpsitas 6, BC"
 20260430.1700001,2026-04-30T17:00:28.000Z,45.0946,-78.7255,0.0,MwN,1.62,"Blast, 18 km WNW of Haliburton Village, ON/Dynamitage, 18 km ONO de Haliburton Village, ON"
