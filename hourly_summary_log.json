@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-24T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no events reported on the PiQuake Canada dashboard. The latest event was a M2.24 quake located 16 km northeast of Notre-Dame-du-Nord in Quebec, which was felt and resented by people in that area. This is just to give you an idea of how activity can look when there's no significant seismic activity recorded."
-  },
-  {
     "timestamp_utc": "2026-05-24T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in its beta phase and hasn't had any events reported within the last hour or day. The largest event recorded over the past 24 hours was a magnitude that's unknown, happening at an unspecified location. There haven't been any significant mining events to report either since the latest one happened on June 13th at around 6:38 AM in Niobec Mine, Quebec, and people felt it there."
+  },
+  {
+    "timestamp_utc": "2026-06-14T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is still in beta, and there haven't been any earthquake events recorded for the last 24 hours. The largest event was a magnitude unknown at an unknown location. The latest event was a M2.72 shake felt at Niobec Mine in Quebec early this morning."
   }
 ]
