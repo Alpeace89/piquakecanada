@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260430.1700001,2026-04-30T17:00:28.000Z,45.0946,-78.7255,0.0,MwN,1.62,"Blast, 18 km WNW of Haliburton Village, ON/Dynamitage, 18 km ONO de Haliburton Village, ON"
 20260430.2145001,2026-04-30T21:45:24.000Z,49.1965,-66.7594,9.31,MwN,1.72,"12 km NNW of Cap-Chat, QC/12 km NNO de Cap-Chat, QC"
 20260430.2243001,2026-04-30T22:43:29.000Z,47.6002,-121.8362,18.83,ML,1.93,"38 km E of Seattle, WA/38 km E de Seattle, WA"
 20260501.0031001,2026-05-01T00:31:05.000Z,49.386,-128.5455,10.0,Mw',2.17,"138 km SSW of Port Alice, BC/138 km SSO de Port Alice, BC"
