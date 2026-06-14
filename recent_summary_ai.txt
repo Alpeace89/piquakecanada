@@ -1,1 +1,1 @@
-Here's a quick summary for the PiQuake Canada dashboard in plain terms: No events were detected yesterday, and last night there was just one little shake from a mining operation near Niobec. It measured M2.72, which is small but can still be felt by people nearby.
+In the last 24 hours, there haven't been any recorded earthquakes. The largest one was a M2.72 that happened at Niobec Mine in Quebec, and it felt by people in the area. That's all we have from the dashboard for now.
