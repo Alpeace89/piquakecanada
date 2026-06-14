@@ -1,1 +1,1 @@
-For the PiQuake Canada dashboard in its beta phase, we've had zero events recorded over the last 24 hours. The latest event was a M2.72 magnitude at the Niobec Mine in Quebec, felt there. Nothing to report for the region either.
+In the last 24 hours, there were no earthquakes reported on the PiQuake Canada dashboard. The largest event was a M2.72 at Niobec Mine in Quebec, which people felt. This is the latest earthquake we have data for. Nothing unusual or concerning to report.
