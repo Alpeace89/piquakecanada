@@ -1,1 +1,1 @@
-In the last 24 hours, there were no recorded seismic events on the PiQuake Canada dashboard. The latest event was a M2.72 at the Niobec Mine in Quebec which people felt or noticed. It happened on June 13th at around 6:38 AM local time.
+The PiQuake Canada dashboard is still in beta, and there haven't been any detected seismic events lately. The last event reported was a M2.72 at the Niobec Mine in Quebec, which people felt. It happened on June 13th at about 6:38 AM.
