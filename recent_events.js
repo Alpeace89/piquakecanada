@@ -24,6 +24,12 @@ window.recentEvents = [
     "place": "57 km ESE of Victoria, BC/57 km ESE de Victoria, BC"
   },
   {
+    "time_utc": "2026-06-13T06:45:46.000Z",
+    "magnitude": "1.35",
+    "depth_km": "0.5",
+    "place": "Mining event, Niobec Mine, QC/\u00c9v\u00e9nement minier, Mine Niobec, QC"
+  },
+  {
     "time_utc": "2026-06-13T06:38:16.000Z",
     "magnitude": "2.71",
     "depth_km": "0.49",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.85",
     "depth_km": "10.0",
     "place": "287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC"
-  },
-  {
-    "time_utc": "2026-06-12T00:32:44.000Z",
-    "magnitude": "1.77",
-    "depth_km": "0.0",
-    "place": "Suspected blast, 5 km SSW of Thetford Mines, QC/Dynamitage soupconn\u00e9, 5 km SSO de Thetford Mines, QC"
   }
 ];
