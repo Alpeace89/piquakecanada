@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-25T12:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The largest event detected was a magnitude M0.94 near Atikokan, Ontario, which happened at around 2:43 AM yesterday. It's been quiet since then too."
-  },
-  {
     "timestamp_utc": "2026-05-25T13:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no recorded events on our PiQuake Canada dashboard. The largest event was a magnitude unknown at an unspecified location. The latest event felt by people in Quebec involved some mining activity and happened around midnight yesterday."
+  },
+  {
+    "timestamp_utc": "2026-06-15T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no recorded quakes on the PiQuake Canada dashboard. The latest quake felt at Niobec Mine in Quebec was a M2.72, which occurred early morning of June 13th as per the system's records. It's the only event we have noted so far since our beta launch."
   }
 ]
