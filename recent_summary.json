@@ -1,31 +1,31 @@
 {
-  "generated_utc": "2026-06-15T19:03:02Z",
+  "generated_utc": "2026-06-15T20:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 512,
-  "events_last_24h": 2,
+  "rolling_window_event_count": 514,
+  "events_last_24h": 3,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260615.1223001",
-    "time_utc": "2026-06-15T12:23:10.000Z",
+    "event_id": "20260615.1232001",
+    "time_utc": "2026-06-15T12:32:52.000Z",
     "latitude": 48.5321,
     "longitude": -71.157,
-    "depth_km": 1.0,
+    "depth_km": 0.5,
     "mag_type": "MwN",
-    "magnitude": 2.82,
-    "place": "Suspected mining event, Niobec Mine, QC, felt/Événement minier soupconné, Mine Niobec, QC, ressenti",
-    "region": "Unknown"
+    "magnitude": 1.36,
+    "place": "Mining event, Niobec Mine, QC/Événement minier, Mine Niobec, QC",
+    "region": "QC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260615.1223001",
+    "event_id": "20260615.1223003",
     "time_utc": "2026-06-15T12:23:10.000Z",
     "latitude": 48.5321,
     "longitude": -71.157,
-    "depth_km": 1.0,
+    "depth_km": 0.5,
     "mag_type": "MwN",
-    "magnitude": 2.82,
-    "place": "Suspected mining event, Niobec Mine, QC, felt/Événement minier soupconné, Mine Niobec, QC, ressenti",
+    "magnitude": 2.8,
+    "place": "Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti",
     "region": "Unknown"
   },
   "deepest_event_last_24h": {
@@ -42,12 +42,12 @@
   "top_regions_last_24h": [
     {
       "region": "QC",
-      "count": 1
+      "count": 2
     },
     {
       "region": "Unknown",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-15 19:03 UTC, the recent Canada earthquake dataset contains 512 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.82 at Suspected mining event, Niobec Mine, QC, felt/Événement minier soupconné, Mine Niobec, QC, ressenti. The deepest event reached 14.68 km at 12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC. The most recent listed event was M2.82 at Suspected mining event, Niobec Mine, QC, felt/Événement minier soupconné, Mine Niobec, QC, ressenti at 2026-06-15T12:23:10.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (1) and Unknown (1)."
+  "summary_text": "As of 2026-06-15 20:03 UTC, the recent Canada earthquake dataset contains 514 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.8 at Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti. The deepest event reached 14.68 km at 12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC. The most recent listed event was M1.36 at Mining event, Niobec Mine, QC/Événement minier, Mine Niobec, QC at 2026-06-15T12:32:52.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and Unknown (1)."
 }
