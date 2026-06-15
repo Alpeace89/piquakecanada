@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but we had two incidents yesterday. The largest event was a minor tremor at Niobec Mine, QC, which people could feel. It's suspected to be from mining activities. This is the only known event for today and last 24 hours.
+The PiQuake Canada dashboard shows no events today, but there was a suspected mining event at the Niobec Mine in Quebec that people felt. This is the only reported event since yesterday.

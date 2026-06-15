@@ -12,10 +12,28 @@ window.recentEvents = [
     "place": "12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
   },
   {
+    "time_utc": "2026-06-13T08:24:24.000Z",
+    "magnitude": "2.07",
+    "depth_km": "29.09",
+    "place": "57 km ESE of Victoria, BC/57 km ESE de Victoria, BC"
+  },
+  {
     "time_utc": "2026-06-13T06:38:16.000Z",
     "magnitude": "2.72",
     "depth_km": "0.49",
     "place": "Mining event, Niobec Mine, QC, felt/\u00c9v\u00e9nement minier, Mine Niobec, QC, ressenti"
+  },
+  {
+    "time_utc": "2026-06-13T01:41:17.000Z",
+    "magnitude": "1.59",
+    "depth_km": "17.03",
+    "place": "16 km W of Victoria, BC/16 km O de Victoria, BC"
+  },
+  {
+    "time_utc": "2026-06-12T21:28:06.000Z",
+    "magnitude": "2.83",
+    "depth_km": "5.0",
+    "place": "123 km W of Haines Junction, YT/123 km O de Haines Junction, YT"
   },
   {
     "time_utc": "2026-06-12T12:28:25.000Z",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.39",
     "depth_km": "24.32",
     "place": "56 km SSW of Houpsitas 6, BC/56 km SSO de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-06-11T19:50:57.000Z",
-    "magnitude": "2.6",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 49 km W of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 49 km O de Fox Creek, AB"
-  },
-  {
-    "time_utc": "2026-06-11T19:48:23.000Z",
-    "magnitude": "2.97",
-    "depth_km": "5.0",
-    "place": "113 km WSW of Haines Junction, YT/113 km OSO de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-11T16:36:02.000Z",
-    "magnitude": "2.8",
-    "depth_km": "10.0",
-    "place": "148 km W of Port Hardy, BC/148 km O de Port Hardy, BC"
   }
 ];
