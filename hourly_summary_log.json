@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-25T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the last hour, there have been no earthquakes reported. In the past day, one quake measuring M1.31 hit 22 kilometers north-northwest of Sainte-Brigitte-de-Laval, QC or 22 km northeast of Sainte-Brigitte-de-Laval, QC at around 6:04 PM on May 24th according to UTC time. This is the largest event in this period and it's been happening again today with the latest one matching the same details. Most recent activity has been focused in Quebec (QC)."
-  },
-  {
     "timestamp_utc": "2026-05-25T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, but there was a minor mining event at Niobec Mine in Quebec that people felt. It happened on June 13th around 6:38 AM local time."
+  },
+  {
+    "timestamp_utc": "2026-06-15T10:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no recorded events on the PiQuake Canada dashboard. The latest event was a M2.72 magnitude at the Niobec Mine in Quebec, felt there. It's the only piece of news from yesterday's events on this platform."
   }
 ]
