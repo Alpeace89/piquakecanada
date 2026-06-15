@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-25T23:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, with a small event recorded at M1.31 happening about 22 km northwest of Sainte-Brigitte-de-Lavalaval, Quebec. It's the only thing we've seen since our beta launch yesterday evening."
-  },
-  {
     "timestamp_utc": "2026-05-26T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two events yesterday. The biggest one was a M2.82 suspected mining event felt at Niobec Mine in Quebec. This is the latest and only activity we've seen recently on our dashboard. Most of it's been in Quebec with just one mystery incident from an unknown location."
+  },
+  {
+    "timestamp_utc": "2026-06-15T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there were two events in the previous 24 hours. The largest event was a M2.82 at Niobec Mine in Quebec, which people felt. This is the latest and only known event since then. Most of these happened in Quebec, with one unknown location too."
   }
 ]

@@ -12,6 +12,18 @@ window.recentEvents = [
     "place": "12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
   },
   {
+    "time_utc": "2026-06-13T11:03:48.000Z",
+    "magnitude": "2.1",
+    "depth_km": "19.98",
+    "place": "75 km S of Daajing Giids, BC/75 km S de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-06-13T10:48:59.000Z",
+    "magnitude": "2.82",
+    "depth_km": "10.0",
+    "place": "74 km SSW of Houpsitas 6, BC/74 km SSO de Houpsitas 6, BC"
+  },
+  {
     "time_utc": "2026-06-13T08:49:25.000Z",
     "magnitude": "2.67",
     "depth_km": "1.0",
@@ -24,6 +36,18 @@ window.recentEvents = [
     "place": "57 km ESE of Victoria, BC/57 km ESE de Victoria, BC"
   },
   {
+    "time_utc": "2026-06-13T07:11:01.000Z",
+    "magnitude": "0.51",
+    "depth_km": "0.5",
+    "place": "Mining event, Niobec Mine, QC/\u00c9v\u00e9nement minier, Mine Niobec, QC"
+  },
+  {
+    "time_utc": "2026-06-13T06:52:56.000Z",
+    "magnitude": "0.7",
+    "depth_km": "0.5",
+    "place": "Mining event, Niobec Mine, QC/\u00c9v\u00e9nement minier, Mine Niobec, QC"
+  },
+  {
     "time_utc": "2026-06-13T06:45:46.000Z",
     "magnitude": "1.35",
     "depth_km": "0.5",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "2.71",
     "depth_km": "0.49",
     "place": "Mining event, Niobec Mine, QC, felt/\u00c9v\u00e9nement minier, Mine Niobec, QC, ressenti"
-  },
-  {
-    "time_utc": "2026-06-13T06:38:16.000Z",
-    "magnitude": "2.71",
-    "depth_km": "0.49",
-    "place": "Mining event, Niobec Mine, QC, felt/\u00c9v\u00e9nement minier, Mine Niobec, QC, ressenti"
-  },
-  {
-    "time_utc": "2026-06-13T01:41:17.000Z",
-    "magnitude": "1.59",
-    "depth_km": "17.03",
-    "place": "16 km W of Victoria, BC/16 km O de Victoria, BC"
-  },
-  {
-    "time_utc": "2026-06-12T21:28:06.000Z",
-    "magnitude": "2.83",
-    "depth_km": "5.0",
-    "place": "123 km W of Haines Junction, YT/123 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-12T12:28:25.000Z",
-    "magnitude": "2.85",
-    "depth_km": "10.0",
-    "place": "287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC"
   }
 ];
