@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day, and it had a small mining event at Niobec Mine in Quebec that people felt around 06:38 AM on June 13th. That's about as up-to-date as we can get with these facts.
+For the last 24 hours, there's been one event detected by our PiQuake Canada dashboard. It was a M1.48 earthquake that happened about 12 kilometers northeast-northwest of Saint-Pascal in Quebec. This is the largest quake we recorded during that period and it occurred on June 14th at around 9:40 PM, UTC time.

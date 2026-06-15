@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260501.1201001,2026-05-01T12:01:00.000Z,48.5635,-122.6356,15.26,ML,1.62,"24 km SSW of Bellingham, WA/24 km SSO de Bellingham, WA"
-20260501.1206001,2026-05-01T12:06:14.000Z,48.5527,-122.634,18.33,ML,2.29,"25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
-20260501.1257001,2026-05-01T12:57:50.000Z,48.5534,-122.6353,14.38,ML,1.04,"25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
 20260501.1313001,2026-05-01T13:13:06.000Z,66.3742,-135.7293,10.0,ML,2.77,"124 km SSW of Fort McPherson, NT/124 km SSO de Fort McPherson, NT"
 20260501.1606001,2026-05-01T16:06:08.000Z,49.6797,-127.0268,31.37,ML,1.69,"37 km SW of Tahsis, BC/37 km SO de Tahsis, BC"
 20260501.1648001,2026-05-01T16:48:32.000Z,47.2278,-70.9858,0.0,MwN,1.12,"Suspected blast, 21 km NNW of Beaupré, QC/Dynamitage soupconné, 21 km NNO de Beaupré, QC"
@@ -505,3 +502,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260612.0032001,2026-06-12T00:32:44.000Z,46.0634,-71.3299,0.0,MwN,1.77,"Suspected blast, 5 km SSW of Thetford Mines, QC/Dynamitage soupconné, 5 km SSO de Thetford Mines, QC"
 20260612.1228001,2026-06-12T12:28:25.000Z,47.6181,-127.8314,10.0,Mw',2.85,"287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC"
 20260613.0638001,2026-06-13T06:38:16.000Z,48.5321,-71.157,0.49,MwN,2.72,"Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti"
+20260614.2240001,2026-06-14T22:40:43.000Z,47.627,-69.8817,14.68,MwN,1.48,"12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"

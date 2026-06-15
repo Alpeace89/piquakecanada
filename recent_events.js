@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-14T22:40:43.000Z",
+    "magnitude": "1.48",
+    "depth_km": "14.68",
+    "place": "12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
+  },
+  {
     "time_utc": "2026-06-13T06:38:16.000Z",
     "magnitude": "2.72",
     "depth_km": "0.49",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.66",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 59 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-11T14:37:50.000Z",
-    "magnitude": "2.53",
-    "depth_km": "28.42",
-    "place": "16 km SSW of Surrey, BC/16 km SSO de Surrey, BC"
   }
 ];
