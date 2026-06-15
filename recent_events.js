@@ -12,6 +12,18 @@ window.recentEvents = [
     "place": "12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
   },
   {
+    "time_utc": "2026-06-13T12:37:34.000Z",
+    "magnitude": "2.99",
+    "depth_km": "10.0",
+    "place": "73 km SSW of Houpsitas 6, BC/73 km SSO de Houpsitas 6, BC"
+  },
+  {
+    "time_utc": "2026-06-13T12:18:40.000Z",
+    "magnitude": "3.96",
+    "depth_km": "10.0",
+    "place": "72 km SSW of Houpsitas 6, BC/72 km SSO de Houpsitas 6, BC"
+  },
+  {
     "time_utc": "2026-06-13T11:03:48.000Z",
     "magnitude": "2.1",
     "depth_km": "19.98",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "0.7",
     "depth_km": "0.5",
     "place": "Mining event, Niobec Mine, QC/\u00c9v\u00e9nement minier, Mine Niobec, QC"
-  },
-  {
-    "time_utc": "2026-06-13T06:45:46.000Z",
-    "magnitude": "1.35",
-    "depth_km": "0.5",
-    "place": "Mining event, Niobec Mine, QC/\u00c9v\u00e9nement minier, Mine Niobec, QC"
-  },
-  {
-    "time_utc": "2026-06-13T06:38:16.000Z",
-    "magnitude": "2.71",
-    "depth_km": "0.49",
-    "place": "Mining event, Niobec Mine, QC, felt/\u00c9v\u00e9nement minier, Mine Niobec, QC, ressenti"
   }
 ];

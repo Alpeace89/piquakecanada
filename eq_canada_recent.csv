@@ -507,5 +507,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260613.0849001,2026-06-13T08:49:25.000Z,54.6097,-118.5676,1.0,MLy,2.67,"Suspected industry-related event, 64 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 64 km SSE de Grande Prairie, AB"
 20260613.1048001,2026-06-13T10:48:59.000Z,49.4366,-127.838,10.0,Mw',2.82,"74 km SSW of Houpsitas 6, BC/74 km SSO de Houpsitas 6, BC"
 20260613.1103001,2026-06-13T11:03:48.000Z,52.5765,-132.0709,19.98,ML,2.1,"75 km S of Daajing Giids, BC/75 km S de Daajing Giids, BC"
+20260613.1218001,2026-06-13T12:18:40.000Z,49.4596,-127.8474,10.0,Mw',3.96,"72 km SSW of Houpsitas 6, BC/72 km SSO de Houpsitas 6, BC"
+20260613.1237001,2026-06-13T12:37:34.000Z,49.444,-127.837,10.0,Mw',2.99,"73 km SSW of Houpsitas 6, BC/73 km SSO de Houpsitas 6, BC"
 20260614.2240001,2026-06-14T22:40:43.000Z,47.627,-69.8817,14.68,MwN,1.48,"12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
 20260615.1223001,2026-06-15T12:23:10.000Z,48.5321,-71.157,1.0,MwN,2.82,"Suspected mining event, Niobec Mine, QC, felt/Événement minier soupconné, Mine Niobec, QC, ressenti"
