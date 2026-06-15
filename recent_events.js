@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-15T12:23:10.000Z",
+    "magnitude": "2.82",
+    "depth_km": "1.0",
+    "place": "Suspected mining event, Niobec Mine, QC, felt/\u00c9v\u00e9nement minier soupconn\u00e9, Mine Niobec, QC, ressenti"
+  },
+  {
     "time_utc": "2026-06-14T22:40:43.000Z",
     "magnitude": "1.48",
     "depth_km": "14.68",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.8",
     "depth_km": "10.0",
     "place": "148 km W of Port Hardy, BC/148 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-06-11T15:15:10.000Z",
-    "magnitude": "2.66",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 59 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 59 km SSE de Grande Prairie, AB"
   }
 ];
