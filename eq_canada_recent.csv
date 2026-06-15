@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260501.0810001,2026-05-01T08:10:39.000Z,58.568,-137.0769,5.0,ML,3.34,"157 km WNW of Juneau, AK/157 km ONO de Juneau, AK"
-20260501.0841001,2026-05-01T08:41:29.000Z,48.6318,-72.2641,18.0,MwN,1.03,"13 km N of Roberval, QC/13 km N de Roberval, QC"
 20260501.1201001,2026-05-01T12:01:00.000Z,48.5635,-122.6356,15.26,ML,1.62,"24 km SSW of Bellingham, WA/24 km SSO de Bellingham, WA"
 20260501.1206001,2026-05-01T12:06:14.000Z,48.5527,-122.634,18.33,ML,2.29,"25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
 20260501.1257001,2026-05-01T12:57:50.000Z,48.5534,-122.6353,14.38,ML,1.04,"25 km SSW of Bellingham, WA/25 km SSO de Bellingham, WA"
