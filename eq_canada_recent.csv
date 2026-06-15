@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260501.2131001,2026-05-01T21:31:36.000Z,59.5138,-135.5934,5.0,ML,2.62,"88 km SW of Carcross, YT/88 km SO de Carcross, YT"
 20260501.2357001,2026-05-01T23:57:36.000Z,54.3446,-118.4266,1.0,MLy,2.73,"Suspected industry-related event, 68 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 68 km NE de Grande Cache, AB"
 20260502.0042001,2026-05-02T00:42:37.000Z,44.2559,-69.7941,5.0,MwN,1.17,"6 km S of Augusta, ME/6 km S de Augusta, ME"
 20260502.0119001,2026-05-02T01:19:36.000Z,58.4714,-137.1152,1.0,ML,2.92,"158 km W of Juneau, AK/158 km O de Juneau, AK"
