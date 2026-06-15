@@ -1,1 +1,1 @@
-In the last 24 hours, there were no recorded quakes on the PiQuake Canada dashboard. The latest event was a M2.72 near the Niobec Mine in Quebec, which people could feel but not much else is known about it. Things have been quiet up north so far this week.
+In the last 24 hours, there were no recorded seismic events on the PiQuake Canada dashboard. The latest event was a M2.72 at the Niobec Mine in Quebec which people felt or noticed. It happened on June 13th at around 6:38 AM local time.

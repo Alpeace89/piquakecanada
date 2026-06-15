@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260501.0127001,2026-05-01T01:27:24.000Z,60.4246,-139.5986,5.0,ML,1.94,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
 20260501.0459001,2026-05-01T04:59:29.000Z,60.4643,-139.6495,5.0,ML,1.85,"121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
 20260501.0654001,2026-05-01T06:54:14.000Z,64.584,-134.3065,5.0,ML,2.72,"88 km NNE of Bellekeno Mine, YT/88 km NNE de la mine Bellekeno, YT"
 20260501.0810001,2026-05-01T08:10:39.000Z,58.568,-137.0769,5.0,ML,3.34,"157 km WNW of Juneau, AK/157 km ONO de Juneau, AK"
