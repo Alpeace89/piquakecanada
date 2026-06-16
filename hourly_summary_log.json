@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-26T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three events yesterday. The largest event was a M2.79 near Daajing Giids in British Columbia and it happened on May 26th at about 8:27 am UTC. That's happening more often than usual, with one event reported from each of Yukon, Alberta, and BC in the past day."
-  },
-  {
     "timestamp_utc": "2026-05-26T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been no recorded quakes by PiQuake Canada's dashboard. The largest event was a M1.36 near Niobec Mine in Quebec. It happened on June 15 at around 12:33 PM UTC. Seems like it wasn't too much of an earthquake but one that happens sometimes in mining areas."
+  },
+  {
+    "timestamp_utc": "2026-06-16T16:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major quakes reported. But we did catch two little jolts in Minto, NB that measured up to a tiny M0.9 and a smaller one at M0.66. Both happened within an hour of each other around midnight our time. The place is about 10 kilometers east of the city. It's all part of what we call \"PiQuake Canada,\" where we keep watch for any small shake in the ground, even if it doesn't mean much to most people but helps us learn more about how nature works its magic."
   }
 ]

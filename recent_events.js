@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-16T04:06:03.000Z",
+    "magnitude": "0.66",
+    "depth_km": "5.0",
+    "place": "10 km E of Minto, NB/10 km E de Minto, NB"
+  },
+  {
+    "time_utc": "2026-06-16T04:04:15.000Z",
+    "magnitude": "0.9",
+    "depth_km": "5.0",
+    "place": "10 km E of Minto, NB/10 km E de Minto, NB"
+  },
+  {
     "time_utc": "2026-06-15T12:32:52.000Z",
     "magnitude": "1.36",
     "depth_km": "0.5",
@@ -18,6 +30,24 @@ window.recentEvents = [
     "place": "12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
   },
   {
+    "time_utc": "2026-06-14T06:54:59.000Z",
+    "magnitude": "2.26",
+    "depth_km": "5.0",
+    "place": "128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-06-14T04:49:15.000Z",
+    "magnitude": "2.21",
+    "depth_km": "5.0",
+    "place": "97 km SSW of Burwash Landing, YT/97 km SSO de Burwash Landing, YT"
+  },
+  {
+    "time_utc": "2026-06-14T03:42:20.000Z",
+    "magnitude": "2.05",
+    "depth_km": "36.36",
+    "place": "56 km SSW of Port Alice, BC/56 km SSO de Port Alice, BC"
+  },
+  {
     "time_utc": "2026-06-14T02:48:49.000Z",
     "magnitude": "1.57",
     "depth_km": "10.0",
@@ -28,35 +58,5 @@ window.recentEvents = [
     "magnitude": "2.14",
     "depth_km": "5.0",
     "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-14T01:35:52.000Z",
-    "magnitude": "3.01",
-    "depth_km": "5.0",
-    "place": "210 km SW of Whitehorse, YT/210 km SO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-06-14T01:16:58.000Z",
-    "magnitude": "2.15",
-    "depth_km": "5.0",
-    "place": "70 km WSW of Burwash Landing, YT/70 km OSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-06-13T18:40:04.000Z",
-    "magnitude": "2.37",
-    "depth_km": "10.0",
-    "place": "74 km SSW of Houpsitas 6, BC/74 km SSO de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-06-13T13:53:40.000Z",
-    "magnitude": "2.59",
-    "depth_km": "20.0",
-    "place": "69 km SSW of Houpsitas 6, BC/69 km SSO de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-06-13T13:20:28.000Z",
-    "magnitude": "3.08",
-    "depth_km": "10.0",
-    "place": "156 km W of Tofino, BC/156 km O de Tofino, BC"
   }
 ];

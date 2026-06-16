@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260502.1542001,2026-05-02T15:42:27.000Z,53.3921,-117.3236,0.0,MLy,2.42,"Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB"
 20260502.2307001,2026-05-02T23:07:49.000Z,45.6449,-74.3238,16.43,MwN,1.39,"1 km SE of Lachute, QC/1 km SE de Lachute, QC"
 20260503.0004001,2026-05-03T00:04:55.000Z,52.5383,-122.0465,0.0,ML,2.44,"Blast, 20 km NNE of Cariboo D, BC/Dynamitage, 20 km NNE de Cariboo D, BC"
 20260503.0034001,2026-05-03T00:34:40.000Z,58.4735,-137.1283,1.0,ML,2.92,"159 km W of Juneau, AK/159 km O de Juneau, AK"
@@ -511,6 +510,11 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260614.0135001,2026-06-14T01:35:52.000Z,59.1918,-137.3479,5.0,ML,3.01,"210 km SW of Whitehorse, YT/210 km SO de Whitehorse, YT"
 20260614.0143001,2026-06-14T01:43:17.000Z,60.5203,-140.0274,5.0,ML,2.14,"140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
 20260614.0248002,2026-06-14T02:48:49.000Z,49.4467,-127.903,10.0,ML,1.57,"75 km SSW of Houpsitas 6, BC/75 km SSO de Houpsitas 6, BC"
+20260614.0342001,2026-06-14T03:42:20.000Z,49.9773,-127.8571,36.36,ML,2.05,"56 km SSW of Port Alice, BC/56 km SSO de Port Alice, BC"
+20260614.0449001,2026-06-14T04:49:15.000Z,60.5951,-139.8824,5.0,ML,2.21,"97 km SSW of Burwash Landing, YT/97 km SSO de Burwash Landing, YT"
+20260614.0654001,2026-06-14T06:54:59.000Z,60.5443,-139.8213,5.0,ML,2.26,"128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
 20260614.2240001,2026-06-14T22:40:43.000Z,47.627,-69.8817,14.68,MwN,1.48,"12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
 20260615.1223003,2026-06-15T12:23:10.000Z,48.5321,-71.157,0.5,MwN,2.8,"Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti"
 20260615.1232001,2026-06-15T12:32:52.000Z,48.5321,-71.157,0.5,MwN,1.36,"Mining event, Niobec Mine, QC/Événement minier, Mine Niobec, QC"
+20260616.0404001,2026-06-16T04:04:15.000Z,46.0935,-65.9509,5.0,MwN,0.9,"10 km E of Minto, NB/10 km E de Minto, NB"
+20260616.0406001,2026-06-16T04:06:03.000Z,46.0941,-65.9536,5.0,MwN,0.66,"10 km E of Minto, NB/10 km E de Minto, NB"
