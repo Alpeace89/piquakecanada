@@ -491,6 +491,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260612.1228001,2026-06-12T12:28:25.000Z,47.6181,-127.8314,10.0,Mw',2.85,"287 km SW of Port Alberni, BC/287 km SO de Port Alberni, BC"
 20260612.2128001,2026-06-12T21:28:06.000Z,60.568,-139.7388,5.0,ML,2.83,"123 km W of Haines Junction, YT/123 km O de Haines Junction, YT"
 20260613.0141001,2026-06-13T01:41:17.000Z,48.4374,-123.5869,17.03,ML,1.59,"16 km W of Victoria, BC/16 km O de Victoria, BC"
+20260613.0326001,2026-06-13T03:26:06.000Z,48.9862,-67.5638,18.0,MwN,0.82,"15 km N of Matane, QC/15 km N de Matane, QC"
+20260613.0517001,2026-06-13T05:17:13.000Z,44.1819,-69.9225,5.0,MwN,1.31,"25 km ENE of Lewiston, ME/25 km ENE de Lewiston, ME"
 20260613.0638003,2026-06-13T06:38:16.000Z,48.5321,-71.157,0.49,MwN,2.71,"Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti"
 20260613.0645001,2026-06-13T06:45:46.000Z,48.5321,-71.157,0.5,MwN,1.35,"Mining event, Niobec Mine, QC/Événement minier, Mine Niobec, QC"
 20260613.0652001,2026-06-13T06:52:56.000Z,48.5321,-71.157,0.5,MwN,0.7,"Mining event, Niobec Mine, QC/Événement minier, Mine Niobec, QC"

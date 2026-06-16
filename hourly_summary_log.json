@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-26T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is showing no events in the last hour, but there have been three small quakes recorded in the past day. The biggest one was a M2.79 near Daajing Giids, BC/DAJING GIIDS, BC, and it happened just after 8:00 AM on May 26th according to UTC time. That's where we get our latest updates from!"
-  },
-  {
     "timestamp_utc": "2026-05-26T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we haven't had any earthquakes reported in Canada. The largest one was a M1.36, which happened at Niobec Mine in Quebec. It's not clear where exactly it occurred or when. Nothing to worry about here!"
+  },
+  {
+    "timestamp_utc": "2026-06-16T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard hasn't had any events recorded in the last 24 hours, and no significant quakes have been detected either. The latest quake was a small one measuring M1.36 near the Niobec Mine in Quebec. It happened on June 15th around noon."
   }
 ]
