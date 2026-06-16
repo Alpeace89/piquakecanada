@@ -30,10 +30,22 @@ window.recentEvents = [
     "place": "Mining event, Niobec Mine, QC, felt/\u00c9v\u00e9nement minier, Mine Niobec, QC, ressenti"
   },
   {
+    "time_utc": "2026-06-14T23:45:01.000Z",
+    "magnitude": "2.19",
+    "depth_km": "7.86",
+    "place": "92 km SW of Osoyoos, BC/92 km SO de Osoyoos, BC"
+  },
+  {
     "time_utc": "2026-06-14T22:40:43.000Z",
     "magnitude": "1.48",
     "depth_km": "14.68",
     "place": "12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
+  },
+  {
+    "time_utc": "2026-06-14T22:16:23.000Z",
+    "magnitude": "2.01",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 54 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 54 km SSE de Grande Prairie, AB"
   },
   {
     "time_utc": "2026-06-14T20:41:22.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "0.92",
     "depth_km": "13.81",
     "place": "13 km W of Holberg, BC/13 km O de Holberg, BC"
-  },
-  {
-    "time_utc": "2026-06-14T19:53:29.000Z",
-    "magnitude": "2.7",
-    "depth_km": "5.0",
-    "place": "99 km SSW of Burwash Landing, YT/99 km SSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-06-14T18:32:39.000Z",
-    "magnitude": "1.93",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 51 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 51 km SSE de Grande Prairie, AB"
   }
 ];
