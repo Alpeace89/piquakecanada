@@ -36,6 +36,18 @@ window.recentEvents = [
     "place": "12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
   },
   {
+    "time_utc": "2026-06-14T20:16:48.000Z",
+    "magnitude": "0.92",
+    "depth_km": "13.81",
+    "place": "13 km W of Holberg, BC/13 km O de Holberg, BC"
+  },
+  {
+    "time_utc": "2026-06-14T19:53:29.000Z",
+    "magnitude": "2.7",
+    "depth_km": "5.0",
+    "place": "99 km SSW of Burwash Landing, YT/99 km SSO de Burwash Landing, YT"
+  },
+  {
     "time_utc": "2026-06-14T18:32:39.000Z",
     "magnitude": "1.93",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.51",
     "depth_km": "10.0",
     "place": "135 km W of Tofino, BC/135 km O de Tofino, BC"
-  },
-  {
-    "time_utc": "2026-06-14T07:20:18.000Z",
-    "magnitude": "2.12",
-    "depth_km": "24.51",
-    "place": "151 km SSE of Daajing Giids, BC/151 km SSE de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-14T06:56:38.000Z",
-    "magnitude": "1.38",
-    "depth_km": "10.0",
-    "place": "73 km SSW of Houpsitas 6, BC/73 km SSO de Houpsitas 6, BC"
   }
 ];
