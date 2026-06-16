@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-26T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and the largest event detected was a magnitude unknown at an unknown location. The latest quake reported was a M1.31 that happened on May 24th around 6:04 PM local time, near Sainte-Brigitte-de-Laval, Quebec."
-  },
-  {
     "timestamp_utc": "2026-05-26T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been no major seismic events reported. However, two minor mining-related quakes were felt at the Niobec Mine in Quebec. The largest event was a M2.8 shake, which occurred earlier today near Niobec Mine and was strongly felt in the area. Another smaller one happened shortly after, with a magnitude of M1.36. Both events have been reported as happening around noon local time yesterday."
+  },
+  {
+    "timestamp_utc": "2026-06-16T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, two mining events were felt near Niobec Mine in Quebec. The largest one registered at M2.8 and was recorded on June 15th around noon local time. It's a fairly small quake but noticeable due to its proximity to the mine. There have been no recent tremors reported from that area lately, so it seems like an isolated event related to mining activities."
   }
 ]
