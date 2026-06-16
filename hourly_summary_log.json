@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-26T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there haven't been any quakes reported on the PiQuake Canada dashboard. The largest one was a tiny M1.21 that happened about 137 km west of Haines Junction in the Yukon and another 137 km to its east. It's all good though; no big shakes or anything exciting happening down there."
-  },
-  {
     "timestamp_utc": "2026-05-26T15:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had 2 events reported. The largest one was a M2.8 magnitude mining event at Niobec Mine in Quebec felt there. And then, just an hour ago, there was another small tremor of M1.36 from the same mine area. Quebec has been our top region for mining-induced earthquakes over this period."
+  },
+  {
+    "timestamp_utc": "2026-06-16T09:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had no new earthquake reports but two quakes were felt. The largest one was a M2.8 near Niobec Mine in Quebec which people could actually feel. There have been no mining events since then either, so it's just the regular small earthquakes happening around unknown areas and in Quebec province."
   }
 ]
