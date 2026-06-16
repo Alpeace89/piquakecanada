@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-27T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major quakes reported by our PiQuake Canada dashboard. However, we did see three minor tremors with the largest one measuring M2.79 near Daajing Giids in British Columbia. This event happened on May 26 at about 8:27 AM local time, and it's worth noting that this area has had quakes before within the past day. The top regions where these minor tremors occurred were Yukon Territory, Alberta, and British Columbia."
-  },
-  {
     "timestamp_utc": "2026-05-27T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of 3 small quakes. The largest one measured at M3.93 and happened near Port Hardy in British Columbia. It's happening not far from where it did yesterday too. Places like New Brunswick have seen two of these little shocks as well."
+  },
+  {
+    "timestamp_utc": "2026-06-16T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three events yesterday. The largest event was a M3.93 near Port Hardy in British Columbia, recorded at about 11:12 AM UTC yesterday. It's been pretty quiet here in BC with two more events happening in New Brunswick."
   }
 ]

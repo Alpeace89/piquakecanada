@@ -30,6 +30,12 @@ window.recentEvents = [
     "place": "Mining event, Niobec Mine, QC, felt/\u00c9v\u00e9nement minier, Mine Niobec, QC, ressenti"
   },
   {
+    "time_utc": "2026-06-15T06:02:10.000Z",
+    "magnitude": "3.35",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 40 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 40 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-06-15T04:10:50.000Z",
     "magnitude": "2.09",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.01",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 54 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 54 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-14T20:41:22.000Z",
-    "magnitude": "2.43",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 40 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 40 km SSE de Grande Prairie, AB"
   }
 ];

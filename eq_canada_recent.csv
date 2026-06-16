@@ -524,6 +524,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260614.2240001,2026-06-14T22:40:43.000Z,47.627,-69.8817,14.68,MwN,1.48,"12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
 20260614.2345001,2026-06-14T23:45:01.000Z,48.4463,-120.345,7.86,ML,2.19,"92 km SW of Osoyoos, BC/92 km SO de Osoyoos, BC"
 20260615.0410001,2026-06-15T04:10:50.000Z,54.4086,-118.3927,1.0,MLy,2.09,"Suspected industry-related event, 89 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 89 km SSE de Grande Prairie, AB"
+20260615.0602001,2026-06-15T06:02:10.000Z,54.8319,-118.597,1.0,MLy,3.35,"Suspected industry-related event, 40 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 40 km SSE de Grande Prairie, AB"
 20260615.1223003,2026-06-15T12:23:10.000Z,48.5321,-71.157,0.5,MwN,2.8,"Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti"
 20260615.1232001,2026-06-15T12:32:52.000Z,48.5321,-71.157,0.5,MwN,1.36,"Mining event, Niobec Mine, QC/Événement minier, Mine Niobec, QC"
 20260616.0404001,2026-06-16T04:04:15.000Z,46.0935,-65.9509,5.0,MwN,0.9,"10 km E of Minto, NB/10 km E de Minto, NB"

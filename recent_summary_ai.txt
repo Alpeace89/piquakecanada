@@ -1,1 +1,1 @@
-In the last 24 hours, we had a total of 3 small quakes. The largest one measured at M3.93 and happened near Port Hardy in British Columbia. It's happening not far from where it did yesterday too. Places like New Brunswick have seen two of these little shocks as well.
+The PiQuake Canada dashboard shows no events in the last hour, but there were three events yesterday. The largest event was a M3.93 near Port Hardy in British Columbia, recorded at about 11:12 AM UTC yesterday. It's been pretty quiet here in BC with two more events happening in New Brunswick.
