@@ -18,45 +18,45 @@ window.recentEvents = [
     "place": "12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
   },
   {
-    "time_utc": "2026-06-13T13:20:28.000Z",
-    "magnitude": "3.08",
+    "time_utc": "2026-06-14T02:48:49.000Z",
+    "magnitude": "1.57",
     "depth_km": "10.0",
-    "place": "156 km W of Tofino, BC/156 km O de Tofino, BC"
+    "place": "75 km SSW of Houpsitas 6, BC/75 km SSO de Houpsitas 6, BC"
   },
   {
-    "time_utc": "2026-06-13T12:42:52.000Z",
-    "magnitude": "3.53",
-    "depth_km": "10.0",
-    "place": "249 km SSW of Port Hardy, BC/249 km SSO de Port Hardy, BC"
+    "time_utc": "2026-06-14T01:43:17.000Z",
+    "magnitude": "2.14",
+    "depth_km": "5.0",
+    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
   },
   {
-    "time_utc": "2026-06-13T12:37:34.000Z",
-    "magnitude": "2.99",
-    "depth_km": "10.0",
-    "place": "73 km SSW of Houpsitas 6, BC/73 km SSO de Houpsitas 6, BC"
+    "time_utc": "2026-06-14T01:35:52.000Z",
+    "magnitude": "3.01",
+    "depth_km": "5.0",
+    "place": "210 km SW of Whitehorse, YT/210 km SO de Whitehorse, YT"
   },
   {
-    "time_utc": "2026-06-13T12:18:40.000Z",
-    "magnitude": "3.96",
-    "depth_km": "10.0",
-    "place": "72 km SSW of Houpsitas 6, BC/72 km SSO de Houpsitas 6, BC"
+    "time_utc": "2026-06-14T01:16:58.000Z",
+    "magnitude": "2.15",
+    "depth_km": "5.0",
+    "place": "70 km WSW of Burwash Landing, YT/70 km OSO de Burwash Landing, YT"
   },
   {
-    "time_utc": "2026-06-13T11:03:48.000Z",
-    "magnitude": "2.1",
-    "depth_km": "19.98",
-    "place": "75 km S of Daajing Giids, BC/75 km S de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-13T10:48:59.000Z",
-    "magnitude": "2.82",
+    "time_utc": "2026-06-13T18:40:04.000Z",
+    "magnitude": "2.37",
     "depth_km": "10.0",
     "place": "74 km SSW of Houpsitas 6, BC/74 km SSO de Houpsitas 6, BC"
   },
   {
-    "time_utc": "2026-06-13T08:49:25.000Z",
-    "magnitude": "2.67",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 64 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 64 km SSE de Grande Prairie, AB"
+    "time_utc": "2026-06-13T13:53:40.000Z",
+    "magnitude": "2.59",
+    "depth_km": "20.0",
+    "place": "69 km SSW of Houpsitas 6, BC/69 km SSO de Houpsitas 6, BC"
+  },
+  {
+    "time_utc": "2026-06-13T13:20:28.000Z",
+    "magnitude": "3.08",
+    "depth_km": "10.0",
+    "place": "156 km W of Tofino, BC/156 km O de Tofino, BC"
   }
 ];
