@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260502.0321001,2026-05-02T03:21:05.000Z,47.5263,-70.2148,12.56,MwN,0.54,"15 km SSW of La Malbaie, QC/15 km SSO de La Malbaie, QC"
 20260502.0830001,2026-05-02T08:30:42.000Z,45.018,-67.6936,6.13,MwN,1.4,"36 km WSW of St. Stephen, NB/36 km OSO de St. Stephen, NB"
 20260502.0944001,2026-05-02T09:44:47.000Z,47.0655,-64.4983,18.0,MwN,1.97,"39 km E of Hardwicke, NB/39 km E de Hardwicke, NB"
 20260502.1542001,2026-05-02T15:42:27.000Z,53.3921,-117.3236,0.0,MLy,2.42,"Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB"
