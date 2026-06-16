@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260502.0944001,2026-05-02T09:44:47.000Z,47.0655,-64.4983,18.0,MwN,1.97,"39 km E of Hardwicke, NB/39 km E de Hardwicke, NB"
 20260502.1542001,2026-05-02T15:42:27.000Z,53.3921,-117.3236,0.0,MLy,2.42,"Blast, 16 km E of Hinton, AB/Dynamitage, 16 km E de Hinton, AB"
 20260502.2307001,2026-05-02T23:07:49.000Z,45.6449,-74.3238,16.43,MwN,1.39,"1 km SE of Lachute, QC/1 km SE de Lachute, QC"
 20260503.0004001,2026-05-03T00:04:55.000Z,52.5383,-122.0465,0.0,ML,2.44,"Blast, 20 km NNE of Cariboo D, BC/Dynamitage, 20 km NNE de Cariboo D, BC"

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-26T15:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events detected in the last hour or day. The largest event recorded was a magnitude unknown, happening at an unknown location and time. But earlier today, there was a small quake with a magnitude of M2.22 near Grande Prairie, Alberta, suspected to be from an industry-related source."
-  },
-  {
     "timestamp_utc": "2026-05-26T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had no new earthquake reports but two quakes were felt. The largest one was a M2.8 near Niobec Mine in Quebec which people could actually feel. There have been no mining events since then either, so it's just the regular small earthquakes happening around unknown areas and in Quebec province."
+  },
+  {
+    "timestamp_utc": "2026-06-16T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a short summary for the PiQuake Canada dashboard: For the last 24 hours, there have been two minor mining-related quakes felt in Quebec. The largest one was measured at M2.8 and happened yesterday afternoon around 12:20 PM local time, close to the Niobec Mine. There were no other events reported during that period."
   }
 ]
