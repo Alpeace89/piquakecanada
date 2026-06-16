@@ -30,6 +30,12 @@ window.recentEvents = [
     "place": "Mining event, Niobec Mine, QC, felt/\u00c9v\u00e9nement minier, Mine Niobec, QC, ressenti"
   },
   {
+    "time_utc": "2026-06-15T04:10:50.000Z",
+    "magnitude": "2.09",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 89 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 89 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-06-14T23:45:01.000Z",
     "magnitude": "2.19",
     "depth_km": "7.86",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.43",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 40 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 40 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-14T20:16:48.000Z",
-    "magnitude": "0.92",
-    "depth_km": "13.81",
-    "place": "13 km W of Holberg, BC/13 km O de Holberg, BC"
   }
 ];
