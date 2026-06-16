@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-16T11:12:42.000Z",
+    "magnitude": "3.93",
+    "depth_km": "10.0",
+    "place": "244 km SSW of Port Hardy, BC/244 km SSO de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-06-16T04:06:03.000Z",
     "magnitude": "0.66",
     "depth_km": "5.0",
@@ -30,33 +36,27 @@ window.recentEvents = [
     "place": "12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
   },
   {
-    "time_utc": "2026-06-14T06:54:59.000Z",
-    "magnitude": "2.26",
-    "depth_km": "5.0",
-    "place": "128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
+    "time_utc": "2026-06-14T18:32:39.000Z",
+    "magnitude": "1.93",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 51 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 51 km SSE de Grande Prairie, AB"
   },
   {
-    "time_utc": "2026-06-14T04:49:15.000Z",
-    "magnitude": "2.21",
-    "depth_km": "5.0",
-    "place": "97 km SSW of Burwash Landing, YT/97 km SSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-06-14T03:42:20.000Z",
-    "magnitude": "2.05",
-    "depth_km": "36.36",
-    "place": "56 km SSW of Port Alice, BC/56 km SSO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-06-14T02:48:49.000Z",
-    "magnitude": "1.57",
+    "time_utc": "2026-06-14T16:33:08.000Z",
+    "magnitude": "1.51",
     "depth_km": "10.0",
-    "place": "75 km SSW of Houpsitas 6, BC/75 km SSO de Houpsitas 6, BC"
+    "place": "135 km W of Tofino, BC/135 km O de Tofino, BC"
   },
   {
-    "time_utc": "2026-06-14T01:43:17.000Z",
-    "magnitude": "2.14",
-    "depth_km": "5.0",
-    "place": "140 km W of Haines Junction, YT/140 km O de Haines Junction, YT"
+    "time_utc": "2026-06-14T07:20:18.000Z",
+    "magnitude": "2.12",
+    "depth_km": "24.51",
+    "place": "151 km SSE of Daajing Giids, BC/151 km SSE de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-06-14T06:56:38.000Z",
+    "magnitude": "1.38",
+    "depth_km": "10.0",
+    "place": "73 km SSW of Houpsitas 6, BC/73 km SSO de Houpsitas 6, BC"
   }
 ];
