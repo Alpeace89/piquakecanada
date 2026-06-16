@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260501.2357001,2026-05-01T23:57:36.000Z,54.3446,-118.4266,1.0,MLy,2.73,"Suspected industry-related event, 68 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 68 km NE de Grande Cache, AB"
 20260502.0042001,2026-05-02T00:42:37.000Z,44.2559,-69.7941,5.0,MwN,1.17,"6 km S of Augusta, ME/6 km S de Augusta, ME"
 20260502.0119001,2026-05-02T01:19:36.000Z,58.4714,-137.1152,1.0,ML,2.92,"158 km W of Juneau, AK/158 km O de Juneau, AK"
 20260502.0321001,2026-05-02T03:21:05.000Z,47.5263,-70.2148,12.56,MwN,0.54,"15 km SSW of La Malbaie, QC/15 km SSO de La Malbaie, QC"

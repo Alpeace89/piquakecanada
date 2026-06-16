@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-26T05:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't recorded any earthquakes over the last hour or day. The largest event detected was a M1.31 near Sainte-Brigitte-de-Laval, QC, which happened on May 24th at about 6:04 PM local time."
-  },
-  {
     "timestamp_utc": "2026-05-26T06:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no major seismic events in the last hour, but there were two minor quakes yesterday. The largest one was a M2.8 near Niobec Mine in Quebec felt regionally, and another smaller quake followed shortly after. Most of the activity is centered around Quebec."
+  },
+  {
+    "timestamp_utc": "2026-06-16T00:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, two minor mining events were felt in Quebec. The largest one was a M2.8 near the Niobec Mine and the latest event was a smaller M1.36 at the same location. Both happened around midday on June 15th, right after noon local time."
   }
 ]
