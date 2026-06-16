@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260502.0042001,2026-05-02T00:42:37.000Z,44.2559,-69.7941,5.0,MwN,1.17,"6 km S of Augusta, ME/6 km S de Augusta, ME"
 20260502.0119001,2026-05-02T01:19:36.000Z,58.4714,-137.1152,1.0,ML,2.92,"158 km W of Juneau, AK/158 km O de Juneau, AK"
 20260502.0321001,2026-05-02T03:21:05.000Z,47.5263,-70.2148,12.56,MwN,0.54,"15 km SSW of La Malbaie, QC/15 km SSO de La Malbaie, QC"
 20260502.0830001,2026-05-02T08:30:42.000Z,45.018,-67.6936,6.13,MwN,1.4,"36 km WSW of St. Stephen, NB/36 km OSO de St. Stephen, NB"
