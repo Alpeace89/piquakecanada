@@ -36,6 +36,12 @@ window.recentEvents = [
     "place": "12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
   },
   {
+    "time_utc": "2026-06-14T20:41:22.000Z",
+    "magnitude": "2.43",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 40 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 40 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-06-14T20:16:48.000Z",
     "magnitude": "0.92",
     "depth_km": "13.81",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.93",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 51 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 51 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-14T16:33:08.000Z",
-    "magnitude": "1.51",
-    "depth_km": "10.0",
-    "place": "135 km W of Tofino, BC/135 km O de Tofino, BC"
   }
 ];

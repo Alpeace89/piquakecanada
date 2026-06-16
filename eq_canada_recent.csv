@@ -519,6 +519,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260614.1832001,2026-06-14T18:32:39.000Z,54.7367,-118.5179,1.0,MLy,1.93,"Suspected industry-related event, 51 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 51 km SSE de Grande Prairie, AB"
 20260614.1953001,2026-06-14T19:53:29.000Z,60.5897,-139.9114,5.0,ML,2.7,"99 km SSW of Burwash Landing, YT/99 km SSO de Burwash Landing, YT"
 20260614.2016001,2026-06-14T20:16:48.000Z,50.6587,-128.1923,13.81,ML1,0.92,"13 km W of Holberg, BC/13 km O de Holberg, BC"
+20260614.2041001,2026-06-14T20:41:22.000Z,54.8326,-118.6052,1.0,MLy,2.43,"Suspected industry-related event, 40 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 40 km SSE de Grande Prairie, AB"
 20260614.2240001,2026-06-14T22:40:43.000Z,47.627,-69.8817,14.68,MwN,1.48,"12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
 20260615.1223003,2026-06-15T12:23:10.000Z,48.5321,-71.157,0.5,MwN,2.8,"Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti"
 20260615.1232001,2026-06-15T12:32:52.000Z,48.5321,-71.157,0.5,MwN,1.36,"Mining event, Niobec Mine, QC/Événement minier, Mine Niobec, QC"
