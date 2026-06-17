@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-27T10:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is still in beta and we haven't had any earthquake events recorded since yesterday. The last detected quake was a small one measuring M2.79, which happened around 8:20 AM today, far away from any known populated areas. Nothing to worry about here folks!"
-  },
-  {
     "timestamp_utc": "2026-05-27T11:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had three minor earthquakes with a magnitude of M3.93, all happening near Port Hardy in British Columbia. It's the largest one since our last monitoring started back then, and both New Brunswick and British Columbia were hit by these little tremors."
+  },
+  {
+    "timestamp_utc": "2026-06-17T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had one event on our dashboard. It was a M3.93 quake located 244 km SSW of Port Hardy, BC/244 km SSO de Port Hardy, BC. This is the largest event and it happened yesterday at 11:12 AM. And the area that felt this shake is mostly in British Columbia."
   }
 ]
