@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-27T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude unknown at an unknown location on an unknown time. The latest event happened yesterday at a place southwest of Daajing Giids, BC, with a magnitude of M2.79."
-  },
-  {
     "timestamp_utc": "2026-05-27T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the PiQuake Canada dashboard, we had no new earthquake reports in the last hour but one event yesterday. The largest quake of the day was a M3.93 near Port Hardy in British Columbia that happened on June 16th at around 11:12 AM local time. That's the only seismic activity reported for today, as it is our first day in beta."
+  },
+  {
+    "timestamp_utc": "2026-06-17T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but we had one event yesterday that was a M3.93 near Port Hardy in British Columbia. That's our latest and largest quake, recorded on June 16th at around noon local time. BC seems to be where all the action is right now."
   }
 ]
