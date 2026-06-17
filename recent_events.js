@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-17T06:55:13.000Z",
+    "magnitude": "2.38",
+    "depth_km": "1.0",
+    "place": "62 km N of Campbell River, BC/62 km N de Campbell River, BC"
+  },
+  {
+    "time_utc": "2026-06-16T21:53:32.000Z",
+    "magnitude": "2.34",
+    "depth_km": "1.84",
+    "place": "31 km W of Squamish, BC/31 km O de Squamish, BC"
+  },
+  {
     "time_utc": "2026-06-16T21:43:02.000Z",
     "magnitude": "1.26",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "0.9",
     "depth_km": "5.0",
     "place": "10 km E of Minto, NB/10 km E de Minto, NB"
-  },
-  {
-    "time_utc": "2026-06-16T03:47:37.000Z",
-    "magnitude": "2.95",
-    "depth_km": "10.0",
-    "place": "250 km SSW of Port Hardy, BC/250 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-06-15T15:22:12.000Z",
-    "magnitude": "2.29",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 24 km SW of Fort St. John, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 24 km SO de Fort St. John, BC"
   }
 ];

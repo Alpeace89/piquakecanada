@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260503.1653001,2026-05-03T16:53:01.000Z,58.8368,-134.5056,1.0,ML,3.1,"58 km N of Juneau, AK/58 km N de Juneau, AK"
 20260503.2112001,2026-05-03T21:12:55.000Z,48.5358,-121.7903,0.0,ML,2.64,"Blast, 70 km SE of Abbotsford, BC/Dynamitage, 70 km SE de Abbotsford, BC"
 20260504.0052001,2026-05-04T00:52:13.000Z,56.6558,-121.8101,1.0,MLy,2.11,"Suspected industry-related event, 20 km N of Halfway River 168, BC/Événement lié à l'industrie soupconné, 20 km N de Halfway River 168, BC"
 20260504.0142001,2026-05-04T01:42:48.000Z,61.1121,-140.0793,5.0,ML,2.05,"64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
@@ -525,6 +524,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260615.1223003,2026-06-15T12:23:10.000Z,48.5321,-71.157,0.5,MwN,2.8,"Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti"
 20260615.1232001,2026-06-15T12:32:52.000Z,48.5321,-71.157,0.5,MwN,1.36,"Mining event, Niobec Mine, QC/Événement minier, Mine Niobec, QC"
 20260615.1522001,2026-06-15T15:22:12.000Z,56.0873,-121.0873,1.0,MLy,2.29,"Suspected industry-related event, 24 km SW of Fort St. John, BC/Événement lié à l'industrie soupconné, 24 km SO de Fort St. John, BC"
+20260615.1539001,2026-06-15T15:39:06.000Z,53.3232,-117.486,1.0,ML,2.68,"Suspected industry-related event, 11 km SSE of Hinton, AB/Événement lié à l'industrie soupconné, 11 km SSE de Hinton, AB"
+20260615.2311001,2026-06-15T23:11:15.000Z,54.707,-118.5552,1.0,MLy,2.18,"Suspected industry-related event, 54 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 54 km SSE de Grande Prairie, AB"
 20260616.0347001,2026-06-16T03:47:37.000Z,48.719,-129.0725,10.0,Mw',2.95,"250 km SSW of Port Hardy, BC/250 km SSO de Port Hardy, BC"
 20260616.0404001,2026-06-16T04:04:15.000Z,46.0935,-65.9509,5.0,MwN,0.9,"10 km E of Minto, NB/10 km E de Minto, NB"
 20260616.0406001,2026-06-16T04:06:03.000Z,46.0941,-65.9536,5.0,MwN,0.66,"10 km E of Minto, NB/10 km E de Minto, NB"
@@ -534,3 +535,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260616.1501001,2026-06-16T15:01:53.000Z,48.2847,-124.8015,0.0,ML,2.42,"41 km SW of Port Renfrew, BC/41 km SO de Port Renfrew, BC"
 20260616.1825001,2026-06-16T18:25:57.000Z,58.6364,-137.5553,10.0,ML,2.14,"186 km WNW of Juneau, AK/186 km ONO de Juneau, AK"
 20260616.2143001,2026-06-16T21:43:02.000Z,50.0449,-126.0622,1.0,ML,1.26,"29 km N of Gold River, BC/29 km N de Gold River, BC"
+20260616.2153001,2026-06-16T21:53:32.000Z,49.7126,-123.584,1.84,ML,2.34,"31 km W of Squamish, BC/31 km O de Squamish, BC"
+20260617.0655001,2026-06-17T06:55:13.000Z,50.5844,-125.2347,1.0,ML,2.38,"62 km N of Campbell River, BC/62 km N de Campbell River, BC"

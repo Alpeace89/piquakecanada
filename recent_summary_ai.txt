@@ -1,1 +1,1 @@
-In the past 24 hours, there were two minor earthquakes recorded by our PiQuake Canada dashboard. The largest one was a M2.14 near Juneau in Alaska and another slightly smaller one of M1.26 near Gold River in British Columbia. Both are from last night around 6 PM local time.
+The PiQuake Canada dashboard shows no activity in the last hour, but there were four minor quakes recorded yesterday. The largest one was a M2.38 near Campbell River in British Columbia. It's been active in BC with three of those quakes and one each in Alaska. Everything is pretty quiet today though.
