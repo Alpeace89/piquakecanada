@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-06-17T15:03:01Z",
+  "generated_utc": "2026-06-17T16:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 529,
-  "events_last_24h": 1,
+  "rolling_window_event_count": 535,
+  "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260616.1825001",
-    "time_utc": "2026-06-16T18:25:57.000Z",
-    "latitude": 58.6364,
-    "longitude": -137.5553,
-    "depth_km": 10.0,
+    "event_id": "20260616.2143001",
+    "time_utc": "2026-06-16T21:43:02.000Z",
+    "latitude": 50.0449,
+    "longitude": -126.0622,
+    "depth_km": 1.0,
     "mag_type": "ML",
-    "magnitude": 2.14,
-    "place": "186 km WNW of Juneau, AK/186 km ONO de Juneau, AK",
-    "region": "AK"
+    "magnitude": 1.26,
+    "place": "29 km N of Gold River, BC/29 km N de Gold River, BC",
+    "region": "BC"
   },
   "largest_event_last_24h": {
     "event_id": "20260616.1825001",
@@ -43,7 +43,11 @@
     {
       "region": "AK",
       "count": 1
+    },
+    {
+      "region": "BC",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-17 15:03 UTC, the recent Canada earthquake dataset contains 529 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.14 at 186 km WNW of Juneau, AK/186 km ONO de Juneau, AK. The deepest event reached 10.00 km at 186 km WNW of Juneau, AK/186 km ONO de Juneau, AK. The most recent listed event was M2.14 at 186 km WNW of Juneau, AK/186 km ONO de Juneau, AK at 2026-06-16T18:25:57.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was AK."
+  "summary_text": "As of 2026-06-17 16:03 UTC, the recent Canada earthquake dataset contains 535 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.14 at 186 km WNW of Juneau, AK/186 km ONO de Juneau, AK. The deepest event reached 10.00 km at 186 km WNW of Juneau, AK/186 km ONO de Juneau, AK. The most recent listed event was M1.26 at 29 km N of Gold River, BC/29 km N de Gold River, BC at 2026-06-16T21:43:02.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were AK (1) and BC (1)."
 }

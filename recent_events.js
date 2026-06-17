@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-16T21:43:02.000Z",
+    "magnitude": "1.26",
+    "depth_km": "1.0",
+    "place": "29 km N of Gold River, BC/29 km N de Gold River, BC"
+  },
+  {
     "time_utc": "2026-06-16T18:25:57.000Z",
     "magnitude": "2.14",
     "depth_km": "10.0",
@@ -48,15 +54,9 @@ window.recentEvents = [
     "place": "250 km SSW of Port Hardy, BC/250 km SSO de Port Hardy, BC"
   },
   {
-    "time_utc": "2026-06-15T12:32:52.000Z",
-    "magnitude": "1.36",
-    "depth_km": "0.5",
-    "place": "Mining event, Niobec Mine, QC/\u00c9v\u00e9nement minier, Mine Niobec, QC"
-  },
-  {
-    "time_utc": "2026-06-15T12:23:10.000Z",
-    "magnitude": "2.8",
-    "depth_km": "0.5",
-    "place": "Mining event, Niobec Mine, QC, felt/\u00c9v\u00e9nement minier, Mine Niobec, QC, ressenti"
+    "time_utc": "2026-06-15T15:22:12.000Z",
+    "magnitude": "2.29",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 24 km SW of Fort St. John, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 24 km SO de Fort St. John, BC"
   }
 ];

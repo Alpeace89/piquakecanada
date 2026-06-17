@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-27T21:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour but had three events yesterday. The largest event was a M3.78, located near Fort McPherson, both in the Northwest Territories, happening about an hour ago. BC also saw some small quakes today."
-  },
-  {
     "timestamp_utc": "2026-05-27T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. The largest quake of the day measured M2.14 and happened about 186 km away from Juneau, Alaska. That's where the latest shake-up came from this morning."
+  },
+  {
+    "timestamp_utc": "2026-06-17T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, there were two minor earthquakes recorded by our PiQuake Canada dashboard. The largest one was a M2.14 near Juneau in Alaska and another slightly smaller one of M1.26 near Gold River in British Columbia. Both are from last night around 6 PM local time."
   }
 ]
