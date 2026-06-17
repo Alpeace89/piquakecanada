@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-27T07:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no significant earthquake events reported, but on May 26th at around 8:27 AM, a M2.79 quake hit near Daajing Giids in British Columbia and Saskatchewan territories. It's just one of two minor quakes observed over this period and the largest yet seen since monitoring began."
-  },
-  {
     "timestamp_utc": "2026-05-27T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the PiQuake Canada dashboard, there were no new quakes detected last hour. Over the past 24 hours, we had three small earthquakes, with the biggest measuring M3.93 near Port Hardy in British Columbia. The latest quake was recorded at the same location on June 16th around noon. Most of these happened in New Brunswick and BC."
+  },
+  {
+    "timestamp_utc": "2026-06-17T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had three PiQuake Canada dashboard events. The largest was a M3.93 near Port Hardy in British Columbia and another one just south of that area too. Both happened on June 16th at about 11 AM BC time. This region has been our top spot for the last 24 hours with two occurrences there."
   }
 ]
