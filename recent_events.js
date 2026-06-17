@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-16T11:43:33.000Z",
+    "magnitude": "1.54",
+    "depth_km": "25.38",
+    "place": "67 km SSW of Houpsitas 6, BC/67 km SSO de Houpsitas 6, BC"
+  },
+  {
     "time_utc": "2026-06-16T11:12:42.000Z",
     "magnitude": "3.93",
     "depth_km": "10.0",
@@ -16,6 +22,12 @@ window.recentEvents = [
     "magnitude": "0.9",
     "depth_km": "5.0",
     "place": "10 km E of Minto, NB/10 km E de Minto, NB"
+  },
+  {
+    "time_utc": "2026-06-16T03:47:37.000Z",
+    "magnitude": "2.95",
+    "depth_km": "10.0",
+    "place": "250 km SSW of Port Hardy, BC/250 km SSO de Port Hardy, BC"
   },
   {
     "time_utc": "2026-06-15T12:32:52.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.19",
     "depth_km": "7.86",
     "place": "92 km SW of Osoyoos, BC/92 km SO de Osoyoos, BC"
-  },
-  {
-    "time_utc": "2026-06-14T22:40:43.000Z",
-    "magnitude": "1.48",
-    "depth_km": "14.68",
-    "place": "12 km NNW of Saint-Pascal, QC/12 km NNO de Saint-Pascal, QC"
-  },
-  {
-    "time_utc": "2026-06-14T22:16:23.000Z",
-    "magnitude": "2.01",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 54 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 54 km SSE de Grande Prairie, AB"
   }
 ];

@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260503.1355001,2026-05-03T13:55:48.000Z,56.6923,-121.8228,5.5,MLy,3.43,"Suspected industry-related event, 24 km N of Halfway River 168, BC, felt/Événement lié à l'industrie soupconné, 24 km N de Halfway River 168, BC, ressent"
 20260503.1653001,2026-05-03T16:53:01.000Z,58.8368,-134.5056,1.0,ML,3.1,"58 km N of Juneau, AK/58 km N de Juneau, AK"
 20260503.2112001,2026-05-03T21:12:55.000Z,48.5358,-121.7903,0.0,ML,2.64,"Blast, 70 km SE of Abbotsford, BC/Dynamitage, 70 km SE de Abbotsford, BC"
 20260504.0052001,2026-05-04T00:52:13.000Z,56.6558,-121.8101,1.0,MLy,2.11,"Suspected industry-related event, 20 km N of Halfway River 168, BC/Événement lié à l'industrie soupconné, 20 km N de Halfway River 168, BC"
@@ -520,6 +519,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260615.0602001,2026-06-15T06:02:10.000Z,54.8319,-118.597,1.0,MLy,3.35,"Suspected industry-related event, 40 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 40 km SSE de Grande Prairie, AB"
 20260615.1223003,2026-06-15T12:23:10.000Z,48.5321,-71.157,0.5,MwN,2.8,"Mining event, Niobec Mine, QC, felt/Événement minier, Mine Niobec, QC, ressenti"
 20260615.1232001,2026-06-15T12:32:52.000Z,48.5321,-71.157,0.5,MwN,1.36,"Mining event, Niobec Mine, QC/Événement minier, Mine Niobec, QC"
+20260616.0347001,2026-06-16T03:47:37.000Z,48.719,-129.0725,10.0,Mw',2.95,"250 km SSW of Port Hardy, BC/250 km SSO de Port Hardy, BC"
 20260616.0404001,2026-06-16T04:04:15.000Z,46.0935,-65.9509,5.0,MwN,0.9,"10 km E of Minto, NB/10 km E de Minto, NB"
 20260616.0406001,2026-06-16T04:06:03.000Z,46.0941,-65.9536,5.0,MwN,0.66,"10 km E of Minto, NB/10 km E de Minto, NB"
 20260616.1112001,2026-06-16T11:12:42.000Z,48.7667,-129.0273,10.0,Mw',3.93,"244 km SSW of Port Hardy, BC/244 km SSO de Port Hardy, BC"
+20260616.1143001,2026-06-16T11:43:33.000Z,49.4942,-127.8028,25.38,ML,1.54,"67 km SSW of Houpsitas 6, BC/67 km SSO de Houpsitas 6, BC"
