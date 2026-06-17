@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260502.2307001,2026-05-02T23:07:49.000Z,45.6449,-74.3238,16.43,MwN,1.39,"1 km SE of Lachute, QC/1 km SE de Lachute, QC"
 20260503.0004001,2026-05-03T00:04:55.000Z,52.5383,-122.0465,0.0,ML,2.44,"Blast, 20 km NNE of Cariboo D, BC/Dynamitage, 20 km NNE de Cariboo D, BC"
 20260503.0034001,2026-05-03T00:34:40.000Z,58.4735,-137.1283,1.0,ML,2.92,"159 km W of Juneau, AK/159 km O de Juneau, AK"
 20260503.0500002,2026-05-03T05:00:38.000Z,49.1416,-128.0442,10.0,Mw',2.82,"144 km W of Marktosis 15, BC/144 km O de Marktosis 15, BC"
