@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260503.0500002,2026-05-03T05:00:38.000Z,49.1416,-128.0442,10.0,Mw',2.82,"144 km W of Marktosis 15, BC/144 km O de Marktosis 15, BC"
 20260503.0850001,2026-05-03T08:50:28.000Z,44.5383,-79.1502,2.0,MwN,1.47,"2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
 20260503.0851001,2026-05-03T08:51:14.000Z,44.54,-79.1476,2.0,MwN,1.86,"2 km ESE of Ramara, ON/2 km ESE de Ramara, ON"
 20260503.1259001,2026-05-03T12:59:52.000Z,46.429,-76.2714,22.53,MwN,1.82,"24 km WNW of Maniwaki, QC/24 km ONO de Maniwaki, QC"

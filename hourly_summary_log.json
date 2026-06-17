@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-27T11:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there haven't been any recorded quakes. The largest quake was a M2.79 that happened near Daajing Giids, BC/DAAJING GIIDS, BC. It happened on May 26 at around 08:27 AM local time."
-  },
-  {
     "timestamp_utc": "2026-05-27T12:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had one event on our dashboard. It was a M3.93 quake located 244 km SSW of Port Hardy, BC/244 km SSO de Port Hardy, BC. This is the largest event and it happened yesterday at 11:12 AM. And the area that felt this shake is mostly in British Columbia."
+  },
+  {
+    "timestamp_utc": "2026-06-17T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had one earthquake event recorded. The largest was a M3.93 near Port Hardy in British Columbia. That happened yesterday at about 11 AM. It's not often we get activity this close to major cities, so it caught people’s attention."
   }
 ]
