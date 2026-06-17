@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-28T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary for the PiQuake Canada dashboard. In the last 24 hours, we had 7 events in total, with the largest one measuring M3.78 near Fort McPherson, NT. The latest event was a M2.71 just north of Haines Junction, YT. And interestingly, BC and Yukon Territory saw the most activity with three and two events each in that time frame."
-  },
-  {
     "timestamp_utc": "2026-05-28T05:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had six PiQuake Canada dashboard events. The largest one was a M2.67 near Daajing Giids in British Columbia that happened just after noon our time. And if you missed it, there's another event today at about 3:50 PM which was a M2.18 near the same area. Most of these were happening around BC, with some also in Yukon and Quebec regions."
+  },
+  {
+    "timestamp_utc": "2026-06-17T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had 6 quakes reported. The largest one was a M2.67 near Daajing Giids, BC/Saskatchewan, which happened at around noon yesterday. And just today, another quake hit in the afternoon, this time it was a M2.18 not far from where the big one occurred. Notable regions with activity last 24 hours were British Columbia (4), Yukon Territory (1), and Quebec (1)."
   }
 ]
