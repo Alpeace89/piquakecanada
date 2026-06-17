@@ -1,57 +1,57 @@
 {
-  "generated_utc": "2026-06-17T18:03:01Z",
+  "generated_utc": "2026-06-17T19:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 539,
-  "events_last_24h": 5,
+  "rolling_window_event_count": 543,
+  "events_last_24h": 8,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260617.1010001",
-    "time_utc": "2026-06-17T10:10:52.000Z",
-    "latitude": 59.3226,
-    "longitude": -136.5349,
-    "depth_km": 5.0,
+    "event_id": "20260617.1653001",
+    "time_utc": "2026-06-17T16:53:59.000Z",
+    "latitude": 52.5076,
+    "longitude": -131.8672,
+    "depth_km": 22.63,
     "mag_type": "ML",
-    "magnitude": 2.19,
-    "place": "173 km SSW of Whitehorse, YT/173 km SSO de Whitehorse, YT",
-    "region": "YT"
+    "magnitude": 2.18,
+    "place": "84 km S of Daajing Giids, BC/84 km S de Daajing Giids, BC",
+    "region": "BC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260617.0655001",
-    "time_utc": "2026-06-17T06:55:13.000Z",
-    "latitude": 50.5844,
-    "longitude": -125.2347,
-    "depth_km": 1.0,
+    "event_id": "20260617.1208001",
+    "time_utc": "2026-06-17T12:08:01.000Z",
+    "latitude": 52.7328,
+    "longitude": -132.2861,
+    "depth_km": 15.85,
     "mag_type": "ML",
-    "magnitude": 2.38,
-    "place": "62 km N of Campbell River, BC/62 km N de Campbell River, BC",
+    "magnitude": 2.67,
+    "place": "60 km SSW of Daajing Giids, BC/60 km SSO de Daajing Giids, BC",
     "region": "BC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260616.1825001",
-    "time_utc": "2026-06-16T18:25:57.000Z",
-    "latitude": 58.6364,
-    "longitude": -137.5553,
-    "depth_km": 10.0,
+    "event_id": "20260617.1637001",
+    "time_utc": "2026-06-17T16:37:03.000Z",
+    "latitude": 49.3766,
+    "longitude": -127.395,
+    "depth_km": 36.46,
     "mag_type": "ML",
-    "magnitude": 2.14,
-    "place": "186 km WNW of Juneau, AK/186 km ONO de Juneau, AK",
-    "region": "AK"
+    "magnitude": 2.57,
+    "place": "80 km SW of Tahsis, BC/80 km SO de Tahsis, BC",
+    "region": "BC"
   },
   "top_regions_last_24h": [
     {
       "region": "BC",
-      "count": 3
-    },
-    {
-      "region": "AK",
-      "count": 1
+      "count": 6
     },
     {
       "region": "YT",
       "count": 1
+    },
+    {
+      "region": "QC",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-17 18:03 UTC, the recent Canada earthquake dataset contains 539 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.38 at 62 km N of Campbell River, BC/62 km N de Campbell River, BC. The deepest event reached 10.00 km at 186 km WNW of Juneau, AK/186 km ONO de Juneau, AK. The most recent listed event was M2.19 at 173 km SSW of Whitehorse, YT/173 km SSO de Whitehorse, YT at 2026-06-17T10:10:52.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and AK (1)."
+  "summary_text": "As of 2026-06-17 19:03 UTC, the recent Canada earthquake dataset contains 543 events from the current rolling window. In the last 24 hours, 8 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.67 at 60 km SSW of Daajing Giids, BC/60 km SSO de Daajing Giids, BC. The deepest event reached 36.46 km at 80 km SW of Tahsis, BC/80 km SO de Tahsis, BC. The most recent listed event was M2.18 at 84 km S of Daajing Giids, BC/84 km S de Daajing Giids, BC at 2026-06-17T16:53:59.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (6) and YT (1)."
 }

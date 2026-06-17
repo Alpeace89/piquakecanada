@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-28T00:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is tracking a total of 8 quakes in the last 24 hours, with the largest one measuring M3.78 and happening about 68 km northwest of Fort McPherson in the Northwest Territories. The latest quake was a smaller one at M2.71 near Haines Junction in Yukon, which happened just before midnight yesterday."
-  },
-  {
     "timestamp_utc": "2026-05-28T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we saw no significant seismic events reported. But just to keep you updated, there were five quakes recorded across British Columbia, Alaska, and Yukon. The biggest one was a M2.38 near Campbell River, BC. And earlier today, around noon, another quake of M2.19 struck 173 km south-southwest of Whitehorse in the Yukon. That's it for the latest updates from our PiQuake Canada dashboard."
+  },
+  {
+    "timestamp_utc": "2026-06-17T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were eight quakes recorded yesterday. The largest quake was a M2.67 near Daajing Giids, BC, and it happened around noon on June 17th. In total, that area experienced five of today’s quakes."
   }
 ]

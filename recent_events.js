@@ -1,5 +1,29 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-17T16:53:59.000Z",
+    "magnitude": "2.18",
+    "depth_km": "22.63",
+    "place": "84 km S of Daajing Giids, BC/84 km S de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-06-17T16:37:03.000Z",
+    "magnitude": "2.57",
+    "depth_km": "36.46",
+    "place": "80 km SW of Tahsis, BC/80 km SO de Tahsis, BC"
+  },
+  {
+    "time_utc": "2026-06-17T12:08:01.000Z",
+    "magnitude": "2.67",
+    "depth_km": "15.85",
+    "place": "60 km SSW of Daajing Giids, BC/60 km SSO de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-06-17T11:25:03.000Z",
+    "magnitude": "2.17",
+    "depth_km": "27.65",
+    "place": "10 km NNE of Montmagny, QC/10 km NNE de Montmagny, QC"
+  },
+  {
     "time_utc": "2026-06-17T10:10:52.000Z",
     "magnitude": "2.19",
     "depth_km": "5.0",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "2.42",
     "depth_km": "0.0",
     "place": "41 km SW of Port Renfrew, BC/41 km SO de Port Renfrew, BC"
-  },
-  {
-    "time_utc": "2026-06-16T12:07:25.000Z",
-    "magnitude": "2.19",
-    "depth_km": "5.0",
-    "place": "135 km W of Haines Junction, YT/135 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-16T11:43:33.000Z",
-    "magnitude": "1.54",
-    "depth_km": "25.38",
-    "place": "67 km SSW of Houpsitas 6, BC/67 km SSO de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-06-16T11:12:42.000Z",
-    "magnitude": "3.93",
-    "depth_km": "10.0",
-    "place": "244 km SSW of Port Hardy, BC/244 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-06-16T04:06:03.000Z",
-    "magnitude": "0.66",
-    "depth_km": "5.0",
-    "place": "10 km E of Minto, NB/10 km E de Minto, NB"
   }
 ];
