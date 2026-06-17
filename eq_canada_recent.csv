@@ -537,3 +537,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260616.2143001,2026-06-16T21:43:02.000Z,50.0449,-126.0622,1.0,ML,1.26,"29 km N of Gold River, BC/29 km N de Gold River, BC"
 20260616.2153001,2026-06-16T21:53:32.000Z,49.7126,-123.584,1.84,ML,2.34,"31 km W of Squamish, BC/31 km O de Squamish, BC"
 20260617.0655001,2026-06-17T06:55:13.000Z,50.5844,-125.2347,1.0,ML,2.38,"62 km N of Campbell River, BC/62 km N de Campbell River, BC"
+20260617.1010001,2026-06-17T10:10:52.000Z,59.3226,-136.5349,5.0,ML,2.19,"173 km SSW of Whitehorse, YT/173 km SSO de Whitehorse, YT"

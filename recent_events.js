@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-17T10:10:52.000Z",
+    "magnitude": "2.19",
+    "depth_km": "5.0",
+    "place": "173 km SSW of Whitehorse, YT/173 km SSO de Whitehorse, YT"
+  },
+  {
     "time_utc": "2026-06-17T06:55:13.000Z",
     "magnitude": "2.38",
     "depth_km": "1.0",
@@ -50,12 +56,6 @@ window.recentEvents = [
   {
     "time_utc": "2026-06-16T04:06:03.000Z",
     "magnitude": "0.66",
-    "depth_km": "5.0",
-    "place": "10 km E of Minto, NB/10 km E de Minto, NB"
-  },
-  {
-    "time_utc": "2026-06-16T04:04:15.000Z",
-    "magnitude": "0.9",
     "depth_km": "5.0",
     "place": "10 km E of Minto, NB/10 km E de Minto, NB"
   }
