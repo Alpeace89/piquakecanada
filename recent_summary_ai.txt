@@ -1,1 +1,1 @@
-In the last 24 hours, there were no reported earthquakes on the PiQuake Canada dashboard. The largest event was a M1.54 near Houpsitas 6 in British Columbia, which happened at an unknown time. It's been quiet around here lately with no other activity to report.
+The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. The largest quake of the day measured M2.14 and happened about 186 km away from Juneau, Alaska. That's where the latest shake-up came from this morning.

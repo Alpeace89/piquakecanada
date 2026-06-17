@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-27T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three small earthquakes reported yesterday. The biggest one was a M3.78 near Fort McPherson, which happened about an hour ago. That's the most significant earthquake we've seen today or in the past 24 hours."
-  },
-  {
     "timestamp_utc": "2026-05-27T21:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no reported earthquakes on the PiQuake Canada dashboard. The largest event was a M1.54 near Houpsitas 6 in British Columbia, which happened at an unknown time. It's been quiet around here lately with no other activity to report."
+  },
+  {
+    "timestamp_utc": "2026-06-17T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. The largest quake of the day measured M2.14 and happened about 186 km away from Juneau, Alaska. That's where the latest shake-up came from this morning."
   }
 ]
