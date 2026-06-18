@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260504.1616001,2026-05-04T16:16:24.000Z,46.0173,-73.3963,0.0,MwN,1.32,"Blast, 4 km E of Joliette, QC/Dynamitage, 4 km E de Joliette, QC"
 20260504.1852001,2026-05-04T18:52:46.000Z,49.4754,-129.0941,10.0,Mw',3.07,"180 km SW of Port Hardy, BC/180 km SO de Port Hardy, BC"
 20260504.2022001,2026-05-04T20:22:37.000Z,60.3117,-139.4451,5.0,ML,1.97,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
 20260504.2038001,2026-05-04T20:38:45.000Z,53.1889,-132.9543,16.19,ML,2.11,"58 km W of Daajing Giids, BC/58 km O de Daajing Giids, BC"
