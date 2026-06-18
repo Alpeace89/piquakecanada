@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260504.2022001,2026-05-04T20:22:37.000Z,60.3117,-139.4451,5.0,ML,1.97,"117 km WSW of Haines Junction, YT/117 km OSO de Haines Junction, YT"
-20260504.2038001,2026-05-04T20:38:45.000Z,53.1889,-132.9543,16.19,ML,2.11,"58 km W of Daajing Giids, BC/58 km O de Daajing Giids, BC"
 20260504.2102001,2026-05-04T21:02:34.000Z,49.727,-124.5213,0.0,ML1,1.57,"Blast, 12 km S of Powell River, BC/Dynamitage, 12 km S de Powell River, BC"
 20260504.2132002,2026-05-04T21:32:01.000Z,42.0495,-83.4405,5.0,MwN,2.76,"43 km SW of Detroit, MI, felt/43 km SO de Detroit, MI, ressenti"
 20260505.0034001,2026-05-05T00:34:50.000Z,60.3147,-139.443,5.0,ML,3.34,"116 km WSW of Haines Junction, YT/116 km OSO de Haines Junction, YT"
