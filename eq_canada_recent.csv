@@ -539,5 +539,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260618.0045001,2026-06-18T00:45:00.000Z,49.7138,-123.5807,5.0,ML1,1.07,"31 km W of Squamish, BC/31 km O de Squamish, BC"
 20260618.0354001,2026-06-18T03:54:37.000Z,44.5447,-79.1497,2.0,MwN,1.63,"2 km E of Ramara, ON/2 km E de Ramara, ON"
 20260618.0638001,2026-06-18T06:38:34.000Z,49.3158,-127.4673,10.0,ML,2.62,"88 km SW of Tahsis, BC/88 km SO de Tahsis, BC"
-20260618.1421005,2026-06-18T14:21:24.000Z,48.8072,-68.1022,21.32,Mw,4.42,"26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti"
+20260618.1421007,2026-06-18T14:21:24.000Z,48.8071,-68.1019,21.01,Mw,4.42,"26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti"
+20260618.1429001,2026-06-18T14:29:58.000Z,48.7997,-68.1006,16.19,MwN,2.12,"25 km NNE of Mont-Joli, QC/25 km NNE de Mont-Joli, QC"
 20260618.1432001,2026-06-18T14:32:25.000Z,48.8086,-68.0959,20.83,MwN,2.58,"26 km NNE of Mont-Joli, QC/26 km NNE de Mont-Joli, QC"

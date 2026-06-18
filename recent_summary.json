@@ -1,9 +1,9 @@
 {
-  "generated_utc": "2026-06-18T15:03:01Z",
+  "generated_utc": "2026-06-18T16:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 542,
-  "events_last_24h": 9,
-  "events_last_hour": 2,
+  "rolling_window_event_count": 543,
+  "events_last_24h": 10,
+  "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 1,
   "latest_event": {
@@ -18,11 +18,11 @@
     "region": "QC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260618.1421005",
+    "event_id": "20260618.1421007",
     "time_utc": "2026-06-18T14:21:24.000Z",
-    "latitude": 48.8072,
-    "longitude": -68.1022,
-    "depth_km": 21.32,
+    "latitude": 48.8071,
+    "longitude": -68.1019,
+    "depth_km": 21.01,
     "mag_type": "Mw",
     "magnitude": 4.42,
     "place": "26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti",
@@ -45,13 +45,13 @@
       "count": 5
     },
     {
-      "region": "AB",
-      "count": 1
+      "region": "QC",
+      "count": 2
     },
     {
-      "region": "ON",
+      "region": "AB",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-18 15:03 UTC, the recent Canada earthquake dataset contains 542 events from the current rolling window. In the last 24 hours, 9 events were recorded, including 2 in the last hour. The largest event in the last 24 hours was M4.42 at 26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti. The deepest event reached 36.46 km at 80 km SW of Tahsis, BC/80 km SO de Tahsis, BC. The most recent listed event was M2.58 at 26 km NNE of Mont-Joli, QC/26 km NNE de Mont-Joli, QC at 2026-06-18T14:32:25.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (5) and AB (1)."
+  "summary_text": "As of 2026-06-18 16:03 UTC, the recent Canada earthquake dataset contains 543 events from the current rolling window. In the last 24 hours, 10 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.42 at 26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti. The deepest event reached 36.46 km at 80 km SW of Tahsis, BC/80 km SO de Tahsis, BC. The most recent listed event was M2.58 at 26 km NNE of Mont-Joli, QC/26 km NNE de Mont-Joli, QC at 2026-06-18T14:32:25.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (5) and QC (2)."
 }

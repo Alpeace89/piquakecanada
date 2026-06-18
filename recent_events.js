@@ -6,9 +6,15 @@ window.recentEvents = [
     "place": "26 km NNE of Mont-Joli, QC/26 km NNE de Mont-Joli, QC"
   },
   {
+    "time_utc": "2026-06-18T14:29:58.000Z",
+    "magnitude": "2.12",
+    "depth_km": "16.19",
+    "place": "25 km NNE of Mont-Joli, QC/25 km NNE de Mont-Joli, QC"
+  },
+  {
     "time_utc": "2026-06-18T14:21:24.000Z",
     "magnitude": "4.42",
-    "depth_km": "21.32",
+    "depth_km": "21.01",
     "place": "26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti"
   },
   {
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.57",
     "depth_km": "36.46",
     "place": "80 km SW of Tahsis, BC/80 km SO de Tahsis, BC"
-  },
-  {
-    "time_utc": "2026-06-17T12:08:01.000Z",
-    "magnitude": "2.67",
-    "depth_km": "15.85",
-    "place": "60 km SSW of Daajing Giids, BC/60 km SSO de Daajing Giids, BC"
   }
 ];
