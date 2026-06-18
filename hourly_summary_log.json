@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-28T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had seven quakes reported. The biggest one was a M3.78 near Fort McPherson in the North Territories and another smaller one at Haines Junction in the Yukon yesterday evening. Most of these quakes were happening in British Columbia with two each in Yukon and Alaska."
-  },
-  {
     "timestamp_utc": "2026-05-28T07:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had six small tremors reported across Canada. The biggest one was a M2.67 near Daajing Giids in British Columbia recorded at around noon on June 17th. We also saw a M2.18 shake things up 80 km south of the same place just before 5 pm that day, and these were happening in BC for sure, with Yukon and Quebec seeing some too."
+  },
+  {
+    "timestamp_utc": "2026-06-18T01:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there have been no major earthquakes recorded. But in that time, we had six smaller quakes with one measuring up to M2.67 near Daajing Giids, BC. The latest quake was a bit weaker at M2.18, occurring just before lunchtime yesterday. Most of the activity has been around British Columbia and the territories."
   }
 ]
