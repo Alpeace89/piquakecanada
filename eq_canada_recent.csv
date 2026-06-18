@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260504.0823001,2026-05-04T08:23:38.000Z,54.6084,-118.5591,1.0,MLy,3.01,"Suspected industry-related event, 64 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 64 km SSE de Grande Prairie, AB"
 20260504.1047001,2026-05-04T10:47:47.000Z,60.5606,-139.8368,5.0,ML,1.9,"129 km W of Haines Junction, YT/129 km O de Haines Junction, YT"
 20260504.1155001,2026-05-04T11:55:55.000Z,56.6795,-121.8306,1.0,MLy,2.65,"Suspected industry-related event, 22 km N of Halfway River 168, BC/Événement lié à l'industrie soupconné, 22 km N de Halfway River 168, BC"
 20260504.1328001,2026-05-04T13:28:06.000Z,60.4283,-139.561,5.0,ML1,1.21,"118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
