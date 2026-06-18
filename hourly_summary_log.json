@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-28T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had 8 small quakes reported. The largest one measured M3.78 and happened near Fort McPherson in the Northwest Territories. This is just about our usual for Canada, with most happening in British Columbia, Yukon Territory, and Nunavut."
-  },
-  {
     "timestamp_utc": "2026-05-28T17:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of five PiQuake Canada dashboard events. The largest one was a M2.67 just south-southwest of Daajing Giids in British Columbia at around 12:08 UTC on June 17th. That's right where our latest quake happened earlier today, with the magnitude being slightly smaller at M2.18 and located about 84 km southwest of Daajing Giids in British Columbia. Not too shabby for a day's work!"
+  },
+  {
+    "timestamp_utc": "2026-06-18T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had four PiQuake Canada events. The largest one was a M2.67 near Daajing Giids in British Columbia. That happened just before noon on June 17th. In that time frame, there were three events in BC and one in Quebec."
   }
 ]
