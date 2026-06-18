@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-06-18T03:03:01Z",
+  "generated_utc": "2026-06-18T04:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 540,
   "events_last_24h": 6,
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-18 03:03 UTC, the recent Canada earthquake dataset contains 540 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.67 at 60 km SSW of Daajing Giids, BC/60 km SSO de Daajing Giids, BC. The deepest event reached 36.46 km at 80 km SW of Tahsis, BC/80 km SO de Tahsis, BC. The most recent listed event was M2.18 at 84 km S of Daajing Giids, BC/84 km S de Daajing Giids, BC at 2026-06-17T16:53:59.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and YT (1)."
+  "summary_text": "As of 2026-06-18 04:03 UTC, the recent Canada earthquake dataset contains 540 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.67 at 60 km SSW of Daajing Giids, BC/60 km SSO de Daajing Giids, BC. The deepest event reached 36.46 km at 80 km SW of Tahsis, BC/80 km SO de Tahsis, BC. The most recent listed event was M2.18 at 84 km S of Daajing Giids, BC/84 km S de Daajing Giids, BC at 2026-06-17T16:53:59.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and YT (1)."
 }
