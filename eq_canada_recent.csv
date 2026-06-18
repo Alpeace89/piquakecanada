@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260504.1328001,2026-05-04T13:28:06.000Z,60.4283,-139.561,5.0,ML1,1.21,"118 km WSW of Haines Junction, YT/118 km OSO de Haines Junction, YT"
 20260504.1457001,2026-05-04T14:57:52.000Z,60.3644,-139.5502,5.0,ML,2.15,"120 km WSW of Haines Junction, YT/120 km OSO de Haines Junction, YT"
 20260504.1616001,2026-05-04T16:16:24.000Z,46.0173,-73.3963,0.0,MwN,1.32,"Blast, 4 km E of Joliette, QC/Dynamitage, 4 km E de Joliette, QC"
 20260504.1852001,2026-05-04T18:52:46.000Z,49.4754,-129.0941,10.0,Mw',3.07,"180 km SW of Port Hardy, BC/180 km SO de Port Hardy, BC"
@@ -538,3 +537,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260617.1653001,2026-06-17T16:53:59.000Z,52.5076,-131.8672,22.63,ML,2.18,"84 km S of Daajing Giids, BC/84 km S de Daajing Giids, BC"
 20260617.2110001,2026-06-17T21:10:09.000Z,54.773,-118.7469,1.0,MLy,2.83,"Suspected industry-related event, 44 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km S de Grande Prairie, AB"
 20260617.2137001,2026-06-17T21:37:19.000Z,48.287,-122.6089,28.08,ML,1.9,"58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
+20260618.0354001,2026-06-18T03:54:37.000Z,44.5447,-79.1497,2.0,MwN,1.63,"2 km E of Ramara, ON/2 km E de Ramara, ON"

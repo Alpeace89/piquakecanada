@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-28T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've seen 13 PiQuake Canada dashboard events, with the largest being a M2.95 near Port Alice in British Columbia and a smaller one at Haines Junction in Yukon. Both were recorded by our network around noon today. It's been mostly activity in BC and Yukon, with Alberta also seeing some seismicity recently."
-  },
-  {
     "timestamp_utc": "2026-05-28T20:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major earthquakes reported on our dashboard. However, a M2.83 quake occurred near Grande Prairie in Alberta linked to industry activities. The latest event was even smaller at a magnitude of M1.9 around Victoria in British Columbia. Most quakes have been happening in BC with three recorded, and one in Alberta."
+  },
+  {
+    "timestamp_utc": "2026-06-18T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no significant earthquake events reported. The largest quake was a M2.83 near Grande Prairie in Alberta on June 17th at around 9:10 PM local time. In Ontario, an M1.63 event happened just east of Ramara earlier today around 3:54 AM. These are minor quakes, mostly from industry-related activities in B.C., Alberta, and Ontario."
   }
 ]

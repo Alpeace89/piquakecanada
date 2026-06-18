@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-18T03:54:37.000Z",
+    "magnitude": "1.63",
+    "depth_km": "2.0",
+    "place": "2 km E of Ramara, ON/2 km E de Ramara, ON"
+  },
+  {
     "time_utc": "2026-06-17T21:37:19.000Z",
     "magnitude": "1.9",
     "depth_km": "28.08",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.34",
     "depth_km": "1.84",
     "place": "31 km W of Squamish, BC/31 km O de Squamish, BC"
-  },
-  {
-    "time_utc": "2026-06-16T21:43:02.000Z",
-    "magnitude": "1.26",
-    "depth_km": "1.0",
-    "place": "29 km N of Gold River, BC/29 km N de Gold River, BC"
   }
 ];
