@@ -1,8 +1,8 @@
 {
-  "generated_utc": "2026-06-18T21:03:01Z",
+  "generated_utc": "2026-06-18T22:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 549,
-  "events_last_24h": 11,
+  "rolling_window_event_count": 547,
+  "events_last_24h": 9,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 1,
@@ -29,15 +29,15 @@
     "region": "Unknown"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260617.2137001",
-    "time_utc": "2026-06-17T21:37:19.000Z",
-    "latitude": 48.287,
-    "longitude": -122.6089,
-    "depth_km": 28.08,
-    "mag_type": "ML",
-    "magnitude": 1.9,
-    "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC",
-    "region": "BC"
+    "event_id": "20260618.1421007",
+    "time_utc": "2026-06-18T14:21:24.000Z",
+    "latitude": 48.8071,
+    "longitude": -68.1019,
+    "depth_km": 21.01,
+    "mag_type": "Mw",
+    "magnitude": 4.42,
+    "place": "26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti",
+    "region": "Unknown"
   },
   "top_regions_last_24h": [
     {
@@ -46,12 +46,12 @@
     },
     {
       "region": "BC",
-      "count": 3
+      "count": 2
     },
     {
-      "region": "AB",
+      "region": "ON",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-18 21:03 UTC, the recent Canada earthquake dataset contains 549 events from the current rolling window. In the last 24 hours, 11 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.42 at 26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti. The deepest event reached 28.08 km at 58 km ESE of Victoria, BC/58 km ESE de Victoria, BC. The most recent listed event was M1.14 at 24 km NNE of Mont-Joli, QC/24 km NNE de Mont-Joli, QC at 2026-06-18T17:18:19.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (5) and BC (3)."
+  "summary_text": "As of 2026-06-18 22:03 UTC, the recent Canada earthquake dataset contains 547 events from the current rolling window. In the last 24 hours, 9 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.42 at 26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti. The deepest event reached 21.01 km at 26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti. The most recent listed event was M1.14 at 24 km NNE of Mont-Joli, QC/24 km NNE de Mont-Joli, QC at 2026-06-18T17:18:19.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (5) and BC (2)."
 }
