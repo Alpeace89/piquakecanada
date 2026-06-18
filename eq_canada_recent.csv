@@ -536,3 +536,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260617.1208001,2026-06-17T12:08:01.000Z,52.7328,-132.2861,15.85,ML,2.67,"60 km SSW of Daajing Giids, BC/60 km SSO de Daajing Giids, BC"
 20260617.1637001,2026-06-17T16:37:03.000Z,49.3766,-127.395,36.46,ML,2.57,"80 km SW of Tahsis, BC/80 km SO de Tahsis, BC"
 20260617.1653001,2026-06-17T16:53:59.000Z,52.5076,-131.8672,22.63,ML,2.18,"84 km S of Daajing Giids, BC/84 km S de Daajing Giids, BC"
+20260617.2110001,2026-06-17T21:10:09.000Z,54.773,-118.7469,1.0,MLy,2.83,"Suspected industry-related event, 44 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km S de Grande Prairie, AB"
+20260617.2137001,2026-06-17T21:37:19.000Z,48.287,-122.6089,28.08,ML,1.9,"58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"

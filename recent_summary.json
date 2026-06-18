@@ -1,32 +1,32 @@
 {
-  "generated_utc": "2026-06-18T12:03:01Z",
+  "generated_utc": "2026-06-18T13:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 537,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 539,
+  "events_last_24h": 4,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260617.1653001",
-    "time_utc": "2026-06-17T16:53:59.000Z",
-    "latitude": 52.5076,
-    "longitude": -131.8672,
-    "depth_km": 22.63,
+    "event_id": "20260617.2137001",
+    "time_utc": "2026-06-17T21:37:19.000Z",
+    "latitude": 48.287,
+    "longitude": -122.6089,
+    "depth_km": 28.08,
     "mag_type": "ML",
-    "magnitude": 2.18,
-    "place": "84 km S of Daajing Giids, BC/84 km S de Daajing Giids, BC",
+    "magnitude": 1.9,
+    "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC",
     "region": "BC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260617.1208001",
-    "time_utc": "2026-06-17T12:08:01.000Z",
-    "latitude": 52.7328,
-    "longitude": -132.2861,
-    "depth_km": 15.85,
-    "mag_type": "ML",
-    "magnitude": 2.67,
-    "place": "60 km SSW of Daajing Giids, BC/60 km SSO de Daajing Giids, BC",
-    "region": "BC"
+    "event_id": "20260617.2110001",
+    "time_utc": "2026-06-17T21:10:09.000Z",
+    "latitude": 54.773,
+    "longitude": -118.7469,
+    "depth_km": 1.0,
+    "mag_type": "MLy",
+    "magnitude": 2.83,
+    "place": "Suspected industry-related event, 44 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km S de Grande Prairie, AB",
+    "region": "AB"
   },
   "deepest_event_last_24h": {
     "event_id": "20260617.1637001",
@@ -43,7 +43,11 @@
     {
       "region": "BC",
       "count": 3
+    },
+    {
+      "region": "AB",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-18 12:03 UTC, the recent Canada earthquake dataset contains 537 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.67 at 60 km SSW of Daajing Giids, BC/60 km SSO de Daajing Giids, BC. The deepest event reached 36.46 km at 80 km SW of Tahsis, BC/80 km SO de Tahsis, BC. The most recent listed event was M2.18 at 84 km S of Daajing Giids, BC/84 km S de Daajing Giids, BC at 2026-06-17T16:53:59.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was BC."
+  "summary_text": "As of 2026-06-18 13:03 UTC, the recent Canada earthquake dataset contains 539 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.83 at Suspected industry-related event, 44 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km S de Grande Prairie, AB. The deepest event reached 36.46 km at 80 km SW of Tahsis, BC/80 km SO de Tahsis, BC. The most recent listed event was M1.9 at 58 km ESE of Victoria, BC/58 km ESE de Victoria, BC at 2026-06-17T21:37:19.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and AB (1)."
 }

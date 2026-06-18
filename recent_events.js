@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-17T21:37:19.000Z",
+    "magnitude": "1.9",
+    "depth_km": "28.08",
+    "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
+  },
+  {
+    "time_utc": "2026-06-17T21:10:09.000Z",
+    "magnitude": "2.83",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 44 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 44 km S de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-06-17T16:53:59.000Z",
     "magnitude": "2.18",
     "depth_km": "22.63",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.26",
     "depth_km": "1.0",
     "place": "29 km N of Gold River, BC/29 km N de Gold River, BC"
-  },
-  {
-    "time_utc": "2026-06-16T18:25:57.000Z",
-    "magnitude": "2.14",
-    "depth_km": "10.0",
-    "place": "186 km WNW of Juneau, AK/186 km ONO de Juneau, AK"
-  },
-  {
-    "time_utc": "2026-06-16T15:01:53.000Z",
-    "magnitude": "2.42",
-    "depth_km": "0.0",
-    "place": "41 km SW of Port Renfrew, BC/41 km SO de Port Renfrew, BC"
   }
 ];
