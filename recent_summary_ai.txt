@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there were six recorded quakes over the past 24 hours. The biggest one was a M2.67 near Daajing Giids, BC, which happened yesterday at noon. It looks like most of these small tremors are happening in British Columbia and Quebec.
+In the last 24 hours, we had six quakes monitored by our PiQuake Canada dashboard. The largest was a M2.67 near Daajing Giids, BC. Since then, there's been another small shake, M2.18, also in that area. Most of these happened in British Columbia, with one each in Yukon and Quebec.
