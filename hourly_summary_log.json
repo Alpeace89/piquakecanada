@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-28T17:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were 13 recorded quakes within a day. The biggest one happened on May 27th and measured M3.78 about 68 km from Fort McPherson, NT. In the past 24 hours, British Columbia had five of these earthquakes, followed by Yukon with four and Alberta with three."
-  },
-  {
     "timestamp_utc": "2026-05-28T18:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had four PiQuake Canada events. The largest one was a M2.67 near Daajing Giids in British Columbia. That happened just before noon on June 17th. In that time frame, there were three events in BC and one in Quebec."
+  },
+  {
+    "timestamp_utc": "2026-06-18T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no new earthquake events reported. But three small quakes with magnitudes ranging from M2.67 to M2.18 occurred near Daajing Giids in British Columbia. The largest one measured at M2.67, and it happened on June 17th around noon. It's always good to stay alert for any seismic activity in the area."
   }
 ]
