@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-18T17:18:19.000Z",
+    "magnitude": "1.14",
+    "depth_km": "20.97",
+    "place": "24 km NNE of Mont-Joli, QC/24 km NNE de Mont-Joli, QC"
+  },
+  {
+    "time_utc": "2026-06-18T15:18:55.000Z",
+    "magnitude": "0.93",
+    "depth_km": "18.0",
+    "place": "25 km N of Mont-Joli, QC/25 km N de Mont-Joli, QC"
+  },
+  {
+    "time_utc": "2026-06-18T15:15:17.000Z",
+    "magnitude": "0.83",
+    "depth_km": "18.0",
+    "place": "25 km NNE of Mont-Joli, QC/25 km NNE de Mont-Joli, QC"
+  },
+  {
     "time_utc": "2026-06-18T14:32:25.000Z",
     "magnitude": "2.58",
     "depth_km": "20.83",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.9",
     "depth_km": "28.08",
     "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
-  },
-  {
-    "time_utc": "2026-06-17T21:10:09.000Z",
-    "magnitude": "2.83",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 44 km S of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 44 km S de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-17T16:53:59.000Z",
-    "magnitude": "2.18",
-    "depth_km": "22.63",
-    "place": "84 km S of Daajing Giids, BC/84 km S de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-17T16:37:03.000Z",
-    "magnitude": "2.57",
-    "depth_km": "36.46",
-    "place": "80 km SW of Tahsis, BC/80 km SO de Tahsis, BC"
   }
 ];
