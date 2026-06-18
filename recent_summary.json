@@ -1,32 +1,32 @@
 {
-  "generated_utc": "2026-06-18T14:03:01Z",
+  "generated_utc": "2026-06-18T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 539,
-  "events_last_24h": 5,
-  "events_last_hour": 0,
-  "count_m3plus_last_24h": 0,
-  "count_m4plus_last_24h": 0,
+  "rolling_window_event_count": 542,
+  "events_last_24h": 9,
+  "events_last_hour": 2,
+  "count_m3plus_last_24h": 1,
+  "count_m4plus_last_24h": 1,
   "latest_event": {
-    "event_id": "20260618.0354001",
-    "time_utc": "2026-06-18T03:54:37.000Z",
-    "latitude": 44.5447,
-    "longitude": -79.1497,
-    "depth_km": 2.0,
+    "event_id": "20260618.1432001",
+    "time_utc": "2026-06-18T14:32:25.000Z",
+    "latitude": 48.8086,
+    "longitude": -68.0959,
+    "depth_km": 20.83,
     "mag_type": "MwN",
-    "magnitude": 1.63,
-    "place": "2 km E of Ramara, ON/2 km E de Ramara, ON",
-    "region": "ON"
+    "magnitude": 2.58,
+    "place": "26 km NNE of Mont-Joli, QC/26 km NNE de Mont-Joli, QC",
+    "region": "QC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260617.2110001",
-    "time_utc": "2026-06-17T21:10:09.000Z",
-    "latitude": 54.773,
-    "longitude": -118.7469,
-    "depth_km": 1.0,
-    "mag_type": "MLy",
-    "magnitude": 2.83,
-    "place": "Suspected industry-related event, 44 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km S de Grande Prairie, AB",
-    "region": "AB"
+    "event_id": "20260618.1421005",
+    "time_utc": "2026-06-18T14:21:24.000Z",
+    "latitude": 48.8072,
+    "longitude": -68.1022,
+    "depth_km": 21.32,
+    "mag_type": "Mw",
+    "magnitude": 4.42,
+    "place": "26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti",
+    "region": "Unknown"
   },
   "deepest_event_last_24h": {
     "event_id": "20260617.1637001",
@@ -42,7 +42,7 @@
   "top_regions_last_24h": [
     {
       "region": "BC",
-      "count": 3
+      "count": 5
     },
     {
       "region": "AB",
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-18 14:03 UTC, the recent Canada earthquake dataset contains 539 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.83 at Suspected industry-related event, 44 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 44 km S de Grande Prairie, AB. The deepest event reached 36.46 km at 80 km SW of Tahsis, BC/80 km SO de Tahsis, BC. The most recent listed event was M1.63 at 2 km E of Ramara, ON/2 km E de Ramara, ON at 2026-06-18T03:54:37.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (3) and AB (1)."
+  "summary_text": "As of 2026-06-18 15:03 UTC, the recent Canada earthquake dataset contains 542 events from the current rolling window. In the last 24 hours, 9 events were recorded, including 2 in the last hour. The largest event in the last 24 hours was M4.42 at 26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti. The deepest event reached 36.46 km at 80 km SW of Tahsis, BC/80 km SO de Tahsis, BC. The most recent listed event was M2.58 at 26 km NNE of Mont-Joli, QC/26 km NNE de Mont-Joli, QC at 2026-06-18T14:32:25.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (5) and AB (1)."
 }

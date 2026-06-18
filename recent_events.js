@@ -1,9 +1,33 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-18T14:32:25.000Z",
+    "magnitude": "2.58",
+    "depth_km": "20.83",
+    "place": "26 km NNE of Mont-Joli, QC/26 km NNE de Mont-Joli, QC"
+  },
+  {
+    "time_utc": "2026-06-18T14:21:24.000Z",
+    "magnitude": "4.42",
+    "depth_km": "21.32",
+    "place": "26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti"
+  },
+  {
+    "time_utc": "2026-06-18T06:38:34.000Z",
+    "magnitude": "2.62",
+    "depth_km": "10.0",
+    "place": "88 km SW of Tahsis, BC/88 km SO de Tahsis, BC"
+  },
+  {
     "time_utc": "2026-06-18T03:54:37.000Z",
     "magnitude": "1.63",
     "depth_km": "2.0",
     "place": "2 km E of Ramara, ON/2 km E de Ramara, ON"
+  },
+  {
+    "time_utc": "2026-06-18T00:45:00.000Z",
+    "magnitude": "1.07",
+    "depth_km": "5.0",
+    "place": "31 km W of Squamish, BC/31 km O de Squamish, BC"
   },
   {
     "time_utc": "2026-06-17T21:37:19.000Z",
@@ -34,29 +58,5 @@ window.recentEvents = [
     "magnitude": "2.67",
     "depth_km": "15.85",
     "place": "60 km SSW of Daajing Giids, BC/60 km SSO de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-17T11:25:03.000Z",
-    "magnitude": "2.17",
-    "depth_km": "27.65",
-    "place": "10 km NNE of Montmagny, QC/10 km NNE de Montmagny, QC"
-  },
-  {
-    "time_utc": "2026-06-17T10:10:52.000Z",
-    "magnitude": "2.19",
-    "depth_km": "5.0",
-    "place": "173 km SSW of Whitehorse, YT/173 km SSO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-06-17T06:55:13.000Z",
-    "magnitude": "2.38",
-    "depth_km": "1.0",
-    "place": "62 km N of Campbell River, BC/62 km N de Campbell River, BC"
-  },
-  {
-    "time_utc": "2026-06-16T21:53:32.000Z",
-    "magnitude": "2.34",
-    "depth_km": "1.84",
-    "place": "31 km W of Squamish, BC/31 km O de Squamish, BC"
   }
 ];

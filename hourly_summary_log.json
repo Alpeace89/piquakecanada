@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-28T20:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were 12 minor quakes detected across Canada. The largest one measured M2.95 and happened near Port Alice in British Columbia on May 28th at around 11:28 AM UTC. In just today, we saw a few more with the latest being a M2.64 quake recorded about an hour ago in Haines Junction, Yukon. Most of these quakes have been centered in British Columbia and Yukon Territory, though there are also some sprinkled across Alberta."
-  },
-  {
     "timestamp_utc": "2026-05-28T21:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no significant earthquake events reported. The largest quake was a M2.83 near Grande Prairie in Alberta on June 17th at around 9:10 PM local time. In Ontario, an M1.63 event happened just east of Ramara earlier today around 3:54 AM. These are minor quakes, mostly from industry-related activities in B.C., Alberta, and Ontario."
+  },
+  {
+    "timestamp_utc": "2026-06-18T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two new earthquakes detected. The largest one was a M4.42, felt and reported near Mont-Joli in Quebec. It happened just after noon today. And in that time frame, there were nine events total, with BC feeling the most with five quakes, followed by Alberta with one and Ontario with one as well."
   }
 ]
