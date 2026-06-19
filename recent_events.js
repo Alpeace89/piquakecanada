@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-18T23:40:28.000Z",
+    "magnitude": "3.58",
+    "depth_km": "10.0",
+    "place": "209 km SW of Port Hardy, BC/209 km SO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-06-18T23:16:53.000Z",
+    "magnitude": "1.88",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 77 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 77 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-06-18T17:49:05.000Z",
     "magnitude": "2.74",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "4.42",
     "depth_km": "21.01",
     "place": "26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti"
-  },
-  {
-    "time_utc": "2026-06-18T13:32:37.000Z",
-    "magnitude": "3.57",
-    "depth_km": "10.0",
-    "place": "163 km W of Tofino, BC/163 km O de Tofino, BC"
-  },
-  {
-    "time_utc": "2026-06-18T13:04:57.000Z",
-    "magnitude": "2.95",
-    "depth_km": "10.0",
-    "place": "153 km SSW of Port Alice, BC/153 km SSO de Port Alice, BC"
   }
 ];

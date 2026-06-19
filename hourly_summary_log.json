@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-30T01:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were three recorded quakes yesterday. The largest one was a little shake with a magnitude of M0.89, happening 105 km southeast of Saint-Georges, Quebec/ Saint-Georges, QC as it's sometimes spelled. This area got hit twice by PiQuake Canada's earthquake monitors yesterday, and New Brunswick had a minor one too."
-  },
-  {
     "timestamp_utc": "2026-05-30T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no quakes were detected by our PiQuake Canada dashboard. The largest event recorded was a mystery quake with an unknown magnitude happening near Halfway River in British Columbia. It's suspected to be linked to industry activity. That's all we've got for now."
+  },
+  {
+    "timestamp_utc": "2026-06-19T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two minor earthquakes reported in British Columbia and Alberta. The largest one measured M3.58 near Port Hardy on June 18th, with another occurring at almost the same time and place. It's pretty quiet here in Canada, with no events recorded this hour but three regions experiencing seismic activity within that day."
   }
 ]
