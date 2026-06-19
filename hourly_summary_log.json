@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-29T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, two small earthquakes shook up Canada's Yukon Territory. The largest one measured a modest M2.64 and happened about 119 kilometers west-southwest of Haines Junction in both the Yukon and Ontario side of that place. It all happened around 1:00 PM on May 28th, Canadian time. That's it for recent seismic activity here in Canada!"
-  },
-  {
     "timestamp_utc": "2026-05-29T14:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had six seismic events monitored by our PiQuake Canada dashboard. The largest one registered at M4.42 happened about 26 km northeast of Mont-Joli in Quebec. It was felt and reported there. There have been no major events recently, but you can expect a few more smaller ones like the last event which measured M1.14 around 24 km northeast of Mont-Joli."
+  },
+  {
+    "timestamp_utc": "2026-06-19T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there were six events recorded in the past day. The largest event was a M4.42 near Mont-Joli, Quebec, which people felt and resented. In the latest update, a M1.14 quake occurred nearby at 17:18 on the 18th of June, which many did not know about as it happened in an unknown region."
   }
 ]
