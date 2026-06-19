@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-29T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had no events reported on our PiQuake Canada dashboard. That's a bit of a quiet night out there. But to keep things interesting, we had five small quakes recorded—mostly in Quebec and New Brunswick—with the biggest one measuring M2.4 at a depth of 48 km west-northwest of Mingan. Our latest event, just an hour ago, was a tiny one of magnitude M0.89 around Saint-Georges in Quebec. We're keeping our eyes on this space for more seismic activity!"
-  },
-  {
     "timestamp_utc": "2026-05-29T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a summary of what you can expect from the PiQuake Canada dashboard in beta right now: You've got six events within the last 24 hours, with the largest one measuring M4.42 near Mont-Joli, Quebec and felt/reported there. The latest event was even smaller at M1.14, both times occurring around noon local time, and most of these have been spotted in Quebec."
+  },
+  {
+    "timestamp_utc": "2026-06-19T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three seismic events in the past day. The largest event was a M1.14 near Mont-Joli, QC on June 18th at around 5 PM. Québec is where most of these small quakes are happening right now."
   }
 ]
