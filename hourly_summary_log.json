@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-29T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey there! The PiQuake Canada dashboard shows no earthquakes in the last hour, but two quakes happened yesterday. The biggest one was a M2.64 near Haines Junction in Yukon, and it's the only thing we've recorded so far today. Most of these happened in YT region."
-  },
-  {
     "timestamp_utc": "2026-05-29T15:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there were six events recorded in the past day. The largest event was a M4.42 near Mont-Joli, Quebec, which people felt and resented. In the latest update, a M1.14 quake occurred nearby at 17:18 on the 18th of June, which many did not know about as it happened in an unknown region."
+  },
+  {
+    "timestamp_utc": "2026-06-19T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we saw no major quakes in our database, but there were six smaller ones. The largest one measured M4.42 and was felt/respected 26 km north-northeast of Mont-Joli, Quebec. That's quite a lot for such a short period! The latest quake registered as M1.14, also near that area."
   }
 ]
