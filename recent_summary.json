@@ -1,24 +1,24 @@
 {
-  "generated_utc": "2026-06-19T18:03:01Z",
+  "generated_utc": "2026-06-19T19:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 556,
+  "rolling_window_event_count": 557,
   "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260618.1718001",
-    "time_utc": "2026-06-18T17:18:19.000Z",
-    "latitude": 48.7905,
-    "longitude": -68.0827,
-    "depth_km": 20.97,
-    "mag_type": "MwN",
-    "magnitude": 1.14,
-    "place": "24 km NNE of Mont-Joli, QC/24 km NNE de Mont-Joli, QC",
-    "region": "QC"
+    "event_id": "20260618.1749001",
+    "time_utc": "2026-06-18T17:49:05.000Z",
+    "latitude": 56.2542,
+    "longitude": -121.8979,
+    "depth_km": 1.0,
+    "mag_type": "MLy",
+    "magnitude": 2.74,
+    "place": "Suspected industry-related event, 25 km S of Halfway River 168, BC/Événement lié à l'industrie soupconné, 25 km S de Halfway River 168, BC",
+    "region": "BC"
   },
   "largest_event_last_24h": null,
   "deepest_event_last_24h": null,
   "top_regions_last_24h": [],
-  "summary_text": "As of 2026-06-19 18:03 UTC, the recent Canada earthquake dataset contains 556 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M1.14 at 24 km NNE of Mont-Joli, QC/24 km NNE de Mont-Joli, QC at 2026-06-18T17:18:19.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "summary_text": "As of 2026-06-19 19:03 UTC, the recent Canada earthquake dataset contains 557 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M2.74 at Suspected industry-related event, 25 km S of Halfway River 168, BC/Événement lié à l'industrie soupconné, 25 km S de Halfway River 168, BC at 2026-06-18T17:49:05.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }

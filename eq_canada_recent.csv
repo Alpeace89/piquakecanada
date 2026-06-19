@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260505.1815001,2026-05-05T18:15:40.000Z,49.757,-86.8796,1.0,MwN,1.8,"Blast, 7 km NE of Geraldton, ON/Dynamitage, 7 km NE de Geraldton, ON"
 20260505.1900001,2026-05-05T19:00:41.000Z,52.4882,-132.4807,20.0,ML,1.97,"89 km SSW of Daajing Giids, BC/89 km SSO de Daajing Giids, BC"
 20260505.1901001,2026-05-05T19:01:09.000Z,55.6059,-122.2389,0.0,ML,2.79,"Blast, 1 km W of Willow Creek Mine, BC/Dynamitage, 1 km O de la mine Willow Creek, BC"
 20260505.2048001,2026-05-05T20:48:01.000Z,52.6226,-127.364,5.0,ML,1.79,"51 km WNW of Bella Coola 1, BC/51 km ONO de Bella Coola 1, BC"
@@ -555,3 +554,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260618.1515001,2026-06-18T15:15:17.000Z,48.7992,-68.1052,18.0,MwN,0.83,"25 km NNE of Mont-Joli, QC/25 km NNE de Mont-Joli, QC"
 20260618.1518001,2026-06-18T15:18:55.000Z,48.8093,-68.125,18.0,MwN,0.93,"25 km N of Mont-Joli, QC/25 km N de Mont-Joli, QC"
 20260618.1718001,2026-06-18T17:18:19.000Z,48.7905,-68.0827,20.97,MwN,1.14,"24 km NNE of Mont-Joli, QC/24 km NNE de Mont-Joli, QC"
+20260618.1728001,2026-06-18T17:28:57.000Z,49.341,-127.4859,10.0,Mw',3.24,"87 km SW of Tahsis, BC/87 km SO de Tahsis, BC"
+20260618.1749001,2026-06-18T17:49:05.000Z,56.2542,-121.8979,1.0,MLy,2.74,"Suspected industry-related event, 25 km S of Halfway River 168, BC/Événement lié à l'industrie soupconné, 25 km S de Halfway River 168, BC"

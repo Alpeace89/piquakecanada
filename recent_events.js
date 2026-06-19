@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-18T17:49:05.000Z",
+    "magnitude": "2.74",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 25 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 25 km S de Halfway River 168, BC"
+  },
+  {
+    "time_utc": "2026-06-18T17:28:57.000Z",
+    "magnitude": "3.24",
+    "depth_km": "10.0",
+    "place": "87 km SW of Tahsis, BC/87 km SO de Tahsis, BC"
+  },
+  {
     "time_utc": "2026-06-18T17:18:19.000Z",
     "magnitude": "1.14",
     "depth_km": "20.97",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.95",
     "depth_km": "10.0",
     "place": "153 km SSW of Port Alice, BC/153 km SSO de Port Alice, BC"
-  },
-  {
-    "time_utc": "2026-06-18T12:40:21.000Z",
-    "magnitude": "2.87",
-    "depth_km": "10.0",
-    "place": "158 km W of Tofino, BC/158 km O de Tofino, BC"
-  },
-  {
-    "time_utc": "2026-06-18T12:17:24.000Z",
-    "magnitude": "2.35",
-    "depth_km": "10.0",
-    "place": "75 km SSW of Houpsitas 6, BC/75 km SSO de Houpsitas 6, BC"
   }
 ];

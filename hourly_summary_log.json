@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-30T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had four minor earthquakes. The largest one was a M2.4 near Mingan in Quebec and Ontario, occurring just before midnight on May 29th. And yesterday, another little shake registered at M0.89, about 105 km southeast of Saint-Georges in Quebec. These are all minor ones that don't pose any real danger or harm to people or property."
-  },
-  {
     "timestamp_utc": "2026-05-30T01:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude unknown at an unknown location, which occurred around midnight yesterday. The most recent quake measured M1.14 and happened about 24 km north-northeast of Mont-Joli, Quebec early today."
+  },
+  {
+    "timestamp_utc": "2026-06-19T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, no quakes were detected by our PiQuake Canada dashboard. The largest event recorded was a mystery quake with an unknown magnitude happening near Halfway River in British Columbia. It's suspected to be linked to industry activity. That's all we've got for now."
   }
 ]
