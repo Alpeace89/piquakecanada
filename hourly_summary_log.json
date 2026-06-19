@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-29T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major earthquakes reported in Canada. However, we did catch four small quakes with the largest being a M2.4 near Mingan, Quebec. The latest one was even smaller at M0.89 and happened around Saint-Georges, Quebec early today. The most activity came from Quebec and New Brunswick that's for sure."
-  },
-  {
     "timestamp_utc": "2026-05-30T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one minor earthquake with a magnitude of M1.14 near Mont-Joli in Quebec. The latest event happened on June 18th at around 5:18 PM local time. This area has been seeing quakes every now and then; QC had their only report for the day."
+  },
+  {
+    "timestamp_utc": "2026-06-19T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude unknown at an unknown location, which occurred around midnight yesterday. The most recent quake measured M1.14 and happened about 24 km north-northeast of Mont-Joli, Quebec early today."
   }
 ]

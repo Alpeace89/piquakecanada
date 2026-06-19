@@ -36,6 +36,12 @@ window.recentEvents = [
     "place": "26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti"
   },
   {
+    "time_utc": "2026-06-18T13:32:37.000Z",
+    "magnitude": "3.57",
+    "depth_km": "10.0",
+    "place": "163 km W of Tofino, BC/163 km O de Tofino, BC"
+  },
+  {
     "time_utc": "2026-06-18T13:04:57.000Z",
     "magnitude": "2.95",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.35",
     "depth_km": "10.0",
     "place": "75 km SSW of Houpsitas 6, BC/75 km SSO de Houpsitas 6, BC"
-  },
-  {
-    "time_utc": "2026-06-18T10:31:33.000Z",
-    "magnitude": "2.85",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 26 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 26 km S de Halfway River 168, BC"
   }
 ];

@@ -1,1 +1,1 @@
-In the last 24 hours, there was one minor earthquake with a magnitude of M1.14 near Mont-Joli in Quebec. The latest event happened on June 18th at around 5:18 PM local time. This area has been seeing quakes every now and then; QC had their only report for the day.
+The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude unknown at an unknown location, which occurred around midnight yesterday. The most recent quake measured M1.14 and happened about 24 km north-northeast of Mont-Joli, Quebec early today.
