@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-29T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there was one event yesterday that measured M0.92 near La Pocatière in Quebec. This is the largest quake recorded today and it's happening close to where we saw activity a day ago. Most of this seismic activity has been in Quebec so far."
-  },
-  {
     "timestamp_utc": "2026-05-29T17:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were 6 seismic events reported on our PiQuake Canada dashboard. The largest one was a M4.42 that felt/resounded in Mont-Joli, Quebec. It happened on June 18th at around 1:21 PM UTC. In the same region, we also had a smaller event of magnitude M1.14 that occurred just after noon on the same day. The epicenter for both was close to Mont-Joli and in an area not specified but felt experienced by people there."
+  },
+  {
+    "timestamp_utc": "2026-06-19T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there have been no major earthquakes reported. However, a small quake with a magnitude of M4.42 shook the area near Mont-Joli in Quebec, felt and even resented by some nearby residents. The latest minor shake was an M1.14 that happened around the same time as the bigger one, just 2 hours after the first event. Most of these were reported from Quebec region but there are also a couple from unknown locations."
   }
 ]
