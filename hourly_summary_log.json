@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-29T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had a total of 5 earthquakes reported. The largest one was a M2.95 near Port Alice in British Columbia. Just yesterday afternoon, there was another quake at Haines Junction in Yukon with a magnitude of M2.64. The top regions affected were Alberta and the Yukon Territory, both having two quakes each."
-  },
-  {
     "timestamp_utc": "2026-05-29T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were eight events in the past day. The largest event was a M4.42 near Mont-Joli in Quebec felt and resented by people there. In the latest event from that area, it was a small one measuring M1.14, which happened earlier today. Most of these recent quakes have been in Quebec, with five recorded there."
+  },
+  {
+    "timestamp_utc": "2026-06-19T02:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were 8 small quakes within the past day. The largest one was a M4.42 near Mont-Joli, Quebec, felt and reported by residents. The latest quake recorded happened just before noon yesterday and was an even smaller M1.14 close to where the big one occurred. Most of these recent shakes were in Quebec, with one each in Ontario and British Columbia."
   }
 ]
