@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260505.1325001,2026-05-05T13:25:00.000Z,47.8967,-128.8274,10.0,Mw',3.52,"257 km WSW of Tofino, BC/257 km OSO de Tofino, BC"
 20260505.1445001,2026-05-05T14:45:16.000Z,54.6504,-118.6298,2.55,MLy,2.56,"Suspected industry-related event, 59 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 59 km S de Grande Prairie, AB"
 20260505.1815001,2026-05-05T18:15:40.000Z,49.757,-86.8796,1.0,MwN,1.8,"Blast, 7 km NE of Geraldton, ON/Dynamitage, 7 km NE de Geraldton, ON"
 20260505.1900001,2026-05-05T19:00:41.000Z,52.4882,-132.4807,20.0,ML,1.97,"89 km SSW of Daajing Giids, BC/89 km SSO de Daajing Giids, BC"
