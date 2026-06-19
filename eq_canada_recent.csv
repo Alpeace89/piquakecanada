@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260505.0446001,2026-05-05T04:46:19.000Z,54.5792,-118.5836,1.57,MLy,3.1,"Suspected industry-related event, 67 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 67 km SSE de Grande Prairie, AB"
 20260505.0621001,2026-05-05T06:21:11.000Z,54.335,-118.5256,5.8,MLy,2.45,"Suspected industry-related event, 63 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 63 km NE de Grande Cache, AB"
 20260505.1325001,2026-05-05T13:25:00.000Z,47.8967,-128.8274,10.0,Mw',3.52,"257 km WSW of Tofino, BC/257 km OSO de Tofino, BC"
 20260505.1445001,2026-05-05T14:45:16.000Z,54.6504,-118.6298,2.55,MLy,2.56,"Suspected industry-related event, 59 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 59 km S de Grande Prairie, AB"
