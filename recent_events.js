@@ -36,27 +36,27 @@ window.recentEvents = [
     "place": "26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti"
   },
   {
-    "time_utc": "2026-06-18T06:38:34.000Z",
-    "magnitude": "2.62",
+    "time_utc": "2026-06-18T13:04:57.000Z",
+    "magnitude": "2.95",
     "depth_km": "10.0",
-    "place": "88 km SW of Tahsis, BC/88 km SO de Tahsis, BC"
+    "place": "153 km SSW of Port Alice, BC/153 km SSO de Port Alice, BC"
   },
   {
-    "time_utc": "2026-06-18T03:54:37.000Z",
-    "magnitude": "1.63",
-    "depth_km": "2.0",
-    "place": "2 km E of Ramara, ON/2 km E de Ramara, ON"
+    "time_utc": "2026-06-18T12:40:21.000Z",
+    "magnitude": "2.87",
+    "depth_km": "10.0",
+    "place": "158 km W of Tofino, BC/158 km O de Tofino, BC"
   },
   {
-    "time_utc": "2026-06-18T00:45:00.000Z",
-    "magnitude": "1.07",
-    "depth_km": "5.0",
-    "place": "31 km W of Squamish, BC/31 km O de Squamish, BC"
+    "time_utc": "2026-06-18T12:17:24.000Z",
+    "magnitude": "2.35",
+    "depth_km": "10.0",
+    "place": "75 km SSW of Houpsitas 6, BC/75 km SSO de Houpsitas 6, BC"
   },
   {
-    "time_utc": "2026-06-17T21:37:19.000Z",
-    "magnitude": "1.9",
-    "depth_km": "28.08",
-    "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
+    "time_utc": "2026-06-18T10:31:33.000Z",
+    "magnitude": "2.85",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 26 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 26 km S de Halfway River 168, BC"
   }
 ];
