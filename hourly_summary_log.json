@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-31T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the past 24 hours, we've seen no earthquakes reported on our PiQuake Canada dashboard. The latest one measured M0.89 and happened about 105 kilometers southeast of Saint-Georges in Quebec. It was recorded around 10:32 AM local time yesterday."
-  },
-  {
     "timestamp_utc": "2026-05-31T05:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we haven't had any earthquakes reported on our dashboard. The largest one measured M3.58 and happened about 209 kilometers southwest of Port Hardy in British Columbia. It occurred just before midnight UTC."
+  },
+  {
+    "timestamp_utc": "2026-06-20T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there haven't been any earthquakes recorded by our PiQuake Canada dashboard. The largest one was a M3.58 near Port Hardy, BC. It happened on June 18 at around 11 PM in UTC time. Nothing much has been happening lately; it's quiet out there!"
   }
 ]
