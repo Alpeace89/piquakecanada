@@ -1,1 +1,1 @@
-In the last 24 hours, there were no earthquakes detected by our PiQuake Canada dashboard. The largest quake recorded was a M3.58 near Port Hardy in British Columbia. It happened on June 18 at around 11 PM local time. No other quakes have been reported in that region or any others since then.
+In the last 24 hours, there were no earthquakes reported on our PiQuake Canada dashboard. The largest one was a M3.58 near Port Hardy in British Columbia. This is the latest event we have recorded.
