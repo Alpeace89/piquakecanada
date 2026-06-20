@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-30T05:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two small quakes recorded yesterday. The latest one measured M0.89 and happened about 105 km southeast of Saint-Georges, QC. This place has had the most activity over the past day with two quakes."
-  },
-  {
     "timestamp_utc": "2026-05-30T06:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey there! We've got two small quakes in the last 24 hours, one of them being a M3.58 near Port Hardy in British Columbia. It's nothing to worry about, but it shows some activity in the area with most recent happening just yesterday around 11 PM. The spots that have been feeling these shakes are Alberta and BC."
+  },
+  {
+    "timestamp_utc": "2026-06-20T00:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard hasn't had any activity in the last hour or day. The largest event recorded within the past 24 hours was a magnitude unknown, happening at an unknown location and time. The latest seismic event reported was a M3.58 that occurred on June 18th around 11 PM BC time, located about 209 km southwest of Port Hardy."
   }
 ]
