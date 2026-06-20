@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260506.1905001,2026-05-06T19:05:02.000Z,57.9413,-136.6933,5.0,ML,2.79,"140 km WSW of Juneau, AK/140 km OSO de Juneau, AK"
 20260506.2036001,2026-05-06T20:36:41.000Z,61.4064,-140.1913,1.0,ML,2.98,"64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT"
 20260506.2202001,2026-05-06T22:02:29.000Z,49.1464,-89.6551,1.0,MwN,1.51,"Blast, 4 km SW of Lac des Iles Mine, ON/Dynamitage, 4 km SO de la mine Lac des Îles,Lac des Iles, ON"
 20260506.2305001,2026-05-06T23:05:39.000Z,55.552,-122.2754,0.0,ML,2.71,"Blast, 5 km S of Willow Creek Mine, BC/Dynamitage, 5 km S de la mine Willow Creek, BC"
