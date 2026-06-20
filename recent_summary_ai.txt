@@ -1,1 +1,1 @@
-In the last 24 hours, there were no earthquakes reported on our PiQuake Canada dashboard. The largest one was a M3.58 near Port Hardy in British Columbia. This is the latest event we have recorded.
+The PiQuake Canada dashboard shows no seismic activity in the last hour or day, with a recent event measuring M3.58 happening around 209 km southwest of Port Hardy, BC and 209 km south of Port Hardy, BC. It's just another quiet day on our monitoring system.
