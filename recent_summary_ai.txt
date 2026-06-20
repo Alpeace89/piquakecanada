@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no seismic activity in the last hour or day, with a recent event measuring M3.58 happening around 209 km southwest of Port Hardy, BC and 209 km south of Port Hardy, BC. It's just another quiet day on our monitoring system.
+In the past 24 hours, there have been no recorded earthquakes on the PiQuake Canada dashboard. The largest quake was a magnitude unknown, occurring at an unknown location and time. That's nothing to be alarmed about; the last event we had was a M3.58 that happened around 11 PM yesterday in an area near Port Hardy, BC.
