@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260506.0703001,2026-05-06T07:03:10.000Z,53.7487,-134.9791,10.0,ML,2.3,"188 km W of Masset, BC/188 km O de Masset, BC"
-20260506.0745001,2026-05-06T07:45:01.000Z,47.411,-70.4756,9.59,MwN,0.48,"5 km SSE of Baie-Saint-Paul, QC/5 km SSE de Baie-Saint-Paul, QC"
 20260506.1316001,2026-05-06T13:16:20.000Z,60.0116,-141.3229,0.36,ML,2.67,"225 km WSW of Haines Junction, YT/225 km OSO de Haines Junction, YT"
 20260506.1905001,2026-05-06T19:05:02.000Z,57.9413,-136.6933,5.0,ML,2.79,"140 km WSW of Juneau, AK/140 km OSO de Juneau, AK"
 20260506.2036001,2026-05-06T20:36:41.000Z,61.4064,-140.1913,1.0,ML,2.98,"64 km W of Burwash Landing, YT/64 km O de Burwash Landing, YT"
