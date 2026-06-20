@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-05-30T10:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had one recorded tremor with a magnitude of M0.89 near Saint-Georges in Quebec. It's been quiet the past hour and our latest activity came from the same spot on May 29th at around 10:30 AM Eastern time. Most of this happened in the Quebec region, so that's where you'll find the most recent seismic activity right now."
-  },
-  {
     "timestamp_utc": "2026-05-30T11:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there haven't been any quakes detected by our PiQuake Canada dashboard. The largest quake recorded was a M3.58 near Port Hardy in British Columbia. This is the latest activity we've seen."
+  },
+  {
+    "timestamp_utc": "2026-06-20T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is up and running for beta testing. It shows no events in the last hour or day, but a small quake with a magnitude of M3.58 happened on June 18th around midnight. Location was near Port Hardy, BC, in both Canada's British Columbia province."
   }
 ]

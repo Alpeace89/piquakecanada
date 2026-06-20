@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260506.0440001,2026-05-06T04:40:20.000Z,48.8724,-128.5958,10.0,Mw',3.02,"199 km W of Tofino, BC/199 km O de Tofino, BC"
 20260506.0526001,2026-05-06T05:26:22.000Z,51.4784,-130.7555,10.0,ML,2.44,"242 km WNW of Port Hardy, BC/242 km ONO de Port Hardy, BC"
 20260506.0703001,2026-05-06T07:03:10.000Z,53.7487,-134.9791,10.0,ML,2.3,"188 km W of Masset, BC/188 km O de Masset, BC"
 20260506.0745001,2026-05-06T07:45:01.000Z,47.411,-70.4756,9.59,MwN,0.48,"5 km SSE of Baie-Saint-Paul, QC/5 km SSE de Baie-Saint-Paul, QC"
