@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-01T02:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For those joining the PiQuake Canada dashboard beta, we're tracking absolutely no seismic events for the last hour or day. The largest event recorded was a tiny M0.89 that happened near Saint-Georgesue in Quebec yesterday at around 10:32 AM. It's quite quiet out there!"
-  },
-  {
     "timestamp_utc": "2026-06-01T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard has seen no events in the last hour or day. The largest event recorded was a magnitude unknown with an unknown location and time, happening about 209 kilometers southwest of Port Hardy, BC. It's worth noting that there hasn't been any activity to report for this region over the past 24 hours either."
+  },
+  {
+    "timestamp_utc": "2026-06-21T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there haven't been any earthquakes detected by our PiQuake Canada dashboard. The largest event was a mystery with an unknown magnitude happening somewhere near Port Hardy in British Columbia. It happened around 11:40 PM on June 18th. So far, it's been quiet down here."
   }
 ]
