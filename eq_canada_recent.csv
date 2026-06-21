@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260507.0036001,2026-05-07T00:36:18.000Z,53.2032,-133.0523,10.91,ML,3.33,"65 km W of Daajing Giids, BC/65 km O de Daajing Giids, BC"
 20260507.0429001,2026-05-07T04:29:41.000Z,71.0535,-132.0063,35.0,ML,2.9,"182 km NNE of Tuktoyaktuk, NT/182 km NNE de Tuktoyaktuk, NT"
 20260507.0504001,2026-05-07T05:04:35.000Z,50.0759,-124.6079,1.0,ML,2.25,"20 km N of Sliammon 1, BC/20 km N de Sliammon 1, BC"
 20260507.0520001,2026-05-07T05:20:08.000Z,48.5173,-121.7654,10.18,ML,2.8,"72 km SE of Abbotsford, BC/72 km SE de Abbotsford, BC"
