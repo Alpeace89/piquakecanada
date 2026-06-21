@@ -1,1 +1,1 @@
-In the last 24 hours, there haven't been any earthquakes recorded by our PiQuake Canada dashboard. The largest one was a M3.58 near Port Hardy, BC. It happened on June 18 at around 11 PM in UTC time. Nothing much has been happening lately; it's quiet out there!
+The PiQuake Canada dashboard shows no activity in the last hour or day, with the largest event being a M3.58 near Port Hardy on June 18th. There hasn't been any notable quakes in the past 24 hours and nothing registered for today yet.
