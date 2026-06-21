@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260507.1307001,2026-05-07T13:07:45.000Z,60.4677,-139.661,5.0,ML,1.98,"122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT"
-20260507.1312001,2026-05-07T13:12:48.000Z,61.4448,-140.3438,5.0,ML,2.24,"73 km W of Burwash Landing, YT/73 km O de Burwash Landing, YT"
 20260507.1431001,2026-05-07T14:31:12.000Z,49.9736,-94.7112,0.0,MwN,1.51,"Blast, 17 km NW of The Dalles 38C, ON/Dynamitage, 17 km NO de The Dalles 38C, ON"
 20260507.1645001,2026-05-07T16:45:07.000Z,61.1232,-140.0827,5.0,ML,3.26,"64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
 20260507.1718001,2026-05-07T17:18:08.000Z,60.4402,-139.6272,5.0,ML,2.6,"121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
