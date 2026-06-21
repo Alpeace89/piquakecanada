@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260507.0851001,2026-05-07T08:51:20.000Z,61.106,-140.0714,5.0,ML,1.85,"64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
 20260507.0947001,2026-05-07T09:47:56.000Z,65.4951,-135.1825,10.0,ML,2.42,"216 km S of Fort McPherson, NT/216 km S de Fort McPherson, NT"
 20260507.0955001,2026-05-07T09:55:07.000Z,55.8545,-120.2422,1.0,MLy,2.34,"Suspected industry-related event, 10 km N of Dawson Creek, BC/Événement lié à l'industrie soupconné, 10 km N de Dawson Creek, BC"
 20260507.1307001,2026-05-07T13:07:45.000Z,60.4677,-139.661,5.0,ML,1.98,"122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT"
