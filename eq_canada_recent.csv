@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260507.1645001,2026-05-07T16:45:07.000Z,61.1232,-140.0827,5.0,ML,3.26,"64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
 20260507.1718001,2026-05-07T17:18:08.000Z,60.4402,-139.6272,5.0,ML,2.6,"121 km WSW of Haines Junction, YT/121 km OSO de Haines Junction, YT"
 20260507.1737001,2026-05-07T17:37:35.000Z,61.1274,-140.0447,5.0,ML,2.72,"62 km WSW of Burwash Landing, YT/62 km OSO de Burwash Landing, YT"
 20260507.1945001,2026-05-07T19:45:52.000Z,47.7001,-70.1241,8.75,MwN,0.19,"6 km NNE of La Malbaie, QC/6 km NNE de La Malbaie, QC"
