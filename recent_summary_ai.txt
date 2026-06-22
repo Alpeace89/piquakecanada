@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard is still in its beta phase, but so far it hasn't seen any earthquakes over the last 24 hours. The largest event recorded was a M1.31 near Petawawa, ON that happened on June 21st at around 11:50 AM. There haven't been any significant events recently to report.
+For those on the Beta PiQuake Canada dashboard, it's quiet out there. There were no events recorded last hour or in the past day, and our latest alert was a M1.31 near Petawawa, Ontario. Everything seems calm for now!

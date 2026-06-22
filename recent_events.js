@@ -6,6 +6,18 @@ window.recentEvents = [
     "place": "61 km N of Petawawa, ON/61 km N de Petawawa, ON"
   },
   {
+    "time_utc": "2026-06-19T07:59:01.000Z",
+    "magnitude": "2.18",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 41 km SW of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 41 km SO de Prespatou, BC"
+  },
+  {
+    "time_utc": "2026-06-19T06:49:47.000Z",
+    "magnitude": "2.0",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 38 km WNW of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 38 km ONO de Fox Creek, AB"
+  },
+  {
     "time_utc": "2026-06-19T05:25:40.000Z",
     "magnitude": "2.0",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.74",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 25 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 25 km S de Halfway River 168, BC"
-  },
-  {
-    "time_utc": "2026-06-18T17:28:57.000Z",
-    "magnitude": "3.24",
-    "depth_km": "10.0",
-    "place": "87 km SW of Tahsis, BC/87 km SO de Tahsis, BC"
-  },
-  {
-    "time_utc": "2026-06-18T17:18:19.000Z",
-    "magnitude": "1.14",
-    "depth_km": "20.97",
-    "place": "24 km NNE of Mont-Joli, QC/24 km NNE de Mont-Joli, QC"
   }
 ];

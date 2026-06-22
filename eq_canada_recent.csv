@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260508.1519001,2026-05-08T15:19:33.000Z,60.5876,-139.9576,5.0,ML,2.91,"100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
 20260508.1820001,2026-05-08T18:20:53.000Z,60.526,-139.9611,5.0,ML,2.37,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
 20260508.2220001,2026-05-08T22:20:50.000Z,70.5847,-97.0703,18.0,MwN,2.83,"178 km NW of Taloyoak, NU/178 km NO de Taloyoak, NU"
 20260508.2326001,2026-05-08T23:26:49.000Z,47.4722,-70.0604,6.81,MwN,1.68,"11 km N of La Pocatière, QC/11 km N de La Pocatière, QC"
@@ -526,4 +525,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260619.0226001,2026-06-19T02:26:39.000Z,49.3245,-127.453,10.0,Mw',3.2,"87 km SW of Tahsis, BC/87 km SO de Tahsis, BC"
 20260619.0454001,2026-06-19T04:54:08.000Z,58.4482,-133.2823,10.0,ML,2.8,"68 km ENE of Juneau, AK/68 km ENE de Juneau, AK"
 20260619.0525001,2026-06-19T05:25:40.000Z,57.1487,-121.7491,1.0,MLy,2.0,"Suspected industry-related event, 49 km WNW of Prespatou, BC/Événement lié à l'industrie soupconné, 49 km ONO de Prespatou, BC"
+20260619.0649001,2026-06-19T06:49:47.000Z,54.5153,-117.3494,1.0,MLy,2.0,"Suspected industry-related event, 38 km WNW of Fox Creek, AB/Événement lié à l'industrie soupconné, 38 km ONO de Fox Creek, AB"
+20260619.0759001,2026-06-19T07:59:01.000Z,56.7112,-121.5927,1.0,MLy,2.18,"Suspected industry-related event, 41 km SW of Prespatou, BC/Événement lié à l'industrie soupconné, 41 km SO de Prespatou, BC"
 20260621.1151001,2026-06-21T11:51:01.000Z,46.4217,-77.1653,4.22,MwN,1.31,"61 km N of Petawawa, ON/61 km N de Petawawa, ON"

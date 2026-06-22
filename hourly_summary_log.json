@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-01T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there was one event recorded on the PiQuake Canada dashboard, which registered a magnitude of M1.33 near Maniwaki and Montmagny in Quebec. This is similar to what we've seen recently with smaller quakes happening regularly around that area."
-  },
-  {
     "timestamp_utc": "2026-06-01T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is still in its beta phase, but so far it hasn't seen any earthquakes over the last 24 hours. The largest event recorded was a M1.31 near Petawawa, ON that happened on June 21st at around 11:50 AM. There haven't been any significant events recently to report."
+  },
+  {
+    "timestamp_utc": "2026-06-22T16:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For those on the Beta PiQuake Canada dashboard, it's quiet out there. There were no events recorded last hour or in the past day, and our latest alert was a M1.31 near Petawawa, Ontario. Everything seems calm for now!"
   }
 ]
