@@ -533,4 +533,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260619.1444001,2026-06-19T14:44:43.000Z,49.5402,-126.9263,10.0,ML,1.77,"23 km WSW of Yuquot 1, BC/23 km OSO de Yuquot 1, BC"
 20260619.1538001,2026-06-19T15:38:33.000Z,60.5767,-139.9362,5.0,ML,2.76,"101 km SSW of Burwash Landing, YT/101 km SSO de Burwash Landing, YT"
 20260620.1216001,2026-06-20T12:16:42.000Z,48.8698,-128.9283,10.0,Mw',3.06,"230 km SSW of Port Hardy, BC/230 km SSO de Port Hardy, BC"
+20260621.0530001,2026-06-21T05:30:18.000Z,66.0748,-135.1192,5.0,ML,3.49,"152 km S of Fort McPherson, NT/152 km S de Fort McPherson, NT"
 20260621.1151001,2026-06-21T11:51:01.000Z,46.4217,-77.1653,4.22,MwN,1.31,"61 km N of Petawawa, ON/61 km N de Petawawa, ON"

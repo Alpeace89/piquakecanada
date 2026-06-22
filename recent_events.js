@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "61 km N of Petawawa, ON/61 km N de Petawawa, ON"
   },
   {
+    "time_utc": "2026-06-21T05:30:18.000Z",
+    "magnitude": "3.49",
+    "depth_km": "5.0",
+    "place": "152 km S of Fort McPherson, NT/152 km S de Fort McPherson, NT"
+  },
+  {
     "time_utc": "2026-06-20T12:16:42.000Z",
     "magnitude": "3.06",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.0",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 38 km WNW of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 38 km ONO de Fox Creek, AB"
-  },
-  {
-    "time_utc": "2026-06-19T05:25:40.000Z",
-    "magnitude": "2.0",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 49 km WNW of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 49 km ONO de Prespatou, BC"
   }
 ];
