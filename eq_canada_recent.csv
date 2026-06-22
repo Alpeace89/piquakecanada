@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260507.2359001,2026-05-07T23:59:25.000Z,60.5386,-140.0143,5.0,ML,2.9,"139 km W of Haines Junction, YT/139 km O de Haines Junction, YT"
 20260508.0110001,2026-05-08T01:10:22.000Z,50.0509,-124.6424,1.0,ML,1.45,"17 km N of Sliammon 1, BC/17 km N de Sliammon 1, BC"
 20260508.0310001,2026-05-08T03:10:59.000Z,65.5253,-134.1924,5.0,ML,2.29,"215 km S of Fort McPherson, NT/215 km S de Fort McPherson, NT"
 20260508.0827001,2026-05-08T08:27:20.000Z,49.8906,-92.5517,2.0,MwN,0.73,"19 km NE of Dryden, ON/19 km NE de Dryden, ON"
