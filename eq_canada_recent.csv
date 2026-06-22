@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260508.0110001,2026-05-08T01:10:22.000Z,50.0509,-124.6424,1.0,ML,1.45,"17 km N of Sliammon 1, BC/17 km N de Sliammon 1, BC"
 20260508.0310001,2026-05-08T03:10:59.000Z,65.5253,-134.1924,5.0,ML,2.29,"215 km S of Fort McPherson, NT/215 km S de Fort McPherson, NT"
 20260508.0827001,2026-05-08T08:27:20.000Z,49.8906,-92.5517,2.0,MwN,0.73,"19 km NE of Dryden, ON/19 km NE de Dryden, ON"
 20260508.0858001,2026-05-08T08:58:10.000Z,48.9743,-128.3172,10.0,Mw',2.46,"177 km W of Tofino, BC/177 km O de Tofino, BC"
