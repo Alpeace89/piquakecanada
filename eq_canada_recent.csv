@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260508.2220001,2026-05-08T22:20:50.000Z,70.5847,-97.0703,18.0,MwN,2.83,"178 km NW of Taloyoak, NU/178 km NO de Taloyoak, NU"
 20260508.2326001,2026-05-08T23:26:49.000Z,47.4722,-70.0604,6.81,MwN,1.68,"11 km N of La Pocatière, QC/11 km N de La Pocatière, QC"
 20260509.0044001,2026-05-09T00:44:36.000Z,70.489,-97.0813,18.0,MwN,2.13,"172 km NW of Taloyoak, NU/172 km NO de Taloyoak, NU"
 20260509.0423001,2026-05-09T04:23:17.000Z,47.4265,-70.0568,7.33,MwN,0.11,"6 km NNW of La Pocatière, QC/6 km NNO de La Pocatière, QC"
