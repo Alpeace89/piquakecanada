@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-01T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no new earthquake events in the last hour, but there was one event yesterday. The largest quake recorded happened around 38 km west-northwest of Maniwaki, Quebec and also a bit on the northwestern side of Ontario, with a magnitude of M1.33. It's been happening pretty regularly lately, with this being the latest in a string of small quakes in that area."
-  },
-  {
     "timestamp_utc": "2026-06-01T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there haven't been any earthquakes detected by our PiQuake Canada dashboard. The largest one recorded was a tiny M1.31 near Petawawa in Ontario. It happened on June 21st at around 11:50 AM local time."
+  },
+  {
+    "timestamp_utc": "2026-06-22T14:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For those in the beta of PiQuake Canada dashboard, there haven't been any earthquake events recorded in the last 24 hours. The largest event was a magnitude unknown and from an unknown location. The latest quake was a M1.31 which happened about 61 km north of Petawawa, Ontario on June 21st at around 11:51 AM."
   }
 ]

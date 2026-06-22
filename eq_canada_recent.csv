@@ -522,4 +522,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260618.1749001,2026-06-18T17:49:05.000Z,56.2542,-121.8979,1.0,MLy,2.74,"Suspected industry-related event, 25 km S of Halfway River 168, BC/Événement lié à l'industrie soupconné, 25 km S de Halfway River 168, BC"
 20260618.2316001,2026-06-18T23:16:53.000Z,54.5031,-118.5033,1.0,MLy,1.88,"Suspected industry-related event, 77 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 77 km SSE de Grande Prairie, AB"
 20260618.2340001,2026-06-18T23:40:28.000Z,49.4264,-129.6077,10.0,Mw',3.58,"209 km SW of Port Hardy, BC/209 km SO de Port Hardy, BC"
+20260618.2341001,2026-06-18T23:41:47.000Z,59.7942,-136.6702,5.0,ML,2.04,"133 km SW of Whitehorse, YT/133 km SO de Whitehorse, YT"
 20260621.1151001,2026-06-21T11:51:01.000Z,46.4217,-77.1653,4.22,MwN,1.31,"61 km N of Petawawa, ON/61 km N de Petawawa, ON"
