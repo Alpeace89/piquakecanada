@@ -1,1 +1,1 @@
-For the last hour, there have been no earthquakes reported. In the past 24 hours, we've had zero quakes too. The largest one was a M1.31 that happened about 61 km north of Petawawa, Ontario, on June 21st at around 11:50 AM.
+In the last 24 hours, no earthquakes were detected on the PiQuake Canada dashboard. The largest event recorded was a M1.31 near Petawawa, Ontario, happening around 11:51 AM local time on June 21st. There haven't been any events in the past hour either.
