@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260508.0827001,2026-05-08T08:27:20.000Z,49.8906,-92.5517,2.0,MwN,0.73,"19 km NE of Dryden, ON/19 km NE de Dryden, ON"
-20260508.0858001,2026-05-08T08:58:10.000Z,48.9743,-128.3172,10.0,Mw',2.46,"177 km W of Tofino, BC/177 km O de Tofino, BC"
 20260508.1519001,2026-05-08T15:19:33.000Z,60.5876,-139.9576,5.0,ML,2.91,"100 km SSW of Burwash Landing, YT/100 km SSO de Burwash Landing, YT"
 20260508.1820001,2026-05-08T18:20:53.000Z,60.526,-139.9611,5.0,ML,2.37,"136 km W of Haines Junction, YT/136 km O de Haines Junction, YT"
 20260508.2220001,2026-05-08T22:20:50.000Z,70.5847,-97.0703,18.0,MwN,2.83,"178 km NW of Taloyoak, NU/178 km NO de Taloyoak, NU"
