@@ -6,6 +6,24 @@ window.recentEvents = [
     "place": "61 km N of Petawawa, ON/61 km N de Petawawa, ON"
   },
   {
+    "time_utc": "2026-06-19T05:25:40.000Z",
+    "magnitude": "2.0",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 49 km WNW of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 49 km ONO de Prespatou, BC"
+  },
+  {
+    "time_utc": "2026-06-19T04:54:08.000Z",
+    "magnitude": "2.8",
+    "depth_km": "10.0",
+    "place": "68 km ENE of Juneau, AK/68 km ENE de Juneau, AK"
+  },
+  {
+    "time_utc": "2026-06-19T02:26:39.000Z",
+    "magnitude": "3.2",
+    "depth_km": "10.0",
+    "place": "87 km SW of Tahsis, BC/87 km SO de Tahsis, BC"
+  },
+  {
     "time_utc": "2026-06-18T23:41:47.000Z",
     "magnitude": "2.04",
     "depth_km": "5.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.14",
     "depth_km": "20.97",
     "place": "24 km NNE of Mont-Joli, QC/24 km NNE de Mont-Joli, QC"
-  },
-  {
-    "time_utc": "2026-06-18T15:18:55.000Z",
-    "magnitude": "0.93",
-    "depth_km": "18.0",
-    "place": "25 km N of Mont-Joli, QC/25 km N de Mont-Joli, QC"
-  },
-  {
-    "time_utc": "2026-06-18T15:15:17.000Z",
-    "magnitude": "0.83",
-    "depth_km": "18.0",
-    "place": "25 km NNE of Mont-Joli, QC/25 km NNE de Mont-Joli, QC"
-  },
-  {
-    "time_utc": "2026-06-18T14:32:25.000Z",
-    "magnitude": "2.58",
-    "depth_km": "20.83",
-    "place": "26 km NNE of Mont-Joli, QC/26 km NNE de Mont-Joli, QC"
   }
 ];
