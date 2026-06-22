@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude unknown at an unknown location, which happened earlier today around midnight. The latest measurable quake was M3.58 that occurred near Port Hardy in British Columbia yesterday evening.
+In the last 24 hours, no earthquakes have been detected on our PiQuake Canada dashboard. The largest one recorded was a M3.58 near Port Hardy, BC. It happened around 11:40 PM on June 18th according to UTC time. Nothing unusual to report here, folks!
