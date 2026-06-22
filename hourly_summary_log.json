@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-01T11:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't logged any events in the last hour or day. The largest event recorded within the past 24 hours had an unknown magnitude, took place at an unknown location, and happened at an unknown time. In case you missed it, the latest event was a M0.89 near Saint-Georges, Quebec on May 29th."
-  },
-  {
     "timestamp_utc": "2026-06-01T12:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity events in the last hour or day. The largest event recorded was an unknown magnitude happening at an unknown location, which occurred on June 18th around midnight. There hasn't been any significant seismic events to report lately."
+  },
+  {
+    "timestamp_utc": "2026-06-22T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and there hasn't been a quake recorded within the last 24 hours. The largest event was an unknown magnitude happening at an unknown location on an unspecified time. We did have one M3.58 shake near Port Hardy in British Columbia yesterday evening."
   }
 ]
