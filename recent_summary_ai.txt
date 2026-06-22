@@ -1,1 +1,1 @@
-For those on the Beta PiQuake Canada dashboard, it's quiet out there. There were no events recorded last hour or in the past day, and our latest alert was a M1.31 near Petawawa, Ontario. Everything seems calm for now!
+The PiQuake Canada dashboard didn't have any events in the last hour or day. The largest event recorded was a M1.31 near Petawawa, ON on June 21st at around 11:50 AM. It's quiet as of now.

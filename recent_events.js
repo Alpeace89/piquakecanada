@@ -6,6 +6,18 @@ window.recentEvents = [
     "place": "61 km N of Petawawa, ON/61 km N de Petawawa, ON"
   },
   {
+    "time_utc": "2026-06-19T10:36:33.000Z",
+    "magnitude": "3.5",
+    "depth_km": "10.0",
+    "place": "211 km W of Port Hardy, BC/211 km O de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-06-19T09:03:43.000Z",
+    "magnitude": "2.71",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 24 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 24 km S de Halfway River 168, BC"
+  },
+  {
     "time_utc": "2026-06-19T07:59:01.000Z",
     "magnitude": "2.18",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "3.58",
     "depth_km": "10.0",
     "place": "209 km SW of Port Hardy, BC/209 km SO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-06-18T23:16:53.000Z",
-    "magnitude": "1.88",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 77 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 77 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-18T17:49:05.000Z",
-    "magnitude": "2.74",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 25 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 25 km S de Halfway River 168, BC"
   }
 ];
