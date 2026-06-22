@@ -1,24 +1,24 @@
 {
-  "generated_utc": "2026-06-22T12:03:02Z",
+  "generated_utc": "2026-06-22T13:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 523,
+  "rolling_window_event_count": 524,
   "events_last_24h": 0,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260618.2340001",
-    "time_utc": "2026-06-18T23:40:28.000Z",
-    "latitude": 49.4264,
-    "longitude": -129.6077,
-    "depth_km": 10.0,
-    "mag_type": "Mw'",
-    "magnitude": 3.58,
-    "place": "209 km SW of Port Hardy, BC/209 km SO de Port Hardy, BC",
-    "region": "BC"
+    "event_id": "20260621.1151001",
+    "time_utc": "2026-06-21T11:51:01.000Z",
+    "latitude": 46.4217,
+    "longitude": -77.1653,
+    "depth_km": 4.22,
+    "mag_type": "MwN",
+    "magnitude": 1.31,
+    "place": "61 km N of Petawawa, ON/61 km N de Petawawa, ON",
+    "region": "ON"
   },
   "largest_event_last_24h": null,
   "deepest_event_last_24h": null,
   "top_regions_last_24h": [],
-  "summary_text": "As of 2026-06-22 12:03 UTC, the recent Canada earthquake dataset contains 523 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M3.58 at 209 km SW of Port Hardy, BC/209 km SO de Port Hardy, BC at 2026-06-18T23:40:28.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "summary_text": "As of 2026-06-22 13:03 UTC, the recent Canada earthquake dataset contains 524 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M1.31 at 61 km N of Petawawa, ON/61 km N de Petawawa, ON at 2026-06-21T11:51:01.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
 }

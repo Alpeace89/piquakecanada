@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-21T11:51:01.000Z",
+    "magnitude": "1.31",
+    "depth_km": "4.22",
+    "place": "61 km N of Petawawa, ON/61 km N de Petawawa, ON"
+  },
+  {
     "time_utc": "2026-06-18T23:40:28.000Z",
     "magnitude": "3.58",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.12",
     "depth_km": "16.19",
     "place": "25 km NNE of Mont-Joli, QC/25 km NNE de Mont-Joli, QC"
-  },
-  {
-    "time_utc": "2026-06-18T14:21:24.000Z",
-    "magnitude": "4.42",
-    "depth_km": "21.01",
-    "place": "26 km NNE of Mont-Joli, QC, felt/26 km NNE de Mont-Joli, QC, ressenti"
   }
 ];
