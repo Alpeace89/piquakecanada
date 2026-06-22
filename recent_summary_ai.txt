@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard hasn't had any earthquake events in the last hour or day. The largest event recorded was a magnitude unknown at an unknown location, happening at an unknown time. Noted though, we saw an M1.31 quake near Petawawa, Ontario yesterday at around 11:51 AM.
+In the past 24 hours, no earthquakes have been detected on the PiQuake Canada dashboard. The largest event recorded was a magnitude of M1.31 near Petawawa in Ontario, happening around 11:51 AM on June 21st. Nothing significant has happened lately; it's quiet up there.
