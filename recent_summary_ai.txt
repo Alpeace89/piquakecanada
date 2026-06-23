@@ -1,1 +1,1 @@
-For the last 24 hours, our PiQuake Canada dashboard showed no earthquakes in the area. However, we did get three small quakes, with the biggest being a M2.61 near Bella Coola, BC. That event happened just after noon today. The areas that had recent activity are British Columbia and Yukon Territory.
+In the past 24 hours, we've had three minor earthquakes in British Columbia and the Yukon. The largest one measured at M2.61 near Bella Coola, BC. This dashboard is tracking these quakes to keep everyone informed. Latest quake was on June 23rd around 1:50 PM local time.

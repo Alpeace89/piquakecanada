@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-03T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of 8 events reported on our PiQuake Canada dashboard. The largest event was a M3.59 near Grande Prairie in Alberta and it's suspected to be an industry-related activity. This is the latest event as well. In that time, YT (Yellowknife area) had three reports, BC (British Columbia) had two, and one event's origin could not be determined."
-  },
-  {
     "timestamp_utc": "2026-06-03T05:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the last 24 hours, our PiQuake Canada dashboard showed no earthquakes in the area. However, we did get three small quakes, with the biggest being a M2.61 near Bella Coola, BC. That event happened just after noon today. The areas that had recent activity are British Columbia and Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-06-23T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had three minor earthquakes in British Columbia and the Yukon. The largest one measured at M2.61 near Bella Coola, BC. This dashboard is tracking these quakes to keep everyone informed. Latest quake was on June 23rd around 1:50 PM local time."
   }
 ]
