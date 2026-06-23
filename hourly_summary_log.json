@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-02T23:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were eight suspected industry-related quakes in the past day. The largest one was a M3.59 near Grande Prairie, Alberta. That's the latest and only event we know about from yesterday."
-  },
-  {
     "timestamp_utc": "2026-06-03T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were three small quakes yesterday. The largest one happened just west-northwest of Bella Coola, not far offshore, with a strength of M2.61. That's the latest and only event we have for now."
+  },
+  {
+    "timestamp_utc": "2026-06-23T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there have been three minor quakes recorded by our PiQuake Canada dashboard. The largest one measured M2.61 and happened about 29 km west-northwest of Bella Coola in British Columbia and another bit northwest of that location. It occurred just over an hour ago at around 1:50 PM UTC, with the latest event being part of this cluster. Notable places experiencing these quakes are mainly in British Columbia with two occurrences, and one in the Yukon Territory."
   }
 ]
