@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
   },
   {
+    "time_utc": "2026-06-22T08:06:53.000Z",
+    "magnitude": "0.36",
+    "depth_km": "17.34",
+    "place": "4 km SSW of La Malbaie, QC/4 km SSO de La Malbaie, QC"
+  },
+  {
     "time_utc": "2026-06-21T11:51:01.000Z",
     "magnitude": "1.31",
     "depth_km": "4.22",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.77",
     "depth_km": "10.0",
     "place": "23 km WSW of Yuquot 1, BC/23 km OSO de Yuquot 1, BC"
-  },
-  {
-    "time_utc": "2026-06-19T12:47:14.000Z",
-    "magnitude": "2.19",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 25 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 25 km S de Halfway River 168, BC"
   }
 ];
