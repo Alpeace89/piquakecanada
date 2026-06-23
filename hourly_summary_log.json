@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-02T07:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and there's also nothing big happening right now. The latest event was a small one measuring M1.33 near Maniwaki, QC/ON area on May 31st around 11:55 PM."
-  },
-  {
     "timestamp_utc": "2026-06-02T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, with a recent event measuring M1.31 happening near Petawawa, ON at an unknown time yesterday."
+  },
+  {
+    "timestamp_utc": "2026-06-23T02:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is currently in its beta phase, and we haven't had any earthquake events recorded in the last 24 hours. The largest event reported was a magnitude unknown one that happened at an unknown location on an unknown time. We're tracking nothing significant so far today."
   }
 ]

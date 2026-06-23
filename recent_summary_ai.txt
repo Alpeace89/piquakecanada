@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day, with a recent event measuring M1.31 happening near Petawawa, ON at an unknown time yesterday.
+The PiQuake Canada dashboard is currently in its beta phase, and we haven't had any earthquake events recorded in the last 24 hours. The largest event reported was a magnitude unknown one that happened at an unknown location on an unknown time. We're tracking nothing significant so far today.
