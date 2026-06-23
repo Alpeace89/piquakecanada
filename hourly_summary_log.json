@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-02T10:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a magnitude unknown, located at an unknown place and time. As of yesterday's night, we had our latest quake with a magnitude of M1.33, coming from just outside Maniwaki in Quebec."
-  },
-  {
     "timestamp_utc": "2026-06-02T11:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, with the largest event being an unknown magnitude happening somewhere near Petawawa. The latest recorded activity was a M1.31 on June 21st at about 11:51 AM, which is close to Petawawa again."
+  },
+  {
+    "timestamp_utc": "2026-06-23T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is showing no events in the last hour or day. The largest event recorded was a magnitude unknown one, happening at an unknown location and time. The latest quakie spotted on our dashboard was a M1.31 near Petawawa, ON, which happened yesterday at about 11:50 AM."
   }
 ]

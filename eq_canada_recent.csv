@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260509.0423001,2026-05-09T04:23:17.000Z,47.4265,-70.0568,7.33,MwN,0.11,"6 km NNW of La Pocatière, QC/6 km NNO de La Pocatière, QC"
 20260509.0600001,2026-05-09T06:00:03.000Z,47.6297,-70.0473,23.33,MwN,0.44,"8 km ESE of La Malbaie, QC/8 km ESE de La Malbaie, QC"
 20260509.0642001,2026-05-09T06:42:34.000Z,47.5491,-70.1525,17.87,MwN,0.73,"11 km S of La Malbaie, QC/11 km S de La Malbaie, QC"
 20260509.1100001,2026-05-09T11:00:42.000Z,54.4085,-118.3979,1.51,MLy,2.42,"Suspected industry-related event, 89 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 89 km SSE de Grande Prairie, AB"
