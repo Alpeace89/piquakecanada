@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-03T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey there, folks! We had a small shake last night with the largest event being a M3.59 near Grande Prairie in Alberta. It's suspected to be related to an industry operation. That was our only big one yesterday, and mostly we're seeing activity around Yukon Territory, British Columbia, and it seems like there might be some unknown origins as well."
-  },
-  {
     "timestamp_utc": "2026-06-03T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour but three in the previous 24 hours. The largest quake was a M2.61 about 29 km west-northwest of Bella Coola, British Columbia, happening around noon today. This area has experienced similar quakes before, and it's all part of Canada's natural rhythm of seismic activity."
+  },
+  {
+    "timestamp_utc": "2026-06-23T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the last 24 hours, our PiQuake Canada dashboard showed no earthquakes in the area. However, we did get three small quakes, with the biggest being a M2.61 near Bella Coola, BC. That event happened just after noon today. The areas that had recent activity are British Columbia and Yukon Territory."
   }
 ]
