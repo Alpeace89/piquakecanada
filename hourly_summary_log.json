@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-02T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no earthquakes detected by our PiQuake Canada dashboard. However, we did notice a suspected industry-related event with a magnitude of M3.59 about 66 kilometers southeast of Grande Prairie in Alberta. It happened at around 8:55 PM on June 2nd, and this was the largest quake reported in that period. We also have reports from Yukon Territory (3), British Columbia (2), and an unknown region with one event each."
-  },
-  {
     "timestamp_utc": "2026-06-02T23:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and the largest event was a M1.31 near Petawawa, Ontario yesterday at about noon. It's quiet out there for now!"
+  },
+  {
+    "timestamp_utc": "2026-06-23T17:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were three small quakes yesterday. The largest one happened just west-northwest of Bella Coola, not far offshore, with a strength of M2.61. That's the latest and only event we have for now."
   }
 ]

@@ -1,5 +1,23 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-23T13:51:50.000Z",
+    "magnitude": "2.61",
+    "depth_km": "5.0",
+    "place": "29 km WNW of Bella Coola 1, BC/29 km ONO de Bella Coola 1, BC"
+  },
+  {
+    "time_utc": "2026-06-23T10:07:29.000Z",
+    "magnitude": "1.18",
+    "depth_km": "5.0",
+    "place": "72 km SW of Lohbiee 3, BC/72 km SO de Lohbiee 3, BC"
+  },
+  {
+    "time_utc": "2026-06-23T04:45:22.000Z",
+    "magnitude": "2.42",
+    "depth_km": "1.0",
+    "place": "127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-06-21T11:51:01.000Z",
     "magnitude": "1.31",
     "depth_km": "4.22",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.19",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 25 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 25 km S de Halfway River 168, BC"
-  },
-  {
-    "time_utc": "2026-06-19T10:36:33.000Z",
-    "magnitude": "3.5",
-    "depth_km": "10.0",
-    "place": "211 km W of Port Hardy, BC/211 km O de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-06-19T09:03:43.000Z",
-    "magnitude": "2.71",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 24 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 24 km S de Halfway River 168, BC"
-  },
-  {
-    "time_utc": "2026-06-19T07:59:01.000Z",
-    "magnitude": "2.18",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 41 km SW of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 41 km SO de Prespatou, BC"
   }
 ];

@@ -534,3 +534,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260620.1216001,2026-06-20T12:16:42.000Z,48.8698,-128.9283,10.0,Mw',3.06,"230 km SSW of Port Hardy, BC/230 km SSO de Port Hardy, BC"
 20260621.0530001,2026-06-21T05:30:18.000Z,66.0748,-135.1192,5.0,ML,3.49,"152 km S of Fort McPherson, NT/152 km S de Fort McPherson, NT"
 20260621.1151001,2026-06-21T11:51:01.000Z,46.4217,-77.1653,4.22,MwN,1.31,"61 km N of Petawawa, ON/61 km N de Petawawa, ON"
+20260623.0445001,2026-06-23T04:45:22.000Z,60.5153,-139.7938,1.0,ML,2.42,"127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
+20260623.1007001,2026-06-23T10:07:29.000Z,51.1003,-124.7904,5.0,ML,1.18,"72 km SW of Lohbiee 3, BC/72 km SO de Lohbiee 3, BC"
+20260623.1351001,2026-06-23T13:51:50.000Z,52.4494,-127.1307,5.0,ML,2.61,"29 km WNW of Bella Coola 1, BC/29 km ONO de Bella Coola 1, BC"

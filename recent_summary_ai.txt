@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day, and the largest event was a M1.31 near Petawawa, Ontario yesterday at about noon. It's quiet out there for now!
+The PiQuake Canada dashboard shows no earthquakes in the last hour, but there were three small quakes yesterday. The largest one happened just west-northwest of Bella Coola, not far offshore, with a strength of M2.61. That's the latest and only event we have for now.
