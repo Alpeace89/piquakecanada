@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-02T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no seismic events in the last hour, but there were seven detected quakes in the past day. The largest one was a M2.75 event linked to industry, happening about 55 kilometers west of Prespatou in British Columbia on June 2nd at around 17:04 UTC. It's still being investigated whether it was related to human activities or natural causes."
-  },
-  {
     "timestamp_utc": "2026-06-02T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, no earthquakes have been detected by our PiQuake Canada dashboard. The largest recorded event was a magnitude of M1.31 near Petawawa in Ontario. It happened on June 21 at about 11:50 AM local time."
+  },
+  {
+    "timestamp_utc": "2026-06-23T16:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and the largest event was a M1.31 near Petawawa, Ontario yesterday at about noon. It's quiet out there for now!"
   }
 ]

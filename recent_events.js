@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "230 km SSW of Port Hardy, BC/230 km SSO de Port Hardy, BC"
   },
   {
+    "time_utc": "2026-06-19T18:09:49.000Z",
+    "magnitude": "2.22",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 25 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 25 km S de Halfway River 168, BC"
+  },
+  {
     "time_utc": "2026-06-19T15:38:33.000Z",
     "magnitude": "2.76",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.18",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 41 km SW of Prespatou, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 41 km SO de Prespatou, BC"
-  },
-  {
-    "time_utc": "2026-06-19T06:49:47.000Z",
-    "magnitude": "2.0",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 38 km WNW of Fox Creek, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 38 km ONO de Fox Creek, AB"
   }
 ];
