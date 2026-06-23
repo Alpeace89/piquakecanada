@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-02T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events reported in the last hour, but we had one event yesterday that measured M2.1 and was felt or noticed near La Malbaie in Quebec. The latest one occurred this morning around 6:30 AM local time. It's interesting to note most of these happenings are still unknown since the system is in its beta phase."
-  },
-  {
     "timestamp_utc": "2026-06-02T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day, and the largest one recorded was M1.31 just north of Petawawa, ON around June 21st at about 11:50 AM local time. Not much going on up there!"
+  },
+  {
+    "timestamp_utc": "2026-06-23T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard hasn't had any activity in the last hour or day. The largest event recorded was a magnitude unknown, happening at an unknown location and time. Our latest recording is of a M1.31 earthquake, which happened on June 21st around 11:50 AM in Petawawa, Ontario."
   }
 ]
