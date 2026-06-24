@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260510.1832001,2026-05-10T18:32:34.000Z,53.8499,-132.2347,18.42,ML,2.78,"19 km SSW of Masset, BC/19 km SSO de Masset, BC"
 20260510.2059001,2026-05-10T20:59:41.000Z,48.9458,-128.6124,10.0,Mw',3.03,"199 km W of Tofino, BC/199 km O de Tofino, BC"
 20260510.2245003,2026-05-10T22:45:17.000Z,52.9839,-132.7268,20.98,Mw,4.11,"52 km SW of Daajing Giids, BC, felt/52 km SO de Daajing Giids, BC, ressenti"
 20260511.0012001,2026-05-11T00:12:35.000Z,53.0118,-132.7006,15.95,ML,2.63,"49 km WSW of Daajing Giids, BC/49 km OSO de Daajing Giids, BC"
@@ -535,3 +534,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260623.1248001,2026-06-23T12:48:51.000Z,47.481,-70.0319,7.53,MwN,0.77,"12 km N of La Pocatière, QC/12 km N de La Pocatière, QC"
 20260623.1351001,2026-06-23T13:51:50.000Z,52.4494,-127.1307,5.0,ML,2.61,"29 km WNW of Bella Coola 1, BC/29 km ONO de Bella Coola 1, BC"
 20260623.2135001,2026-06-23T21:35:19.000Z,52.843,-67.249,0.0,MwN,2.31,"Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC"
+20260624.0706001,2026-06-24T07:06:20.000Z,47.6814,-70.1817,7.62,MwN,-0.09,"4 km NW of La Malbaie, QC/4 km NO de La Malbaie, QC"

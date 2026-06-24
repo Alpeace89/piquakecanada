@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of 10 events reported. The largest one was a M3.52 quake near Burwash Landing, Yukon and Grande Prairie, Alberta. The latest event clocked in at M2.56, suspected to be from an industry-related source. Notable activity has been concentrated in British Columbia, Alberta, and the Northwest Territories."
-  },
-  {
     "timestamp_utc": "2026-06-04T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M2.31 earthquake that happened near Fermont in Quebec. This is part of their daily monitoring to keep people updated on any seismic activity in the area."
+  },
+  {
+    "timestamp_utc": "2026-06-24T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two minor seismic events in Canada. The largest one was a M2.31 near Fermont and Dynamitage site, while the latest event was just a tiny shake at La Malbaie. It's all part of our regular monitoring here at PiQuake Canada Dashboard."
   }
 ]

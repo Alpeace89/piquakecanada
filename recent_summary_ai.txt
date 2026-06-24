@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M2.31 earthquake that happened near Fermont in Quebec. This is part of their daily monitoring to keep people updated on any seismic activity in the area.
+In the last 24 hours, we've had two minor seismic events in Canada. The largest one was a M2.31 near Fermont and Dynamitage site, while the latest event was just a tiny shake at La Malbaie. It's all part of our regular monitoring here at PiQuake Canada Dashboard.

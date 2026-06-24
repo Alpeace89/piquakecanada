@@ -1,20 +1,20 @@
 {
-  "generated_utc": "2026-06-24T18:03:02Z",
+  "generated_utc": "2026-06-24T19:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 536,
-  "events_last_24h": 1,
+  "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260623.2135001",
-    "time_utc": "2026-06-23T21:35:19.000Z",
-    "latitude": 52.843,
-    "longitude": -67.249,
-    "depth_km": 0.0,
+    "event_id": "20260624.0706001",
+    "time_utc": "2026-06-24T07:06:20.000Z",
+    "latitude": 47.6814,
+    "longitude": -70.1817,
+    "depth_km": 7.62,
     "mag_type": "MwN",
-    "magnitude": 2.31,
-    "place": "Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC",
+    "magnitude": -0.09,
+    "place": "4 km NW of La Malbaie, QC/4 km NO de La Malbaie, QC",
     "region": "QC"
   },
   "largest_event_last_24h": {
@@ -29,21 +29,21 @@
     "region": "QC"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260623.2135001",
-    "time_utc": "2026-06-23T21:35:19.000Z",
-    "latitude": 52.843,
-    "longitude": -67.249,
-    "depth_km": 0.0,
+    "event_id": "20260624.0706001",
+    "time_utc": "2026-06-24T07:06:20.000Z",
+    "latitude": 47.6814,
+    "longitude": -70.1817,
+    "depth_km": 7.62,
     "mag_type": "MwN",
-    "magnitude": 2.31,
-    "place": "Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC",
+    "magnitude": -0.09,
+    "place": "4 km NW of La Malbaie, QC/4 km NO de La Malbaie, QC",
     "region": "QC"
   },
   "top_regions_last_24h": [
     {
       "region": "QC",
-      "count": 1
+      "count": 2
     }
   ],
-  "summary_text": "As of 2026-06-24 18:03 UTC, the recent Canada earthquake dataset contains 536 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.31 at Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC. The deepest event reached 0.00 km at Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC. The most recent listed event was M2.31 at Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC at 2026-06-23T21:35:19.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
+  "summary_text": "As of 2026-06-24 19:03 UTC, the recent Canada earthquake dataset contains 536 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.31 at Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC. The deepest event reached 7.62 km at 4 km NW of La Malbaie, QC/4 km NO de La Malbaie, QC. The most recent listed event was M-0.09 at 4 km NW of La Malbaie, QC/4 km NO de La Malbaie, QC at 2026-06-24T07:06:20.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
 }
