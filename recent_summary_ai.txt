@@ -1,1 +1,1 @@
-For the PiQuake Canada dashboard, we had no events reported in the last hour but one event happened yesterday. It was a M2.31 magnitude quake located near Fermont in Quebec and Ontario areas as part of some dynamite blasting activities. That's the latest activity on our radar for now.
+The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday. It was a M2.31 earthquake that happened near Fermont in Quebec. This is part of their daily monitoring to keep people updated on any seismic activity in the area.
