@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-03T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary for the PiQuake Canada dashboard in plain Canadian English: For the last 24 hours, we had three minor events. The biggest one was an M3.59 event suspected to be linked to industry, happening about 66 km southeast of Grande Prairie in Alberta. It happened on June 1st around 8:55 PM. We haven't seen many reports from BC so far."
-  },
-  {
     "timestamp_utc": "2026-06-03T10:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had three minor quakes recorded. The largest one measured M2.61 and happened around Bella Coola in British Columbia. It's been quiet overall with no major events lately, but it looks like things are happening more in BC and the Yukon Territory compared to usual."
+  },
+  {
+    "timestamp_utc": "2026-06-24T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of 3 minor seismic events detected in Canada. The largest one was a M2.61 near Bella Coola in British Columbia and Yukon. That's it for now — there haven't been any significant events recently to report."
   }
 ]
