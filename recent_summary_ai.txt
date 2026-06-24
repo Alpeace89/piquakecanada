@@ -1,1 +1,1 @@
-In the last 24 hours, we had a total of two earthquakes recorded. The largest one was a M2.61 near Bella Coola in British Columbia. That's the most activity we've seen in that region since June 23rd at around 1:50 PM.
+The PiQuake Canada dashboard shows no events in the last hour but had one event yesterday. The largest quake was a M2.61 that occurred 29 km west-northwest of Bella Coola, BC, 29 km north of its location on June 23 at around noon UTC. This is the latest and only event tracked by the dashboard in the last 24 hours.

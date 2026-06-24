@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260510.1030001,2026-05-10T10:30:25.000Z,59.0672,-136.08,1.0,ML,3.29,"127 km NW of Juneau, AK/127 km NO de Juneau, AK"
 20260510.1401001,2026-05-10T14:01:40.000Z,41.8025,-81.0933,5.0,MwN,2.03,"62 km NE of Cleveland, OH/62 km NE de Cleveland, OH"
 20260510.1832001,2026-05-10T18:32:34.000Z,53.8499,-132.2347,18.42,ML,2.78,"19 km SSW of Masset, BC/19 km SSO de Masset, BC"
 20260510.2059001,2026-05-10T20:59:41.000Z,48.9458,-128.6124,10.0,Mw',3.03,"199 km W of Tofino, BC/199 km O de Tofino, BC"
