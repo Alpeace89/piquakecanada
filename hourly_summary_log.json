@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-03T15:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no earthquakes were detected in the last hour, but there were two events recorded yesterday. The largest event was a M3.59 and it appeared to be an industry-related quake near Grande Prairie, Alberta. It happened about 66 km south-southeast of that city on June 2nd at around 8:54 PM UTC."
-  },
-  {
     "timestamp_utc": "2026-06-03T16:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had no new quakes reported, but two more minor earthquakes were recorded. The largest one measured M2.61 and happened around 30 kilometers west-northwest of Bella Coola in British Columbia. It was just a few days after another quake on June 23rd with the same magnitude, so it's been quite active in that area lately."
+  },
+  {
+    "timestamp_utc": "2026-06-24T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of two earthquakes recorded. The largest one was a M2.61 near Bella Coola in British Columbia. That's the most activity we've seen in that region since June 23rd at around 1:50 PM."
   }
 ]
