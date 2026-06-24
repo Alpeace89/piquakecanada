@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we had a total of nine seismic events recorded on our PiQuake Canada dashboard. The largest event was a M3.52 under Burwash Landing in the Yukon and British Columbia, which happened just before noon yesterday. We also saw a M2.56 quake near Grande Prairie in Alberta earlier today. Most of these occurred within British Columbia and Alberta, with some spotted in the Northwest Territories as well."
-  },
-  {
     "timestamp_utc": "2026-06-04T05:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Hey folks, it's been a quiet 24 hours for PiQuake Canada with no big shakes to report. But we did get two little tremors yesterday—both M2.52 near Whitehorse in the Yukon and Quebec. The latest one happened just before noon on June 24th. So far, so good!"
+  },
+  {
+    "timestamp_utc": "2026-06-24T23:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two minor earthquakes with a magnitude of M2.52 each near Whitehorse in Yukon and Quebec City. The latest one occurred on June 24th at around 1 PM local time. It's been quiet for now, but our dashboard tracks these events to keep everyone informed."
   }
 ]
