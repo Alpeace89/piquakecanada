@@ -1,9 +1,21 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-23T21:35:19.000Z",
+    "magnitude": "2.31",
+    "depth_km": "0.0",
+    "place": "Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC"
+  },
+  {
     "time_utc": "2026-06-23T13:51:50.000Z",
     "magnitude": "2.61",
     "depth_km": "5.0",
     "place": "29 km WNW of Bella Coola 1, BC/29 km ONO de Bella Coola 1, BC"
+  },
+  {
+    "time_utc": "2026-06-23T12:48:51.000Z",
+    "magnitude": "0.77",
+    "depth_km": "7.53",
+    "place": "12 km N of La Pocati\u00e8re, QC/12 km N de La Pocati\u00e8re, QC"
   },
   {
     "time_utc": "2026-06-23T10:07:29.000Z",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.22",
     "depth_km": "1.0",
     "place": "Suspected industry-related event, 25 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 25 km S de Halfway River 168, BC"
-  },
-  {
-    "time_utc": "2026-06-19T15:38:33.000Z",
-    "magnitude": "2.76",
-    "depth_km": "5.0",
-    "place": "101 km SSW of Burwash Landing, YT/101 km SSO de Burwash Landing, YT"
-  },
-  {
-    "time_utc": "2026-06-19T14:44:43.000Z",
-    "magnitude": "1.77",
-    "depth_km": "10.0",
-    "place": "23 km WSW of Yuquot 1, BC/23 km OSO de Yuquot 1, BC"
   }
 ];
