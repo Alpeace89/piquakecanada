@@ -1,1 +1,1 @@
-In the last 24 hours, we had one event on our PiQuake Canada dashboard. It was a M2.61 earthquake that happened 29 km WNW of Bella Coola, BC/29 km ONO from there. That's just like yesterday when it happened around noon.
+For the PiQuake Canada dashboard, we've had zero earthquakes in the last hour and nothing either. The biggest one yesterday was a mystery quake happening somewhere mysterious. It seems we only saw one event today, back on June 23 at around 1 PM with a magnitude of M2.61 near Bella Coola, BC.
