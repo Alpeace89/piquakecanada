@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-03T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the PiQuake Canada dashboard, we've had a quiet few days with no major seismic events. The largest one recorded was a M3.59 near Grande Prairie in Alberta yesterday evening, suspected to be related to industry work. It's been our first activity in this region for the last 24 hours, but not uncommon for BC and Yukon to experience more frequent small shakes."
-  },
-  {
     "timestamp_utc": "2026-06-03T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there were no new quakes reported, but a small one measuring M2.61 happened in BC near Bella Coola. It's the largest quake we've seen since our beta dashboard went live last month. And to give you an idea of where it was felt, that place is about as far from Vancouver as Bella Coola itself!"
+  },
+  {
+    "timestamp_utc": "2026-06-24T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had three minor quakes recorded. The largest one measured M2.61 and happened around Bella Coola in British Columbia. It's been quiet overall with no major events lately, but it looks like things are happening more in BC and the Yukon Territory compared to usual."
   }
 ]
