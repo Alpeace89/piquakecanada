@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were nine recorded quakes over the past 24 hours. The largest one was a M3.52 near Burwash Landing, while a smaller M2.56 event happened not too far from Grande Prairie linked to industry activities. Most of these quakes have been happening in British Columbia and Alberta regions."
-  },
-  {
     "timestamp_utc": "2026-06-04T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events today, but over the last 24 hours we had two minor quakes. The largest one measured M2.31 near Fermont and La Malbaie areas on June 23rd around 9 PM local time. We've also seen a little jolt of magnitude -0.09 in the same area this morning at about 7:10 AM. QC has been the top region with two quakes in the last day."
+  },
+  {
+    "timestamp_utc": "2026-06-24T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Hey folks, it's been a quiet 24 hours for PiQuake Canada with no big shakes to report. But we did get two little tremors yesterday—both M2.52 near Whitehorse in the Yukon and Quebec. The latest one happened just before noon on June 24th. So far, so good!"
   }
 ]

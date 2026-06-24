@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-24T13:16:25.000Z",
+    "magnitude": "2.52",
+    "depth_km": "1.0",
+    "place": "167 km SSW of Whitehorse, YT/167 km SSO de Whitehorse, YT"
+  },
+  {
     "time_utc": "2026-06-24T07:06:20.000Z",
     "magnitude": "-0.09",
     "depth_km": "7.62",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "3.49",
     "depth_km": "5.0",
     "place": "152 km S of Fort McPherson, NT/152 km S de Fort McPherson, NT"
-  },
-  {
-    "time_utc": "2026-06-20T12:16:42.000Z",
-    "magnitude": "3.06",
-    "depth_km": "10.0",
-    "place": "230 km SSW of Port Hardy, BC/230 km SSO de Port Hardy, BC"
   }
 ];
