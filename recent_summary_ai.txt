@@ -1,1 +1,1 @@
-In the past 24 hours, we've had three minor earthquakes in British Columbia and the Yukon. The largest one measured at M2.61 near Bella Coola, BC. This dashboard is tracking these quakes to keep everyone informed. Latest quake was on June 23rd around 1:50 PM local time.
+In the last 24 hours, we had three small earthquakes monitored by PiQuake Canada. The largest one was a M2.61 near Bella Coola in British Columbia on June 23rd at around 1 PM. This is not uncommon as we've seen two occurrences in BC and one in Yukon over the last day.
