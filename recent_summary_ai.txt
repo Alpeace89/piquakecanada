@@ -1,1 +1,1 @@
-In the last 24 hours, we've had two minor seismic events in Canada. The largest one was a M2.31 near Fermont and Dynamitage site, while the latest event was just a tiny shake at La Malbaie. It's all part of our regular monitoring here at PiQuake Canada Dashboard.
+In the last 24 hours, we had a total of two minor quakes reported. The largest one was a little over M2, happening near Fermont in Quebec and another place close to La Malbaie too. It's all part of what we call PiQuake Canada, our monitoring dashboard for these small seismic events that happen naturally around us.
