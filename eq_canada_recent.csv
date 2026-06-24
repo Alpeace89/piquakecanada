@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260510.0818001,2026-05-10T08:18:24.000Z,45.5036,-75.4712,6.09,MwN,0.48,"14 km E of Gatineau, QC/14 km E de Gatineau, QC"
 20260510.0933001,2026-05-10T09:33:47.000Z,59.8299,-139.23,1.0,ML,2.58,"140 km SW of Haines Junction, YT/140 km SO de Haines Junction, YT"
 20260510.1030001,2026-05-10T10:30:25.000Z,59.0672,-136.08,1.0,ML,3.29,"127 km NW of Juneau, AK/127 km NO de Juneau, AK"
 20260510.1401001,2026-05-10T14:01:40.000Z,41.8025,-81.0933,5.0,MwN,2.03,"62 km NE of Cleveland, OH/62 km NE de Cleveland, OH"
