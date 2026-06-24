@@ -1,1 +1,1 @@
-In the last 24 hours, we had a total of 3 minor seismic events detected in Canada. The largest one was a M2.61 near Bella Coola in British Columbia and Yukon. That's it for now — there haven't been any significant events recently to report.
+The PiQuake Canada dashboard is up and running, with no new earthquakes reported in the last hour. However, there were two small quakes recorded yesterday evening near Bella Coola, BC. The largest one was a M2.61, just outside of town in an area that tends to shake from time to time.
