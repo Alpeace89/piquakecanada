@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard is up and running, with no new earthquakes reported in the last hour. However, there were two small quakes recorded yesterday evening near Bella Coola, BC. The largest one was a M2.61, just outside of town in an area that tends to shake from time to time.
+In the last 24 hours, we had a total of 2 earthquakes detected. The biggest one measured M2.61 and occurred near Bella Coola in British Columbia. This is the only earthquake reported in the past day. BC has been the most active region in this period.

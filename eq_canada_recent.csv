@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260510.0528001,2026-05-10T05:28:08.000Z,44.3749,-77.2281,5.0,MwN,0.95,"9 km NNW of Tyendinaga, ON/9 km NNO de Tyendinaga, ON"
 20260510.0722001,2026-05-10T07:22:18.000Z,58.3965,-137.6243,5.0,ML,2.43,"187 km W of Juneau, AK/187 km O de Juneau, AK"
 20260510.0818001,2026-05-10T08:18:24.000Z,45.5036,-75.4712,6.09,MwN,0.48,"14 km E of Gatineau, QC/14 km E de Gatineau, QC"
 20260510.0933001,2026-05-10T09:33:47.000Z,59.8299,-139.23,1.0,ML,2.58,"140 km SW of Haines Junction, YT/140 km SO de Haines Junction, YT"
