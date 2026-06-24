@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-06-24T16:03:01Z",
+  "generated_utc": "2026-06-24T17:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 536,
   "events_last_24h": 1,
@@ -45,5 +45,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-24 16:03 UTC, the recent Canada earthquake dataset contains 536 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.31 at Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC. The deepest event reached 0.00 km at Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC. The most recent listed event was M2.31 at Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC at 2026-06-23T21:35:19.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
+  "summary_text": "As of 2026-06-24 17:03 UTC, the recent Canada earthquake dataset contains 536 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.31 at Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC. The deepest event reached 0.00 km at Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC. The most recent listed event was M2.31 at Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC at 2026-06-23T21:35:19.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
 }
