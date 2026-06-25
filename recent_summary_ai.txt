@@ -1,1 +1,1 @@
-In the last 24 hours, we had three PiQuake Canada dashboard events. The largest one was a M4.1 just 80 km southeast of Rampart House in the Yukon and Nunavut territories. We also saw a tiny M0.94 shake at Baie-Saint-Paul in Quebec. Most of these happened in the northern part of our country, with two in Quebec and one in the Yukon.
+The PiQuake Canada dashboard is tracking three events in the past 24 hours with a largest one measuring M4.1 near Rampart House, YT. The latest event was a minor quake at Baie-Saint-Paul, QC. Most of these happened in Quebec and Yukon Territory.

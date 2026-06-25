@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had four PiQuake Canada events. The largest one was a M3.75 near Hinton in Alberta. This happened just after midnight UTC on June 4th. It's been quiet around here with no activity for the past hour. We're seeing more action out West, mostly in British Columbia and Quebec provinces."
-  },
-  {
     "timestamp_utc": "2026-06-05T00:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had three PiQuake Canada dashboard events. The largest one was a M4.1 just 80 km southeast of Rampart House in the Yukon and Nunavut territories. We also saw a tiny M0.94 shake at Baie-Saint-Paul in Quebec. Most of these happened in the northern part of our country, with two in Quebec and one in the Yukon."
+  },
+  {
+    "timestamp_utc": "2026-06-25T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is tracking three events in the past 24 hours with a largest one measuring M4.1 near Rampart House, YT. The latest event was a minor quake at Baie-Saint-Paul, QC. Most of these happened in Quebec and Yukon Territory."
   }
 ]
