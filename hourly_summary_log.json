@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had four minor seismic events. The largest one was a M3.75 near Hinton in Alberta, happening just after 7 PM yesterday. This is part of what our PiQuake Canada dashboard shows us—just a few small quakes to keep an eye on."
-  },
-  {
     "timestamp_utc": "2026-06-04T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had a total of three small earthquakes. The biggest one was a M4.1 near Rampart House in the Yukon Territory and Quebec. In that same timeframe, two more quakes were recorded in Quebec. And just yesterday at noon, a tiny shake with a magnitude of M0.94 occurred 12 km east of Baie-Saint-Paul. It looks like we're seeing activity across different parts of Canada too—two big ones happened in Quebec and one near Rampart House in the Yukon."
+  },
+  {
+    "timestamp_utc": "2026-06-25T17:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had three PiQuake Canada dashboard events. The largest one was a M4.1 just 80 km southeast of Rampart House in the Yukon and Nunavut territories. We also saw a tiny M0.94 shake at Baie-Saint-Paul in Quebec. Most of these happened in the northern part of our country, with two in Quebec and one in the Yukon."
   }
 ]

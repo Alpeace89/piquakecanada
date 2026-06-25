@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260511.1613001,2026-05-11T16:13:48.000Z,45.6519,-79.9269,2.0,MwN,0.72,"16 km N of McKellar, ON/16 km N de McKellar, ON"
-20260511.1624001,2026-05-11T16:24:34.000Z,52.8053,-67.0591,0.0,MwN,2.38,"Blast, 3 km NNE of Fermont, QC/Dynamitage, 3 km NNE de Fermont, QC"
 20260511.1949001,2026-05-11T19:49:06.000Z,53.8583,-132.2304,16.91,ML,2.33,"18 km SSW of Masset, BC/18 km SSO de Masset, BC"
 20260511.2254001,2026-05-11T22:54:16.000Z,51.059,-93.7669,1.0,MwN,2.1,"Blast, 2 km W of Golden, ON/Dynamitage, 2 km O de Golden, ON"
 20260511.2303001,2026-05-11T23:03:14.000Z,48.9759,-124.1588,23.96,ML1,0.81,"26 km SW of Nanaimo, BC/26 km SO de Nanaimo, BC"
