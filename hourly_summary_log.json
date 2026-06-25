@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-05T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had six seismic events. The largest one was a M3.75 near Hinton in Alberta on June 4th at about 7 PM. That's been our biggest event since early May. In total, there have been three quakes reported today, all happening around the Yukon Territory and British Columbia regions."
-  },
-  {
     "timestamp_utc": "2026-06-05T05:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had four quakes across Canada. The biggest one measured M4.07 and happened about 110 km southwest of Old Crow in the Yukon Territory. In recent times, we've also seen a few smaller ones around New Brunswick and Quebec regions."
+  },
+  {
+    "timestamp_utc": "2026-06-25T23:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of four quakes reported. The largest one measured M4.07 and happened about 107 km south-southwest of Old Crow in the Yukon Territory. We also saw a tiny shake measuring just M1.59 near North Tetagouche in New Brunswick. Most of these occurred in Quebec, the Yukon, and New Brunswick that we know of."
   }
 ]
