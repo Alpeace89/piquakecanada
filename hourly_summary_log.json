@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T09:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had six small tremors across British Columbia, the Yukon Territory, and Alberta. The largest one was a M3.52 near Burwash Landing, which is quite close to where another event happened yesterday. There's also this one from Grande Prairie that seems like it might be an industry-related shake-up, about 41 km south-southeast of the city."
-  },
-  {
     "timestamp_utc": "2026-06-04T10:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two minor earthquakes here in Canada. The largest one measured M2.52 and happened 167 km south-southwest of Whitehorse, both on the ground in Yukon Territory. That's where our dashboard saw an event just now at about 1 PM today. So far, it's all we've had from this little seismic activity."
+  },
+  {
+    "timestamp_utc": "2026-06-25T04:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two quakes monitored by the PiQuake Canada dashboard. The largest one was a M2.52 near Whitehorse in the Yukon Territory, and it happened yesterday at 1:16 PM local time. And to keep track of things, there's one area called Quebec (QC) that has seen some minor activity too."
   }
 ]
