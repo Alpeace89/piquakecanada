@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-06-25T01:03:02Z",
+  "generated_utc": "2026-06-25T02:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 534,
   "events_last_24h": 2,
@@ -49,5 +49,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-25 01:03 UTC, the recent Canada earthquake dataset contains 534 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.52 at 167 km SSW of Whitehorse, YT/167 km SSO de Whitehorse, YT. The deepest event reached 7.62 km at 4 km NW of La Malbaie, QC/4 km NO de La Malbaie, QC. The most recent listed event was M2.52 at 167 km SSW of Whitehorse, YT/167 km SSO de Whitehorse, YT at 2026-06-24T13:16:25.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (1) and YT (1)."
+  "summary_text": "As of 2026-06-25 02:03 UTC, the recent Canada earthquake dataset contains 534 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.52 at 167 km SSW of Whitehorse, YT/167 km SSO de Whitehorse, YT. The deepest event reached 7.62 km at 4 km NW of La Malbaie, QC/4 km NO de La Malbaie, QC. The most recent listed event was M2.52 at 167 km SSW of Whitehorse, YT/167 km SSO de Whitehorse, YT at 2026-06-24T13:16:25.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (1) and YT (1)."
 }

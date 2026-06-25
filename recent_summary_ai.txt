@@ -1,1 +1,1 @@
-In the last 24 hours, we've had two minor quakes. The largest one was a M2.52 near Whitehorse in Yukon and another part of Quebec. It's all good now, no big shakes to report.
+The PiQuake Canada dashboard shows no events in the last hour, but there were two in the last 24 hours. The largest event was a M2.52 near Whitehorse in Yukon and Quebec, happening on June 24 at around 1 PM local time. That's where we're looking for shaking activity!
