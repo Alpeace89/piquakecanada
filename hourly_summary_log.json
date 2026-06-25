@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major seismic events detected. But we did see two minor quakes—both less than magnitude 3. The largest one was M2.56 and it happened near Grande Prairie in Alberta. A smaller one occurred near Lévis in Quebec earlier today at about 7:50 AM local time. That's what our PiQuake Canada dashboard is tracking, keeping Canadians updated on the latest seismic activity."
-  },
-  {
     "timestamp_utc": "2026-06-04T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one event reported by PiQuake Canada's dashboard. It measured M2.52 and happened 167 km southwest of Whitehorse in Yukon Territory. That was their latest report too."
+  },
+  {
+    "timestamp_utc": "2026-06-25T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events for the last hour but recorded one event in the previous 24 hours. The largest event was a M2.52 earthquake located about 167 km south-southwest of Whitehorse, Yukon. This is where the latest event happened too, on June 24th at around 1:16 PM UTC. The main region with activity last 24 hours was Yukon Territory."
   }
 ]

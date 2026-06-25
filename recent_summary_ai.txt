@@ -1,1 +1,1 @@
-In the last 24 hours, there was one event reported by PiQuake Canada's dashboard. It measured M2.52 and happened 167 km southwest of Whitehorse in Yukon Territory. That was their latest report too.
+The PiQuake Canada dashboard shows no events for the last hour but recorded one event in the previous 24 hours. The largest event was a M2.52 earthquake located about 167 km south-southwest of Whitehorse, Yukon. This is where the latest event happened too, on June 24th at around 1:16 PM UTC. The main region with activity last 24 hours was Yukon Territory.

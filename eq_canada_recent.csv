@@ -1,8 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260511.0808001,2026-05-11T08:08:28.000Z,50.4658,-129.3347,10.0,Mw',2.53,"126 km W of Quatsino Subdivision 18, BC/126 km O de Quatsino Subdivision 18, BC"
-20260511.0821001,2026-05-11T08:21:01.000Z,44.5308,-79.1475,2.0,MwN,0.94,"3 km SE of Ramara, ON/3 km SE de Ramara, ON"
-20260511.0821002,2026-05-11T08:21:19.000Z,47.6631,-70.1365,9.01,MwN,0.63,"2 km NE of La Malbaie, QC/2 km NE de La Malbaie, QC"
-20260511.0856001,2026-05-11T08:56:26.000Z,49.6963,-127.0958,30.06,ML1,1.19,"39 km SW of Tahsis, BC/39 km SO de Tahsis, BC"
 20260511.1030001,2026-05-11T10:30:23.000Z,60.507,-139.9698,5.0,ML1,1.68,"137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
 20260511.1038001,2026-05-11T10:38:10.000Z,48.641,-123.0882,21.88,ML1,1.14,"29 km NE of Saanich, BC/29 km NE de Saanich, BC"
 20260511.1056001,2026-05-11T10:56:01.000Z,48.7179,-123.0237,54.73,ML,1.33,"46 km SSW of Surrey, BC/46 km SSO de Surrey, BC"
