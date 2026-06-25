@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-25T10:58:13.000Z",
+    "magnitude": "4.1",
+    "depth_km": "10.0",
+    "place": "Preliminary; 80 km SSE of Rampart House, YT/Preliminaire; 80 km SSE de Rampart House, YT"
+  },
+  {
+    "time_utc": "2026-06-25T10:58:12.000Z",
+    "magnitude": "4.12",
+    "depth_km": "29.68",
+    "place": "104 km SSW of Old Crow, YT/104 km SSO de Old Crow, YT"
+  },
+  {
     "time_utc": "2026-06-24T13:16:25.000Z",
     "magnitude": "2.52",
     "depth_km": "1.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "0.36",
     "depth_km": "17.34",
     "place": "4 km SSW of La Malbaie, QC/4 km SSO de La Malbaie, QC"
-  },
-  {
-    "time_utc": "2026-06-21T11:51:01.000Z",
-    "magnitude": "1.31",
-    "depth_km": "4.22",
-    "place": "61 km N of Petawawa, ON/61 km N de Petawawa, ON"
-  },
-  {
-    "time_utc": "2026-06-21T05:30:18.000Z",
-    "magnitude": "3.49",
-    "depth_km": "5.0",
-    "place": "152 km S of Fort McPherson, NT/152 km S de Fort McPherson, NT"
   }
 ];

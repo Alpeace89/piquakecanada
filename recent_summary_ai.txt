@@ -1,1 +1,1 @@
-In the last 24 hours, there was one earthquake recorded by our PiQuake Canada dashboard. The largest event was a M2.52 near Whitehorse in Yukon Territory. That's it folks - we had nothing significant happen over the past day.
+The PiQuake Canada dashboard shows no events in the last hour, but there were three recorded quakes in the previous 24 hours. The largest one was a M4.12 near Old Crow, Yukon, and another M4.1 just a bit further south. These are all within the top regions of activity, which is mostly around Yukon Territory.

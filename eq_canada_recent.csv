@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260511.1118001,2026-05-11T11:18:46.000Z,48.9256,-126.0069,32.05,ML,2.22,"26 km SSW of Tofino, BC/26 km SSO de Tofino, BC"
-20260511.1133001,2026-05-11T11:33:25.000Z,49.2082,-127.742,10.0,ML1,1.31,"122 km W of Marktosis 15, BC/122 km O de Marktosis 15, BC"
 20260511.1358001,2026-05-11T13:58:38.000Z,61.0985,-140.0675,5.0,ML,1.94,"64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
 20260511.1429001,2026-05-11T14:29:06.000Z,48.9167,-122.7543,20.52,ML,1.67,"22 km SSE of Surrey, BC/22 km SSE de Surrey, BC"
 20260511.1558001,2026-05-11T15:58:53.000Z,45.6774,-79.9346,2.0,MwN,1.46,"19 km N of McKellar, ON/19 km N de McKellar, ON"
@@ -522,3 +520,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260623.2135001,2026-06-23T21:35:19.000Z,52.843,-67.249,0.0,MwN,2.31,"Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC"
 20260624.0706001,2026-06-24T07:06:20.000Z,47.6814,-70.1817,7.62,MwN,-0.09,"4 km NW of La Malbaie, QC/4 km NO de La Malbaie, QC"
 20260624.1316001,2026-06-24T13:16:25.000Z,59.4272,-136.6783,1.0,ML,2.52,"167 km SSW of Whitehorse, YT/167 km SSO de Whitehorse, YT"
+20260625.1058001,2026-06-25T10:58:12.000Z,66.6957,-140.6682,29.68,ML,4.12,"104 km SSW of Old Crow, YT/104 km SSO de Old Crow, YT"
+20260625.1058002,2026-06-25T10:58:13.000Z,66.7,-140.67,10.0,ML,4.1,"Preliminary; 80 km SSE of Rampart House, YT/Preliminaire; 80 km SSE de Rampart House, YT"

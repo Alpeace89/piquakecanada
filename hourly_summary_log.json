@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T17:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had four small earthquakes in Canada. The biggest one was a M2.56 near Grande Prairie in Alberta on June 3rd. And today at around 7 AM, there was a tiny tremor just north of Lévis in Quebec that measured only M1.02. It looks like industry-related events have been the most common type lately, and they mostly happen in Alberta."
-  },
-  {
     "timestamp_utc": "2026-06-04T18:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one earthquake recorded by our PiQuake Canada dashboard. The largest event was a M2.52 near Whitehorse in Yukon Territory. That's it folks - we had nothing significant happen over the past day."
+  },
+  {
+    "timestamp_utc": "2026-06-25T12:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three recorded quakes in the previous 24 hours. The largest one was a M4.12 near Old Crow, Yukon, and another M4.1 just a bit further south. These are all within the top regions of activity, which is mostly around Yukon Territory."
   }
 ]
