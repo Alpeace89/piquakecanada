@@ -24,10 +24,22 @@ window.recentEvents = [
     "place": "15 km SSE of La Malbaie, QC/15 km SSE de La Malbaie, QC"
   },
   {
+    "time_utc": "2026-06-24T17:42:34.000Z",
+    "magnitude": "3.31",
+    "depth_km": "5.0",
+    "place": "107 km SSW of Old Crow, YT/107 km SSO de Old Crow, YT"
+  },
+  {
     "time_utc": "2026-06-24T13:16:25.000Z",
     "magnitude": "2.52",
     "depth_km": "1.0",
     "place": "167 km SSW of Whitehorse, YT/167 km SSO de Whitehorse, YT"
+  },
+  {
+    "time_utc": "2026-06-24T11:13:22.000Z",
+    "magnitude": "2.74",
+    "depth_km": "10.0",
+    "place": "132 km W of Sitka, AK/132 km O de Sitka, AK"
   },
   {
     "time_utc": "2026-06-24T07:06:20.000Z",
@@ -36,27 +48,15 @@ window.recentEvents = [
     "place": "4 km NW of La Malbaie, QC/4 km NO de La Malbaie, QC"
   },
   {
+    "time_utc": "2026-06-24T01:13:42.000Z",
+    "magnitude": "2.45",
+    "depth_km": "10.0",
+    "place": "235 km WNW of Port Hardy, BC/235 km ONO de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-06-23T21:35:19.000Z",
     "magnitude": "2.31",
     "depth_km": "0.0",
     "place": "Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC"
-  },
-  {
-    "time_utc": "2026-06-23T13:51:50.000Z",
-    "magnitude": "2.61",
-    "depth_km": "5.0",
-    "place": "29 km WNW of Bella Coola 1, BC/29 km ONO de Bella Coola 1, BC"
-  },
-  {
-    "time_utc": "2026-06-23T12:48:51.000Z",
-    "magnitude": "0.77",
-    "depth_km": "7.53",
-    "place": "12 km N of La Pocati\u00e8re, QC/12 km N de La Pocati\u00e8re, QC"
-  },
-  {
-    "time_utc": "2026-06-23T10:07:29.000Z",
-    "magnitude": "1.18",
-    "depth_km": "5.0",
-    "place": "72 km SW of Lohbiee 3, BC/72 km SO de Lohbiee 3, BC"
   }
 ];

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-05T02:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary of what you've got in the PiQuake Canada dashboard so far: No quakes last hour, four quakes in the past day. The biggest one was a M3.75 near Hinton, Alberta and it happened just after dark yesterday. There hasn't been much activity around here lately, but things are picking up a bit with events mostly happening in British Columbia, Quebec, and Alberta during the last 24 hours."
-  },
-  {
     "timestamp_utc": "2026-06-05T03:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had four minor earthquakes with the largest measuring M4.07 about 100 km south-southwest of Old Crow in Yukon and another near North Tetagouche in New Brunswick. The latest event was a magnitude 1.59 shake that occurred just northeast of North Tetagouche earlier today. Most of these quakes happened in Quebec and Yukon with one each in Nova Scotia."
+  },
+  {
+    "timestamp_utc": "2026-06-25T21:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no significant quakes reported in Canada. But we did see a big one with a magnitude of M4.07 near Old Crow, Yukon Territory and another minor shake measuring M1.59 just outside North Tetagouche, New Brunswick. Those are the only events recorded during this period."
   }
 ]
