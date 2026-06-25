@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had four little tremors. The largest one was a M3.75 near Hinton in Alberta—pretty quiet stuff but worth keeping an eye on. It happened around dinner time yesterday and there haven't been any more since then. Places like British Columbia, Quebec, and Alberta have felt the shakes."
-  },
-  {
     "timestamp_utc": "2026-06-04T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had four small earthquakes, with the biggest being a M4.12 near Old Crow in the Yukon. Just yesterday afternoon, there was another big one measuring M0.94 just east of Baie-Saint-Paul in Quebec. Most of these quakes have been happening in Quebec and Yukon, so far this week."
+  },
+  {
+    "timestamp_utc": "2026-06-25T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of three small earthquakes. The biggest one was a M4.1 near Rampart House in the Yukon Territory and Quebec. In that same timeframe, two more quakes were recorded in Quebec. And just yesterday at noon, a tiny shake with a magnitude of M0.94 occurred 12 km east of Baie-Saint-Paul. It looks like we're seeing activity across different parts of Canada too—two big ones happened in Quebec and one near Rampart House in the Yukon."
   }
 ]

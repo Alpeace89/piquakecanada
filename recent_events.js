@@ -12,12 +12,6 @@ window.recentEvents = [
     "place": "Preliminary; 80 km SSE of Rampart House, YT/Preliminaire; 80 km SSE de Rampart House, YT"
   },
   {
-    "time_utc": "2026-06-25T10:58:12.000Z",
-    "magnitude": "4.12",
-    "depth_km": "29.68",
-    "place": "104 km SSW of Old Crow, YT/104 km SSO de Old Crow, YT"
-  },
-  {
     "time_utc": "2026-06-25T03:49:40.000Z",
     "magnitude": "0.21",
     "depth_km": "8.14",
@@ -58,5 +52,11 @@ window.recentEvents = [
     "magnitude": "1.18",
     "depth_km": "5.0",
     "place": "72 km SW of Lohbiee 3, BC/72 km SO de Lohbiee 3, BC"
+  },
+  {
+    "time_utc": "2026-06-23T04:45:22.000Z",
+    "magnitude": "2.42",
+    "depth_km": "1.0",
+    "place": "127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
   }
 ];
