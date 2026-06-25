@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260511.0421001,2026-05-11T04:21:14.000Z,60.4283,-139.6823,5.0,ML,2.46,"124 km WSW of Haines Junction, YT/124 km OSO de Haines Junction, YT"
-20260511.0449001,2026-05-11T04:49:16.000Z,48.9958,-125.4781,30.27,ML,1.81,"8 km NE of Ucluelet, BC/8 km NE de Ucluelet, BC"
 20260511.0808001,2026-05-11T08:08:28.000Z,50.4658,-129.3347,10.0,Mw',2.53,"126 km W of Quatsino Subdivision 18, BC/126 km O de Quatsino Subdivision 18, BC"
 20260511.0821001,2026-05-11T08:21:01.000Z,44.5308,-79.1475,2.0,MwN,0.94,"3 km SE of Ramara, ON/3 km SE de Ramara, ON"
 20260511.0821002,2026-05-11T08:21:19.000Z,47.6631,-70.1365,9.01,MwN,0.63,"2 km NE of La Malbaie, QC/2 km NE de La Malbaie, QC"
