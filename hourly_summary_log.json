@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T05:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had eight small quakes with our PiQuake Canada dashboard. The largest one was a M3.52 near Burwash Landing in Yukon and another place nearby. There's also this little mystery quake that might be from an industry, just north of Grande Prairie in Alberta. That's how things have been here over the past day."
-  },
-  {
     "timestamp_utc": "2026-06-04T06:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two minor earthquakes with a magnitude of M2.52 each near Whitehorse in Yukon and Quebec City. The latest one occurred on June 24th at around 1 PM local time. It's been quiet for now, but our dashboard tracks these events to keep everyone informed."
+  },
+  {
+    "timestamp_utc": "2026-06-25T00:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major earthquakes reported. However, two quakes of magnitude M2.52 each occurred near Whitehorse in the Yukon Territory and Quebec. The most recent event happened on June 24 at around 1 p.m. local time."
   }
 ]
