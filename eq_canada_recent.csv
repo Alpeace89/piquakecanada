@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260511.1429001,2026-05-11T14:29:06.000Z,48.9167,-122.7543,20.52,ML,1.67,"22 km SSE of Surrey, BC/22 km SSE de Surrey, BC"
 20260511.1558001,2026-05-11T15:58:53.000Z,45.6774,-79.9346,2.0,MwN,1.46,"19 km N of McKellar, ON/19 km N de McKellar, ON"
 20260511.1613001,2026-05-11T16:13:48.000Z,45.6519,-79.9269,2.0,MwN,0.72,"16 km N of McKellar, ON/16 km N de McKellar, ON"
 20260511.1624001,2026-05-11T16:24:34.000Z,52.8053,-67.0591,0.0,MwN,2.38,"Blast, 3 km NNE of Fermont, QC/Dynamitage, 3 km NNE de Fermont, QC"

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks, we've got a pretty active day in the PiQuake Canada dashboard with just one event reported last hour. It's an M3.75 quake that happened near Hinton in Alberta. This is our largest event so far this year and it’s been happening quite frequently across BC, Quebec, and Alberta in the past 24 hours."
-  },
-  {
     "timestamp_utc": "2026-06-04T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been no major earthquakes reported. However, we did see a M4.12 earthquake near Old Crow in the Yukon and another smaller one around Baie-Saint-Paul in Quebec. These events show that even though they're not big quakes, our region is still active with shakes happening in both those areas."
+  },
+  {
+    "timestamp_utc": "2026-06-25T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had four small earthquakes, with the biggest being a M4.12 near Old Crow in the Yukon. Just yesterday afternoon, there was another big one measuring M0.94 just east of Baie-Saint-Paul in Quebec. Most of these quakes have been happening in Quebec and Yukon, so far this week."
   }
 ]
