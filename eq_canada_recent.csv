@@ -1,7 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260511.1030001,2026-05-11T10:30:23.000Z,60.507,-139.9698,5.0,ML1,1.68,"137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
-20260511.1038001,2026-05-11T10:38:10.000Z,48.641,-123.0882,21.88,ML1,1.14,"29 km NE of Saanich, BC/29 km NE de Saanich, BC"
-20260511.1056001,2026-05-11T10:56:01.000Z,48.7179,-123.0237,54.73,ML,1.33,"46 km SSW of Surrey, BC/46 km SSO de Surrey, BC"
 20260511.1118001,2026-05-11T11:18:46.000Z,48.9256,-126.0069,32.05,ML,2.22,"26 km SSW of Tofino, BC/26 km SSO de Tofino, BC"
 20260511.1133001,2026-05-11T11:33:25.000Z,49.2082,-127.742,10.0,ML1,1.31,"122 km W of Marktosis 15, BC/122 km O de Marktosis 15, BC"
 20260511.1358001,2026-05-11T13:58:38.000Z,61.0985,-140.0675,5.0,ML,1.94,"64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
