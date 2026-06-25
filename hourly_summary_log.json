@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major earthquakes reported. The largest one was a M3.52 that occurred about 104 km southwest of Burwash Landing in the Yukon. A suspected industry-related event also happened around Grande Prairie in Alberta. These are from different regions including British Columbia and Alaska."
-  },
-  {
     "timestamp_utc": "2026-06-04T07:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major earthquakes reported. However, two quakes of magnitude M2.52 each occurred near Whitehorse in the Yukon Territory and Quebec. The most recent event happened on June 24 at around 1 p.m. local time."
+  },
+  {
+    "timestamp_utc": "2026-06-25T01:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two minor quakes. The largest one was a M2.52 near Whitehorse in Yukon and another part of Quebec. It's all good now, no big shakes to report."
   }
 ]
