@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260511.1949001,2026-05-11T19:49:06.000Z,53.8583,-132.2304,16.91,ML,2.33,"18 km SSW of Masset, BC/18 km SSO de Masset, BC"
 20260511.2254001,2026-05-11T22:54:16.000Z,51.059,-93.7669,1.0,MwN,2.1,"Blast, 2 km W of Golden, ON/Dynamitage, 2 km O de Golden, ON"
 20260511.2303001,2026-05-11T23:03:14.000Z,48.9759,-124.1588,23.96,ML1,0.81,"26 km SW of Nanaimo, BC/26 km SO de Nanaimo, BC"
 20260511.2305001,2026-05-11T23:05:40.000Z,50.3138,-127.4623,5.0,ML1,0.71,"13 km S of Port Alice, BC/13 km S de Port Alice, BC"
@@ -518,3 +517,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260625.0349001,2026-06-25T03:49:40.000Z,47.5161,-70.1047,8.14,MwN,0.21,"15 km SSE of La Malbaie, QC/15 km SSE de La Malbaie, QC"
 20260625.1058004,2026-06-25T10:58:10.000Z,66.6676,-140.6912,5.0,ML,4.07,"107 km SSW of Old Crow, YT/107 km SSO de Old Crow, YT"
 20260625.1205001,2026-06-25T12:05:30.000Z,47.4551,-70.347,8.56,MwN,0.94,"12 km E of Baie-Saint-Paul, QC/12 km E de Baie-Saint-Paul, QC"
+20260625.1752001,2026-06-25T17:52:57.000Z,47.6418,-65.7775,0.0,MwN,1.59,"Blast, 1 km NNE of North Tetagouche, NB/Dynamitage, 1 km NNE de North Tetagouche, NB"

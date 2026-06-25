@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-05T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had four little earthquakes. The biggest one measured M3.75 and happened near Hinton in Alberta—where dynamite is being used for blasting. That's the latest event since our PiQuake Canada dashboard went live. Not many of these have been happening lately though; only two places—British Columbia and Quebec—have had some little quakes too."
-  },
-  {
     "timestamp_utc": "2026-06-05T02:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had three small earthquakes. The largest one was a M4.07 near Old Crow in Yukon and Quebec earlier today at around noon. That’s not much to get excited about but it does show there's some minor seismic activity happening in the region. Yesterday afternoon, just before 1 PM, we also had a little quake of magnitude M0.94 close to Baie-Saint-Paul in Quebec. It doesn’t sound like anything too big or scary, just a few jolts here and there that most people wouldn’t even notice."
+  },
+  {
+    "timestamp_utc": "2026-06-25T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had four minor earthquakes with the largest measuring M4.07 about 100 km south-southwest of Old Crow in Yukon and another near North Tetagouche in New Brunswick. The latest event was a magnitude 1.59 shake that occurred just northeast of North Tetagouche earlier today. Most of these quakes happened in Quebec and Yukon with one each in Nova Scotia."
   }
 ]

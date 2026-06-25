@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-25T17:52:57.000Z",
+    "magnitude": "1.59",
+    "depth_km": "0.0",
+    "place": "Blast, 1 km NNE of North Tetagouche, NB/Dynamitage, 1 km NNE de North Tetagouche, NB"
+  },
+  {
     "time_utc": "2026-06-25T12:05:30.000Z",
     "magnitude": "0.94",
     "depth_km": "8.56",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.18",
     "depth_km": "5.0",
     "place": "72 km SW of Lohbiee 3, BC/72 km SO de Lohbiee 3, BC"
-  },
-  {
-    "time_utc": "2026-06-23T04:45:22.000Z",
-    "magnitude": "2.42",
-    "depth_km": "1.0",
-    "place": "127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
   }
 ];
