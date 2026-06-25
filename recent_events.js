@@ -6,10 +6,10 @@ window.recentEvents = [
     "place": "12 km E of Baie-Saint-Paul, QC/12 km E de Baie-Saint-Paul, QC"
   },
   {
-    "time_utc": "2026-06-25T10:58:13.000Z",
-    "magnitude": "4.1",
-    "depth_km": "10.0",
-    "place": "Preliminary; 80 km SSE of Rampart House, YT/Preliminaire; 80 km SSE de Rampart House, YT"
+    "time_utc": "2026-06-25T10:58:10.000Z",
+    "magnitude": "4.07",
+    "depth_km": "5.0",
+    "place": "107 km SSW of Old Crow, YT/107 km SSO de Old Crow, YT"
   },
   {
     "time_utc": "2026-06-25T03:49:40.000Z",

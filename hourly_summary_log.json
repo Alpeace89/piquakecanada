@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-05T00:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've seen four minor earthquakes with the largest measuring M3.75 near Hinton in Alberta. The latest event was exactly that—no big surprises here. Notably, this area tends to have a few quakes around dynamite blasts, which is why we keep an eye on things in British Columbia, Quebec, and Alberta too."
-  },
-  {
     "timestamp_utc": "2026-06-05T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is tracking three events in the past 24 hours with a largest one measuring M4.1 near Rampart House, YT. The latest event was a minor quake at Baie-Saint-Paul, QC. Most of these happened in Quebec and Yukon Territory."
+  },
+  {
+    "timestamp_utc": "2026-06-25T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had three small earthquakes. The largest one was a M4.07 near Old Crow in Yukon and Quebec earlier today at around noon. That’s not much to get excited about but it does show there's some minor seismic activity happening in the region. Yesterday afternoon, just before 1 PM, we also had a little quake of magnitude M0.94 close to Baie-Saint-Paul in Quebec. It doesn’t sound like anything too big or scary, just a few jolts here and there that most people wouldn’t even notice."
   }
 ]
