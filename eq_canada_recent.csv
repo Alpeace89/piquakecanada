@@ -520,5 +520,6 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260623.2135001,2026-06-23T21:35:19.000Z,52.843,-67.249,0.0,MwN,2.31,"Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC"
 20260624.0706001,2026-06-24T07:06:20.000Z,47.6814,-70.1817,7.62,MwN,-0.09,"4 km NW of La Malbaie, QC/4 km NO de La Malbaie, QC"
 20260624.1316001,2026-06-24T13:16:25.000Z,59.4272,-136.6783,1.0,ML,2.52,"167 km SSW of Whitehorse, YT/167 km SSO de Whitehorse, YT"
+20260625.0349001,2026-06-25T03:49:40.000Z,47.5161,-70.1047,8.14,MwN,0.21,"15 km SSE of La Malbaie, QC/15 km SSE de La Malbaie, QC"
 20260625.1058001,2026-06-25T10:58:12.000Z,66.6957,-140.6682,29.68,ML,4.12,"104 km SSW of Old Crow, YT/104 km SSO de Old Crow, YT"
 20260625.1058002,2026-06-25T10:58:13.000Z,66.7,-140.67,10.0,ML,4.1,"Preliminary; 80 km SSE of Rampart House, YT/Preliminaire; 80 km SSE de Rampart House, YT"

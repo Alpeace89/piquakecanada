@@ -12,6 +12,12 @@ window.recentEvents = [
     "place": "104 km SSW of Old Crow, YT/104 km SSO de Old Crow, YT"
   },
   {
+    "time_utc": "2026-06-25T03:49:40.000Z",
+    "magnitude": "0.21",
+    "depth_km": "8.14",
+    "place": "15 km SSE of La Malbaie, QC/15 km SSE de La Malbaie, QC"
+  },
+  {
     "time_utc": "2026-06-24T13:16:25.000Z",
     "magnitude": "2.52",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.42",
     "depth_km": "1.0",
     "place": "127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-22T08:06:53.000Z",
-    "magnitude": "0.36",
-    "depth_km": "17.34",
-    "place": "4 km SSW of La Malbaie, QC/4 km SSO de La Malbaie, QC"
   }
 ];
