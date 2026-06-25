@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-05T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a quick summary of the PiQuake Canada dashboard for today: We had no new events in the last hour, but there were four events recorded yesterday. The largest event was a M3.75 quake that happened near Hinton, Alberta. That place is about 11 kilometers east-southeast of where they're doing dynamite blasting. It's been quiet around here lately with most activity happening in British Columbia and Quebec."
-  },
-  {
     "timestamp_utc": "2026-06-05T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no significant quakes reported in Canada. But we did see a big one with a magnitude of M4.07 near Old Crow, Yukon Territory and another minor shake measuring M1.59 just outside North Tetagouche, New Brunswick. Those are the only events recorded during this period."
+  },
+  {
+    "timestamp_utc": "2026-06-25T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had four quakes across Canada. The biggest one measured M4.07 and happened about 110 km southwest of Old Crow in the Yukon Territory. In recent times, we've also seen a few smaller ones around New Brunswick and Quebec regions."
   }
 ]

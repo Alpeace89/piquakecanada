@@ -510,6 +510,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260622.0806001,2026-06-22T08:06:53.000Z,47.6126,-70.1622,17.34,MwN,0.36,"4 km SSW of La Malbaie, QC/4 km SSO de La Malbaie, QC"
 20260623.0445001,2026-06-23T04:45:22.000Z,60.5153,-139.7938,1.0,ML,2.42,"127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
 20260623.1007001,2026-06-23T10:07:29.000Z,51.1003,-124.7904,5.0,ML,1.18,"72 km SW of Lohbiee 3, BC/72 km SO de Lohbiee 3, BC"
+20260623.1043001,2026-06-23T10:43:42.000Z,52.5177,-131.8871,21.57,ML,1.88,"83 km S of Daajing Giids, BC/83 km S de Daajing Giids, BC"
 20260623.1248001,2026-06-23T12:48:51.000Z,47.481,-70.0319,7.53,MwN,0.77,"12 km N of La Pocatière, QC/12 km N de La Pocatière, QC"
 20260623.1351001,2026-06-23T13:51:50.000Z,52.4494,-127.1307,5.0,ML,2.61,"29 km WNW of Bella Coola 1, BC/29 km ONO de Bella Coola 1, BC"
 20260623.1905001,2026-06-23T19:05:56.000Z,66.6325,-140.5162,5.0,ML,2.39,"108 km SSW of Old Crow, YT/108 km SSO de Old Crow, YT"
