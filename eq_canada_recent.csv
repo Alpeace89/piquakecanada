@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260511.1358001,2026-05-11T13:58:38.000Z,61.0985,-140.0675,5.0,ML,1.94,"64 km WSW of Burwash Landing, YT/64 km OSO de Burwash Landing, YT"
 20260511.1429001,2026-05-11T14:29:06.000Z,48.9167,-122.7543,20.52,ML,1.67,"22 km SSE of Surrey, BC/22 km SSE de Surrey, BC"
 20260511.1558001,2026-05-11T15:58:53.000Z,45.6774,-79.9346,2.0,MwN,1.46,"19 km N of McKellar, ON/19 km N de McKellar, ON"
 20260511.1613001,2026-05-11T16:13:48.000Z,45.6519,-79.9269,2.0,MwN,0.72,"16 km N of McKellar, ON/16 km N de McKellar, ON"
@@ -523,3 +522,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260625.0349001,2026-06-25T03:49:40.000Z,47.5161,-70.1047,8.14,MwN,0.21,"15 km SSE of La Malbaie, QC/15 km SSE de La Malbaie, QC"
 20260625.1058001,2026-06-25T10:58:12.000Z,66.6957,-140.6682,29.68,ML,4.12,"104 km SSW of Old Crow, YT/104 km SSO de Old Crow, YT"
 20260625.1058002,2026-06-25T10:58:13.000Z,66.7,-140.67,10.0,ML,4.1,"Preliminary; 80 km SSE of Rampart House, YT/Preliminaire; 80 km SSE de Rampart House, YT"
+20260625.1205001,2026-06-25T12:05:30.000Z,47.4551,-70.347,8.56,MwN,0.94,"12 km E of Baie-Saint-Paul, QC/12 km E de Baie-Saint-Paul, QC"

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-04T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three events over the past 24 hours. The largest was a M3.27 near Courtenay in British Columbia and Lévis in Quebec, which happened around noon on June 4th. The latest event was a small one just before midnight that morning, also close to Lévis. Most of these were happening in BC and QC regions."
-  },
-  {
     "timestamp_utc": "2026-06-04T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the past 24 hours, we've had four earthquakes in total with the largest one measuring M4.12 near Old Crow in the Yukon Territory. The latest quake was even stronger at M4.1 and happened just a bit further south around Rampart House. Notable places affected were YT (Yukon) where three quakes occurred, and QC (Quebec)."
+  },
+  {
+    "timestamp_utc": "2026-06-25T14:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there have been no major earthquakes reported. However, we did see a M4.12 earthquake near Old Crow in the Yukon and another smaller one around Baie-Saint-Paul in Quebec. These events show that even though they're not big quakes, our region is still active with shakes happening in both those areas."
   }
 ]

@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-25T12:05:30.000Z",
+    "magnitude": "0.94",
+    "depth_km": "8.56",
+    "place": "12 km E of Baie-Saint-Paul, QC/12 km E de Baie-Saint-Paul, QC"
+  },
+  {
     "time_utc": "2026-06-25T10:58:13.000Z",
     "magnitude": "4.1",
     "depth_km": "10.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.18",
     "depth_km": "5.0",
     "place": "72 km SW of Lohbiee 3, BC/72 km SO de Lohbiee 3, BC"
-  },
-  {
-    "time_utc": "2026-06-23T04:45:22.000Z",
-    "magnitude": "2.42",
-    "depth_km": "1.0",
-    "place": "127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
   }
 ];

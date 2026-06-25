@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-06-25T13:03:02Z",
+  "generated_utc": "2026-06-25T14:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 524,
   "events_last_24h": 4,
@@ -7,15 +7,15 @@
   "count_m3plus_last_24h": 2,
   "count_m4plus_last_24h": 2,
   "latest_event": {
-    "event_id": "20260625.1058002",
-    "time_utc": "2026-06-25T10:58:13.000Z",
-    "latitude": 66.7,
-    "longitude": -140.67,
-    "depth_km": 10.0,
-    "mag_type": "ML",
-    "magnitude": 4.1,
-    "place": "Preliminary; 80 km SSE of Rampart House, YT/Preliminaire; 80 km SSE de Rampart House, YT",
-    "region": "YT"
+    "event_id": "20260625.1205001",
+    "time_utc": "2026-06-25T12:05:30.000Z",
+    "latitude": 47.4551,
+    "longitude": -70.347,
+    "depth_km": 8.56,
+    "mag_type": "MwN",
+    "magnitude": 0.94,
+    "place": "12 km E of Baie-Saint-Paul, QC/12 km E de Baie-Saint-Paul, QC",
+    "region": "QC"
   },
   "largest_event_last_24h": {
     "event_id": "20260625.1058001",
@@ -41,13 +41,13 @@
   },
   "top_regions_last_24h": [
     {
-      "region": "YT",
-      "count": 3
+      "region": "QC",
+      "count": 2
     },
     {
-      "region": "QC",
-      "count": 1
+      "region": "YT",
+      "count": 2
     }
   ],
-  "summary_text": "As of 2026-06-25 13:03 UTC, the recent Canada earthquake dataset contains 524 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.12 at 104 km SSW of Old Crow, YT/104 km SSO de Old Crow, YT. The deepest event reached 29.68 km at 104 km SSW of Old Crow, YT/104 km SSO de Old Crow, YT. The most recent listed event was M4.1 at Preliminary; 80 km SSE of Rampart House, YT/Preliminaire; 80 km SSE de Rampart House, YT at 2026-06-25T10:58:13.000Z. There were 2 events of magnitude 3 or greater and 2 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (3) and QC (1)."
+  "summary_text": "As of 2026-06-25 14:03 UTC, the recent Canada earthquake dataset contains 524 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.12 at 104 km SSW of Old Crow, YT/104 km SSO de Old Crow, YT. The deepest event reached 29.68 km at 104 km SSW of Old Crow, YT/104 km SSO de Old Crow, YT. The most recent listed event was M0.94 at 12 km E of Baie-Saint-Paul, QC/12 km E de Baie-Saint-Paul, QC at 2026-06-25T12:05:30.000Z. There were 2 events of magnitude 3 or greater and 2 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and YT (2)."
 }
