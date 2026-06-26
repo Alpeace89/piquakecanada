@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-05T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had two small earthquakes. The largest one was a M3.75 near Hinton, Alberta on June 4th at around 7 PM. Just yesterday morning, we also had an earthquake with a magnitude of M3.54 in Haines Junction, Yukon Territory. Those are the only quakes we've seen since our last check-up."
-  },
-  {
     "timestamp_utc": "2026-06-05T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four recorded quakes in the previous 24 hours. The largest event was a M4.07 near Old Crow in the Yukon on June 25th, and the latest one was a M1.59 close to North Tetagouche in New Brunswick. Most of these happened in Quebec with one each in the Yukon and another in New Brunswick."
+  },
+  {
+    "timestamp_utc": "2026-06-26T04:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had three minor earthquakes monitored by our PiQuake Canada dashboard. The largest one was a M4.07 near Old Crow in the Yukon Territory, while another M1.59 happened as part of dynamite blasting in North Tetagouche in New Brunswick. These are small shakes compared to some we've seen before, and they mostly happen in areas like the Yukon and Quebec."
   }
 ]
