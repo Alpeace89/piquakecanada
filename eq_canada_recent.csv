@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260512.1705001,2026-05-12T17:05:29.000Z,57.7344,-138.0264,10.0,ML,3.07,"222 km WSW of Juneau, AK/222 km OSO de Juneau, AK"
 20260512.1810001,2026-05-12T18:10:55.000Z,47.5476,-92.7018,0.0,MwN,2.01,"Blast, 13 km WNW of Virginia, MN/Dynamitage, 13 km ONO de Virginia, MN"
 20260512.1816001,2026-05-12T18:16:43.000Z,49.7831,-86.8588,1.0,MwN,2.2,"Blast, 10 km NE of Geraldton, ON/Dynamitage, 10 km NE de Geraldton, ON"
 20260512.1842001,2026-05-12T18:42:39.000Z,43.9367,-69.4058,2.0,MwN,1.42,"67 km ESE of Lewiston, ME/67 km ESE de Lewiston, ME"
