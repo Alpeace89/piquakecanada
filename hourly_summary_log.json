@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-05T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had three small earthquakes. The largest one was a M3.57 near Haines Junction in the Yukon and La Malbaie in Quebec. We also had a minor quake that morning close to La Malbaie. Most of these happened in Quebec and the Yukon region."
-  },
-  {
     "timestamp_utc": "2026-06-05T23:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major seismic events reported on our dashboard. However, we did see two minor quakes in Canada—both related to dynamite blasts. The largest one measured M1.59 and happened near North Tetagouche, New Brunswick, while the latest event was a M1.32 near Centre Hastings, Ontario. These are all small tremors that don't pose any significant threat or issue."
+  },
+  {
+    "timestamp_utc": "2026-06-26T17:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the last 24 hours, we've had two minor tremors recorded on our PiQuake Canada dashboard. The largest one was a M1.59 near North Tetagouche in New Brunswick, and the other one was a M1.32 close to Centre Hastings in Ontario. It's nothing serious, but it's good to know we have equipment monitoring these areas for safety."
   }
 ]

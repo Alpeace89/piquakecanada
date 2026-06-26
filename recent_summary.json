@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-06-26T16:03:01Z",
+  "generated_utc": "2026-06-26T17:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 516,
+  "rolling_window_event_count": 517,
   "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
@@ -49,5 +49,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-26 16:03 UTC, the recent Canada earthquake dataset contains 516 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.59 at Blast, 1 km NNE of North Tetagouche, NB/Dynamitage, 1 km NNE de North Tetagouche, NB. The deepest event reached 0.00 km at Blast, 5 km W of Centre Hastings, ON/Dynamitage, 5 km O de Centre Hastings, ON. The most recent listed event was M1.32 at Blast, 5 km W of Centre Hastings, ON/Dynamitage, 5 km O de Centre Hastings, ON at 2026-06-25T19:53:03.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were NB (1) and ON (1)."
+  "summary_text": "As of 2026-06-26 17:03 UTC, the recent Canada earthquake dataset contains 517 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.59 at Blast, 1 km NNE of North Tetagouche, NB/Dynamitage, 1 km NNE de North Tetagouche, NB. The deepest event reached 0.00 km at Blast, 5 km W of Centre Hastings, ON/Dynamitage, 5 km O de Centre Hastings, ON. The most recent listed event was M1.32 at Blast, 5 km W of Centre Hastings, ON/Dynamitage, 5 km O de Centre Hastings, ON at 2026-06-25T19:53:03.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were NB (1) and ON (1)."
 }
