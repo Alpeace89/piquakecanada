@@ -24,6 +24,12 @@ window.recentEvents = [
     "place": "107 km SSW of Old Crow, YT/107 km SSO de Old Crow, YT"
   },
   {
+    "time_utc": "2026-06-25T03:55:01.000Z",
+    "magnitude": "2.72",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 65 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 65 km SSE de Grande Prairie, AB"
+  },
+  {
     "time_utc": "2026-06-25T03:49:40.000Z",
     "magnitude": "0.21",
     "depth_km": "8.14",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.52",
     "depth_km": "1.0",
     "place": "167 km SSW of Whitehorse, YT/167 km SSO de Whitehorse, YT"
-  },
-  {
-    "time_utc": "2026-06-24T11:13:22.000Z",
-    "magnitude": "2.74",
-    "depth_km": "10.0",
-    "place": "132 km W of Sitka, AK/132 km O de Sitka, AK"
   }
 ];
