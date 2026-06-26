@@ -36,8 +36,8 @@ window.recentEvents = [
     "place": "Suspected industry-related event, 25 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 25 km S de Halfway River 168, BC"
   },
   {
-    "time_utc": "2026-06-24T17:42:34.000Z",
-    "magnitude": "3.31",
+    "time_utc": "2026-06-24T17:42:35.000Z",
+    "magnitude": "3.2",
     "depth_km": "5.0",
     "place": "107 km SSW of Old Crow, YT/107 km SSO de Old Crow, YT"
   },

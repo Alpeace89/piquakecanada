@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-06T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there were three seismic events recorded on our PiQuake Canada dashboard. The largest one was a M3.57 near Haines Junction in Yukon and Quebec last night at midnight local time. We've had another minor quake measuring just M0.96 this afternoon about 18 km south of La Malbaie, QC. Most of these happened in Quebec and Yukon regions."
-  },
-  {
     "timestamp_utc": "2026-06-06T01:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was just one small shake reported on the PiQuake Canada dashboard. It happened near Centre Hastings in Ontario, and it was a M1.32. This event followed another similar quake earlier today that registered as well. The area has had some minor tremors lately, all of them in the ON region."
+  },
+  {
+    "timestamp_utc": "2026-06-26T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was just one earthquake event recorded. The largest one measured M1.32 and happened near Centre Hastings in Ontario, from dynamite blasts that caused the quake. This is where a dynamite blast occurred 5 km west of Centre Hastings and another 5 km to the east."
   }
 ]
