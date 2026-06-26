@@ -1,1 +1,1 @@
-In the last 24 hours, no earthquakes were detected by our PiQuake Canada dashboard. The largest event was a M1.32 near Centre Hastings, ON. It happened on June 25th at around 7:53 PM. No other events were recorded during this period.
+In the past 24 hours, there were no earthquakes recorded by our PiQuake Canada dashboard. The largest one was a minor tremor measuring M1.32 near some blasting sites in Ontario. It happened on June 25th around 7:53 PM. No major areas have been affected or reported any unusual activity as of yet.

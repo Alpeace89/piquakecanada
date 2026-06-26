@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260512.2245001,2026-05-12T22:45:38.000Z,47.5335,-70.3261,13.4,MwN,0.17,"6 km N of Les Éboulements, QC/6 km N de Les Éboulements, QC"
 20260513.0253001,2026-05-13T02:53:54.000Z,58.4764,-137.1566,1.0,ML,2.27,"160 km W of Juneau, AK/160 km O de Juneau, AK"
 20260513.0306001,2026-05-13T03:06:28.000Z,58.464,-137.1775,5.0,ML,3.0,"162 km W of Juneau, AK/162 km O de Juneau, AK"
 20260513.1000001,2026-05-13T10:00:02.000Z,66.6017,-135.8725,5.0,ML,2.48,"102 km SSW of Fort McPherson, NT/102 km SSO de Fort McPherson, NT"
