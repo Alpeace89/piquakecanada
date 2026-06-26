@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-06-25T19:53:03.000Z",
+    "magnitude": "1.32",
+    "depth_km": "0.0",
+    "place": "Blast, 5 km W of Centre Hastings, ON/Dynamitage, 5 km O de Centre Hastings, ON"
+  },
+  {
     "time_utc": "2026-06-25T17:52:57.000Z",
     "magnitude": "1.59",
     "depth_km": "0.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.45",
     "depth_km": "10.0",
     "place": "235 km WNW of Port Hardy, BC/235 km ONO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-06-23T21:35:19.000Z",
-    "magnitude": "2.31",
-    "depth_km": "0.0",
-    "place": "Blast, 13 km WNW of Fermont, QC/Dynamitage, 13 km ONO de Fermont, QC"
   }
 ];

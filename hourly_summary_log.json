@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-05T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had a total of 3 PiQuake Canada events. The largest one was a M3.75 near Hinton in Alberta yesterday at around 9 PM. We also saw another event this morning in Yukon with a magnitude of M3.57, which is about 15 km west of Haines Junction. These are the most recent activities we've recorded in our beta dashboard."
-  },
-  {
     "timestamp_utc": "2026-06-05T19:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is up and running, with no events detected in the last hour but two reports of tremors in the last 24 hours. The largest was a M1.59 near North Tetagouche, NB, yesterday afternoon. The latest event matches this one from Dynamitage, just 1 km north-northeast. We're tracking activity in Quebec and New Brunswick so far."
+  },
+  {
+    "timestamp_utc": "2026-06-26T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the last 24 hours, there have been no major seismic events reported on our PiQuake Canada dashboard. However, we've seen two minor quakes, with the largest one measuring M1.59 in North Tetagouche, New Brunswick, and another smaller one at Centre Hastings in Ontario, both happening recently. It's all part of what we're tracking for safer Earth monitoring."
   }
 ]

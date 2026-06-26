@@ -514,3 +514,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260625.1058004,2026-06-25T10:58:10.000Z,66.6676,-140.6912,5.0,ML,4.07,"107 km SSW of Old Crow, YT/107 km SSO de Old Crow, YT"
 20260625.1205001,2026-06-25T12:05:30.000Z,47.4551,-70.347,8.56,MwN,0.94,"12 km E of Baie-Saint-Paul, QC/12 km E de Baie-Saint-Paul, QC"
 20260625.1752001,2026-06-25T17:52:57.000Z,47.6418,-65.7775,0.0,MwN,1.59,"Blast, 1 km NNE of North Tetagouche, NB/Dynamitage, 1 km NNE de North Tetagouche, NB"
+20260625.1953001,2026-06-25T19:53:03.000Z,44.5001,-77.538,0.0,MwN,1.32,"Blast, 5 km W of Centre Hastings, ON/Dynamitage, 5 km O de Centre Hastings, ON"
