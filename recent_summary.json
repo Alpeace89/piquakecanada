@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-06-26T10:03:02Z",
+  "generated_utc": "2026-06-26T11:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 515,
-  "events_last_24h": 3,
+  "events_last_24h": 2,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 1,
-  "count_m4plus_last_24h": 1,
+  "count_m3plus_last_24h": 0,
+  "count_m4plus_last_24h": 0,
   "latest_event": {
     "event_id": "20260625.1752001",
     "time_utc": "2026-06-25T17:52:57.000Z",
@@ -18,15 +18,15 @@
     "region": "NB"
   },
   "largest_event_last_24h": {
-    "event_id": "20260625.1058004",
-    "time_utc": "2026-06-25T10:58:10.000Z",
-    "latitude": 66.6676,
-    "longitude": -140.6912,
-    "depth_km": 5.0,
-    "mag_type": "ML",
-    "magnitude": 4.07,
-    "place": "107 km SSW of Old Crow, YT/107 km SSO de Old Crow, YT",
-    "region": "YT"
+    "event_id": "20260625.1752001",
+    "time_utc": "2026-06-25T17:52:57.000Z",
+    "latitude": 47.6418,
+    "longitude": -65.7775,
+    "depth_km": 0.0,
+    "mag_type": "MwN",
+    "magnitude": 1.59,
+    "place": "Blast, 1 km NNE of North Tetagouche, NB/Dynamitage, 1 km NNE de North Tetagouche, NB",
+    "region": "NB"
   },
   "deepest_event_last_24h": {
     "event_id": "20260625.1205001",
@@ -41,10 +41,6 @@
   },
   "top_regions_last_24h": [
     {
-      "region": "YT",
-      "count": 1
-    },
-    {
       "region": "QC",
       "count": 1
     },
@@ -53,5 +49,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-06-26 10:03 UTC, the recent Canada earthquake dataset contains 515 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.07 at 107 km SSW of Old Crow, YT/107 km SSO de Old Crow, YT. The deepest event reached 8.56 km at 12 km E of Baie-Saint-Paul, QC/12 km E de Baie-Saint-Paul, QC. The most recent listed event was M1.59 at Blast, 1 km NNE of North Tetagouche, NB/Dynamitage, 1 km NNE de North Tetagouche, NB at 2026-06-25T17:52:57.000Z. There were 1 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were YT (1) and QC (1)."
+  "summary_text": "As of 2026-06-26 11:03 UTC, the recent Canada earthquake dataset contains 515 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.59 at Blast, 1 km NNE of North Tetagouche, NB/Dynamitage, 1 km NNE de North Tetagouche, NB. The deepest event reached 8.56 km at 12 km E of Baie-Saint-Paul, QC/12 km E de Baie-Saint-Paul, QC. The most recent listed event was M1.59 at Blast, 1 km NNE of North Tetagouche, NB/Dynamitage, 1 km NNE de North Tetagouche, NB at 2026-06-25T17:52:57.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (1) and NB (1)."
 }
