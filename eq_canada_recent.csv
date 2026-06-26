@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260512.0823001,2026-05-12T08:23:19.000Z,47.5906,-70.2159,6.24,MwN,0.09,"8 km SW of La Malbaie, QC/8 km SO de La Malbaie, QC"
 20260512.0940001,2026-05-12T09:40:36.000Z,47.9259,-80.6678,1.0,MwN,2.1,"Blast, 2 km SSE of Young-Davidson Mine, ON/Dynamitage, 2 km SSE de la mine Young-Davidson, ON"
 20260512.1536001,2026-05-12T15:36:28.000Z,61.1275,-140.054,1.0,ML,2.47,"62 km WSW of Burwash Landing, YT/62 km OSO de Burwash Landing, YT"
 20260512.1611001,2026-05-12T16:11:21.000Z,52.7784,-67.3687,0.0,MwN,2.16,"Blast, 19 km W of Fermont, QC/Dynamitage, 19 km O de Fermont, QC"
