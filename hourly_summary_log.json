@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-05T20:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we saw four minor seismic events. The largest one was a M3.57 near Haines Junction in the Yukon and La Malbaie in Quebec. That's pretty much it - no major shakes to report. The latest event this past afternoon was a very small one at M0.96. We've seen activity mainly in the Yukon and Quebec regions over the last day."
-  },
-  {
     "timestamp_utc": "2026-06-05T21:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been two minor quakes recorded. The largest one measured M1.59 near North Tetagouche in New Brunswick and a smaller one at Centre Hastings in Ontario. Both were caused by dynamite blasts. That's it for today's seismic activity around Canada."
+  },
+  {
+    "timestamp_utc": "2026-06-26T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had a total of two events detected by our PiQuake Canada dashboard. The largest one was a M1.59 near North Tetagouche in New Brunswick on June 25th at around 5:53 PM local time. Just to compare, there was another M1.32 shake further north in Ontario not long after that. Both events came from dynamite blasts."
   }
 ]
