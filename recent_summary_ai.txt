@@ -1,1 +1,1 @@
-In the last 24 hours, we've had three little tremors. The biggest one was a M4.07 near Old Crow in the Yukon, and there was another small shake around North Tetagouche in New Brunswick. Other than those, nothing major has been recorded since yesterday morning.
+In the last 24 hours, we had three minor seismic events detected across Canada. The largest one was a M4.07 near Old Crow in Yukon Territory, and another M1.59 occurred during dynamite blasting in New Brunswick. These are the latest recorded quakes from our PiQuake Canada dashboard.
