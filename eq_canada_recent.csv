@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260512.2035004,2026-05-12T20:35:23.000Z,53.4576,-131.7587,9.82,ML,3.95,"26 km NE of Skidegate 1, BC, felt/26 km NE de Skidegate 1, BC, ressenti"
 20260512.2245001,2026-05-12T22:45:38.000Z,47.5335,-70.3261,13.4,MwN,0.17,"6 km N of Les Éboulements, QC/6 km N de Les Éboulements, QC"
 20260513.0253001,2026-05-13T02:53:54.000Z,58.4764,-137.1566,1.0,ML,2.27,"160 km W of Juneau, AK/160 km O de Juneau, AK"
 20260513.0306001,2026-05-13T03:06:28.000Z,58.464,-137.1775,5.0,ML,3.0,"162 km W of Juneau, AK/162 km O de Juneau, AK"
@@ -507,6 +506,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260624.1316002,2026-06-24T13:16:25.000Z,59.4272,-136.6783,1.0,ML,2.52,"167 km SSW of Whitehorse, YT/167 km SSO de Whitehorse, YT"
 20260624.1742002,2026-06-24T17:42:35.000Z,66.6468,-140.5805,5.0,ML,3.2,"107 km SSW of Old Crow, YT/107 km SSO de Old Crow, YT"
 20260625.0122001,2026-06-25T01:22:31.000Z,56.2555,-121.9011,1.0,MLy,2.56,"Suspected industry-related event, 25 km S of Halfway River 168, BC/Événement lié à l'industrie soupconné, 25 km S de Halfway River 168, BC"
+20260625.0238001,2026-06-25T02:38:46.000Z,52.5851,-132.0211,18.19,ML,2.67,"75 km S of Daajing Giids, BC/75 km S de Daajing Giids, BC"
 20260625.0349001,2026-06-25T03:49:40.000Z,47.5161,-70.1047,8.14,MwN,0.21,"15 km SSE of La Malbaie, QC/15 km SSE de La Malbaie, QC"
 20260625.1058004,2026-06-25T10:58:10.000Z,66.6676,-140.6912,5.0,ML,4.07,"107 km SSW of Old Crow, YT/107 km SSO de Old Crow, YT"
 20260625.1205001,2026-06-25T12:05:30.000Z,47.4551,-70.347,8.56,MwN,0.94,"12 km E of Baie-Saint-Paul, QC/12 km E de Baie-Saint-Paul, QC"

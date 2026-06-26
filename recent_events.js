@@ -30,6 +30,12 @@ window.recentEvents = [
     "place": "15 km SSE of La Malbaie, QC/15 km SSE de La Malbaie, QC"
   },
   {
+    "time_utc": "2026-06-25T02:38:46.000Z",
+    "magnitude": "2.67",
+    "depth_km": "18.19",
+    "place": "75 km S of Daajing Giids, BC/75 km S de Daajing Giids, BC"
+  },
+  {
     "time_utc": "2026-06-25T01:22:31.000Z",
     "magnitude": "2.56",
     "depth_km": "1.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.74",
     "depth_km": "10.0",
     "place": "132 km W of Sitka, AK/132 km O de Sitka, AK"
-  },
-  {
-    "time_utc": "2026-06-24T07:06:20.000Z",
-    "magnitude": "-0.09",
-    "depth_km": "7.62",
-    "place": "4 km NW of La Malbaie, QC/4 km NO de La Malbaie, QC"
   }
 ];
