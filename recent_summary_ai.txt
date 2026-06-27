@@ -1,1 +1,1 @@
-Here's the latest activity on the PiQuake Canada dashboard: No earthquakes were reported in the last 24 hours, and a small one hit around Centre Hastings area yesterday afternoon. The quake was of magnitude M1.32, which is pretty minor but still recorded.
+In the last 24 hours, there haven't been any earthquakes detected by our PiQuake Canada dashboard. The largest one recorded was a magnitude of M1.32, which happened near Blast and Dynamitage in Centre Hastings, Ontario at around 7:53 PM on June 25th.
