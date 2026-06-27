@@ -1,1 +1,1 @@
-In the last 24 hours, there were no recorded quakes on the PiQuake Canada dashboard. The latest one was a M1.32 near Centre Hastings, Ontario, happening about an hour and a half ago. It seems like it's been quiet up north!
+In the past 24 hours, there were no recorded quakes by PiQuake Canada's dashboard. The largest quake was a minor M1.32 near some blasting sites in Ontario, nothing to worry about really. Not much has been happening lately, kind of quiet down there.

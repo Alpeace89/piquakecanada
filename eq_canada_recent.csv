@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260513.1845001,2026-05-13T18:45:20.000Z,65.5899,-135.5172,5.0,ML,3.09,"207 km S of Fort McPherson, NT/207 km S de Fort McPherson, NT"
 20260514.0027001,2026-05-14T00:27:18.000Z,42.8259,-77.5216,5.0,MwN,2.17,"39 km SSE of Rochester, NY/39 km SSE de Rochester, NY"
 20260514.0139001,2026-05-14T01:39:03.000Z,47.5577,-122.0703,16.94,ML,1.72,"20 km E of Seattle, WA/20 km E de Seattle, WA"
 20260514.0314001,2026-05-14T03:14:01.000Z,45.8774,-80.8024,2.0,MwN,2.09,"22 km WNW of Britt part A, ON/22 km ONO de Britt part A, ON"
