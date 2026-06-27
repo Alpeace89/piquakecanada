@@ -1,1 +1,1 @@
-In the last 24 hours, there haven't been any earthquakes detected by our PiQuake Canada dashboard. The largest one recorded was a magnitude of M1.32, which happened near Blast and Dynamitage in Centre Hastings, Ontario at around 7:53 PM on June 25th.
+The PiQuake Canada dashboard is currently in beta and shows no events have been detected in the last hour or day. The largest event recorded yesterday was an unknown magnitude happening at an unknown location. The latest small tremor on record was a M1.32 near Centre Hastings, Ontario.

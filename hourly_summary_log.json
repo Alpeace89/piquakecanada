@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-06T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there was just one earthquake event reported in Canada. The quake had a magnitude of M0.96 and happened about 18 kilometers south of La Malbaie in Quebec. This is the only earthquake we saw happen within the past day, so it's definitely something worth keeping an eye on if you live in or around that area."
-  },
-  {
     "timestamp_utc": "2026-06-06T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there haven't been any earthquakes detected by our PiQuake Canada dashboard. The largest one recorded was a magnitude of M1.32, which happened near Blast and Dynamitage in Centre Hastings, Ontario at around 7:53 PM on June 25th."
+  },
+  {
+    "timestamp_utc": "2026-06-27T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is currently in beta and shows no events have been detected in the last hour or day. The largest event recorded yesterday was an unknown magnitude happening at an unknown location. The latest small tremor on record was a M1.32 near Centre Hastings, Ontario."
   }
 ]
