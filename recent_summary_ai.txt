@@ -1,1 +1,1 @@
-In the past 24 hours, there were no recorded quakes by PiQuake Canada's dashboard. The largest quake was a minor M1.32 near some blasting sites in Ontario, nothing to worry about really. Not much has been happening lately, kind of quiet down there.
+The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a M1.32 near two blasting sites in Ontario, which happened on June 25 at around 7:53 PM UTC. There haven't been any events reported since then either.

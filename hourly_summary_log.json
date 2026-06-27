@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-07T01:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the past 24 hours, there haven't been any earthquakes reported on our PiQuake Canada dashboard. The largest one was a tiny M0.96 near La Malbaie in Quebec, which happened way back on June 5th at around 5:28 PM. That's about as many quakes as you'd see if you checked the weather for a whole year!"
-  },
-  {
     "timestamp_utc": "2026-06-07T02:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, there were no recorded quakes by PiQuake Canada's dashboard. The largest quake was a minor M1.32 near some blasting sites in Ontario, nothing to worry about really. Not much has been happening lately, kind of quiet down there."
+  },
+  {
+    "timestamp_utc": "2026-06-27T20:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a M1.32 near two blasting sites in Ontario, which happened on June 25 at around 7:53 PM UTC. There haven't been any events reported since then either."
   }
 ]
