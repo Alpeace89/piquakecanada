@@ -1,1 +1,1 @@
-In the past 24 hours, no earthquakes have been recorded by our PiQuake Canada dashboard. The largest event was a magnitude M1.32 happening at Blast, 5 km west of Centre Hastings, ON, and Dynamitage, 5 km east of Centre Hastings, ON. This is our latest activity update, folks.
+In the last 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The largest one was a M1.32 near Centre Hastings, Ontario, which happened around 7 PM local time. It was caused by dynamite blasts, both from the west and the east of that area.
