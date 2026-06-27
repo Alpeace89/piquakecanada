@@ -1,1 +1,1 @@
-In the past 24 hours, there were no earthquakes recorded by our PiQuake Canada dashboard. The largest one was a minor tremor measuring M1.32 near some blasting sites in Ontario. It happened on June 25th around 7:53 PM. No major areas have been affected or reported any unusual activity as of yet.
+The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a M1.32 near some dynamite blasts in Ontario, which happened on June 25th at around 7 PM. There haven't been any events reported recently.
