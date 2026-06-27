@@ -1,1 +1,1 @@
-For the PiQuake Canada dashboard in its beta phase, there were no earthquakes recorded last hour or day. The largest event was a M1.32 that happened at Blast and Dynamitage areas on June 25th around 7:53 PM local time. That's our latest update folks!
+For the PiQuake Canada dashboard in its beta phase, no events were recorded within the last hour or day. The largest event detected was a M1.32 near two blasting sites on June 25th at around 7 PM. That's it for now; more data will be added soon.
