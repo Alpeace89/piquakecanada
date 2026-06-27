@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a M1.32 near some dynamite blasts in Ontario, which happened on June 25th at around 7 PM. There haven't been any events reported recently.
+The PiQuake Canada dashboard is still in its beta phase and hasn't recorded any seismic events in the last 24 hours. The largest event seen was a magnitude unknown with an unspecified location, also from days ago. But just yesterday, there was a small tremor near some dynamite blasts that caused no fuss—about M1.32.

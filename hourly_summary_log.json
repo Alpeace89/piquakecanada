@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-06T06:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, two minor quakes shook the ground around La Malbaie in Quebec. The largest one measured M0.96 and happened just after 5 PM on June 5th. It's right where we've seen activity recently, with both events happening in a region labeled QC (2) as our top spot for recent seismic buzz."
-  },
-  {
     "timestamp_utc": "2026-06-06T07:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a M1.32 near some dynamite blasts in Ontario, which happened on June 25th at around 7 PM. There haven't been any events reported recently."
+  },
+  {
+    "timestamp_utc": "2026-06-27T01:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is still in its beta phase and hasn't recorded any seismic events in the last 24 hours. The largest event seen was a magnitude unknown with an unspecified location, also from days ago. But just yesterday, there was a small tremor near some dynamite blasts that caused no fuss—about M1.32."
   }
 ]
