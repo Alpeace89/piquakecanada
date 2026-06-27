@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-06T17:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is showing no events in the last hour, but there was one event yesterday. It happened about 18 kilometers south of La Malbaie in Quebec and it was a pretty small shake with a magnitude of M0.96. This isn't anything to worry about though; it's just part of what happens naturally here from time to time."
-  },
-  {
     "timestamp_utc": "2026-06-06T18:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the past 24 hours, there have been no recorded events on the PiQuake Canada dashboard. The largest event was a M1.32 near two blast sites in Ontario. It happened just after 7 PM local time on June 25th."
+  },
+  {
+    "timestamp_utc": "2026-06-27T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the last 24 hours, there haven't been any recorded quakes on our PiQuake Canada dashboard. The largest quake was an unknown magnitude happening at an unknown location. It happened around 5 PM today in two different places, one near a town called Centre Hastings and another nearby."
   }
 ]
