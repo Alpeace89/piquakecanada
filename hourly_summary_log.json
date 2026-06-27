@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-06T11:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two small quakes recorded yesterday. The largest one was a little shake measuring M0.96 about 18 km south of La Malbaie, QC/18 km S de La Malbaie, QC, happening around midnight on June 5th. No worries here; it's just your friendly neighbourhood tremor."
-  },
-  {
     "timestamp_utc": "2026-06-06T12:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the last hour, there haven't been any earthquakes reported. In the past 24 hours, neither have we seen any earthquake activity either. The largest event that occurred was a M1.32 near Centre Hastings in Ontario, happening around 19:53 UTC on June 25th. No significant regions or clusters of events were observed in the last 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-06-27T06:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes recorded in the last hour or day. The largest event was a mystery magnitude happening somewhere unknown on June 25 at around 7:53 PM. Nothing noteworthy happened today, but we'll keep an eye out for any quakes."
   }
 ]
