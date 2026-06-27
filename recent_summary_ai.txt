@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard is still in its beta phase and hasn't recorded any seismic events in the last 24 hours. The largest event seen was a magnitude unknown with an unspecified location, also from days ago. But just yesterday, there was a small tremor near some dynamite blasts that caused no fuss—about M1.32.
+In the last 24 hours, there were no earthquakes reported on the PiQuake Canada dashboard. The largest one was a M1.32 near Centre Hastings in Ontario caused by dynamite blasting. It happened on June 25 at around 7:53 PM local time.
