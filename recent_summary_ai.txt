@@ -1,1 +1,1 @@
-In the last 24 hours, there haven't been any detected seismic events on the PiQuake Canada dashboard. The largest event recorded was a M1.32 near some dynamite blasts in Ontario. That's the only activity we've seen since it started.
+The PiQuake Canada dashboard shows no events in the last hour or day, with the latest event being a M1.32 near Centre Hastings, ON from dynamite blasts. It's been like this for some time now; nothing much has been happening lately.
