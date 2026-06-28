@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260514.1101001,2026-05-14T11:01:31.000Z,60.4698,-141.6332,5.0,ML,1.97,"227 km W of Haines Junction, YT/227 km O de Haines Junction, YT"
 20260514.1221001,2026-05-14T12:21:14.000Z,60.2244,-141.3121,5.0,ML,2.08,"216 km WSW of Haines Junction, YT/216 km OSO de Haines Junction, YT"
 20260514.1738001,2026-05-14T17:38:37.000Z,48.7772,-128.9854,10.0,Mw',3.17,"241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC"
 20260514.1843001,2026-05-14T18:43:16.000Z,47.4906,-70.0731,11.42,MwN,0.72,"14 km NNW of La Pocatière, QC/14 km NNO de La Pocatière, QC"
