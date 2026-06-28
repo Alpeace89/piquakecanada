@@ -1,1 +1,1 @@
-For the last hour, there haven't been any earthquakes reported. In the past day, neither have there been any. The largest quake in that period was an unknown magnitude happening at an unknown location. The latest one we know about was a M1.32 near two places in Ontario — it happened on June 25th at around 7:53 PM local time.
+The PiQuake Canada dashboard shows no events in the last hour or day, and the largest event was a tiny M1.32 shake that happened near some dynamite blasts in Ontario. It's quiet out there!

@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-08T03:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour or day, and there's a minor quake recorded yesterday. It was a little shake of M0.96 near La Malbaie in Quebec that happened around 5 PM local time. That’s it for today—no big news from underfoot!"
-  },
-  {
     "timestamp_utc": "2026-06-08T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the last hour, there haven't been any earthquakes reported. In the past day, neither have there been any. The largest quake in that period was an unknown magnitude happening at an unknown location. The latest one we know about was a M1.32 near two places in Ontario — it happened on June 25th at around 7:53 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-06-28T22:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and the largest event was a tiny M1.32 shake that happened near some dynamite blasts in Ontario. It's quiet out there!"
   }
 ]
