@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-07T05:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was of unknown magnitude occurring at an unknown location and time. Our latest quake, which measured M0.96, happened near La Malbaie, Quebec yesterday afternoon."
-  },
-  {
     "timestamp_utc": "2026-06-07T06:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The largest one was a M1.32 near Centre Hastings, Ontario, which happened around 7 PM local time. It was caused by dynamite blasts, both from the west and the east of that area."
+  },
+  {
+    "timestamp_utc": "2026-06-28T00:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard showed no earthquake events in the last hour or day, and the largest event was a tiny M1.32 that happened near two blast sites, one about 5 km west and another 5 km east of Centre Hastings, Ontario. It all happened back on June 25 at around 7:53 PM."
   }
 ]

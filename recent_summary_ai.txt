@@ -1,1 +1,1 @@
-In the last 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The largest one was a M1.32 near Centre Hastings, Ontario, which happened around 7 PM local time. It was caused by dynamite blasts, both from the west and the east of that area.
+The PiQuake Canada dashboard showed no earthquake events in the last hour or day, and the largest event was a tiny M1.32 that happened near two blast sites, one about 5 km west and another 5 km east of Centre Hastings, Ontario. It all happened back on June 25 at around 7:53 PM.
