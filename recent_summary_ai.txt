@@ -1,1 +1,1 @@
-In the last 24 hours, no earthquakes were detected on our PiQuake Canada dashboard. The largest quake reported was a minor M1.32 near two construction sites in Ontario. It happened around 7:53 PM yesterday. Seems like a pretty quiet period overall.
+In the last 24 hours, no earthquakes were recorded by our PiQuake Canada dashboard. The largest one was a minor M1.32 near two different blast sites in Ontario. It happened on June 25th at about 7:53 PM local time. It's all very quiet around here for now!
