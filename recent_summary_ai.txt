@@ -1,1 +1,1 @@
-In the past 24 hours, there haven't been any detected quakes in Canada on our PiQuake dashboard. The latest quake recorded was a M1.32 near Centre Hastings, Ontario, which happened on June 25 at around 7:53 PM local time.
+In the last 24 hours, there were no recorded earthquakes on the PiQuake Canada dashboard. The largest one was a M1.32 that occurred near some dynamite blasts in Ontario. This is just like every other day without any major seismic activity.
