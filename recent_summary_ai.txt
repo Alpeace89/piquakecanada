@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no events in the last hour or day, and the largest event was a tiny M1.32 shake that happened near some dynamite blasts in Ontario. It's quiet out there!
+In the last 24 hours, there were no earthquakes reported by our PiQuake Canada dashboard. The largest one was a M1.32 that happened around Blast and Dynamitage areas in Centre Hastings, Ontario. It occurred on June 25th at about 7:53 PM local time.
