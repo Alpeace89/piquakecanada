@@ -1,1 +1,1 @@
-In the past 24 hours, there haven't been any quakes reported in Canada. The largest one was a tiny M1.32 near some dynamite blasts. It happened just after 7 PM on June 25th. Nothing much to see here.
+The PiQuake Canada dashboard hasn't had any earthquakes in the last hour or day. The biggest one was a M1.32 that happened around 19:53 on June 25th, near two different locations – a blast site and an old dynamite location. There haven’t been any earthquake reports in the top regions either over the past 24 hours.
