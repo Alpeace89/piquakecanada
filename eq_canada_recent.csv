@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260514.0406001,2026-05-14T04:06:26.000Z,60.5285,-139.922,5.0,ML,1.95,"134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"
 20260514.0918001,2026-05-14T09:18:42.000Z,50.4743,-129.1487,10.0,Mw',2.98,"83 km WSW of Holberg, BC/83 km OSO de Holberg, BC"
 20260514.0919001,2026-05-14T09:19:07.000Z,50.4686,-129.1571,10.0,Mw',3.75,"84 km WSW of Holberg, BC/84 km OSO de Holberg, BC"
 20260514.0937001,2026-05-14T09:37:00.000Z,48.6389,-128.6645,10.0,Mw',2.92,"247 km SSW of Port Hardy, BC/247 km SSO de Port Hardy, BC"
