@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-07T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is still in beta and hasn't recorded any events in the last hour or day. The largest event detected was a tiny M0.96, which happened around La Malbaie in Quebec earlier this month. It's pretty quiet out there!"
-  },
-  {
     "timestamp_utc": "2026-06-07T20:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the PiQuake Canada dashboard, it's been a quiet day with no earthquakes reported in the last 24 hours. The largest one was a tiny M1.32 that happened about an hour and a half ago near two places doing dynamite work in Ontario. It's just the kind of low-level stuff we usually see from PiQuake, nothing to worry about but still worth tracking for science and interest."
+  },
+  {
+    "timestamp_utc": "2026-06-28T14:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, there haven't been any earthquakes reported on the PiQuake Canada dashboard. The largest one recorded was a minor M1.32 near Centre Hastings in Ontario. It happened yesterday at around 7:53 PM local time. There hasn't been an earthquake within that region since then either."
   }
 ]
