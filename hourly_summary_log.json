@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-08T10:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is still in beta and hasn't recorded any quakes this hour or day. The largest quake last 24 hours was unknown magnitude at an unknown location, which happened a few days ago. The latest quake was M0.96 near La Malbaie, QC, back on June 5th."
-  },
-  {
     "timestamp_utc": "2026-06-08T11:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary for the PiQuake Canada dashboard in plain Canadian English: No earthquakes were recorded last hour or day, and we had no big shakes either. The largest one was just a tiny M1.32 near some blasting sites. It happened yesterday afternoon, but we don't know where exactly it occurred."
+  },
+  {
+    "timestamp_utc": "2026-06-29T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the PiQuake Canada dashboard in its beta phase, there have been no events recorded in the last hour or day. The largest event detected was of unknown magnitude occurring at an unknown location with an unknown time. Recently, a M1.32 quake hit near Centre Hastings, ON, one day ago."
   }
 ]
