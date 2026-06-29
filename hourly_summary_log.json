@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-08T16:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major events detected. However, we did see two small tremors near Baie-Saint-Paul in Quebec. The largest one was a tiny M0.52 that happened just after midnight on June 7th. It's been quite quiet around this area lately with only these two little shakes since the start of this beta phase."
-  },
-  {
     "timestamp_utc": "2026-06-08T17:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity for the last hour or day, and there hasn't been any detected quake larger than M1.32 in the past 24 hours either. The latest recorded event was a small one near Centre Hastings, ON, on June 25 at around 7:53 PM."
+  },
+  {
+    "timestamp_utc": "2026-06-29T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the PiQuake Canada dashboard in its beta phase, there have been no recorded events in the last hour or day. The largest event detected over the past 24 hours was of an unknown magnitude occurring at an unknown location and time. The latest activity registered on the dashboard was a M1.32 earthquake that happened around 7:53 PM on June 25th, near Centre Hastings in Ontario, involving dynamite blasting activities."
   }
 ]
