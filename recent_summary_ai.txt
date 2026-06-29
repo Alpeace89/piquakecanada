@@ -1,1 +1,1 @@
-In the last 24 hours, there were no detected earthquakes. The largest event recorded was a M1.32 near Centre Hastings in Ontario—likely from dynamite explosions. That's the only seismic activity noted since we started the beta testing of our PiQuake Canada dashboard.
+For the PiQuake Canada dashboard in its beta phase, there were no events reported last hour or in the past 24 hours. The largest event recorded was a M1.32 at Blast and Dynamitage locations in Centre Hastings, ON, happening on June 25th around 7:53 PM local time.
