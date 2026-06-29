@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-08T20:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day. The largest event recorded was a tiny M0.52 earthquake, which happened near Baie-Saint-Paul in Quebec. It's been quiet up there for at least one full day now."
-  },
-  {
     "timestamp_utc": "2026-06-08T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the last 24 hours, there were no major earthquakes reported on the PiQuake Canada dashboard. However, a M1.87 earthquake occurred just outside La Malbaie, Quebec at around 9:46 PM yesterday. This was the largest quake we've seen in that region in 24 hours."
+  },
+  {
+    "timestamp_utc": "2026-06-29T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary of the PiQuake Canada dashboard for the last 24 hours: No events happened, but there was one tiny shake with a magnitude of M1.87 in La Malbaie, Quebec. It was detected on June 28th at around 9:46 PM UTC time. The region of QC saw this as their only event during that period."
   }
 ]

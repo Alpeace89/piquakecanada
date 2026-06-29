@@ -6,6 +6,18 @@ window.recentEvents = [
     "place": "15 km E of La Malbaie, QC/15 km E de La Malbaie, QC"
   },
   {
+    "time_utc": "2026-06-26T23:46:48.000Z",
+    "magnitude": "2.1",
+    "depth_km": "5.0",
+    "place": "133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
+  },
+  {
+    "time_utc": "2026-06-26T11:24:43.000Z",
+    "magnitude": "2.15",
+    "depth_km": "1.0",
+    "place": "Suspected industry-related event, 18 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 18 km S de Halfway River 168, BC"
+  },
+  {
     "time_utc": "2026-06-26T10:36:10.000Z",
     "magnitude": "3.32",
     "depth_km": "10.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "4.07",
     "depth_km": "5.0",
     "place": "107 km SSW of Old Crow, YT/107 km SSO de Old Crow, YT"
-  },
-  {
-    "time_utc": "2026-06-25T03:55:01.000Z",
-    "magnitude": "2.72",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 65 km SSE of Grande Prairie, AB/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 65 km SSE de Grande Prairie, AB"
-  },
-  {
-    "time_utc": "2026-06-25T03:49:40.000Z",
-    "magnitude": "0.21",
-    "depth_km": "8.14",
-    "place": "15 km SSE of La Malbaie, QC/15 km SSE de La Malbaie, QC"
   }
 ];
