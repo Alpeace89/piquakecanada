@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260515.1220001,2026-05-15T12:20:09.000Z,59.6899,-136.1934,5.0,ML,2.44,"128 km SSW of Whitehorse, YT/128 km SSO de Whitehorse, YT"
 20260515.1314001,2026-05-15T13:14:41.000Z,49.4534,-127.5537,32.72,ML,1.33,"65 km S of Houpsitas 6, BC/65 km S de Houpsitas 6, BC"
 20260515.1829001,2026-05-15T18:29:14.000Z,65.5308,-135.7928,1.0,ML,2.88,"216 km S of Fort McPherson, NT/216 km S de Fort McPherson, NT"
 20260515.1920001,2026-05-15T19:20:47.000Z,47.5375,-70.2289,16.84,MwN,0.69,"14 km SSW of La Malbaie, QC/14 km SSO de La Malbaie, QC"
@@ -481,3 +480,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260625.1205001,2026-06-25T12:05:30.000Z,47.4551,-70.347,8.56,MwN,0.94,"12 km E of Baie-Saint-Paul, QC/12 km E de Baie-Saint-Paul, QC"
 20260625.1752001,2026-06-25T17:52:57.000Z,47.6418,-65.7775,0.0,MwN,1.59,"Blast, 1 km NNE of North Tetagouche, NB/Dynamitage, 1 km NNE de North Tetagouche, NB"
 20260625.1953001,2026-06-25T19:53:03.000Z,44.5001,-77.538,0.0,MwN,1.32,"Blast, 5 km W of Centre Hastings, ON/Dynamitage, 5 km O de Centre Hastings, ON"
+20260626.0635001,2026-06-26T06:35:21.000Z,50.0041,-127.5533,35.29,ML,0.6,"13 km WSW of Houpsitas 6, BC/13 km OSO de Houpsitas 6, BC"
+20260628.2146001,2026-06-28T21:46:34.000Z,47.674,-69.9571,15.47,MwN,1.87,"15 km E of La Malbaie, QC/15 km E de La Malbaie, QC"

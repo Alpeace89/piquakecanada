@@ -1,24 +1,49 @@
 {
-  "generated_utc": "2026-06-29T12:03:01Z",
+  "generated_utc": "2026-06-29T13:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 482,
-  "events_last_24h": 0,
+  "rolling_window_event_count": 483,
+  "events_last_24h": 1,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260625.1953001",
-    "time_utc": "2026-06-25T19:53:03.000Z",
-    "latitude": 44.5001,
-    "longitude": -77.538,
-    "depth_km": 0.0,
+    "event_id": "20260628.2146001",
+    "time_utc": "2026-06-28T21:46:34.000Z",
+    "latitude": 47.674,
+    "longitude": -69.9571,
+    "depth_km": 15.47,
     "mag_type": "MwN",
-    "magnitude": 1.32,
-    "place": "Blast, 5 km W of Centre Hastings, ON/Dynamitage, 5 km O de Centre Hastings, ON",
-    "region": "ON"
+    "magnitude": 1.87,
+    "place": "15 km E of La Malbaie, QC/15 km E de La Malbaie, QC",
+    "region": "QC"
   },
-  "largest_event_last_24h": null,
-  "deepest_event_last_24h": null,
-  "top_regions_last_24h": [],
-  "summary_text": "As of 2026-06-29 12:03 UTC, the recent Canada earthquake dataset contains 482 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M1.32 at Blast, 5 km W of Centre Hastings, ON/Dynamitage, 5 km O de Centre Hastings, ON at 2026-06-25T19:53:03.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "largest_event_last_24h": {
+    "event_id": "20260628.2146001",
+    "time_utc": "2026-06-28T21:46:34.000Z",
+    "latitude": 47.674,
+    "longitude": -69.9571,
+    "depth_km": 15.47,
+    "mag_type": "MwN",
+    "magnitude": 1.87,
+    "place": "15 km E of La Malbaie, QC/15 km E de La Malbaie, QC",
+    "region": "QC"
+  },
+  "deepest_event_last_24h": {
+    "event_id": "20260628.2146001",
+    "time_utc": "2026-06-28T21:46:34.000Z",
+    "latitude": 47.674,
+    "longitude": -69.9571,
+    "depth_km": 15.47,
+    "mag_type": "MwN",
+    "magnitude": 1.87,
+    "place": "15 km E of La Malbaie, QC/15 km E de La Malbaie, QC",
+    "region": "QC"
+  },
+  "top_regions_last_24h": [
+    {
+      "region": "QC",
+      "count": 1
+    }
+  ],
+  "summary_text": "As of 2026-06-29 13:03 UTC, the recent Canada earthquake dataset contains 483 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.87 at 15 km E of La Malbaie, QC/15 km E de La Malbaie, QC. The deepest event reached 15.47 km at 15 km E of La Malbaie, QC/15 km E de La Malbaie, QC. The most recent listed event was M1.87 at 15 km E of La Malbaie, QC/15 km E de La Malbaie, QC at 2026-06-28T21:46:34.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
 }
