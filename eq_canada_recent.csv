@@ -461,6 +461,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260622.0349001,2026-06-22T03:49:53.000Z,52.7386,-132.2929,15.81,ML,1.91,"59 km SSW of Daajing Giids, BC/59 km SSO de Daajing Giids, BC"
 20260622.0558001,2026-06-22T05:58:57.000Z,51.0846,-124.4447,18.64,ML,1.01,"56 km SW of Lohbiee 3, BC/56 km SO de Lohbiee 3, BC"
 20260622.0806001,2026-06-22T08:06:53.000Z,47.6126,-70.1622,17.34,MwN,0.36,"4 km SSW of La Malbaie, QC/4 km SSO de La Malbaie, QC"
+20260622.0814001,2026-06-22T08:14:37.000Z,48.596,-122.177,5.0,ML,1.07,"29 km SE of Bellingham, WA/29 km SE de Bellingham, WA"
 20260623.0445001,2026-06-23T04:45:22.000Z,60.5153,-139.7938,1.0,ML,2.42,"127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
 20260623.1007001,2026-06-23T10:07:29.000Z,51.1003,-124.7904,5.0,ML,1.18,"72 km SW of Lohbiee 3, BC/72 km SO de Lohbiee 3, BC"
 20260623.1043001,2026-06-23T10:43:42.000Z,52.5177,-131.8871,21.57,ML,1.88,"83 km S of Daajing Giids, BC/83 km S de Daajing Giids, BC"
