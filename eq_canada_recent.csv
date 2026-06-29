@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260515.2237001,2026-05-15T22:37:30.000Z,50.6522,-122.8832,10.0,ML,2.5,"14 km SSW of Bralorne, BC/14 km SSO de Bralorne, BC"
-20260515.2249001,2026-05-15T22:49:58.000Z,48.9383,-128.6145,10.0,Mw',2.92,"199 km W of Tofino, BC/199 km O de Tofino, BC"
 20260515.2323001,2026-05-15T23:23:34.000Z,48.5556,-122.7587,28.48,ML,1.66,"47 km ENE of Victoria, BC/47 km ENE de Victoria, BC"
 20260515.2356001,2026-05-15T23:56:25.000Z,54.305,-117.6918,1.0,MLy,2.89,"Suspected industry-related event, 58 km W of Fox Creek, AB/Événement lié à l'industrie soupconné, 58 km O de Fox Creek, AB"
 20260516.0012001,2026-05-16T00:12:24.000Z,49.984,-130.0448,10.0,Mw',2.91,"199 km WSW of Port Hardy, BC/199 km OSO de Port Hardy, BC"

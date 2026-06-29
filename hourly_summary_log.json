@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-09T04:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or 24 hours. The largest event detected was a M2.39 near some mining sites, which happened yesterday at night. There's nothing to worry about, everything is quiet as usual."
-  },
-  {
     "timestamp_utc": "2026-06-09T05:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, no quakes were detected by our PiQuake Canada dashboard. The largest event was a M1.87 that happened around La Malbaie in Quebec early June 29th. It's like if we didn't hear any thunder today, but you know we're here watching for any shakes."
+  },
+  {
+    "timestamp_utc": "2026-06-29T23:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, no earthquakes were detected on the PiQuake Canada dashboard. The largest event recorded was a M1.87 near La Malbaie in Quebec. It happened just after midnight UTC on June 28th. No regions experienced any seismic activity during this period."
   }
 ]
