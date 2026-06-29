@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260515.0201001,2026-05-15T02:01:35.000Z,50.4143,-129.128,10.0,Mw',2.72,"83 km WSW of Holberg, BC/83 km OSO de Holberg, BC"
-20260515.0238001,2026-05-15T02:38:34.000Z,60.5133,-139.7555,5.0,ML,2.39,"125 km WSW of Haines Junction, YT/125 km OSO de Haines Junction, YT"
 20260515.0439001,2026-05-15T04:39:14.000Z,47.5648,-69.9422,10.42,MwN,0.18,"11 km WNW of Saint-Pascal, QC/11 km ONO de Saint-Pascal, QC"
 20260515.0549001,2026-05-15T05:49:59.000Z,52.6248,-132.1531,17.96,ML,2.35,"70 km S of Daajing Giids, BC/70 km S de Daajing Giids, BC"
 20260515.0852001,2026-05-15T08:52:16.000Z,45.8887,-80.8008,2.0,MwN,2.02,"23 km NW of Britt part A, ON/23 km NO de Britt part A, ON"
