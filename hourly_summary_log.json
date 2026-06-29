@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-08T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two minor tremors recorded yesterday. The largest one was a M0.52 near Baie-Saint-Paul, Quebec around midnight on June 7th. It's been quiet since then with nothing new happening lately."
-  },
-  {
     "timestamp_utc": "2026-06-08T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the PiQuake Canada dashboard in its beta phase, there were no events reported last hour or in the past 24 hours. The largest event recorded was a M1.32 at Blast and Dynamitage locations in Centre Hastings, ON, happening on June 25th around 7:53 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-06-29T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity for the last hour or day, and there hasn't been any detected quake larger than M1.32 in the past 24 hours either. The latest recorded event was a small one near Centre Hastings, ON, on June 25 at around 7:53 PM."
   }
 ]

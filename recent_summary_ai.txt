@@ -1,1 +1,1 @@
-For the PiQuake Canada dashboard in its beta phase, there were no events reported last hour or in the past 24 hours. The largest event recorded was a M1.32 at Blast and Dynamitage locations in Centre Hastings, ON, happening on June 25th around 7:53 PM local time.
+The PiQuake Canada dashboard shows no activity for the last hour or day, and there hasn't been any detected quake larger than M1.32 in the past 24 hours either. The latest recorded event was a small one near Centre Hastings, ON, on June 25 at around 7:53 PM.
