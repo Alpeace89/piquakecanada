@@ -6,6 +6,18 @@ window.recentEvents = [
     "place": "15 km E of La Malbaie, QC/15 km E de La Malbaie, QC"
   },
   {
+    "time_utc": "2026-06-26T10:36:10.000Z",
+    "magnitude": "3.32",
+    "depth_km": "10.0",
+    "place": "257 km WNW of Port Hardy, BC/257 km ONO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-06-26T08:06:55.000Z",
+    "magnitude": "2.4",
+    "depth_km": "13.24",
+    "place": "44 km E of Seattle, WA/44 km E de Seattle, WA"
+  },
+  {
     "time_utc": "2026-06-26T06:35:21.000Z",
     "magnitude": "0.6",
     "depth_km": "35.29",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "0.21",
     "depth_km": "8.14",
     "place": "15 km SSE of La Malbaie, QC/15 km SSE de La Malbaie, QC"
-  },
-  {
-    "time_utc": "2026-06-25T02:38:46.000Z",
-    "magnitude": "2.67",
-    "depth_km": "18.19",
-    "place": "75 km S of Daajing Giids, BC/75 km S de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-06-25T01:22:31.000Z",
-    "magnitude": "2.56",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 25 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 25 km S de Halfway River 168, BC"
   }
 ];
