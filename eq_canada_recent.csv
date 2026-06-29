@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260515.1920001,2026-05-15T19:20:47.000Z,47.5375,-70.2289,16.84,MwN,0.69,"14 km SSW of La Malbaie, QC/14 km SSO de La Malbaie, QC"
 20260515.2237001,2026-05-15T22:37:30.000Z,50.6522,-122.8832,10.0,ML,2.5,"14 km SSW of Bralorne, BC/14 km SSO de Bralorne, BC"
 20260515.2249001,2026-05-15T22:49:58.000Z,48.9383,-128.6145,10.0,Mw',2.92,"199 km W of Tofino, BC/199 km O de Tofino, BC"
 20260515.2323001,2026-05-15T23:23:34.000Z,48.5556,-122.7587,28.48,ML,1.66,"47 km ENE of Victoria, BC/47 km ENE de Victoria, BC"
