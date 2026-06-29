@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-09T02:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events for the last hour or day. The largest event recorded was M2.39, happening at Blast, 15 km SW of Trend Mine in BC/Dynamitage, 15 km SO de la mine Trend, BC on June 7th around 10:08 PM UTC."
-  },
-  {
     "timestamp_utc": "2026-06-09T03:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had one seismic event with a magnitude of M1.87 in an area near La Malbaie, Quebec. This is our latest event as well, recorded at 10:46 PM yesterday local time. It's happening in the QC region."
+  },
+  {
+    "timestamp_utc": "2026-06-29T21:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one earthquake reported by our PiQuake Canada dashboard. It measured M1.87 and happened just east of La Malbaie in Quebec. This is the largest quake we've seen since our beta launched, and it occurred on June 28th at around 9:46 PM Eastern Time."
   }
 ]
