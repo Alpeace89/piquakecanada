@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260515.0549001,2026-05-15T05:49:59.000Z,52.6248,-132.1531,17.96,ML,2.35,"70 km S of Daajing Giids, BC/70 km S de Daajing Giids, BC"
 20260515.0852001,2026-05-15T08:52:16.000Z,45.8887,-80.8008,2.0,MwN,2.02,"23 km NW of Britt part A, ON/23 km NO de Britt part A, ON"
 20260515.1220001,2026-05-15T12:20:09.000Z,59.6899,-136.1934,5.0,ML,2.44,"128 km SSW of Whitehorse, YT/128 km SSO de Whitehorse, YT"
 20260515.1314001,2026-05-15T13:14:41.000Z,49.4534,-127.5537,32.72,ML,1.33,"65 km S of Houpsitas 6, BC/65 km S de Houpsitas 6, BC"
