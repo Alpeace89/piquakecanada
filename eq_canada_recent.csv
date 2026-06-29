@@ -458,6 +458,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260621.0530001,2026-06-21T05:30:18.000Z,66.0748,-135.1192,5.0,ML,3.49,"152 km S of Fort McPherson, NT/152 km S de Fort McPherson, NT"
 20260621.1151001,2026-06-21T11:51:01.000Z,46.4217,-77.1653,4.22,MwN,1.31,"61 km N of Petawawa, ON/61 km N de Petawawa, ON"
 20260622.0247001,2026-06-22T02:47:41.000Z,61.443,-140.0944,5.0,ML,3.11,"60 km W of Burwash Landing, YT/60 km O de Burwash Landing, YT"
+20260622.0349001,2026-06-22T03:49:53.000Z,52.7386,-132.2929,15.81,ML,1.91,"59 km SSW of Daajing Giids, BC/59 km SSO de Daajing Giids, BC"
+20260622.0558001,2026-06-22T05:58:57.000Z,51.0846,-124.4447,18.64,ML,1.01,"56 km SW of Lohbiee 3, BC/56 km SO de Lohbiee 3, BC"
 20260622.0806001,2026-06-22T08:06:53.000Z,47.6126,-70.1622,17.34,MwN,0.36,"4 km SSW of La Malbaie, QC/4 km SSO de La Malbaie, QC"
 20260623.0445001,2026-06-23T04:45:22.000Z,60.5153,-139.7938,1.0,ML,2.42,"127 km W of Haines Junction, YT/127 km O de Haines Junction, YT"
 20260623.1007001,2026-06-23T10:07:29.000Z,51.1003,-124.7904,5.0,ML,1.18,"72 km SW of Lohbiee 3, BC/72 km SO de Lohbiee 3, BC"

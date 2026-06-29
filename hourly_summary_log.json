@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-08T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there was just one quake in our PiQuake Canada dashboard. It measured M2.07 and happened near a dynamite blast site southeast of Mount Milligan Mine in British Columbia. This is the only earthquake we saw happen within that timeframe, all happening way back on June 6th at around 9:48 PM."
-  },
-  {
     "timestamp_utc": "2026-06-08T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a quick summary of the PiQuake Canada dashboard for the last 24 hours: No events happened, but there was one tiny shake with a magnitude of M1.87 in La Malbaie, Quebec. It was detected on June 28th at around 9:46 PM UTC time. The region of QC saw this as their only event during that period."
+  },
+  {
+    "timestamp_utc": "2026-06-29T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour, but there was one event yesterday with a magnitude of M1.87 that happened about 15 kilometers east of La Malbaie, Quebec. This is the largest quake recorded in the past 24 hours and it's happening again today at the same location."
   }
 ]
