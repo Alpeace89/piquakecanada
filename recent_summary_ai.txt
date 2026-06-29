@@ -1,1 +1,1 @@
-In the past 24 hours, we've had zero earthquakes reported. The largest one recorded was a M1.32 near two blasting sites in Ontario. It happened on June 25th at about 7:53 PM local time. Nothing serious to report here folks.
+The PiQuake Canada dashboard shows no activity in the last hour or day. The largest event recorded was a M1.32 near Blast and Dynamitage in Centre Hastings, ON, on June 25th at around 7:53 PM local time. There haven't been any events reported recently.
