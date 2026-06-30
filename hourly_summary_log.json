@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-09T13:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no seismic events in the last hour or day, and there's nothing notable from yesterday either. The latest event was a small one measuring M2.39 near some mining areas in British Columbia, happening on June 7th at around 10 PM local time. Nothing major has been recorded here recently."
-  },
-  {
     "timestamp_utc": "2026-06-09T14:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no major seismic events reported on our PiQuake Canada dashboard. However, a M4.5 quake was recorded about 5495 km east-southeast of Alert in Nunavut and Nova Scotia. It happened around 05:36 UTC today. This is the largest event we saw last 24 hours and the latest one on our radar as well."
+  },
+  {
+    "timestamp_utc": "2026-06-30T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two minor earthquakes with a magnitude of M4.5 in areas that are usually active like Nunavut and Nova Scotia. The latest one happened this morning around Alert in Nunavut at about the same time as our first event. It's good to keep an eye on these places for any seismic activity since they've been quite busy lately."
   }
 ]
