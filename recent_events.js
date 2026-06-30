@@ -54,9 +54,9 @@ window.recentEvents = [
     "place": "Blast, 5 km W of Centre Hastings, ON/Dynamitage, 5 km O de Centre Hastings, ON"
   },
   {
-    "time_utc": "2026-06-25T17:52:57.000Z",
-    "magnitude": "1.59",
-    "depth_km": "0.0",
-    "place": "Blast, 1 km NNE of North Tetagouche, NB/Dynamitage, 1 km NNE de North Tetagouche, NB"
+    "time_utc": "2026-06-25T18:20:11.000Z",
+    "magnitude": "2.36",
+    "depth_km": "1.0",
+    "place": "Blast, 9 km WSW of Trend Mine, BC/Dynamitage, 9 km OSO de la mine Trend, BC"
   }
 ];
