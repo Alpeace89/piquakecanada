@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-09T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, no earthquakes were detected on the PiQuake Canada dashboard. The largest event recorded was a magnitude unknown located at an unknown place with an unclear time. The latest earthquake felt in British Columbia happened earlier today near Victoria, and it measured M3.12."
-  },
-  {
     "timestamp_utc": "2026-06-09T19:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had two small quakes. The largest one was a M4.5 near Alert, Nunavut. That's in the top regions with Nova Scotia also experiencing a quake around the same time. So far, things are looking pretty quiet!"
+  },
+  {
+    "timestamp_utc": "2026-06-30T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had two minor earthquakes with a magnitude of M4.5 each. Both events happened far away from populated areas, about 5495 kilometers ESE of Alert, Nunavut. The latest one occurred just yesterday at around 5:36 AM UTC. The top regions affected were Nunavut and Nova Scotia."
   }
 ]
