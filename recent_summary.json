@@ -1,24 +1,53 @@
 {
-  "generated_utc": "2026-06-30T05:03:01Z",
+  "generated_utc": "2026-06-30T06:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 489,
-  "events_last_24h": 0,
-  "events_last_hour": 0,
-  "count_m3plus_last_24h": 0,
-  "count_m4plus_last_24h": 0,
+  "events_last_24h": 2,
+  "events_last_hour": 2,
+  "count_m3plus_last_24h": 2,
+  "count_m4plus_last_24h": 2,
   "latest_event": {
-    "event_id": "20260628.2146001",
-    "time_utc": "2026-06-28T21:46:34.000Z",
-    "latitude": 47.674,
-    "longitude": -69.9571,
-    "depth_km": 15.47,
-    "mag_type": "MwN",
-    "magnitude": 1.87,
-    "place": "15 km E of La Malbaie, QC/15 km E de La Malbaie, QC",
-    "region": "QC"
+    "event_id": "20260630.0536002",
+    "time_utc": "2026-06-30T05:36:47.000Z",
+    "latitude": 44.57,
+    "longitude": 56.25,
+    "depth_km": 10.0,
+    "mag_type": "ML",
+    "magnitude": 4.5,
+    "place": "Preliminary; 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU",
+    "region": "NU"
   },
-  "largest_event_last_24h": null,
-  "deepest_event_last_24h": null,
-  "top_regions_last_24h": [],
-  "summary_text": "As of 2026-06-30 05:03 UTC, the recent Canada earthquake dataset contains 489 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M1.87 at 15 km E of La Malbaie, QC/15 km E de La Malbaie, QC at 2026-06-28T21:46:34.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "largest_event_last_24h": {
+    "event_id": "20260630.0536002",
+    "time_utc": "2026-06-30T05:36:47.000Z",
+    "latitude": 44.57,
+    "longitude": 56.25,
+    "depth_km": 10.0,
+    "mag_type": "ML",
+    "magnitude": 4.5,
+    "place": "Preliminary; 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU",
+    "region": "NU"
+  },
+  "deepest_event_last_24h": {
+    "event_id": "20260630.0536002",
+    "time_utc": "2026-06-30T05:36:47.000Z",
+    "latitude": 44.57,
+    "longitude": 56.25,
+    "depth_km": 10.0,
+    "mag_type": "ML",
+    "magnitude": 4.5,
+    "place": "Preliminary; 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU",
+    "region": "NU"
+  },
+  "top_regions_last_24h": [
+    {
+      "region": "NU",
+      "count": 1
+    },
+    {
+      "region": "NS",
+      "count": 1
+    }
+  ],
+  "summary_text": "As of 2026-06-30 06:03 UTC, the recent Canada earthquake dataset contains 489 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 2 in the last hour. The largest event in the last 24 hours was M4.5 at Preliminary; 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU. The deepest event reached 10.00 km at Preliminary; 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU. The most recent listed event was M4.5 at Preliminary; 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU at 2026-06-30T05:36:47.000Z. There were 2 events of magnitude 3 or greater and 2 of magnitude 4 or greater in the last 24 hours. The most active regions were NU (1) and NS (1)."
 }

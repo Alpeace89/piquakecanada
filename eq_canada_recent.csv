@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260516.0541001,2026-05-16T05:41:43.000Z,49.5095,-127.3128,29.68,ML,2.06,"65 km SW of Tahsis, BC/65 km SO de Tahsis, BC"
-20260516.0541002,2026-05-16T05:41:58.000Z,61.1122,-140.0871,5.0,ML,1.75,"65 km WSW of Burwash Landing, YT/65 km OSO de Burwash Landing, YT"
 20260516.1019001,2026-05-16T10:19:51.000Z,49.1833,-127.9053,10.0,Mw',2.08,"134 km W of Marktosis 15, BC/134 km O de Marktosis 15, BC"
 20260516.1150001,2026-05-16T11:50:42.000Z,69.9254,-130.7453,20.0,ML,3.27,"103 km ENE of Tuktoyaktuk, NT/103 km ENE de Tuktoyaktuk, NT"
 20260516.1357001,2026-05-16T13:57:52.000Z,51.4841,-130.8552,10.0,ML,2.58,"249 km WNW of Port Hardy, BC/249 km ONO de Port Hardy, BC"
@@ -488,3 +486,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260626.1124001,2026-06-26T11:24:43.000Z,56.317,-121.8071,1.0,MLy,2.15,"Suspected industry-related event, 18 km S of Halfway River 168, BC/Événement lié à l'industrie soupconné, 18 km S de Halfway River 168, BC"
 20260626.2346001,2026-06-26T23:46:48.000Z,60.5436,-139.9122,5.0,ML,2.1,"133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
 20260628.2146001,2026-06-28T21:46:34.000Z,47.674,-69.9571,15.47,MwN,1.87,"15 km E of La Malbaie, QC/15 km E de La Malbaie, QC"
+20260630.0536002,2026-06-30T05:36:47.000Z,44.57,56.25,10.0,ML,4.5,"Preliminary; 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU"
+20260630.0536001,2026-06-30T05:36:47.000Z,44.5717,-56.2458,10.0,ML,4.47,"354 km ESE of Cape Breton, NS/354 km ESE de Cape Breton, NS"
