@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-09T07:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, and the largest event was a magnitude M2.39 near a mine blast area in British Columbia. The latest quake happened yesterday at around 10 PM local time. No regions reported any activity today."
-  },
-  {
     "timestamp_utc": "2026-06-09T08:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "For the past hour and in the last 24 hours, there haven't been any earthquakes reported on our PiQuake Canada dashboard. The largest event we've seen was a M1.87 that happened about 15 km east of La Malbaie, Quebec around midnight yesterday. It's just another day in earthquake land for us here in Canada!"
+  },
+  {
+    "timestamp_utc": "2026-06-30T02:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no recorded quakes on the PiQuake Canada dashboard. The largest one measured M1.87 and happened near La Malbaie in Quebec. It's pretty quiet up there with no seismic activity for the whole day yesterday."
   }
 ]
