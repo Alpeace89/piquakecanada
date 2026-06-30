@@ -18,6 +18,12 @@ window.recentEvents = [
     "place": "15 km E of La Malbaie, QC/15 km E de La Malbaie, QC"
   },
   {
+    "time_utc": "2026-06-28T06:52:34.000Z",
+    "magnitude": "2.63",
+    "depth_km": "10.0",
+    "place": "182 km W of Tofino, BC/182 km O de Tofino, BC"
+  },
+  {
     "time_utc": "2026-06-26T23:46:48.000Z",
     "magnitude": "2.1",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.0",
     "depth_km": "1.3",
     "place": "134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-25T19:53:03.000Z",
-    "magnitude": "1.32",
-    "depth_km": "0.0",
-    "place": "Blast, 5 km W of Centre Hastings, ON/Dynamitage, 5 km O de Centre Hastings, ON"
   }
 ];

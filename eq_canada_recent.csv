@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260516.1711001,2026-05-16T17:11:47.000Z,49.9993,-130.0081,10.0,Mw',2.72,"195 km WSW of Port Hardy, BC/195 km OSO de Port Hardy, BC"
 20260516.2036001,2026-05-16T20:36:49.000Z,49.4476,-116.8042,5.0,ML,3.58,"26 km SE of Central Kootenay E, BC/26 km SE de Central Kootenay E, BC"
 20260516.2359001,2026-05-16T23:59:39.000Z,49.9926,-130.044,10.0,Mw',3.06,"198 km WSW of Port Hardy, BC/198 km OSO de Port Hardy, BC"
 20260517.0510001,2026-05-17T05:10:11.000Z,52.5414,-132.704,20.0,ML,2.45,"89 km SSW of Daajing Giids, BC/89 km SSO de Daajing Giids, BC"
@@ -490,6 +489,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260626.1036001,2026-06-26T10:36:10.000Z,51.3655,-131.0278,10.0,Mw',3.32,"257 km WNW of Port Hardy, BC/257 km ONO de Port Hardy, BC"
 20260626.1124001,2026-06-26T11:24:43.000Z,56.317,-121.8071,1.0,MLy,2.15,"Suspected industry-related event, 18 km S of Halfway River 168, BC/Événement lié à l'industrie soupconné, 18 km S de Halfway River 168, BC"
 20260626.2346001,2026-06-26T23:46:48.000Z,60.5436,-139.9122,5.0,ML,2.1,"133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
+20260628.0652001,2026-06-28T06:52:34.000Z,48.8188,-128.3497,10.0,Mw',2.63,"182 km W of Tofino, BC/182 km O de Tofino, BC"
 20260628.2146001,2026-06-28T21:46:34.000Z,47.674,-69.9571,15.47,MwN,1.87,"15 km E of La Malbaie, QC/15 km E de La Malbaie, QC"
 20260630.0536004,2026-06-30T05:36:48.000Z,44.5582,-56.331,18.0,ML,4.45,"349 km ESE of Cape Breton, NS/349 km ESE de Cape Breton, NS"
 20260630.0540001,2026-06-30T05:40:38.000Z,44.5756,-56.2883,18.0,ML,3.68,"351 km ESE of Cape Breton, NS/351 km ESE de Cape Breton, NS"

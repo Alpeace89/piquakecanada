@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-09T23:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had 10 PiQuake Canada events. The largest one was a M3.27 near Elkford in British Columbia and Alaska. It happened at 10 past 8 PM yesterday. Most of these quakes were happening in BC with nine, while one was spotted in AK."
-  },
-  {
     "timestamp_utc": "2026-06-10T00:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2995,6 +2989,12 @@
   },
   {
     "timestamp_utc": "2026-06-30T17:03:01Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "Canada recorded 2 earthquakes in the last 24 hours, with the largest event M4.45 at 349 km ESE of Cape Breton, NS/349 km ESE de Cape Breton, NS. No earthquakes were recorded in the last hour. The most recent listed event was M3.68 at 351 km ESE of Cape Breton, NS/351 km ESE de Cape Breton, NS at 2026-06-30T05:40:38Z."
+  },
+  {
+    "timestamp_utc": "2026-06-30T18:03:01Z",
     "mode": "deterministic",
     "model": null,
     "summary": "Canada recorded 2 earthquakes in the last 24 hours, with the largest event M4.45 at 349 km ESE of Cape Breton, NS/349 km ESE de Cape Breton, NS. No earthquakes were recorded in the last hour. The most recent listed event was M3.68 at 351 km ESE of Cape Breton, NS/351 km ESE de Cape Breton, NS at 2026-06-30T05:40:38Z."
