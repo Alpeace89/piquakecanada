@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260516.1357001,2026-05-16T13:57:52.000Z,51.4841,-130.8552,10.0,ML,2.58,"249 km WNW of Port Hardy, BC/249 km ONO de Port Hardy, BC"
 20260516.1553001,2026-05-16T15:53:01.000Z,53.3679,-117.4022,0.0,ML,2.98,"Blast, 12 km ESE of Hinton, AB/Dynamitage, 12 km ESE de Hinton, AB"
 20260516.1711001,2026-05-16T17:11:47.000Z,49.9993,-130.0081,10.0,Mw',2.72,"195 km WSW of Port Hardy, BC/195 km OSO de Port Hardy, BC"
 20260516.2036001,2026-05-16T20:36:49.000Z,49.4476,-116.8042,5.0,ML,3.58,"26 km SE of Central Kootenay E, BC/26 km SE de Central Kootenay E, BC"
@@ -484,5 +483,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260626.1124001,2026-06-26T11:24:43.000Z,56.317,-121.8071,1.0,MLy,2.15,"Suspected industry-related event, 18 km S of Halfway River 168, BC/Événement lié à l'industrie soupconné, 18 km S de Halfway River 168, BC"
 20260626.2346001,2026-06-26T23:46:48.000Z,60.5436,-139.9122,5.0,ML,2.1,"133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
 20260628.2146001,2026-06-28T21:46:34.000Z,47.674,-69.9571,15.47,MwN,1.87,"15 km E of La Malbaie, QC/15 km E de La Malbaie, QC"
-20260630.0536002,2026-06-30T05:36:47.000Z,44.57,56.25,10.0,ML,4.5,"Preliminary; 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU"
-20260630.0536001,2026-06-30T05:36:47.000Z,44.5717,-56.2458,10.0,ML,4.47,"354 km ESE of Cape Breton, NS/354 km ESE de Cape Breton, NS"
+20260630.0536004,2026-06-30T05:36:48.000Z,44.5582,-56.331,18.0,ML,4.45,"349 km ESE of Cape Breton, NS/349 km ESE de Cape Breton, NS"

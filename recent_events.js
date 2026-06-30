@@ -1,15 +1,9 @@
 window.recentEvents = [
   {
-    "time_utc": "2026-06-30T05:36:47.000Z",
-    "magnitude": "4.5",
-    "depth_km": "10.0",
-    "place": "Preliminary; 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU"
-  },
-  {
-    "time_utc": "2026-06-30T05:36:47.000Z",
-    "magnitude": "4.47",
-    "depth_km": "10.0",
-    "place": "354 km ESE of Cape Breton, NS/354 km ESE de Cape Breton, NS"
+    "time_utc": "2026-06-30T05:36:48.000Z",
+    "magnitude": "4.45",
+    "depth_km": "18.0",
+    "place": "349 km ESE of Cape Breton, NS/349 km ESE de Cape Breton, NS"
   },
   {
     "time_utc": "2026-06-28T21:46:34.000Z",
@@ -58,5 +52,11 @@ window.recentEvents = [
     "magnitude": "1.59",
     "depth_km": "0.0",
     "place": "Blast, 1 km NNE of North Tetagouche, NB/Dynamitage, 1 km NNE de North Tetagouche, NB"
+  },
+  {
+    "time_utc": "2026-06-25T12:05:30.000Z",
+    "magnitude": "0.94",
+    "depth_km": "8.56",
+    "place": "12 km E of Baie-Saint-Paul, QC/12 km E de Baie-Saint-Paul, QC"
   }
 ];
