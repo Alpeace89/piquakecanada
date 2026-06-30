@@ -493,6 +493,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260626.1036001,2026-06-26T10:36:10.000Z,51.3655,-131.0278,10.0,Mw',3.32,"257 km WNW of Port Hardy, BC/257 km ONO de Port Hardy, BC"
 20260626.1124001,2026-06-26T11:24:43.000Z,56.317,-121.8071,1.0,MLy,2.15,"Suspected industry-related event, 18 km S of Halfway River 168, BC/Événement lié à l'industrie soupconné, 18 km S de Halfway River 168, BC"
 20260626.2346001,2026-06-26T23:46:48.000Z,60.5436,-139.9122,5.0,ML,2.1,"133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
+20260627.0244001,2026-06-27T02:44:06.000Z,48.8615,-128.7328,10.0,Mw',2.89,"225 km SSW of Port Hardy, BC/225 km SSO de Port Hardy, BC"
 20260628.0652001,2026-06-28T06:52:34.000Z,48.8188,-128.3497,10.0,Mw',2.63,"182 km W of Tofino, BC/182 km O de Tofino, BC"
 20260628.1541001,2026-06-28T15:41:33.000Z,56.7701,-122.0518,4.3,MLy,2.63,"Suspected industry-related event, 34 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 34 km NNO de Halfway River 168, BC"
 20260628.1722001,2026-06-28T17:22:18.000Z,66.7304,-140.6498,5.0,ML,2.88,"100 km SSW of Old Crow, YT/100 km SSO de Old Crow, YT"

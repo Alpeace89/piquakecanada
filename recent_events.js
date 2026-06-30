@@ -48,15 +48,15 @@ window.recentEvents = [
     "place": "182 km W of Tofino, BC/182 km O de Tofino, BC"
   },
   {
+    "time_utc": "2026-06-27T02:44:06.000Z",
+    "magnitude": "2.89",
+    "depth_km": "10.0",
+    "place": "225 km SSW of Port Hardy, BC/225 km SSO de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-06-26T23:46:48.000Z",
     "magnitude": "2.1",
     "depth_km": "5.0",
     "place": "133 km W of Haines Junction, YT/133 km O de Haines Junction, YT"
-  },
-  {
-    "time_utc": "2026-06-26T11:24:43.000Z",
-    "magnitude": "2.15",
-    "depth_km": "1.0",
-    "place": "Suspected industry-related event, 18 km S of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 18 km S de Halfway River 168, BC"
   }
 ];
