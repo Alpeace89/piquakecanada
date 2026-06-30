@@ -48,15 +48,15 @@ window.recentEvents = [
     "place": "13 km WSW of Houpsitas 6, BC/13 km OSO de Houpsitas 6, BC"
   },
   {
+    "time_utc": "2026-06-25T21:42:24.000Z",
+    "magnitude": "2.0",
+    "depth_km": "1.3",
+    "place": "134 km W of Haines Junction, YT/134 km O de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-06-25T19:53:03.000Z",
     "magnitude": "1.32",
     "depth_km": "0.0",
     "place": "Blast, 5 km W of Centre Hastings, ON/Dynamitage, 5 km O de Centre Hastings, ON"
-  },
-  {
-    "time_utc": "2026-06-25T18:20:11.000Z",
-    "magnitude": "2.36",
-    "depth_km": "1.0",
-    "place": "Blast, 9 km WSW of Trend Mine, BC/Dynamitage, 9 km OSO de la mine Trend, BC"
   }
 ];
