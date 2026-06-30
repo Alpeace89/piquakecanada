@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260516.2036001,2026-05-16T20:36:49.000Z,49.4476,-116.8042,5.0,ML,3.58,"26 km SE of Central Kootenay E, BC/26 km SE de Central Kootenay E, BC"
 20260516.2359001,2026-05-16T23:59:39.000Z,49.9926,-130.044,10.0,Mw',3.06,"198 km WSW of Port Hardy, BC/198 km OSO de Port Hardy, BC"
 20260517.0510001,2026-05-17T05:10:11.000Z,52.5414,-132.704,20.0,ML,2.45,"89 km SSW of Daajing Giids, BC/89 km SSO de Daajing Giids, BC"
 20260517.1441001,2026-05-17T14:41:56.000Z,54.3202,-118.6571,1.0,MLy,2.71,"Suspected industry-related event, 57 km NNE of Grande Cache, AB/Événement lié à l'industrie soupconné, 57 km NNE de Grande Cache, AB"
@@ -496,9 +495,12 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260627.0244001,2026-06-27T02:44:06.000Z,48.8615,-128.7328,10.0,Mw',2.89,"225 km SSW of Port Hardy, BC/225 km SSO de Port Hardy, BC"
 20260628.0652001,2026-06-28T06:52:34.000Z,48.8188,-128.3497,10.0,Mw',2.63,"182 km W of Tofino, BC/182 km O de Tofino, BC"
 20260628.1541001,2026-06-28T15:41:33.000Z,56.7701,-122.0518,4.3,MLy,2.63,"Suspected industry-related event, 34 km NNW of Halfway River 168, BC/Événement lié à l'industrie soupconné, 34 km NNO de Halfway River 168, BC"
+20260628.1629001,2026-06-28T16:29:06.000Z,48.8736,-128.933,10.0,Mw',2.68,"230 km SSW of Port Hardy, BC/230 km SSO de Port Hardy, BC"
 20260628.1722001,2026-06-28T17:22:18.000Z,66.7304,-140.6498,5.0,ML,2.88,"100 km SSW of Old Crow, YT/100 km SSO de Old Crow, YT"
 20260628.2146001,2026-06-28T21:46:34.000Z,47.674,-69.9571,15.47,MwN,1.87,"15 km E of La Malbaie, QC/15 km E de La Malbaie, QC"
 20260629.0528001,2026-06-29T05:28:07.000Z,46.2285,-79.2577,21.97,MwN,1.76,"18 km ESE of North Bay, ON/18 km ESE de North Bay, ON"
+20260629.1809001,2026-06-29T18:09:05.000Z,49.3197,-123.672,14.44,ML1,1.11,"15 km SW of Gibsons, BC/15 km SO de Gibsons, BC"
 20260629.2151001,2026-06-29T21:51:59.000Z,46.4958,-66.0739,5.0,MwN,2.26,"8 km SSE of Doaktown, NB/8 km SSE de Doaktown, NB"
 20260630.0536004,2026-06-30T05:36:48.000Z,44.5582,-56.331,18.0,ML,4.45,"349 km ESE of Cape Breton, NS/349 km ESE de Cape Breton, NS"
 20260630.0540001,2026-06-30T05:40:38.000Z,44.5756,-56.2883,18.0,ML,3.68,"351 km ESE of Cape Breton, NS/351 km ESE de Cape Breton, NS"
+20260630.1634001,2026-06-30T16:34:12.000Z,62.2514,-138.7796,5.0,ML,2.5,"109 km E of Beaver Creek, YT/109 km E de Beaver Creek, YT"
