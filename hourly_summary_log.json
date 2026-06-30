@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-10T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the last hour, there were no recorded quakes. Over the past 24 hours, we've seen ten quakes with the biggest one measuring M3.27 around Blast and Dynamitage in BC. The latest quake was also a M3.27 happening at about the same place on June 9th at 8:24 PM UTC. Most of these happened in British Columbia, but there were also some in Alaska."
-  },
-  {
     "timestamp_utc": "2026-06-10T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "Canada recorded 2 earthquakes in the last 24 hours, with the largest event M4.45 at 349 km ESE of Cape Breton, NS/349 km ESE de Cape Breton, NS. No earthquakes were recorded in the last hour. The most recent listed event was M3.68 at 351 km ESE of Cape Breton, NS/351 km ESE de Cape Breton, NS at 2026-06-30T05:40:38Z."
+  },
+  {
+    "timestamp_utc": "2026-06-30T19:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "For the last 24 hours, we've seen three minor seismic events. The largest one was a M4.45 that happened 349 km east southeast of Cape Breton, Nova Scotia. That's followed by two more small quakes within an hour, both measuring around M3.68 in the same area. The top regions for activity last night were Nova Scotia and New Brunswick."
   }
 ]
