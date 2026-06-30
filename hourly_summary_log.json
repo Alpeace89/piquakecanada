@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-09T12:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour or day, with the largest event being a magnitude M2.39 that happened on June 7th near some mining operations in British Columbia. It's still a beta so not all details are finalized yet."
-  },
-  {
     "timestamp_utc": "2026-06-09T13:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last hour, there have been two minor earthquakes in the far north and northeast of Canada. The largest one was a M4.5 hit about 5,500 kilometers east southeast of Alert, Nunavut. In the past 24 hours, we've had two more quakes hitting regions like northern Nunavut and Nova Scotia."
+  },
+  {
+    "timestamp_utc": "2026-06-30T07:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there were no major seismic events reported on our PiQuake Canada dashboard. However, a M4.5 quake was recorded about 5495 km east-southeast of Alert in Nunavut and Nova Scotia. It happened around 05:36 UTC today. This is the largest event we saw last 24 hours and the latest one on our radar as well."
   }
 ]
