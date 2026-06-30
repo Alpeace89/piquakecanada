@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260516.1019001,2026-05-16T10:19:51.000Z,49.1833,-127.9053,10.0,Mw',2.08,"134 km W of Marktosis 15, BC/134 km O de Marktosis 15, BC"
 20260516.1150001,2026-05-16T11:50:42.000Z,69.9254,-130.7453,20.0,ML,3.27,"103 km ENE of Tuktoyaktuk, NT/103 km ENE de Tuktoyaktuk, NT"
 20260516.1357001,2026-05-16T13:57:52.000Z,51.4841,-130.8552,10.0,ML,2.58,"249 km WNW of Port Hardy, BC/249 km ONO de Port Hardy, BC"
 20260516.1553001,2026-05-16T15:53:01.000Z,53.3679,-117.4022,0.0,ML,2.98,"Blast, 12 km ESE of Hinton, AB/Dynamitage, 12 km ESE de Hinton, AB"
