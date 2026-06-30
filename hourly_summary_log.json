@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-09T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard is currently in beta and hasn't recorded any earthquakes over the last hour or day. The largest quake seen was a mystery with unknown magnitude, occurring at an unknown location and time. The latest earthquake spotted was a M2.39 near some mining sites in British Columbia, which happened yesterday at 10:07 PM local time."
-  },
-  {
     "timestamp_utc": "2026-06-09T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2995,6 +2989,12 @@
   },
   {
     "timestamp_utc": "2026-06-30T09:03:01Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "Canada recorded 2 earthquakes in the last 24 hours, with the largest event M4.5 at 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU. No earthquakes were recorded in the last hour. The most recent listed event was M4.5 at 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU at 2026-06-30T05:36:47Z."
+  },
+  {
+    "timestamp_utc": "2026-06-30T10:03:01Z",
     "mode": "deterministic",
     "model": null,
     "summary": "Canada recorded 2 earthquakes in the last 24 hours, with the largest event M4.5 at 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU. No earthquakes were recorded in the last hour. The most recent listed event was M4.5 at 5495 km ESE of Alert, NU/Preliminaire; 5495 km ESE de Alert, NU at 2026-06-30T05:36:47Z."
