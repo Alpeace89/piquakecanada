@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260516.0012001,2026-05-16T00:12:24.000Z,49.984,-130.0448,10.0,Mw',2.91,"199 km WSW of Port Hardy, BC/199 km OSO de Port Hardy, BC"
 20260516.0118001,2026-05-16T01:18:13.000Z,56.2265,-116.6152,1.0,MLy,2.91,"Suspected industry-related event, 30 km S of Woodland Cree 226, AB/Événement lié à l'industrie soupconné, 30 km S de Woodland Cree 226, AB"
 20260516.0151001,2026-05-16T01:51:07.000Z,56.2296,-116.5848,1.0,MLy,2.21,"Suspected industry-related event, 29 km S of Woodland Cree 226, AB/Événement lié à l'industrie soupconné, 29 km S de Woodland Cree 226, AB"
 20260516.0217001,2026-05-16T02:17:08.000Z,49.4495,-122.0835,1.0,ML1,1.07,"13 km NW of Hemlock Valley, BC/13 km NO de Hemlock Valley, BC"
