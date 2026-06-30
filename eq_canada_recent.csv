@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260516.0217001,2026-05-16T02:17:08.000Z,49.4495,-122.0835,1.0,ML1,1.07,"13 km NW of Hemlock Valley, BC/13 km NO de Hemlock Valley, BC"
 20260516.0349001,2026-05-16T03:49:09.000Z,60.5109,-139.805,5.0,ML,2.11,"128 km W of Haines Junction, YT/128 km O de Haines Junction, YT"
 20260516.0541001,2026-05-16T05:41:43.000Z,49.5095,-127.3128,29.68,ML,2.06,"65 km SW of Tahsis, BC/65 km SO de Tahsis, BC"
 20260516.0541002,2026-05-16T05:41:58.000Z,61.1122,-140.0871,5.0,ML,1.75,"65 km WSW of Burwash Landing, YT/65 km OSO de Burwash Landing, YT"
