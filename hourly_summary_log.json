@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-10T15:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks, we had a quiet start to the day with no new PiQuake events recorded in the last hour. However, over the past 24 hours, we saw two minor quakes happening near Elkford in BC and another one at Dynamitage, both of magnitude M3.27. It's worth noting that these are the largest events since our recent update a few days ago."
-  },
-  {
     "timestamp_utc": "2026-06-10T16:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had one small earthquake event measuring M2.5 near Beaver Creek in the Yukon Territory. That's the largest one since our dashboard went live yesterday, and it happened just before noon local time. The area with the most recent activity is still in YT, keeping us updated on any seismic activity there."
+  },
+  {
+    "timestamp_utc": "2026-07-01T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had one event recorded on our PiQuake Canada dashboard. It was a M2.5 earthquake that happened near Beaver Creek in the Yukon Territory. That's exactly where it did last night at around 4:30 PM local time."
   }
 ]

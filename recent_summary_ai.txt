@@ -1,1 +1,1 @@
-In the last 24 hours, we've had one small earthquake event measuring M2.5 near Beaver Creek in the Yukon Territory. That's the largest one since our dashboard went live yesterday, and it happened just before noon local time. The area with the most recent activity is still in YT, keeping us updated on any seismic activity there.
+In the past 24 hours, we've had one event recorded on our PiQuake Canada dashboard. It was a M2.5 earthquake that happened near Beaver Creek in the Yukon Territory. That's exactly where it did last night at around 4:30 PM local time.
