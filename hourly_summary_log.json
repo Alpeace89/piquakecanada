@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-10T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were four minor quakes recorded over the past 24 hours. The largest of those was a M3.52 quake that happened about 90 km west-northwest of Fort Good Hope, NT, just north of its ONO location. That event is the latest one we have on record."
-  },
-  {
     "timestamp_utc": "2026-06-10T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, no significant quakes were recorded in Canada's PiQuake dashboard. But there was one M2.5 tremor spotted about 109 km east of Beaver Creek, YT. This is the latest event to be monitored so far this cycle."
+  },
+  {
+    "timestamp_utc": "2026-07-01T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one earthquake reported by our PiQuake Canada dashboard. It measured M2.5 and occurred about 109 kilometers east of Beaver Creek in the Yukon Territory. This is the largest quake we've had since the system went live yesterday."
   }
 ]
