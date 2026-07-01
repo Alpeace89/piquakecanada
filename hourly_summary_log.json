@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-10T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had a total of four PiQuake Canada events. The largest was a M3.27 near Elkford in BC. Just yesterday at around 8 PM, there were another three small quakes in BC and one in Alaska as well. It's pretty calm here at the moment with no big activity recorded since then, but we've got our eyes on any new small ones that might pop up!"
-  },
-  {
     "timestamp_utc": "2026-06-10T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no new earthquake events in the last hour, but there was one event yesterday. The largest quake of the day measured M2.5 and happened near Beaver Creek in the Northwest Territories. It's been a quiet start to today as well."
+  },
+  {
+    "timestamp_utc": "2026-07-01T15:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, no significant quakes were recorded in Canada's PiQuake dashboard. But there was one M2.5 tremor spotted about 109 km east of Beaver Creek, YT. This is the latest event to be monitored so far this cycle."
   }
 ]
