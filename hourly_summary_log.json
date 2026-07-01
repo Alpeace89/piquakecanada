@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-10T12:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no reported events on the PiQuake Canada dashboard. However, a M3.27 earthquake occurred at Blast, 12 km ESE of Elkford, BC/Dynamitage, 12 km ESE de Elkford, BC. It was the largest event in that time frame and happened on June 9th around 8:24 PM UTC. The epicenter is located in British Columbia with one occurrence reported from Alaska as well."
-  },
-  {
     "timestamp_utc": "2026-06-10T13:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one recorded earthquake with a magnitude of M2.5 near Beaver Creek in the Yukon Territory. This is the largest event we've had recently and the only quake reported during that period. It happened around 16:30 UTC on June 30th."
+  },
+  {
+    "timestamp_utc": "2026-07-01T07:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday at a magnitude of M2.5 near Beaver Creek in the Yukon Territory. It's the largest event recorded this past day and the same location has been active recently with similar quakes happening around the same time each day."
   }
 ]

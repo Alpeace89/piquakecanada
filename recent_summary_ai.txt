@@ -1,1 +1,1 @@
-In the last 24 hours, there was one recorded earthquake with a magnitude of M2.5 near Beaver Creek in the Yukon Territory. This is the largest event we've had recently and the only quake reported during that period. It happened around 16:30 UTC on June 30th.
+The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday at a magnitude of M2.5 near Beaver Creek in the Yukon Territory. It's the largest event recorded this past day and the same location has been active recently with similar quakes happening around the same time each day.
