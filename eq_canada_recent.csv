@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260517.1636001,2026-05-17T16:36:10.000Z,53.0272,-132.7236,18.88,ML,2.77,"50 km WSW of Daajing Giids, BC/50 km OSO de Daajing Giids, BC"
 20260518.0042001,2026-05-18T00:42:29.000Z,55.8702,-120.2731,1.0,MLy,2.06,"Suspected industry-related event, 12 km N of Dawson Creek, BC/Événement lié à l'industrie soupconné, 12 km N de Dawson Creek, BC"
 20260518.0310001,2026-05-18T03:10:54.000Z,49.3157,-128.9554,10.0,Mw',2.43,"188 km SW of Port Hardy, BC/188 km SO de Port Hardy, BC"
 20260518.0417001,2026-05-18T04:17:18.000Z,69.2302,-123.8512,18.0,MwN,1.79,"16 km SSE of Paulatuk, NT/16 km SSE de Paulatuk, NT"

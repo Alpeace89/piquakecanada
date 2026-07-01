@@ -1,1 +1,1 @@
-In the last 24 hours, there was one earthquake reported by our PiQuake Canada dashboard. It measured M2.5 and occurred about 109 kilometers east of Beaver Creek in the Yukon Territory. This is the largest quake we've had since the system went live yesterday.
+Here's a quick summary of the PiQuake Canada dashboard in plain Canadian English: No events were recorded today, but yesterday saw one small quake measuring M2.5 near Beaver Creek, YT. It’s been quiet around here lately.
