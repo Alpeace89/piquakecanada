@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-10T16:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were two in the past 24 hours. The largest event was a M3.27 quake near Elkford, BC. This is the latest and only recorded activity for that time frame."
-  },
-  {
     "timestamp_utc": "2026-06-10T16:36:33Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had one event recorded on our PiQuake Canada dashboard. It was a M2.5 earthquake that happened near Beaver Creek in the Yukon Territory. That's exactly where it did last night at around 4:30 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-07-01T11:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour but recorded one event last day. The largest quake was a M2.5 near Beaver Creek, which happened yesterday at around 4:30 PM local time. That's where we keep track of all these little shakes happening under our feet."
   }
 ]

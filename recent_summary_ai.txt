@@ -1,1 +1,1 @@
-In the past 24 hours, we've had one event recorded on our PiQuake Canada dashboard. It was a M2.5 earthquake that happened near Beaver Creek in the Yukon Territory. That's exactly where it did last night at around 4:30 PM local time.
+The PiQuake Canada dashboard shows no events in the last hour but recorded one event last day. The largest quake was a M2.5 near Beaver Creek, which happened yesterday at around 4:30 PM local time. That's where we keep track of all these little shakes happening under our feet.
