@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-10T13:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but there were three events over the past 24 hours. The largest event was a M3.27 near Elkford, BC on June 9th at around 8 PM local time. That's where they dynamite things and it usually shakes stuff up a bit. The region with most activity recently is British Columbia with two blasts, and Alaska had one too."
-  },
-  {
     "timestamp_utc": "2026-06-10T14:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday at a magnitude of M2.5 near Beaver Creek in the Yukon Territory. It's the largest event recorded this past day and the same location has been active recently with similar quakes happening around the same time each day."
+  },
+  {
+    "timestamp_utc": "2026-07-01T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no new events in the last hour, but there was one small quake recorded 24 hours ago. It measured M2.5 and happened near Beaver Creek in the Yukon Territory. That's the only thing to report from yesterday evening."
   }
 ]
