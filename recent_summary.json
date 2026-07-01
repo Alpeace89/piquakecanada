@@ -1,11 +1,11 @@
 {
-  "generated_utc": "2026-07-01T05:03:02Z",
+  "generated_utc": "2026-07-01T06:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 504,
-  "events_last_24h": 3,
+  "rolling_window_event_count": 503,
+  "events_last_24h": 1,
   "events_last_hour": 0,
-  "count_m3plus_last_24h": 2,
-  "count_m4plus_last_24h": 1,
+  "count_m3plus_last_24h": 0,
+  "count_m4plus_last_24h": 0,
   "latest_event": {
     "event_id": "20260630.1634001",
     "time_utc": "2026-06-30T16:34:12.000Z",
@@ -18,36 +18,32 @@
     "region": "YT"
   },
   "largest_event_last_24h": {
-    "event_id": "20260630.0536004",
-    "time_utc": "2026-06-30T05:36:48.000Z",
-    "latitude": 44.5582,
-    "longitude": -56.331,
-    "depth_km": 18.0,
+    "event_id": "20260630.1634001",
+    "time_utc": "2026-06-30T16:34:12.000Z",
+    "latitude": 62.2514,
+    "longitude": -138.7796,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 4.45,
-    "place": "349 km ESE of Cape Breton, NS/349 km ESE de Cape Breton, NS",
-    "region": "NS"
+    "magnitude": 2.5,
+    "place": "109 km E of Beaver Creek, YT/109 km E de Beaver Creek, YT",
+    "region": "YT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260630.0540001",
-    "time_utc": "2026-06-30T05:40:38.000Z",
-    "latitude": 44.5756,
-    "longitude": -56.2883,
-    "depth_km": 18.0,
+    "event_id": "20260630.1634001",
+    "time_utc": "2026-06-30T16:34:12.000Z",
+    "latitude": 62.2514,
+    "longitude": -138.7796,
+    "depth_km": 5.0,
     "mag_type": "ML",
-    "magnitude": 3.68,
-    "place": "351 km ESE of Cape Breton, NS/351 km ESE de Cape Breton, NS",
-    "region": "NS"
+    "magnitude": 2.5,
+    "place": "109 km E of Beaver Creek, YT/109 km E de Beaver Creek, YT",
+    "region": "YT"
   },
   "top_regions_last_24h": [
-    {
-      "region": "NS",
-      "count": 2
-    },
     {
       "region": "YT",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-07-01 05:03 UTC, the recent Canada earthquake dataset contains 504 events from the current rolling window. In the last 24 hours, 3 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M4.45 at 349 km ESE of Cape Breton, NS/349 km ESE de Cape Breton, NS. The deepest event reached 18.00 km at 351 km ESE of Cape Breton, NS/351 km ESE de Cape Breton, NS. The most recent listed event was M2.5 at 109 km E of Beaver Creek, YT/109 km E de Beaver Creek, YT at 2026-06-30T16:34:12.000Z. There were 2 events of magnitude 3 or greater and 1 of magnitude 4 or greater in the last 24 hours. The most active regions were NS (2) and YT (1)."
+  "summary_text": "As of 2026-07-01 06:03 UTC, the recent Canada earthquake dataset contains 503 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.5 at 109 km E of Beaver Creek, YT/109 km E de Beaver Creek, YT. The deepest event reached 5.00 km at 109 km E of Beaver Creek, YT/109 km E de Beaver Creek, YT. The most recent listed event was M2.5 at 109 km E of Beaver Creek, YT/109 km E de Beaver Creek, YT at 2026-06-30T16:34:12.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was YT."
 }

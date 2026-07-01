@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-10T11:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the past 24 hours, there have been three PiQuake Canada dashboard events. The largest one was a M3.27 quake that happened near Elkford in British Columbia and an area used for dynamite blasting. This is nothing to worry about, but it's something we've noticed happening more frequently lately."
-  },
-  {
     "timestamp_utc": "2026-06-10T12:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "Canada recorded 3 earthquakes in the last 24 hours, with the largest event M4.45 at 349 km ESE of Cape Breton, NS/349 km ESE de Cape Breton, NS. No earthquakes were recorded in the last hour. The most recent listed event was M2.5 at 109 km E of Beaver Creek, YT/109 km E de Beaver Creek, YT at 2026-06-30T16:34:12Z."
+  },
+  {
+    "timestamp_utc": "2026-07-01T06:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one recorded earthquake with a magnitude of M2.5 near Beaver Creek in the Yukon Territory. This is the largest event we've had recently and the only quake reported during that period. It happened around 16:30 UTC on June 30th."
   }
 ]
