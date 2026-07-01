@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-10T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no major quakes reported. The largest one was a M3.27 in an area near Elkford, BC and Dynamitage, BC. It happened on June 9th around 8:24 PM. In the past day, we've seen activity mainly in British Columbia with two reports and Alaska with just one."
-  },
-  {
     "timestamp_utc": "2026-06-10T15:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no new events in the last hour, but there was one small quake recorded 24 hours ago. It measured M2.5 and happened near Beaver Creek in the Yukon Territory. That's the only thing to report from yesterday evening."
+  },
+  {
+    "timestamp_utc": "2026-07-01T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had one small earthquake event measuring M2.5 near Beaver Creek in the Yukon Territory. That's the largest one since our dashboard went live yesterday, and it happened just before noon local time. The area with the most recent activity is still in YT, keeping us updated on any seismic activity there."
   }
 ]
