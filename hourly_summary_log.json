@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-10T17:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had four small quakes reported. The biggest one was a M3.27 near Elkford in British Columbia on June 9th. We also saw a M2.56 shake Port Alice area yesterday afternoon. Most of these happened in BC with a few in Alaska. Nothing to worry about here, just normal activity for our region."
-  },
-  {
     "timestamp_utc": "2026-06-10T18:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday, a M2.5 earthquake that happened about 109 km east of Beaver Creek, YT. That's where we get our latest update from, and it falls under the Yukon region for the day."
+  },
+  {
+    "timestamp_utc": "2026-07-01T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had one seismic event with a magnitude of M2.5 near Beaver Creek in the Yukon Territory. That was our latest and largest event as well. It happened around 2 PM local time on June 30th. This area has been active recently, with the only event reported being in this region yesterday."
   }
 ]
