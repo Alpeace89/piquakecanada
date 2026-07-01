@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260516.2359001,2026-05-16T23:59:39.000Z,49.9926,-130.044,10.0,Mw',3.06,"198 km WSW of Port Hardy, BC/198 km OSO de Port Hardy, BC"
 20260517.0510001,2026-05-17T05:10:11.000Z,52.5414,-132.704,20.0,ML,2.45,"89 km SSW of Daajing Giids, BC/89 km SSO de Daajing Giids, BC"
 20260517.1441001,2026-05-17T14:41:56.000Z,54.3202,-118.6571,1.0,MLy,2.71,"Suspected industry-related event, 57 km NNE of Grande Cache, AB/Événement lié à l'industrie soupconné, 57 km NNE de Grande Cache, AB"
 20260517.1556001,2026-05-17T15:56:37.000Z,47.5489,-81.8875,0.0,MwN,2.0,"Blast, 19 km SW of Gogama, ON/Dynamitage, 19 km SO de Gogama, ON"
