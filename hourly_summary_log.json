@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-10T16:36:33Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there have been no earthquakes reported in Canada. However, a small quake of magnitude M3.27 hit near Elkford, BC yesterday evening during dynamite blasting operations. This is the only event we've recorded since then as well."
-  },
-  {
     "timestamp_utc": "2026-06-10T17:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour but recorded one event last day. The largest quake was a M2.5 near Beaver Creek, which happened yesterday at around 4:30 PM local time. That's where we keep track of all these little shakes happening under our feet."
+  },
+  {
+    "timestamp_utc": "2026-07-01T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there was one event yesterday, a M2.5 earthquake that happened about 109 km east of Beaver Creek, YT. That's where we get our latest update from, and it falls under the Yukon region for the day."
   }
 ]
