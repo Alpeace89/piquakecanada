@@ -1,1 +1,1 @@
-In the last 24 hours, there haven't been any recorded earthquakes on the PiQuake Canada dashboard. The largest one detected was a M2.5 near Beaver Creek in Yukon Territory. It happened around 16:34 UTC on June 30th this year.
+In the last 24 hours, there were no reported events on the PiQuake Canada dashboard. The latest quake recorded was a M2.5 near Beaver Creek in the Yukon Territory. It's nothing to worry about though; these little shakes are normal in this part of the world.
