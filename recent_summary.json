@@ -1,7 +1,7 @@
 {
-  "generated_utc": "2026-07-02T12:03:01Z",
+  "generated_utc": "2026-07-02T13:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 495,
+  "rolling_window_event_count": 494,
   "events_last_24h": 1,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
@@ -45,5 +45,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-07-02 12:03 UTC, the recent Canada earthquake dataset contains 495 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.64 at 57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti. The deepest event reached 19.79 km at 57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti. The most recent listed event was M3.64 at 57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti at 2026-07-02T06:35:47.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was Unknown."
+  "summary_text": "As of 2026-07-02 13:03 UTC, the recent Canada earthquake dataset contains 494 events from the current rolling window. In the last 24 hours, 1 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.64 at 57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti. The deepest event reached 19.79 km at 57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti. The most recent listed event was M3.64 at 57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti at 2026-07-02T06:35:47.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was Unknown."
 }

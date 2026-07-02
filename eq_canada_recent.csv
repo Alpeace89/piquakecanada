@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260518.1210001,2026-05-18T12:10:09.000Z,49.3876,-126.9843,19.61,ML,1.71,"52 km W of Refuge Cove 6, BC/52 km O de Refuge Cove 6, BC"
 20260518.1343001,2026-05-18T13:43:05.000Z,49.5135,-127.6418,30.0,ML,2.64,"61 km SSW of Houpsitas 6, BC/61 km SSO de Houpsitas 6, BC"
 20260518.1357001,2026-05-18T13:57:46.000Z,49.5383,-127.6412,32.97,ML,1.76,"58 km SSW of Houpsitas 6, BC/58 km SSO de Houpsitas 6, BC"
 20260518.1741001,2026-05-18T17:41:38.000Z,64.9682,-133.7394,10.0,ML,2.84,"185 km NNE of Mayo, YT/185 km NNE de Mayo, YT"
