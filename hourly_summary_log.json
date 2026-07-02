@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T03:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows that there were no major quakes in the last hour, but 13 small ones reported over the past 24 hours. The largest one was M3.29 near Port Alice, BC at around midnight yesterday. And just a couple of hours ago, we had another little shake M2.8 near Port Hardy, BC. Most of these quakes were in British Columbia."
-  },
-  {
     "timestamp_utc": "2026-06-12T04:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were nine detected quakes in the past day. The biggest one was a M3.65, felt and reported near Victoria, BC. The latest quake was a tiny M1.01 that happened just before 10 AM today, also close to Victoria. Most of these quakes came from British Columbia, with one mysterious location too."
+  },
+  {
+    "timestamp_utc": "2026-07-02T23:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had nine little shakes recorded by our PiQuake Canada dashboard. The biggest one was a M3.65 near Victoria that people could feel and even some felt in BC too. And just recently, there was a small one at 10 km west-northwest of Victoria which most folks didn't notice but it still registered on our system."
   }
 ]
