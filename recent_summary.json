@@ -1,21 +1,21 @@
 {
-  "generated_utc": "2026-07-02T18:03:01Z",
+  "generated_utc": "2026-07-02T19:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 504,
-  "events_last_24h": 6,
+  "rolling_window_event_count": 508,
+  "events_last_24h": 7,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 1,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260702.0635003",
-    "time_utc": "2026-07-02T06:35:47.000Z",
-    "latitude": 48.2775,
-    "longitude": -122.6278,
-    "depth_km": 28.78,
+    "event_id": "20260702.0814001",
+    "time_utc": "2026-07-02T08:14:19.000Z",
+    "latitude": 52.164,
+    "longitude": -132.1679,
+    "depth_km": 17.38,
     "mag_type": "ML",
-    "magnitude": 3.65,
-    "place": "57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti",
-    "region": "Unknown"
+    "magnitude": 1.96,
+    "place": "121 km S of Daajing Giids, BC/121 km S de Daajing Giids, BC",
+    "region": "BC"
   },
   "largest_event_last_24h": {
     "event_id": "20260702.0635003",
@@ -29,29 +29,25 @@
     "region": "Unknown"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260702.0634001",
-    "time_utc": "2026-07-02T06:34:54.000Z",
-    "latitude": 48.2882,
-    "longitude": -122.6132,
-    "depth_km": 29.55,
+    "event_id": "20260702.0648001",
+    "time_utc": "2026-07-02T06:48:55.000Z",
+    "latitude": 48.2799,
+    "longitude": -122.6191,
+    "depth_km": 29.58,
     "mag_type": "ML",
-    "magnitude": 2.19,
+    "magnitude": 2.29,
     "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC",
     "region": "BC"
   },
   "top_regions_last_24h": [
     {
       "region": "BC",
-      "count": 4
-    },
-    {
-      "region": "AK",
-      "count": 1
+      "count": 6
     },
     {
       "region": "Unknown",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-07-02 18:03 UTC, the recent Canada earthquake dataset contains 504 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.65 at 57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti. The deepest event reached 29.55 km at 58 km ESE of Victoria, BC/58 km ESE de Victoria, BC. The most recent listed event was M3.65 at 57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti at 2026-07-02T06:35:47.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (4) and AK (1)."
+  "summary_text": "As of 2026-07-02 19:03 UTC, the recent Canada earthquake dataset contains 508 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M3.65 at 57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti. The deepest event reached 29.58 km at 58 km ESE of Victoria, BC/58 km ESE de Victoria, BC. The most recent listed event was M1.96 at 121 km S of Daajing Giids, BC/121 km S de Daajing Giids, BC at 2026-07-02T08:14:19.000Z. There were 1 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (6) and Unknown (1)."
 }

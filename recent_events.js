@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-07-02T08:14:19.000Z",
+    "magnitude": "1.96",
+    "depth_km": "17.38",
+    "place": "121 km S of Daajing Giids, BC/121 km S de Daajing Giids, BC"
+  },
+  {
+    "time_utc": "2026-07-02T06:48:55.000Z",
+    "magnitude": "2.29",
+    "depth_km": "29.58",
+    "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
+  },
+  {
     "time_utc": "2026-07-02T06:35:47.000Z",
     "magnitude": "3.65",
     "depth_km": "28.78",
@@ -30,6 +42,12 @@ window.recentEvents = [
     "place": "241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC"
   },
   {
+    "time_utc": "2026-07-01T19:01:31.000Z",
+    "magnitude": "2.31",
+    "depth_km": "10.0",
+    "place": "141 km WNW of Masset, BC/141 km ONO de Masset, BC"
+  },
+  {
     "time_utc": "2026-07-01T18:47:10.000Z",
     "magnitude": "2.99",
     "depth_km": "5.0",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.45",
     "depth_km": "10.0",
     "place": "242 km SW of Port Hardy, BC/242 km SO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-06-30T16:34:12.000Z",
-    "magnitude": "2.5",
-    "depth_km": "5.0",
-    "place": "109 km E of Beaver Creek, YT/109 km E de Beaver Creek, YT"
-  },
-  {
-    "time_utc": "2026-06-30T05:40:38.000Z",
-    "magnitude": "3.68",
-    "depth_km": "18.0",
-    "place": "351 km ESE of Cape Breton, NS/351 km ESE de Cape Breton, NS"
-  },
-  {
-    "time_utc": "2026-06-30T05:36:48.000Z",
-    "magnitude": "4.45",
-    "depth_km": "18.0",
-    "place": "349 km ESE of Cape Breton, NS/349 km ESE de Cape Breton, NS"
   }
 ];
