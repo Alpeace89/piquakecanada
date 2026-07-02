@@ -12,10 +12,28 @@ window.recentEvents = [
     "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
   },
   {
+    "time_utc": "2026-07-02T05:58:50.000Z",
+    "magnitude": "2.41",
+    "depth_km": "2.18",
+    "place": "32 km W of Squamish, BC/32 km O de Squamish, BC"
+  },
+  {
     "time_utc": "2026-07-02T03:50:37.000Z",
     "magnitude": "2.2",
     "depth_km": "10.0",
     "place": "241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC"
+  },
+  {
+    "time_utc": "2026-07-01T18:47:10.000Z",
+    "magnitude": "2.99",
+    "depth_km": "5.0",
+    "place": "96 km WNW of Sitka, AK/96 km ONO de Sitka, AK"
+  },
+  {
+    "time_utc": "2026-07-01T17:13:13.000Z",
+    "magnitude": "2.45",
+    "depth_km": "10.0",
+    "place": "242 km SW of Port Hardy, BC/242 km SO de Port Hardy, BC"
   },
   {
     "time_utc": "2026-06-30T16:34:12.000Z",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "2.26",
     "depth_km": "5.0",
     "place": "8 km SSE of Doaktown, NB/8 km SSE de Doaktown, NB"
-  },
-  {
-    "time_utc": "2026-06-29T18:09:05.000Z",
-    "magnitude": "1.11",
-    "depth_km": "14.44",
-    "place": "15 km SW of Gibsons, BC/15 km SO de Gibsons, BC"
-  },
-  {
-    "time_utc": "2026-06-29T09:25:28.000Z",
-    "magnitude": "2.3",
-    "depth_km": "9.88",
-    "place": "19 km SW of Masset, BC/19 km SO de Masset, BC"
-  },
-  {
-    "time_utc": "2026-06-29T08:01:04.000Z",
-    "magnitude": "1.68",
-    "depth_km": "31.93",
-    "place": "78 km SW of Tahsis, BC/78 km SO de Tahsis, BC"
   }
 ];
