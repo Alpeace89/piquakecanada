@@ -12,6 +12,12 @@ window.recentEvents = [
     "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
   },
   {
+    "time_utc": "2026-07-02T06:24:52.000Z",
+    "magnitude": "1.78",
+    "depth_km": "3.52",
+    "place": "48 km SW of Lohbiee 3, BC/48 km SO de Lohbiee 3, BC"
+  },
+  {
     "time_utc": "2026-07-02T05:58:50.000Z",
     "magnitude": "2.41",
     "depth_km": "2.18",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "4.45",
     "depth_km": "18.0",
     "place": "349 km ESE of Cape Breton, NS/349 km ESE de Cape Breton, NS"
-  },
-  {
-    "time_utc": "2026-06-29T21:51:59.000Z",
-    "magnitude": "2.26",
-    "depth_km": "5.0",
-    "place": "8 km SSE of Doaktown, NB/8 km SSE de Doaktown, NB"
   }
 ];
