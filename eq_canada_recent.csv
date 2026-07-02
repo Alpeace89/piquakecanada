@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260518.2039001,2026-05-18T20:39:11.000Z,45.1431,-66.9881,5.0,MwN,0.34,"9 km NE of Saint Andrews, NB/9 km NE de Saint Andrews, NB"
 20260519.0240001,2026-05-19T02:40:37.000Z,60.5028,-139.9706,5.0,ML,2.15,"137 km W of Haines Junction, YT/137 km O de Haines Junction, YT"
 20260519.1001001,2026-05-19T10:01:11.000Z,49.6792,-129.1288,10.0,Mw',2.53,"164 km SW of Port Hardy, BC/164 km SO de Port Hardy, BC"
 20260519.1109001,2026-05-19T11:09:05.000Z,51.521,-130.7739,10.0,ML,2.28,"245 km WNW of Port Hardy, BC/245 km ONO de Port Hardy, BC"
@@ -132,6 +131,7 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260528.1725001,2026-05-28T17:25:54.000Z,54.3175,-118.5601,1.0,MLy,2.17,"Suspected industry-related event, 60 km NE of Grande Cache, AB/Événement lié à l'industrie soupconné, 60 km NE de Grande Cache, AB"
 20260528.1840001,2026-05-28T18:40:45.000Z,60.1023,-141.0717,5.0,ML,2.49,"208 km WSW of Haines Junction, YT/208 km OSO de Haines Junction, YT"
 20260528.2032001,2026-05-28T20:32:44.000Z,47.4631,-70.0546,15.08,MwN,0.92,"10 km N of La Pocatière, QC/10 km N de La Pocatière, QC"
+20260528.2057001,2026-05-28T20:57:59.000Z,41.3812,-55.2341,10.0,ML,3.37,"770 km ESE of Halifax, NS/770 km ESE de Halifax, NS"
 20260528.2058001,2026-05-28T20:58:46.000Z,54.5968,-118.607,1.0,MLy,2.03,"Suspected industry-related event, 65 km S of Grande Prairie, AB/Événement lié à l'industrie soupconné, 65 km S de Grande Prairie, AB"
 20260529.0101001,2026-05-29T01:01:02.000Z,50.4207,-64.6655,2.0,MwN,2.4,"48 km WNW of Mingan, QC/48 km ONO de Mingan, QC"
 20260529.0202001,2026-05-29T02:02:53.000Z,54.5819,-118.5779,1.0,MLy,2.45,"Suspected industry-related event, 67 km SSE of Grande Prairie, AB/Événement lié à l'industrie soupconné, 67 km SSE de Grande Prairie, AB"
