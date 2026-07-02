@@ -1,1 +1,1 @@
-No earthquakes were recorded in Canada in the last 24 hours. The most recent listed event was M2.5 at 109 km E of Beaver Creek, YT/109 km E de Beaver Creek, YT at 2026-06-30T16:34:12Z.
+Here's a summary of the PiQuake Canada dashboard for public facing: The PiQuake Canada dashboard has had no activity in the last hour or day. The largest event recorded was an unknown magnitude, occurring at an unknown location and time. The latest significant quake registered was M2.5 around 4:30 PM on June 30th, located about 109 km east of Beaver Creek, YT.
