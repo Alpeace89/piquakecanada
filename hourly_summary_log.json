@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-11T15:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, we've had eight minor earthquakes, with the biggest one measuring M2.9 near Port Alice in British Columbia. The latest event was a smaller one at Grande Prairie in Alberta, suspected to be related to industry. Most of these happened in BC and Alberta regions."
-  },
-  {
     "timestamp_utc": "2026-06-11T16:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no activity events in the last hour, but there was one event yesterday with a magnitude of M3.64 happening about 57 kilometers east southeast of Victoria, felt and resented by people there. It's the latest and largest event recorded on this dashboard so far."
+  },
+  {
+    "timestamp_utc": "2026-07-02T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one earthquake detected by our PiQuake Canada dashboard. It measured M3.64 and occurred 57 kilometers east-southeast of Victoria, felt or ressenti in both English and French. This is the latest event we've recorded, happening on July 2nd at 06:35 UTC."
   }
 ]
