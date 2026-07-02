@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T00:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we saw a total of 16 PiQuake Canada dashboard events. The largest event was a M3.29 near Port Alice in British Columbia, and our most recent alert came from Port Hardy in BC with a M2.8. With activity mostly concentrated in British Columbia—nine in BC, five in Alberta, and one in Quebec—we're keeping an eye on things to make sure everyone stays safe."
-  },
-  {
     "timestamp_utc": "2026-06-12T01:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had seven seismic events detected by our dashboard. The largest one was a M3.65 just east of Victoria in British Columbia felt and reported, while the latest event was a relatively small M1.96 near Daajing Giids area. Most of these occurred within BC with no specific region reporting more than another."
+  },
+  {
+    "timestamp_utc": "2026-07-02T20:03:01Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "Canada recorded 10 earthquakes in the last 24 hours, with the largest event M3.65 at 57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti. No earthquakes were recorded in the last hour. The most recent listed event was M1.01 at 10 km WNW of Victoria, BC/10 km ONO de Victoria, BC at 2026-07-02T09:49:48Z."
   }
 ]
