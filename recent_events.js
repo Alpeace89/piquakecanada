@@ -6,6 +6,18 @@ window.recentEvents = [
     "place": "57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti"
   },
   {
+    "time_utc": "2026-07-02T06:34:54.000Z",
+    "magnitude": "2.19",
+    "depth_km": "29.55",
+    "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
+  },
+  {
+    "time_utc": "2026-07-02T03:50:37.000Z",
+    "magnitude": "2.2",
+    "depth_km": "10.0",
+    "place": "241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-06-30T16:34:12.000Z",
     "magnitude": "2.5",
     "depth_km": "5.0",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "1.68",
     "depth_km": "31.93",
     "place": "78 km SW of Tahsis, BC/78 km SO de Tahsis, BC"
-  },
-  {
-    "time_utc": "2026-06-29T07:18:42.000Z",
-    "magnitude": "1.27",
-    "depth_km": "22.97",
-    "place": "33 km SW of Tofino, BC/33 km SO de Tofino, BC"
-  },
-  {
-    "time_utc": "2026-06-29T05:28:07.000Z",
-    "magnitude": "1.76",
-    "depth_km": "21.97",
-    "place": "18 km ESE of North Bay, ON/18 km ESE de North Bay, ON"
   }
 ];
