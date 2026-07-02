@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-11T16:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had nine little shakes reported across Canada. The largest one was a M2.9 near Port Alice in British Columbia around 4 AM this morning. Surrey also got a M2.53 shake just after noon. Most of these happened in BC with three more in Alberta and one in Quebec."
-  },
-  {
     "timestamp_utc": "2026-06-11T17:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was one earthquake detected by our PiQuake Canada dashboard. It measured M3.64 and occurred 57 kilometers east-southeast of Victoria, felt or ressenti in both English and French. This is the latest event we've recorded, happening on July 2nd at 06:35 UTC."
+  },
+  {
+    "timestamp_utc": "2026-07-02T12:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the past 24 hours, we've had one event recorded on our PiQuake Canada dashboard. The largest quake was a M3.64 that occurred 57 km east southeast of Victoria, felt and ressenti in both Victoria and Victoria, making it noticeable in two places at around 06:35 UTC today. It's the only report we have from this region recently, so far."
   }
 ]
