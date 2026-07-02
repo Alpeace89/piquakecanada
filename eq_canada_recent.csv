@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260518.0042001,2026-05-18T00:42:29.000Z,55.8702,-120.2731,1.0,MLy,2.06,"Suspected industry-related event, 12 km N of Dawson Creek, BC/Événement lié à l'industrie soupconné, 12 km N de Dawson Creek, BC"
 20260518.0310001,2026-05-18T03:10:54.000Z,49.3157,-128.9554,10.0,Mw',2.43,"188 km SW of Port Hardy, BC/188 km SO de Port Hardy, BC"
 20260518.0417001,2026-05-18T04:17:18.000Z,69.2302,-123.8512,18.0,MwN,1.79,"16 km SSE of Paulatuk, NT/16 km SSE de Paulatuk, NT"
 20260518.0845001,2026-05-18T08:45:17.000Z,52.8024,-127.5025,1.0,ML,2.04,"71 km NW of Bella Coola 1, BC/71 km NO de Bella Coola 1, BC"
