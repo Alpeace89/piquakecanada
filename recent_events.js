@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-07-02T06:35:47.000Z",
+    "magnitude": "3.64",
+    "depth_km": "19.79",
+    "place": "57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti"
+  },
+  {
     "time_utc": "2026-06-30T16:34:12.000Z",
     "magnitude": "2.5",
     "depth_km": "5.0",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "2.68",
     "depth_km": "10.0",
     "place": "230 km SSW of Port Hardy, BC/230 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-06-28T15:41:33.000Z",
-    "magnitude": "2.63",
-    "depth_km": "4.3",
-    "place": "Suspected industry-related event, 34 km NNW of Halfway River 168, BC/\u00c9v\u00e9nement li\u00e9 \u00e0 l'industrie soupconn\u00e9, 34 km NNO de Halfway River 168, BC"
   }
 ];
