@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260518.0845001,2026-05-18T08:45:17.000Z,52.8024,-127.5025,1.0,ML,2.04,"71 km NW of Bella Coola 1, BC/71 km NO de Bella Coola 1, BC"
 20260518.0958001,2026-05-18T09:58:26.000Z,67.4626,-135.7811,5.0,ML,0.91,"38 km W of Fort McPherson, NT/38 km O de Fort McPherson, NT"
 20260518.1023001,2026-05-18T10:23:10.000Z,67.4608,-135.8525,5.0,ML,1.43,"41 km W of Fort McPherson, NT/41 km O de Fort McPherson, NT"
 20260518.1210001,2026-05-18T12:10:09.000Z,49.3876,-126.9843,19.61,ML,1.71,"52 km W of Refuge Cove 6, BC/52 km O de Refuge Cove 6, BC"

@@ -1,1 +1,1 @@
-For the past hour, there haven't been any seismic events reported. In the last 24 hours, just one event occurred with a magnitude of M3.64 near Victoria, felt/ressenti in both Victoria and its outskirts. This latest quake happened at around 6:35 AM UTC on July 2nd and was recorded by our PiQuake Canada dashboard.
+The PiQuake Canada dashboard shows no seismic activity in the last hour, but there was one event yesterday. The largest quake recorded recently happened just east of Victoria, felt and reported as well. It measured M3.64.
