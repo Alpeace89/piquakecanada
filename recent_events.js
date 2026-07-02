@@ -1,8 +1,8 @@
 window.recentEvents = [
   {
     "time_utc": "2026-07-02T06:35:47.000Z",
-    "magnitude": "3.64",
-    "depth_km": "19.79",
+    "magnitude": "3.65",
+    "depth_km": "28.78",
     "place": "57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti"
   },
   {
@@ -48,15 +48,15 @@ window.recentEvents = [
     "place": "78 km SW of Tahsis, BC/78 km SO de Tahsis, BC"
   },
   {
+    "time_utc": "2026-06-29T07:18:42.000Z",
+    "magnitude": "1.27",
+    "depth_km": "22.97",
+    "place": "33 km SW of Tofino, BC/33 km SO de Tofino, BC"
+  },
+  {
     "time_utc": "2026-06-29T05:28:07.000Z",
     "magnitude": "1.76",
     "depth_km": "21.97",
     "place": "18 km ESE of North Bay, ON/18 km ESE de North Bay, ON"
-  },
-  {
-    "time_utc": "2026-06-28T21:46:34.000Z",
-    "magnitude": "1.87",
-    "depth_km": "15.47",
-    "place": "15 km E of La Malbaie, QC/15 km E de La Malbaie, QC"
   }
 ];

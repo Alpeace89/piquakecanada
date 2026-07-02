@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-11T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we saw 10 quakes reported. The biggest one was a M2.99 near Grande Prairie in Alberta, thought to be an industry-related event. Surrey in British Columbia had its fair share too with a M2.53 quake earlier today. Notable regions with more activity were British Columbia, Alberta, and Quebec."
-  },
-  {
     "timestamp_utc": "2026-06-11T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had one little shake with a magnitude of M3.64 happening about 57 km east southeast of Victoria, felt and ressenti in BC. That was our latest event too. It happened yesterday at around 06:35 AM local time. We've got one region reporting activity out there right now, it's the Unknown area."
+  },
+  {
+    "timestamp_utc": "2026-07-02T15:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there was one earthquake event reported by the PiQuake Canada dashboard. The largest quake measured M3.65 and occurred about 57 kilometers east southeast of Victoria in British Columbia, felt or noticed in both English and French versions. This is the most recent activity we have recorded on our beta dashboard."
   }
 ]
