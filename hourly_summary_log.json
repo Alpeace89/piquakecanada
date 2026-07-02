@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-11T07:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no seismic events in the last hour, but there were five recorded quakes in the past 24 hours. The largest one was a M3.52 under Fort Good Hope, NT. In the latest event, a suspected industry-related M2.67 shake-up happened in Grande Prairie, AB."
-  },
-  {
     "timestamp_utc": "2026-06-11T08:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there were no recorded earthquakes on the PiQuake Canada dashboard. The largest event was a M2.5 near Beaver Creek in the Yukon Territory, which happened around 16:30 UTC on June 30th. This is pretty much as usual and doesn't signal any significant changes or activity."
+  },
+  {
+    "timestamp_utc": "2026-07-02T03:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, there haven't been any recorded earthquakes on the PiQuake Canada dashboard. The largest one detected was a M2.5 near Beaver Creek in Yukon Territory. It happened around 16:34 UTC on June 30th this year."
   }
 ]
