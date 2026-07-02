@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no seismic activity in the last hour, but there was one event yesterday. The largest quake recorded recently happened just east of Victoria, felt and reported as well. It measured M3.64.
+The PiQuake Canada dashboard shows no activity events in the last hour, but there was one event yesterday with a magnitude of M3.64 happening about 57 kilometers east southeast of Victoria, felt and resented by people there. It's the latest and largest event recorded on this dashboard so far.

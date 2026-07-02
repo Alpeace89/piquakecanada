@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-11T14:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Here's a summary of the PiQuake Canada dashboard for public viewing. In the last 24 hours, there were no reported events, but we had five suspected industry-related quakes in different parts of Canada, with the largest being M2.67 near Grande Prairie, AB. The latest one was an M2.3 in BC, and most of these happened in Alberta and British Columbia."
-  },
-  {
     "timestamp_utc": "2026-06-11T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no seismic activity in the last hour, but there was one event yesterday. The largest quake recorded recently happened just east of Victoria, felt and reported as well. It measured M3.64."
+  },
+  {
+    "timestamp_utc": "2026-07-02T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity events in the last hour, but there was one event yesterday with a magnitude of M3.64 happening about 57 kilometers east southeast of Victoria, felt and resented by people there. It's the latest and largest event recorded on this dashboard so far."
   }
 ]
