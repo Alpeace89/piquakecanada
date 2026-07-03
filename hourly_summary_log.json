@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had 5 PiQuake Canada dashboard events. The largest one was a M2.8 just west of Port Hardy in British Columbia and a bit off to the east. This area has been active as well with three quakes in BC and two in Alberta. So far today, there haven't been any new shakes, but we're keeping an eye on things."
-  },
-  {
     "timestamp_utc": "2026-06-12T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had seven seismic events monitored by our PiQuake Canada dashboard. The largest one measured M3.65 and was felt/ressented about 57 kilometers east southeast of Victoria, BC. A tiny shake with a magnitude of just M1.01 happened less than an hour ago in the area west northwest of Victoria, still within the Unknown region."
+  },
+  {
+    "timestamp_utc": "2026-07-03T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a summary of the PiQuake Canada dashboard for the last 24 hours in plain Canadian English: There were no events detected within the last hour, but there were seven recorded quakes. The largest one measured M3.65 and happened around Victoria, BC. A smaller quake with magnitude M1.01 also occurred recently near Victoria. Most of these quakes were reported in British Columbia."
   }
 ]
