@@ -1,32 +1,32 @@
 {
-  "generated_utc": "2026-07-03T16:03:01Z",
+  "generated_utc": "2026-07-03T17:03:02Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 514,
-  "events_last_24h": 5,
+  "events_last_24h": 6,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260703.1104001",
-    "time_utc": "2026-07-03T11:04:33.000Z",
-    "latitude": 50.653,
-    "longitude": -120.525,
-    "depth_km": 0.8,
-    "mag_type": "ML",
-    "magnitude": 2.38,
-    "place": "Mining event, 13 km W of Kamloops, BC/Événement minier, 13 km O de Kamloops, BC",
-    "region": "BC"
+    "event_id": "20260703.1512003",
+    "time_utc": "2026-07-03T15:12:20.000Z",
+    "latitude": 47.8091,
+    "longitude": -69.9619,
+    "depth_km": 16.18,
+    "mag_type": "MwN",
+    "magnitude": 2.66,
+    "place": "6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti",
+    "region": "Unknown"
   },
   "largest_event_last_24h": {
-    "event_id": "20260703.1104001",
-    "time_utc": "2026-07-03T11:04:33.000Z",
-    "latitude": 50.653,
-    "longitude": -120.525,
-    "depth_km": 0.8,
-    "mag_type": "ML",
-    "magnitude": 2.38,
-    "place": "Mining event, 13 km W of Kamloops, BC/Événement minier, 13 km O de Kamloops, BC",
-    "region": "BC"
+    "event_id": "20260703.1512003",
+    "time_utc": "2026-07-03T15:12:20.000Z",
+    "latitude": 47.8091,
+    "longitude": -69.9619,
+    "depth_km": 16.18,
+    "mag_type": "MwN",
+    "magnitude": 2.66,
+    "place": "6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti",
+    "region": "Unknown"
   },
   "deepest_event_last_24h": {
     "event_id": "20260703.1001001",
@@ -53,5 +53,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-07-03 16:03 UTC, the recent Canada earthquake dataset contains 514 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.38 at Mining event, 13 km W of Kamloops, BC/Événement minier, 13 km O de Kamloops, BC. The deepest event reached 20.61 km at 16 km SSE of Duncan, BC/16 km SSE de Duncan, BC. The most recent listed event was M2.38 at Mining event, 13 km W of Kamloops, BC/Événement minier, 13 km O de Kamloops, BC at 2026-07-03T11:04:33.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and BC (2)."
+  "summary_text": "As of 2026-07-03 17:03 UTC, the recent Canada earthquake dataset contains 514 events from the current rolling window. In the last 24 hours, 6 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti. The deepest event reached 20.61 km at 16 km SSE of Duncan, BC/16 km SSE de Duncan, BC. The most recent listed event was M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti at 2026-07-03T15:12:20.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and BC (2)."
 }

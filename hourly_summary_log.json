@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T21:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey there, folks! We just had three quakes in the past 24 hours, with the biggest one being a M2.85 about 287 km southwest of Port Alberni in British Columbia and another spot south of it. The latest one happened today at around noon. It looks like we've been keeping an eye on things down in the Yukon Territory (YT), Quebec (QC), and British Columbia (BC)."
-  },
-  {
     "timestamp_utc": "2026-06-12T22:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were five in the past 24 hours. The largest event was a M2.38 near Kamloops, BC yesterday at around noon. That's been the most active region for seismic activity over the last 24 hours with two more quakes reported from Quebec and another from Yukon."
+  },
+  {
+    "timestamp_utc": "2026-07-03T17:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we've had six PiQuake Canada dashboard events. The largest one was a M2.66 quake that people felt and could be detected 6 km west-southwest of Saint-Siméon, Quebec. This is the latest event on our dashboard. In total, there have been two in QC, two in BC, and one in YT over this period."
   }
 ]

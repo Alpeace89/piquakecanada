@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-07-03T15:12:20.000Z",
+    "magnitude": "2.66",
+    "depth_km": "16.18",
+    "place": "6 km WSW of Saint-Sim\u00e9on, QC, felt/6 km OSO de Saint-Sim\u00e9on, QC, ressenti"
+  },
+  {
     "time_utc": "2026-07-03T11:04:33.000Z",
     "magnitude": "2.38",
     "depth_km": "0.8",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.01",
     "depth_km": "22.22",
     "place": "10 km WNW of Victoria, BC/10 km ONO de Victoria, BC"
-  },
-  {
-    "time_utc": "2026-07-02T08:14:19.000Z",
-    "magnitude": "1.96",
-    "depth_km": "17.38",
-    "place": "121 km S of Daajing Giids, BC/121 km S de Daajing Giids, BC"
   }
 ];
