@@ -1,49 +1,57 @@
 {
-  "generated_utc": "2026-07-03T14:03:02Z",
+  "generated_utc": "2026-07-03T15:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 509,
-  "events_last_24h": 2,
+  "rolling_window_event_count": 513,
+  "events_last_24h": 4,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260702.1922001",
-    "time_utc": "2026-07-02T19:22:00.000Z",
-    "latitude": 45.63,
-    "longitude": -75.8249,
-    "depth_km": 0.0,
-    "mag_type": "MwN",
-    "magnitude": 1.2,
-    "place": "Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC",
-    "region": "QC"
+    "event_id": "20260703.1001001",
+    "time_utc": "2026-07-03T10:01:15.000Z",
+    "latitude": 48.6374,
+    "longitude": -123.6654,
+    "depth_km": 20.61,
+    "mag_type": "ML",
+    "magnitude": 1.05,
+    "place": "16 km SSE of Duncan, BC/16 km SSE de Duncan, BC",
+    "region": "BC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260702.1753001",
-    "time_utc": "2026-07-02T17:53:06.000Z",
-    "latitude": 46.1167,
-    "longitude": -74.534,
-    "depth_km": 0.0,
-    "mag_type": "MwN",
-    "magnitude": 1.38,
-    "place": "Blast, 5 km E of Saint-Jovite, QC/Dynamitage, 5 km E de Saint-Jovite, QC",
-    "region": "QC"
+    "event_id": "20260703.0437001",
+    "time_utc": "2026-07-03T04:37:57.000Z",
+    "latitude": 60.4679,
+    "longitude": -139.6689,
+    "depth_km": 5.0,
+    "mag_type": "ML",
+    "magnitude": 2.2,
+    "place": "122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT",
+    "region": "YT"
   },
   "deepest_event_last_24h": {
-    "event_id": "20260702.1922001",
-    "time_utc": "2026-07-02T19:22:00.000Z",
-    "latitude": 45.63,
-    "longitude": -75.8249,
-    "depth_km": 0.0,
-    "mag_type": "MwN",
-    "magnitude": 1.2,
-    "place": "Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC",
-    "region": "QC"
+    "event_id": "20260703.1001001",
+    "time_utc": "2026-07-03T10:01:15.000Z",
+    "latitude": 48.6374,
+    "longitude": -123.6654,
+    "depth_km": 20.61,
+    "mag_type": "ML",
+    "magnitude": 1.05,
+    "place": "16 km SSE of Duncan, BC/16 km SSE de Duncan, BC",
+    "region": "BC"
   },
   "top_regions_last_24h": [
     {
       "region": "QC",
       "count": 2
+    },
+    {
+      "region": "YT",
+      "count": 1
+    },
+    {
+      "region": "BC",
+      "count": 1
     }
   ],
-  "summary_text": "As of 2026-07-03 14:03 UTC, the recent Canada earthquake dataset contains 509 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.38 at Blast, 5 km E of Saint-Jovite, QC/Dynamitage, 5 km E de Saint-Jovite, QC. The deepest event reached 0.00 km at Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC. The most recent listed event was M1.2 at Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC at 2026-07-02T19:22:00.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
+  "summary_text": "As of 2026-07-03 15:03 UTC, the recent Canada earthquake dataset contains 513 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.2 at 122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT. The deepest event reached 20.61 km at 16 km SSE of Duncan, BC/16 km SSE de Duncan, BC. The most recent listed event was M1.05 at 16 km SSE of Duncan, BC/16 km SSE de Duncan, BC at 2026-07-03T10:01:15.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and YT (1)."
 }

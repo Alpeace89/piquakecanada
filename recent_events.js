@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-07-03T10:01:15.000Z",
+    "magnitude": "1.05",
+    "depth_km": "20.61",
+    "place": "16 km SSE of Duncan, BC/16 km SSE de Duncan, BC"
+  },
+  {
+    "time_utc": "2026-07-03T04:37:57.000Z",
+    "magnitude": "2.2",
+    "depth_km": "5.0",
+    "place": "122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT"
+  },
+  {
     "time_utc": "2026-07-02T19:22:00.000Z",
     "magnitude": "1.2",
     "depth_km": "0.0",
@@ -45,18 +57,6 @@ window.recentEvents = [
     "time_utc": "2026-07-02T06:48:55.000Z",
     "magnitude": "2.29",
     "depth_km": "29.58",
-    "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
-  },
-  {
-    "time_utc": "2026-07-02T06:35:47.000Z",
-    "magnitude": "3.65",
-    "depth_km": "28.78",
-    "place": "57 km ESE of Victoria, BC, felt/57 km ESE de Victoria, BC, ressenti"
-  },
-  {
-    "time_utc": "2026-07-02T06:34:54.000Z",
-    "magnitude": "2.19",
-    "depth_km": "29.55",
     "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
   }
 ];

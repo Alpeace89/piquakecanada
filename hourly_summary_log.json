@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T19:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had six earthquakes. The biggest one was a M2.97 near Haines Junction in Yukon and another one nearby in British Columbia was just under M3. The latest shake we saw was a M2.85 near Port Alberni in British Columbia yesterday afternoon. These happen mostly in the north, specifically Yukon and BC, with Alberta having had one too."
-  },
-  {
     "timestamp_utc": "2026-06-12T20:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "Canada recorded 2 earthquakes in the last 24 hours, with the largest event M1.38 at Blast, 5 km E of Saint-Jovite, QC/Dynamitage, 5 km E de Saint-Jovite, QC. No earthquakes were recorded in the last hour. The most recent listed event was M1.2 at Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC at 2026-07-02T19:22:00Z."
+  },
+  {
+    "timestamp_utc": "2026-07-03T15:03:01Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "Canada recorded 4 earthquakes in the last 24 hours, with the largest event M2.2 at 122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT. No earthquakes were recorded in the last hour. The most recent listed event was M1.05 at 16 km SSE of Duncan, BC/16 km SSE de Duncan, BC at 2026-07-03T10:01:15Z."
   }
 ]
