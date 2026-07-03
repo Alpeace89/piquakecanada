@@ -510,4 +510,5 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260703.0437001,2026-07-03T04:37:57.000Z,60.4679,-139.6689,5.0,ML,2.2,"122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT"
 20260703.1001001,2026-07-03T10:01:15.000Z,48.6374,-123.6654,20.61,ML,1.05,"16 km SSE of Duncan, BC/16 km SSE de Duncan, BC"
 20260703.1104001,2026-07-03T11:04:33.000Z,50.653,-120.525,0.8,ML,2.38,"Mining event, 13 km W of Kamloops, BC/Événement minier, 13 km O de Kamloops, BC"
+20260703.1121001,2026-07-03T11:21:54.000Z,49.8359,-123.5879,5.51,ML,1.29,"35 km WNW of Squamish, BC/35 km ONO de Squamish, BC"
 20260703.1512003,2026-07-03T15:12:20.000Z,47.8091,-69.9619,16.18,MwN,2.66,"6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti"

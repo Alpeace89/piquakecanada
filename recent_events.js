@@ -6,6 +6,12 @@ window.recentEvents = [
     "place": "6 km WSW of Saint-Sim\u00e9on, QC, felt/6 km OSO de Saint-Sim\u00e9on, QC, ressenti"
   },
   {
+    "time_utc": "2026-07-03T11:21:54.000Z",
+    "magnitude": "1.29",
+    "depth_km": "5.51",
+    "place": "35 km WNW of Squamish, BC/35 km ONO de Squamish, BC"
+  },
+  {
     "time_utc": "2026-07-03T11:04:33.000Z",
     "magnitude": "2.38",
     "depth_km": "0.8",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.79",
     "depth_km": "1.0",
     "place": "81 km SW of Lohbiee 3, BC/81 km SO de Lohbiee 3, BC"
-  },
-  {
-    "time_utc": "2026-07-02T09:49:48.000Z",
-    "magnitude": "1.01",
-    "depth_km": "22.22",
-    "place": "10 km WNW of Victoria, BC/10 km ONO de Victoria, BC"
   }
 ];
