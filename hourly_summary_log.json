@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-13T03:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard had no events reported last hour, but recorded one event in the past 24 hours with a magnitude of M2.85 happening 287 km southwest of Port Alberni, BC or 287 km south of Port Alberni, BC. This was also the largest event observed over the last 24 hours and is our latest recorded one as well."
-  },
-  {
     "timestamp_utc": "2026-06-13T04:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "Canada recorded 8 earthquakes in the last 24 hours, with the largest event M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti. No earthquakes were recorded in the last hour. The most recent listed event was M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti at 2026-07-03T15:12:20Z."
+  },
+  {
+    "timestamp_utc": "2026-07-03T23:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no activity in the last hour, but we had eight events over the past day. The largest one was a M2.66 just west-southwest of Saint-Siméon, Quebec. It was felt and resented within a radius of six kilometers. This is where our beta testing will take place, folks!"
   }
 ]
