@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there have been no major seismic events reported. But Canada's seismograph caught six small quakes, with the biggest measuring M2.97 and happening near Haines Junction in Yukon Territory. The latest quake was a smaller one at M2.85 about halfway between Port Alberni in British Columbia and somewhere to its south-southwest."
-  },
-  {
     "timestamp_utc": "2026-06-12T19:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we had two minor seismic events in Canada. The largest one measured M1.38 and happened near Saint-Jovicé, QC, connected to dynamite blasting. Just a day earlier, there was another event at Cantley, QC also linked to dynamite work. Most of these tremors have been occurring in Quebec region."
+  },
+  {
+    "timestamp_utc": "2026-07-03T14:03:02Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "Canada recorded 2 earthquakes in the last 24 hours, with the largest event M1.38 at Blast, 5 km E of Saint-Jovite, QC/Dynamitage, 5 km E de Saint-Jovite, QC. No earthquakes were recorded in the last hour. The most recent listed event was M1.2 at Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC at 2026-07-02T19:22:00Z."
   }
 ]

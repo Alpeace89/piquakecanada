@@ -1,6 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260519.1301001,2026-05-19T13:01:33.000Z,47.9108,-69.9914,19.1,MwN,1.18,"12 km NW of Saint-Siméon, QC/12 km NO de Saint-Siméon, QC"
-20260519.1358001,2026-05-19T13:58:54.000Z,51.8269,-126.4013,1.0,ML,2.53,"65 km SSE of Bella Coola 1, BC/65 km SSE de Bella Coola 1, BC"
 20260519.1443001,2026-05-19T14:43:59.000Z,59.6865,-136.1693,6.27,ML,2.86,"127 km SSW of Whitehorse, YT/127 km SSO de Whitehorse, YT"
 20260519.1445001,2026-05-19T14:45:57.000Z,61.1061,-139.9991,5.0,ML,1.99,"61 km WSW of Burwash Landing, YT/61 km OSO de Burwash Landing, YT"
 20260519.1602001,2026-05-19T16:02:37.000Z,53.3817,-117.3057,0.0,MLy,3.24,"Blast, 17 km E of Hinton, AB/Dynamitage, 17 km E de Hinton, AB"
@@ -505,5 +503,8 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260702.0648001,2026-07-02T06:48:55.000Z,48.2799,-122.6191,29.58,ML,2.29,"58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
 20260702.0814001,2026-07-02T08:14:19.000Z,52.164,-132.1679,17.38,ML,1.96,"121 km S of Daajing Giids, BC/121 km S de Daajing Giids, BC"
 20260702.0949001,2026-07-02T09:49:48.000Z,48.4766,-123.477,22.22,ML,1.01,"10 km WNW of Victoria, BC/10 km ONO de Victoria, BC"
+20260702.1003001,2026-07-02T10:03:39.000Z,50.957,-124.7546,1.0,ML,1.79,"81 km SW of Lohbiee 3, BC/81 km SO de Lohbiee 3, BC"
+20260702.1050001,2026-07-02T10:50:54.000Z,48.2816,-122.625,27.96,ML,1.96,"57 km ESE of Victoria, BC/57 km ESE de Victoria, BC"
+20260702.1122001,2026-07-02T11:22:12.000Z,48.2864,-122.9194,16.41,ML,1.31,"36 km ESE of Victoria, BC/36 km ESE de Victoria, BC"
 20260702.1753001,2026-07-02T17:53:06.000Z,46.1167,-74.534,0.0,MwN,1.38,"Blast, 5 km E of Saint-Jovite, QC/Dynamitage, 5 km E de Saint-Jovite, QC"
 20260702.1922001,2026-07-02T19:22:00.000Z,45.63,-75.8249,0.0,MwN,1.2,"Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC"
