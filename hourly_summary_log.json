@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T08:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had six seismic events. The largest one measured M3.29 and happened about 117 km south-southwest of Port Alice in British Columbia. That's not a big deal, just regular stuff happening down there. There have been four quakes in BC and two in Alberta so far today."
-  },
-  {
     "timestamp_utc": "2026-06-12T09:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there have been no reported events on the PiQuake Canada dashboard. The largest quake felt/reported was a M3.65 near Victoria, BC. That's compared to one minor shake that registered as M1.01 earlier today in the same area. The most common places for these quakes are BC with seven reports and an unknown location once."
+  },
+  {
+    "timestamp_utc": "2026-07-03T04:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had seven seismic events monitored by our PiQuake Canada dashboard. The largest one measured M3.65 and was felt/ressented about 57 kilometers east southeast of Victoria, BC. A tiny shake with a magnitude of just M1.01 happened less than an hour ago in the area west northwest of Victoria, still within the Unknown region."
   }
 ]
