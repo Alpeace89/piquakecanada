@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, there were no new quakes reported on the PiQuake Canada dashboard. The largest event was a M2.85 quake that happened about 287 km southwest of Port Alberni in BC and 287 km south-southeast of Port Alberni, BC. This is the same place and time for the latest quake too. In the past 24 hours, there have been three quakes reported from British Columbia and one from Alberta."
-  },
-  {
     "timestamp_utc": "2026-06-12T15:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, there was just one minor quake recorded by PiQuake Canada's dashboard. It measured M1.01 and happened 10 kilometers west-northwest of Victoria in British Columbia. This is the same place as the latest event which occurred on June 30th at around 9:50 AM."
+  },
+  {
+    "timestamp_utc": "2026-07-03T10:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last hour there haven't been any earthquakes reported, and in the past day neither. The largest one we know about was a very small M1.01 that happened near Victoria, BC. It's not often we see anything this size or smaller. That’s it for today in earthquake activity here in Canada."
   }
 ]
