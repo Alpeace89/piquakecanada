@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were three in the past day. The largest event was a M2.85 near Port Alberni, BC yesterday afternoon, and it's where all the activity has been happening lately with one more event reported today too."
-  },
-  {
     "timestamp_utc": "2026-06-12T23:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've had six PiQuake Canada dashboard events. The largest one was a M2.66 quake that people felt and could be detected 6 km west-southwest of Saint-Siméon, Quebec. This is the latest event on our dashboard. In total, there have been two in QC, two in BC, and one in YT over this period."
+  },
+  {
+    "timestamp_utc": "2026-07-03T18:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there have been five minor quakes recorded in the past day. The largest was a M2.66 that was felt and resented within a 6 km radius of Saint-Siméon, Quebec. This latest event is part of what's shaping our understanding of seismic activity across British Columbia, Quebec, and the Yukon Territory."
   }
 ]
