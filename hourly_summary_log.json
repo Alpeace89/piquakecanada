@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T12:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the past 24 hours, there were no events recorded. But the largest one was a M2.8 quake that hit 148 km west of Port Hardy in British Columbia and its opposite direction, happening at 16:36 UTC on June 11th. It's the latest event we have information about. The places with most activity were BC and Alberta."
-  },
-  {
     "timestamp_utc": "2026-06-12T13:03:02Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "Canada recorded 2 earthquakes in the last 24 hours, with the largest event M1.96 at 121 km S of Daajing Giids, BC/121 km S de Daajing Giids, BC. No earthquakes were recorded in the last hour. The most recent listed event was M1.01 at 10 km WNW of Victoria, BC/10 km ONO de Victoria, BC at 2026-07-02T09:49:48Z."
+  },
+  {
+    "timestamp_utc": "2026-07-03T08:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had a total of two quakes reported on our PiQuake Canada dashboard. The biggest one was a M1.96 near Daajing Giids, BC and it happened around midnight yesterday. Just after that, another smaller one registered at M1.01 close to Victoria. Most of these quakes were happening in British Columbia."
   }
 ]
