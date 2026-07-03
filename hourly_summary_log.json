@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T15:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we've had five minor quakes monitored by our PiQuake Canada dashboard. The largest one measured M2.97 and happened just outside Haines Junction in Yukon Territory and British Columbia. It's been quite active with two more quakes happening in BC alone today, right around Port Alberni. Most of these have been felt across the Western provinces like Alberta and BC."
-  },
-  {
     "timestamp_utc": "2026-06-12T16:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last hour there haven't been any earthquakes reported, and in the past day neither. The largest one we know about was a very small M1.01 that happened near Victoria, BC. It's not often we see anything this size or smaller. That’s it for today in earthquake activity here in Canada."
+  },
+  {
+    "timestamp_utc": "2026-07-03T11:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard is currently in its beta stage and hasn't recorded any seismic events in the last 24 hours. The largest event detected was a minor M1.01 which happened around 10 km west-northwest of Victoria, BC, just north of Victoria. It's been quite quiet down there lately."
   }
 ]
