@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event recorded was a tiny M1.01 just outside Victoria, BC on July 1st at around 9:50 AM. No new events were reported since then.
+In the last 24 hours, we had two minor seismic events in Canada. The largest one measured M1.38 and happened near Saint-Jovicé, QC, connected to dynamite blasting. Just a day earlier, there was another event at Cantley, QC also linked to dynamite work. Most of these tremors have been occurring in Quebec region.

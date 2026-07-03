@@ -1,24 +1,49 @@
 {
-  "generated_utc": "2026-07-03T12:03:01Z",
+  "generated_utc": "2026-07-03T13:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 508,
-  "events_last_24h": 0,
+  "events_last_24h": 2,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260702.0949001",
-    "time_utc": "2026-07-02T09:49:48.000Z",
-    "latitude": 48.4766,
-    "longitude": -123.477,
-    "depth_km": 22.22,
-    "mag_type": "ML",
-    "magnitude": 1.01,
-    "place": "10 km WNW of Victoria, BC/10 km ONO de Victoria, BC",
-    "region": "BC"
+    "event_id": "20260702.1922001",
+    "time_utc": "2026-07-02T19:22:00.000Z",
+    "latitude": 45.63,
+    "longitude": -75.8249,
+    "depth_km": 0.0,
+    "mag_type": "MwN",
+    "magnitude": 1.2,
+    "place": "Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC",
+    "region": "QC"
   },
-  "largest_event_last_24h": null,
-  "deepest_event_last_24h": null,
-  "top_regions_last_24h": [],
-  "summary_text": "As of 2026-07-03 12:03 UTC, the recent Canada earthquake dataset contains 508 events from the current rolling window. In the last 24 hours, 0 events were recorded, including 0 in the last hour. The most recent listed event was M1.01 at 10 km WNW of Victoria, BC/10 km ONO de Victoria, BC at 2026-07-02T09:49:48.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours."
+  "largest_event_last_24h": {
+    "event_id": "20260702.1753001",
+    "time_utc": "2026-07-02T17:53:06.000Z",
+    "latitude": 46.1167,
+    "longitude": -74.534,
+    "depth_km": 0.0,
+    "mag_type": "MwN",
+    "magnitude": 1.38,
+    "place": "Blast, 5 km E of Saint-Jovite, QC/Dynamitage, 5 km E de Saint-Jovite, QC",
+    "region": "QC"
+  },
+  "deepest_event_last_24h": {
+    "event_id": "20260702.1922001",
+    "time_utc": "2026-07-02T19:22:00.000Z",
+    "latitude": 45.63,
+    "longitude": -75.8249,
+    "depth_km": 0.0,
+    "mag_type": "MwN",
+    "magnitude": 1.2,
+    "place": "Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC",
+    "region": "QC"
+  },
+  "top_regions_last_24h": [
+    {
+      "region": "QC",
+      "count": 2
+    }
+  ],
+  "summary_text": "As of 2026-07-03 13:03 UTC, the recent Canada earthquake dataset contains 508 events from the current rolling window. In the last 24 hours, 2 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M1.38 at Blast, 5 km E of Saint-Jovite, QC/Dynamitage, 5 km E de Saint-Jovite, QC. The deepest event reached 0.00 km at Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC. The most recent listed event was M1.2 at Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC at 2026-07-02T19:22:00.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active region was QC."
 }

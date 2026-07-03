@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T17:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had a total of five PiQuake Canada events. The biggest one was a M2.97 near Haines Junction in Yukon and Ontario territories, which happened on June 11th at around 7:48 PM local time. Then yesterday afternoon, there was a smaller quake measuring M2.85 about 300 km west-southwest of Port Alberni in British Columbia. We're seeing activity mostly in the Yukon and British Columbia regions lately."
-  },
-  {
     "timestamp_utc": "2026-06-12T18:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard shows no earthquakes in the last hour or day. The largest event recorded was a tiny M1.01 just outside Victoria, BC on July 1st at around 9:50 AM. No new events were reported since then."
+  },
+  {
+    "timestamp_utc": "2026-07-03T13:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "In the last 24 hours, we had two minor seismic events in Canada. The largest one measured M1.38 and happened near Saint-Jovicé, QC, connected to dynamite blasting. Just a day earlier, there was another event at Cantley, QC also linked to dynamite work. Most of these tremors have been occurring in Quebec region."
   }
 ]

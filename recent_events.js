@@ -1,5 +1,17 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-07-02T19:22:00.000Z",
+    "magnitude": "1.2",
+    "depth_km": "0.0",
+    "place": "Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC"
+  },
+  {
+    "time_utc": "2026-07-02T17:53:06.000Z",
+    "magnitude": "1.38",
+    "depth_km": "0.0",
+    "place": "Blast, 5 km E of Saint-Jovite, QC/Dynamitage, 5 km E de Saint-Jovite, QC"
+  },
+  {
     "time_utc": "2026-07-02T09:49:48.000Z",
     "magnitude": "1.01",
     "depth_km": "22.22",
@@ -46,17 +58,5 @@ window.recentEvents = [
     "magnitude": "2.2",
     "depth_km": "10.0",
     "place": "241 km SSW of Port Hardy, BC/241 km SSO de Port Hardy, BC"
-  },
-  {
-    "time_utc": "2026-07-01T23:30:55.000Z",
-    "magnitude": "1.77",
-    "depth_km": "5.0",
-    "place": "81 km SW of Lohbiee 3, BC/81 km SO de Lohbiee 3, BC"
-  },
-  {
-    "time_utc": "2026-07-01T20:05:16.000Z",
-    "magnitude": "1.57",
-    "depth_km": "0.0",
-    "place": "Blast, 24 km NE of Everett, WA/Dynamitage, 24 km NE de Everett, WA"
   }
 ];
