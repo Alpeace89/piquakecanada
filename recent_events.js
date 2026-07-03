@@ -1,5 +1,11 @@
 window.recentEvents = [
   {
+    "time_utc": "2026-07-03T11:04:33.000Z",
+    "magnitude": "2.38",
+    "depth_km": "0.8",
+    "place": "Mining event, 13 km W of Kamloops, BC/\u00c9v\u00e9nement minier, 13 km O de Kamloops, BC"
+  },
+  {
     "time_utc": "2026-07-03T10:01:15.000Z",
     "magnitude": "1.05",
     "depth_km": "20.61",
@@ -52,11 +58,5 @@ window.recentEvents = [
     "magnitude": "1.96",
     "depth_km": "17.38",
     "place": "121 km S of Daajing Giids, BC/121 km S de Daajing Giids, BC"
-  },
-  {
-    "time_utc": "2026-07-02T06:48:55.000Z",
-    "magnitude": "2.29",
-    "depth_km": "29.58",
-    "place": "58 km ESE of Victoria, BC/58 km ESE de Victoria, BC"
   }
 ];

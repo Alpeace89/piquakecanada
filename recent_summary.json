@@ -1,32 +1,32 @@
 {
-  "generated_utc": "2026-07-03T15:03:01Z",
+  "generated_utc": "2026-07-03T16:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
-  "rolling_window_event_count": 513,
-  "events_last_24h": 4,
+  "rolling_window_event_count": 514,
+  "events_last_24h": 5,
   "events_last_hour": 0,
   "count_m3plus_last_24h": 0,
   "count_m4plus_last_24h": 0,
   "latest_event": {
-    "event_id": "20260703.1001001",
-    "time_utc": "2026-07-03T10:01:15.000Z",
-    "latitude": 48.6374,
-    "longitude": -123.6654,
-    "depth_km": 20.61,
+    "event_id": "20260703.1104001",
+    "time_utc": "2026-07-03T11:04:33.000Z",
+    "latitude": 50.653,
+    "longitude": -120.525,
+    "depth_km": 0.8,
     "mag_type": "ML",
-    "magnitude": 1.05,
-    "place": "16 km SSE of Duncan, BC/16 km SSE de Duncan, BC",
+    "magnitude": 2.38,
+    "place": "Mining event, 13 km W of Kamloops, BC/Événement minier, 13 km O de Kamloops, BC",
     "region": "BC"
   },
   "largest_event_last_24h": {
-    "event_id": "20260703.0437001",
-    "time_utc": "2026-07-03T04:37:57.000Z",
-    "latitude": 60.4679,
-    "longitude": -139.6689,
-    "depth_km": 5.0,
+    "event_id": "20260703.1104001",
+    "time_utc": "2026-07-03T11:04:33.000Z",
+    "latitude": 50.653,
+    "longitude": -120.525,
+    "depth_km": 0.8,
     "mag_type": "ML",
-    "magnitude": 2.2,
-    "place": "122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT",
-    "region": "YT"
+    "magnitude": 2.38,
+    "place": "Mining event, 13 km W of Kamloops, BC/Événement minier, 13 km O de Kamloops, BC",
+    "region": "BC"
   },
   "deepest_event_last_24h": {
     "event_id": "20260703.1001001",
@@ -45,13 +45,13 @@
       "count": 2
     },
     {
-      "region": "YT",
-      "count": 1
+      "region": "BC",
+      "count": 2
     },
     {
-      "region": "BC",
+      "region": "YT",
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-07-03 15:03 UTC, the recent Canada earthquake dataset contains 513 events from the current rolling window. In the last 24 hours, 4 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.2 at 122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT. The deepest event reached 20.61 km at 16 km SSE of Duncan, BC/16 km SSE de Duncan, BC. The most recent listed event was M1.05 at 16 km SSE of Duncan, BC/16 km SSE de Duncan, BC at 2026-07-03T10:01:15.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and YT (1)."
+  "summary_text": "As of 2026-07-03 16:03 UTC, the recent Canada earthquake dataset contains 514 events from the current rolling window. In the last 24 hours, 5 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.38 at Mining event, 13 km W of Kamloops, BC/Événement minier, 13 km O de Kamloops, BC. The deepest event reached 20.61 km at 16 km SSE of Duncan, BC/16 km SSE de Duncan, BC. The most recent listed event was M2.38 at Mining event, 13 km W of Kamloops, BC/Événement minier, 13 km O de Kamloops, BC at 2026-07-03T11:04:33.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were QC (2) and BC (2)."
 }

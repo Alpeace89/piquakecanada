@@ -512,3 +512,4 @@ event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
 20260702.1922001,2026-07-02T19:22:00.000Z,45.63,-75.8249,0.0,MwN,1.2,"Blast, 8 km NNW of Cantley, QC/Dynamitage, 8 km NNO de Cantley, QC"
 20260703.0437001,2026-07-03T04:37:57.000Z,60.4679,-139.6689,5.0,ML,2.2,"122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT"
 20260703.1001001,2026-07-03T10:01:15.000Z,48.6374,-123.6654,20.61,ML,1.05,"16 km SSE of Duncan, BC/16 km SSE de Duncan, BC"
+20260703.1104001,2026-07-03T11:04:33.000Z,50.653,-120.525,0.8,ML,2.38,"Mining event, 13 km W of Kamloops, BC/Événement minier, 13 km O de Kamloops, BC"

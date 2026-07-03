@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T20:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we saw four minor quakes with the largest being a M2.85 hit 287 km southwest of Port Alberni in British Columbia and 287 km south-southwest of Port Alberni in British Colombia. This latest event happened on June 12 at around 12:28 PM UTC, which is quite regular for the region as there were three quakes reported from BC alone."
-  },
-  {
     "timestamp_utc": "2026-06-12T21:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "deterministic",
     "model": null,
     "summary": "Canada recorded 4 earthquakes in the last 24 hours, with the largest event M2.2 at 122 km WSW of Haines Junction, YT/122 km OSO de Haines Junction, YT. No earthquakes were recorded in the last hour. The most recent listed event was M1.05 at 16 km SSE of Duncan, BC/16 km SSE de Duncan, BC at 2026-07-03T10:01:15Z."
+  },
+  {
+    "timestamp_utc": "2026-07-03T16:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but there were five in the past 24 hours. The largest event was a M2.38 near Kamloops, BC yesterday at around noon. That's been the most active region for seismic activity over the last 24 hours with two more quakes reported from Quebec and another from Yukon."
   }
 ]
