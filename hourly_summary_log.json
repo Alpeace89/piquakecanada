@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-12T04:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had 12 small tremors detected across British Columbia and Alberta. The biggest one was a M3.29 near Port Alice in BC and Port Hardy in BC on June 11th at about 8:40 AM local time. We also saw an M2.8 quake west of Port Hardy in BC earlier that day at around 4:40 PM. Most of these quakes were felt mostly in British Columbia, with seven in BC alone and four in Alberta."
-  },
-  {
     "timestamp_utc": "2026-06-12T05:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the past 24 hours, we've had nine little shakes recorded by our PiQuake Canada dashboard. The biggest one was a M3.65 near Victoria that people could feel and even some felt in BC too. And just recently, there was a small one at 10 km west-northwest of Victoria which most folks didn't notice but it still registered on our system."
+  },
+  {
+    "timestamp_utc": "2026-07-03T00:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows no events in the last hour, but we had eight quakes yesterday. The biggest one was a M3.65 just east of Victoria felt and ressenti by some people there. We also saw a tiny M1.01 shake off the coast earlier today. Most of these happened in BC, with one mysterious quake possibly felt further away too."
   }
 ]
