@@ -6,6 +6,24 @@ window.recentEvents = [
     "place": "6 km WSW of Saint-Sim\u00e9on, QC, felt/6 km OSO de Saint-Sim\u00e9on, QC, ressenti"
   },
   {
+    "time_utc": "2026-07-03T15:10:50.000Z",
+    "magnitude": "2.01",
+    "depth_km": "1.0",
+    "place": "6 km SSW of Nazko Mine, BC/6 km SSO de la mine Nazko, BC"
+  },
+  {
+    "time_utc": "2026-07-03T14:36:17.000Z",
+    "magnitude": "0.96",
+    "depth_km": "19.14",
+    "place": "29 km ENE of Central Saanich, BC/29 km ENE de Central Saanich, BC"
+  },
+  {
+    "time_utc": "2026-07-03T12:29:58.000Z",
+    "magnitude": "2.27",
+    "depth_km": "10.0",
+    "place": "270 km WNW of Port Hardy, BC/270 km ONO de Port Hardy, BC"
+  },
+  {
     "time_utc": "2026-07-03T11:21:54.000Z",
     "magnitude": "1.29",
     "depth_km": "5.51",
@@ -40,23 +58,5 @@ window.recentEvents = [
     "magnitude": "1.38",
     "depth_km": "0.0",
     "place": "Blast, 5 km E of Saint-Jovite, QC/Dynamitage, 5 km E de Saint-Jovite, QC"
-  },
-  {
-    "time_utc": "2026-07-02T11:22:12.000Z",
-    "magnitude": "1.31",
-    "depth_km": "16.41",
-    "place": "36 km ESE of Victoria, BC/36 km ESE de Victoria, BC"
-  },
-  {
-    "time_utc": "2026-07-02T10:50:54.000Z",
-    "magnitude": "1.96",
-    "depth_km": "27.96",
-    "place": "57 km ESE of Victoria, BC/57 km ESE de Victoria, BC"
-  },
-  {
-    "time_utc": "2026-07-02T10:03:39.000Z",
-    "magnitude": "1.79",
-    "depth_km": "1.0",
-    "place": "81 km SW of Lohbiee 3, BC/81 km SO de Lohbiee 3, BC"
   }
 ];
