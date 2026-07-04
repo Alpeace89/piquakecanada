@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260520.1433001,2026-05-20T14:33:01.000Z,56.2108,-116.6288,1.13,MLy,2.7,"Suspected industry-related event, 32 km SSW of Woodland Cree 226, AB/Événement lié à l'industrie soupconné, 32 km SSO de Woodland Cree 226, AB"
 20260520.1930001,2026-05-20T19:30:40.000Z,60.1528,-140.7484,5.0,ML,3.06,"190 km WSW of Haines Junction, YT/190 km OSO de Haines Junction, YT"
 20260521.0230002,2026-05-21T02:30:28.000Z,49.6899,-124.844,10.83,ML,2.08,"11 km E of Courtenay, BC/11 km E de Courtenay, BC"
 20260521.0251001,2026-05-21T02:51:38.000Z,52.7693,-132.3626,14.83,ML,2.26,"57 km SSW of Daajing Giids, BC/57 km SSO de Daajing Giids, BC"
