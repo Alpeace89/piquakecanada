@@ -1,5 +1,4 @@
 event_id,time_utc,latitude,longitude,depth_km,mag_type,magnitude,place
-20260520.0254001,2026-05-20T02:54:00.000Z,49.169,-89.611,1.25,MwN,2.15,"Mining event, Lac des Iles Mine, ON/Événement minier, Mine Lac des Îles,Lac des Iles, ON"
 20260520.0618001,2026-05-20T06:18:04.000Z,47.6609,-69.7753,21.07,MwN,0.82,"14 km N of Saint-Pascal, QC/14 km N de Saint-Pascal, QC"
 20260520.1238001,2026-05-20T12:38:59.000Z,48.6221,-123.0168,57.93,ML,2.36,"56 km SSW of Surrey, BC/56 km SSO de Surrey, BC"
 20260520.1433001,2026-05-20T14:33:01.000Z,56.2108,-116.6288,1.13,MLy,2.7,"Suspected industry-related event, 32 km SSW of Woodland Cree 226, AB/Événement lié à l'industrie soupconné, 32 km SSO de Woodland Cree 226, AB"
