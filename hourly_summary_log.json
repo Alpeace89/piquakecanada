@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-13T14:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard has been running in beta for a while now, and during this period, we've seen no significant earthquakes. The largest event recorded was an unknown magnitude happening somewhere far away from any populated areas. As of the last update, there haven't been any major quakes in the past 24 hours either."
-  },
-  {
     "timestamp_utc": "2026-06-13T15:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here’s a short summary of the latest PiQuake Canada dashboard, showing no earthquakes in the last hour but seven in the past day. The largest was a M2.66 near Saint-Siméon in Quebec, felt and reported by people within six kilometers. This is our latest event from yesterday at 1 PM local time."
+  },
+  {
+    "timestamp_utc": "2026-07-04T10:03:01Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "Canada recorded 6 earthquakes in the last 24 hours, with the largest event M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti. No earthquakes were recorded in the last hour. The most recent listed event was M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti at 2026-07-03T15:12:20Z."
   }
 ]
