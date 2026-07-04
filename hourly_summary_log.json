@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-13T13:03:02Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "Hey folks, we're excited to announce that our PiQuake Canada dashboard is now in beta! Since the last update, there hasn't been a single seismic event recorded. Our latest activity was a M2.85 just south of Port Alberni on June 12th at about noon. Keep an eye out for more updates and join us in exploring our new features!"
-  },
-  {
     "timestamp_utc": "2026-06-13T14:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "In the last 24 hours, we've seen seven PiQuake Canada events across various parts of Canada. The largest one was a M2.66 just 6 kilometers west-southwest of Saint-Siméon in Quebec. It felt there too and as far as 6 km off shore. That's the biggest event since yesterday when we had activity reported from British Columbia with six events, and also some unknown location where people felt it a little."
+  },
+  {
+    "timestamp_utc": "2026-07-04T09:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here’s a short summary of the latest PiQuake Canada dashboard, showing no earthquakes in the last hour but seven in the past day. The largest was a M2.66 near Saint-Siméon in Quebec, felt and reported by people within six kilometers. This is our latest event from yesterday at 1 PM local time."
   }
 ]

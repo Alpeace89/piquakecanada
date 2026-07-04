@@ -1,5 +1,5 @@
 {
-  "generated_utc": "2026-07-04T08:03:01Z",
+  "generated_utc": "2026-07-04T09:03:01Z",
   "source_csv": "/home/raspberry/eq_monitor/data/latest/eq_canada_recent.csv",
   "rolling_window_event_count": 514,
   "events_last_24h": 7,
@@ -49,5 +49,5 @@
       "count": 1
     }
   ],
-  "summary_text": "As of 2026-07-04 08:03 UTC, the recent Canada earthquake dataset contains 514 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti. The deepest event reached 20.61 km at 16 km SSE of Duncan, BC/16 km SSE de Duncan, BC. The most recent listed event was M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti at 2026-07-03T15:12:20.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (6) and Unknown (1)."
+  "summary_text": "As of 2026-07-04 09:03 UTC, the recent Canada earthquake dataset contains 514 events from the current rolling window. In the last 24 hours, 7 events were recorded, including 0 in the last hour. The largest event in the last 24 hours was M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti. The deepest event reached 20.61 km at 16 km SSE of Duncan, BC/16 km SSE de Duncan, BC. The most recent listed event was M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti at 2026-07-03T15:12:20.000Z. There were 0 events of magnitude 3 or greater and 0 of magnitude 4 or greater in the last 24 hours. The most active regions were BC (6) and Unknown (1)."
 }
