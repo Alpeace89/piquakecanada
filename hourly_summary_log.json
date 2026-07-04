@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-13T18:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "For the PiQuake Canada dashboard, we had zero earthquake reports in the last hour and one report in the last 24 hours. The largest event was a M2.72 felt at the Niobec Mine in Quebec, which happened around 6:38 AM today. That's our latest and only report for the day so far."
-  },
-  {
     "timestamp_utc": "2026-06-13T19:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2995,6 +2989,12 @@
   },
   {
     "timestamp_utc": "2026-07-04T13:03:02Z",
+    "mode": "deterministic",
+    "model": null,
+    "summary": "Canada recorded 3 earthquakes in the last 24 hours, with the largest event M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti. No earthquakes were recorded in the last hour. The most recent listed event was M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti at 2026-07-03T15:12:20Z."
+  },
+  {
+    "timestamp_utc": "2026-07-04T14:03:02Z",
     "mode": "deterministic",
     "model": null,
     "summary": "Canada recorded 3 earthquakes in the last 24 hours, with the largest event M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti. No earthquakes were recorded in the last hour. The most recent listed event was M2.66 at 6 km WSW of Saint-Siméon, QC, felt/6 km OSO de Saint-Siméon, QC, ressenti at 2026-07-03T15:12:20Z."
