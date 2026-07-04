@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-13T09:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "In the last 24 hours, we had one earthquake event with a magnitude of M2.85 near Port Alberni in British Columbia. This is the largest quake recorded and it happened on June 12 at around 12:28 PM local time. The latest event was also a similar-sized quake from the same area."
-  },
-  {
     "timestamp_utc": "2026-06-13T10:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "The PiQuake Canada dashboard is tracking no events in the last hour, but there were eight recorded tremors yesterday. The largest one felt within a six-kilometer radius of Saint-Siméon in Quebec and was a magnitude M2.66, which people experienced. This happened on July 3 at around 15:10 UTC."
+  },
+  {
+    "timestamp_utc": "2026-07-04T05:03:01Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "The PiQuake Canada dashboard shows we had a quiet day with no major earthquakes reported. However, there was one M2.66 shake last night at 3 PM in the Saint-Siméon area of Quebec that was felt up to six kilometers away. It's part of our usual activity and nothing to worry about. The top regions with recent quakes are British Columbia and an unknown location too."
   }
 ]
