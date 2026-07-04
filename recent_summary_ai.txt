@@ -1,1 +1,1 @@
-Here's a quick summary of the PiQuake Canada dashboard for public-facing use: We had no seismic events last hour or day, and we're tracking an unknown magnitude quake that nobody felt. The latest recorded one was a M2.66 under Saint-Siméon, QC, where people did feel it a bit.
+The PiQuake Canada dashboard hasn't recorded any earthquakes in the last hour or day. The largest event was a M2.66 that occurred 6 km west-southwest of Saint-Siméon, QC and was felt as well as resented there. It's been quiet on the seismic front lately!
