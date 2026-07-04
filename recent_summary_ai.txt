@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard hasn't recorded any earthquakes in the last hour or day. The largest event was a M2.66 that occurred 6 km west-southwest of Saint-Siméon, QC and was felt as well as resented there. It's been quiet on the seismic front lately!
+In the last 24 hours, there were no reported quakes on the PiQuake Canada dashboard. The largest one measured M2.66 and was felt in both Saint-Siméon, Quebec and a nearby area called OSO de Saint-Siméon. This happened on July 3 at around 1:12 PM local time.
