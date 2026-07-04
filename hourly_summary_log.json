@@ -1,11 +1,5 @@
 [
   {
-    "timestamp_utc": "2026-06-13T22:03:01Z",
-    "mode": "AI-beta",
-    "model": "qwen2.5:3b",
-    "summary": "The PiQuake Canada dashboard shows no new earthquake events in the last hour but we had one event yesterday. The largest quake was a M2.72 felt at Niobec Mine, QC. It's been quite smooth sailing as far as recent quakes go, with everything happening mostly around Mining area, QC."
-  },
-  {
     "timestamp_utc": "2026-06-13T23:03:01Z",
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
@@ -2998,5 +2992,11 @@
     "mode": "AI-beta",
     "model": "qwen2.5:3b",
     "summary": "Here's a short public-facing beta summary for the PiQuake Canada dashboard: No events reported in the last hour, and there were no significant quakes in the previous 24 hours either. The largest quake of that period was an unknown magnitude happening in an unknown location. The latest event measured M2.66 hit Saint-Siméon, QC, causing only a slight shake felt up to 6 kilometers away and some people resented it within another nearby spot."
+  },
+  {
+    "timestamp_utc": "2026-07-04T18:03:02Z",
+    "mode": "AI-beta",
+    "model": "qwen2.5:3b",
+    "summary": "Here's a quick summary of the PiQuake Canada dashboard for public-facing use: We had no seismic events last hour or day, and we're tracking an unknown magnitude quake that nobody felt. The latest recorded one was a M2.66 under Saint-Siméon, QC, where people did feel it a bit."
   }
 ]
