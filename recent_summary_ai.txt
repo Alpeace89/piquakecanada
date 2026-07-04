@@ -1,1 +1,1 @@
-The PiQuake Canada dashboard shows no activity in the last hour, but we had eight events over the past day. The largest one was a M2.66 just west-southwest of Saint-Siméon, Quebec. It was felt and resented within a radius of six kilometers. This is where our beta testing will take place, folks!
+The PiQuake Canada dashboard shows no earthquakes in the last hour, but we had eight recorded events yesterday. The largest one was a M2.66 near Saint-Siméon, Quebec, and it felt or was felt within six kilometers of that area. It's worth noting that this is the latest event on record.
